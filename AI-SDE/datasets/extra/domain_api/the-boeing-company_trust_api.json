@@ -1,0 +1,18 @@
+{
+  "Domain": "boeing.com",
+  "DBRecord": {
+    "EarliestRecord": 1136070000,
+    "LatestUpdate": 1634886000,
+    "PremiumTechs": 81,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": false,
+    "Spend": 36518,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

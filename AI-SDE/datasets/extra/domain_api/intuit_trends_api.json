@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://d3dpwkknyrpnnn.cloudfront.net/thumb/c7-81-34-95-0c-z4/n",
+    "Categories": [
+      "US hosting"
+    ],
+    "Tag": "hosting",
+    "IsPremium": "No",
+    "Name": "Register.com Hosting",
+    "Description": "Domain name registration and web hosting solution.",
+    "Link": "http://register.com",
+    "TrendsLink": "https://trends.builtwith.com/hosting/Register.com-Hosting",
+    "Coverage": {
+      "TenK": 6,
+      "HundredK": 70,
+      "Mil": 191,
+      "Live": 144102,
+      "Historical": 306515
+    }
+  }
+}

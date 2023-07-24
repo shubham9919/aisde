@@ -1,0 +1,392 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.2",
+                "Description": "Apache version 2.2.*",
+                "Link": "http://httpd.apache.org/docs/2.2",
+                "Tag": "Web Server",
+                "FirstDetected": 1491865200000,
+                "LastDetected": 1493506800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1491865200000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Debian",
+                "Description": "Debian is a free operating system (OS) for your computer.",
+                "Link": "http://www.debian.org",
+                "Tag": "Server",
+                "FirstDetected": 1491865200000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1491865200000,
+                "LastDetected": 1607500800000
+              },
+              {
+                "Categories": [
+                  "Australian hosting",
+                  "Dedicated Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Digital Pacific",
+                "Description": "Australian based dedicated and web hosting services.",
+                "Link": "http://digitalpacific.com.au",
+                "Tag": "hosting",
+                "FirstDetected": 1496271600000,
+                "LastDetected": 1507158000000
+              },
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.4",
+                "Description": "Apache version 2.4.*",
+                "Link": "http://httpd.apache.org/docs/2.4",
+                "Tag": "Web Server",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "Parent": "Google Maps",
+                "IsPremium": "no",
+                "Name": "Google Maps for Work",
+                "Description": "Google Maps for work.",
+                "Link": "https://www.google.com/work/mapsearth/",
+                "Tag": "mapping",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Maps API",
+                "Description": "Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.",
+                "Link": "https://developers.google.com/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Webmaster",
+                "Description": "Webmaster tools provide you with a free and easy way to make your site more Google-friendly.",
+                "Link": "http://www.google.com/webmasters/",
+                "Tag": "Web Master",
+                "FirstDetected": 1496530800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Conversion Tracking",
+                "Description": "This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app).",
+                "Link": "https://support.google.com/adwords/answer/1722054",
+                "Tag": "analytics",
+                "FirstDetected": 1523228400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Remarketing",
+                "Description": "Google code specifically for remarketing/retargeting based advertising.",
+                "Link": "http://www.google.com.au/ads/innovations/remarketing.html",
+                "Tag": "ads",
+                "FirstDetected": 1523228400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1523228400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Canadian hosting",
+                  "Dedicated Hosting",
+                  "French hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "OVH",
+                "Description": "Hosting solutions provider.",
+                "Link": "http://www.ovh.co.uk",
+                "Tag": "hosting",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1555196400000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "Categories": [
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Baidu Analytics",
+                "Description": "Analytics tracking pixel from Chinese language search engine Baidu.",
+                "Link": "http://baidu.com",
+                "Tag": "analytics",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IIS",
+                "Description": "This website is running on a Microsoft IIS Server solution.",
+                "Link": "http://www.microsoft.com/servers/home.mspx",
+                "Tag": "Web Server",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 7",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft BingBot Disallow",
+                "Description": "The website has disallow rules for Microsoft Bing Bot.",
+                "Link": "https://blogs.bing.com/webmaster/2012/05/03/to-crawl-or-not-to-crawl-that-is-bingbots-question/",
+                "Tag": "robots",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Googlebot Disallow",
+                "Description": "The website has disallow rules for Google Search Bot.",
+                "Link": "https://developers.google.com/search/reference/robots_txt",
+                "Tag": "robots",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Alexa Bot Disallow",
+                "Description": "The website has disallow rules for Alexa's ia_archiver bot.",
+                "Link": "https://support.alexa.com/hc/en-us/articles/200450194-Alexa-s-Web-and-Site-Audit-Crawlers",
+                "Tag": "robots",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft MSNBot Disallow",
+                "Description": "The website has disallow rules for Microsoft MSNBot.",
+                "Link": "https://blogs.bing.com/webmaster/2009/08/10/crawl-delay-and-the-bing-crawler-msnbot",
+                "Tag": "robots",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Yahoo Slurp Disallow",
+                "Description": "The website has disallow rules for Yahoo Slurp bot.",
+                "Link": "https://help.yahoo.com/kb/learn-submit-website-yahoo-robotstxt-directive-sln2213.html",
+                "Tag": "robots",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DNS.COM",
+                "Description": "Chinese based DNS resolution service.",
+                "Link": "https://dns.com",
+                "Tag": "ns",
+                "FirstDetected": 1607500800000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "TheGigabit",
+                "Description": "Malaysia web hosting platform.",
+                "Link": "https://thegigabit.com",
+                "Tag": "hosting",
+                "FirstDetected": 1616742000000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET",
+                "Description": "ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",
+                "Link": "http://www.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1622358000000,
+                "LastDetected": 1626246000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Peg Technic",
+                "Description": "US based but appears Chinese owned network.",
+                "Link": "https://petaexpress.com",
+                "Tag": "hosting",
+                "FirstDetected": 1627714800000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "HKDNS HK",
+                "Description": "Domain name registration services provider.",
+                "Link": "http://www.hkdns.hk",
+                "Tag": "registrar",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1634713200000
+              }
+            ],
+            "FirstIndexed": 1491865200000,
+            "LastIndexed": 1634713200000,
+            "Domain": "protransport1.com",
+            "Url": "",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Business And Industrial",
+        "Social": null,
+        "CompanyName": null,
+        "Telephones": [
+          "+61-29-0510541"
+        ],
+        "Emails": [],
+        "City": null,
+        "State": null,
+        "Postcode": null,
+        "Country": "",
+        "Names": null,
+        "ARank": 100000001,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1491865200000,
+      "LastIndexed": 1634713200000,
+      "Lookup": "protransport1.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

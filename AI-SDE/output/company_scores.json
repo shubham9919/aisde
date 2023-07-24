@@ -1,0 +1,432 @@
+{
+    "company_name": "unity",
+    "technologies_at_risk": [
+        "apache",
+        "drupal",
+        "joomla!",
+        "asp.net",
+        "jquery",
+        "php"
+    ],
+    "CVE-2020-11022": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 6.1,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 2.7
+        },
+        {
+            "current": 2.61,
+            "highest": {
+                "date": "2020-06-14T00:00:00.000Z",
+                "value": 6.65
+            },
+            "previouslyExploited": 6.95
+        },
+        "https://github.com/jquery/jquery/security/advisories/GHSA-gxr4-xjj5-5px2",
+        [
+            "jquery"
+        ]
+    ],
+    "CVE-2020-25213": [
+        {
+            "BaseScoreV2:": 7.5,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 9.8,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 3.34,
+            "highest": {
+                "date": "2020-11-19T00:00:00.000Z",
+                "value": 9.54
+            },
+            "previouslyExploited": 8.9
+        },
+        "https://plugins.trac.wordpress.org/changeset/2373068",
+        [
+            "php",
+            "wordpress"
+        ]
+    ],
+    "CVE-2020-35452": [
+        {
+            "BaseScoreV2:": 6.8,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 7.3,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 3.4
+        },
+        {
+            "current": 6.94,
+            "highest": {
+                "date": "2021-07-11T00:00:00.000Z",
+                "value": 6.94
+            },
+            "previouslyExploited": 5.04
+        },
+        "http://httpd.apache.org/security/vulnerabilities_24.html",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-19822": [
+        {
+            "BaseScoreV2:": 6.5,
+            "ExploitabilityScoreV2": 8.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 7.2,
+            "ExploitabilityScoreV3": 1.2,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 1.02,
+            "highest": {
+                "date": "2021-09-05T00:00:00.000Z",
+                "value": 5.05
+            },
+            "previouslyExploited": 2.59
+        },
+        "https://github.com/seabird1992/TEST123/blob/master/071711233468_0zzcms.pdf",
+        [
+            "php"
+        ]
+    ],
+    "CVE-2020-7068": [
+        {
+            "BaseScoreV2:": 3.3,
+            "ExploitabilityScoreV2": 3.4,
+            "ImpactScoreV2": 4.9,
+            "BasescoreV3": 3.6,
+            "ExploitabilityScoreV3": 1.0,
+            "ImpactScoreV3": 2.5
+        },
+        {
+            "current": 0.79,
+            "highest": {
+                "date": "2020-09-09T00:00:00.000Z",
+                "value": 0.85
+            },
+            "previouslyExploited": 1.18
+        },
+        "https://bugs.php.net/bug.php?id=79797",
+        [
+            "php"
+        ]
+    ],
+    "CVE-2020-22937": [
+        {
+            "BaseScoreV2:": 7.5,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 9.8,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 1.0,
+            "highest": {
+                "date": "2021-09-05T00:00:00.000Z",
+                "value": 6.4
+            },
+            "previouslyExploited": 2.56
+        },
+        "https://github.com/leadscloud/EmpireCMS/issues/4",
+        [
+            "php"
+        ]
+    ],
+    "CVE-2020-1941": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 6.1,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 2.7
+        },
+        {
+            "current": 0.82,
+            "highest": {
+                "date": "2022-10-30T00:00:00.000Z",
+                "value": 0.82
+            },
+            "previouslyExploited": 1.16
+        },
+        "http://activemq.apache.org/security-advisories.data/CVE-2020-1941-announcement.txt",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-17519": [
+        {
+            "BaseScoreV2:": 5.0,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 7.5,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 3.6
+        },
+        {
+            "current": 3.27,
+            "highest": {
+                "date": "2021-02-25T00:00:00.000Z",
+                "value": 9.84
+            },
+            "previouslyExploited": 8.18
+        },
+        "https://lists.apache.org/thread.html/r6843202556a6d0bce9607ebc02e303f68fc88e9038235598bde3b50d%40%3Cdev.flink.apache.org%3E",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-13935": [
+        {
+            "BaseScoreV2:": 5.0,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 7.5,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 3.6
+        },
+        {
+            "current": 2.85,
+            "highest": {
+                "date": "2020-12-23T00:00:00.000Z",
+                "value": 8.67
+            },
+            "previouslyExploited": 7.57
+        },
+        "https://lists.apache.org/thread.html/rd48c72bd3255bda87564d4da3791517c074d94f8a701f93b85752651%40%3Cannounce.tomcat.apache.org%3E",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-13671": [
+        {
+            "BaseScoreV2:": 6.5,
+            "ExploitabilityScoreV2": 8.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 8.8,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 2.68,
+            "highest": {
+                "date": "2021-01-25T00:00:00.000Z",
+                "value": 8.91
+            },
+            "previouslyExploited": 7.1
+        },
+        "https://www.drupal.org/sa-core-2020-012",
+        [
+            "php",
+            "drupal"
+        ]
+    ],
+    "CVE-2020-13384": [
+        {
+            "BaseScoreV2:": 6.5,
+            "ExploitabilityScoreV2": 8.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 8.8,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 0.79,
+            "highest": {
+                "date": "2020-06-08T00:00:00.000Z",
+                "value": 0.91
+            },
+            "previouslyExploited": 1.15
+        },
+        "https://www.exploit-db.com/exploits/48479",
+        [
+            "php"
+        ]
+    ],
+    "CVE-2020-13668": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 6.1,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 2.7
+        },
+        {
+            "current": 2.18,
+            "highest": {
+                "date": "2020-09-19T00:00:00.000Z",
+                "value": 6.63
+            },
+            "previouslyExploited": 5.74
+        },
+        "https://www.drupal.org/sa-core-2020-009",
+        [
+            "drupal"
+        ]
+    ],
+    "CVE-2020-7066": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 4.3,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 1.4
+        },
+        {
+            "current": 0.76,
+            "highest": {
+                "date": "2022-07-15T00:00:00.000Z",
+                "value": 1.03
+            },
+            "previouslyExploited": 1.6
+        },
+        "https://bugs.php.net/bug.php?id=79329",
+        [
+            "php"
+        ]
+    ],
+    "CVE-2020-13947": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 6.1,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 2.7
+        },
+        {
+            "current": 1.87,
+            "highest": {
+                "date": "2021-02-12T00:00:00.000Z",
+                "value": 6.57
+            },
+            "previouslyExploited": 4.9
+        },
+        "http://activemq.apache.org/security-advisories.data/CVE-2020-13947-announcement.txt",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-1181": [
+        {
+            "BaseScoreV2:": 6.5,
+            "ExploitabilityScoreV2": 8.0,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 8.8,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 2.03,
+            "highest": {
+                "date": "2020-07-29T00:00:00.000Z",
+                "value": 6.86
+            },
+            "previouslyExploited": 5.34
+        },
+        "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1181",
+        [
+            "asp.net",
+            "microsoft"
+        ]
+    ],
+    "CVE-2020-11890": [
+        {
+            "BaseScoreV2:": 5.0,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 5.3,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 1.4
+        },
+        {
+            "current": 1.76,
+            "highest": {
+                "date": "2020-05-10T00:00:00.000Z",
+                "value": 7.97
+            },
+            "previouslyExploited": 4.61
+        },
+        "https://developer.joomla.org/security-centre/810-20200402-core-missing-checks-for-the-root-usergroup-in-usergroup-table.html",
+        [
+            "joomla!"
+        ]
+    ],
+    "CVE-2020-9484": [
+        {
+            "BaseScoreV2:": 4.4,
+            "ExploitabilityScoreV2": 3.4,
+            "ImpactScoreV2": 6.4,
+            "BasescoreV3": 7.0,
+            "ExploitabilityScoreV3": 1.0,
+            "ImpactScoreV3": 5.9
+        },
+        {
+            "current": 3.61,
+            "highest": {
+                "date": "2020-08-12T00:00:00.000Z",
+                "value": 9.72
+            },
+            "previouslyExploited": 9.9
+        },
+        "https://lists.apache.org/thread.html/r77eae567ed829da9012cadb29af17f2df8fa23bf66faf88229857bb1%40%3Cannounce.tomcat.apache.org%3E",
+        [
+            "apache"
+        ]
+    ],
+    "CVE-2020-11023": [
+        {
+            "BaseScoreV2:": 4.3,
+            "ExploitabilityScoreV2": 8.6,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 6.1,
+            "ExploitabilityScoreV3": 2.8,
+            "ImpactScoreV3": 2.7
+        },
+        {
+            "current": 2.23,
+            "highest": {
+                "date": "2021-02-25T00:00:00.000Z",
+                "value": 5.33
+            },
+            "previouslyExploited": 5.91
+        },
+        "https://jquery.com/upgrade-guide/3.5/",
+        [
+            "jquery"
+        ]
+    ],
+    "CVE-2020-13950": [
+        {
+            "BaseScoreV2:": 5.0,
+            "ExploitabilityScoreV2": 10.0,
+            "ImpactScoreV2": 2.9,
+            "BasescoreV3": 7.5,
+            "ExploitabilityScoreV3": 3.9,
+            "ImpactScoreV3": 3.6
+        },
+        {
+            "current": 6.94,
+            "highest": {
+                "date": "2021-06-19T00:00:00.000Z",
+                "value": 6.94
+            },
+            "previouslyExploited": 5.04
+        },
+        "http://httpd.apache.org/security/vulnerabilities_24.html",
+        [
+            "apache"
+        ]
+    ]
+}

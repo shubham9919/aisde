@@ -1,0 +1,18 @@
+{
+  "Domain": "abbott.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635231600,
+    "PremiumTechs": 57,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 32096,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

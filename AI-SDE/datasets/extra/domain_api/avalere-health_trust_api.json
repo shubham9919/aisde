@@ -1,0 +1,18 @@
+{
+  "Domain": "avalerehealth.com",
+  "DBRecord": {
+    "EarliestRecord": 1389481200,
+    "LatestUpdate": 1635058800,
+    "PremiumTechs": 0,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 0,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

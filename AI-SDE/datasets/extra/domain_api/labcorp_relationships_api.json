@@ -1,0 +1,2012 @@
+{
+  "Relationships": [
+    {
+      "Domain": "labcorp.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "12.39.198.68",
+          "First": 1345212000000,
+          "Last": 1478696400000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "5FZTHK",
+          "First": 1481863844124,
+          "Last": 1633507904183,
+          "Matches": [
+            {
+              "Domain": "hhla.com",
+              "First": 1481838544265,
+              "Last": 1529269118381,
+              "Overlap": true
+            },
+            {
+              "Domain": "liposcience.com",
+              "First": 1485392617998,
+              "Last": 1488840930305,
+              "Overlap": true
+            },
+            {
+              "Domain": "prlnet.com",
+              "First": 1488863926147,
+              "Last": 1488863926147,
+              "Overlap": true
+            },
+            {
+              "Domain": "southwestlaboratories.com",
+              "First": 1494647933217,
+              "Last": 1529221979413,
+              "Overlap": true
+            },
+            {
+              "Domain": "correlagen.com",
+              "First": 1524493521098,
+              "Last": 1529288340977,
+              "Overlap": true
+            },
+            {
+              "Domain": "ir.labcorp.com",
+              "First": 1618248439286,
+              "Last": 1628095168088,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "41199110",
+          "First": 1484006005199,
+          "Last": 1601164427930,
+          "Matches": [
+            {
+              "Domain": "viromed.com",
+              "First": 1381669200000,
+              "Last": 1622626246868,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlightenhealth.co",
+              "First": 1458565200000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "medtox.com",
+              "First": 1415278800000,
+              "Last": 1608045162271,
+              "Overlap": true
+            },
+            {
+              "Domain": "nuswab.com",
+              "First": 1458565200000,
+              "Last": 1585556427495,
+              "Overlap": true
+            },
+            {
+              "Domain": "dianon.com",
+              "First": 1381669200000,
+              "Last": 1529260417401,
+              "Overlap": true
+            },
+            {
+              "Domain": "labcorpdna.com",
+              "First": 1458565200000,
+              "Last": 1623190353645,
+              "Overlap": true
+            },
+            {
+              "Domain": "bodecellmark.com",
+              "First": 1458565200000,
+              "Last": 1547495717255,
+              "Overlap": true
+            },
+            {
+              "Domain": "esoterix.com",
+              "First": 1458565200000,
+              "Last": 1616582809224,
+              "Overlap": true
+            },
+            {
+              "Domain": "endocrinesciences.com",
+              "First": 1458565200000,
+              "Last": 1616512745847,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogrambio.com",
+              "First": 1458565200000,
+              "Last": 1619305290654,
+              "Overlap": true
+            },
+            {
+              "Domain": "coloradocoagulation.com",
+              "First": 1462543200000,
+              "Last": 1615727330907,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosense.com",
+              "First": 1464147549203,
+              "Last": 1529261756787,
+              "Overlap": true
+            },
+            {
+              "Domain": "integratedoncology.com",
+              "First": 1465858800000,
+              "Last": 1617819563955,
+              "Overlap": true
+            },
+            {
+              "Domain": "integratedgenetics.com",
+              "First": 1465858800000,
+              "Last": 1627543778400,
+              "Overlap": true
+            },
+            {
+              "Domain": "mytestingoptions.com",
+              "First": 1465858800000,
+              "Last": 1529249078321,
+              "Overlap": true
+            },
+            {
+              "Domain": "litholink.com",
+              "First": 1467283423403,
+              "Last": 1623171899410,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogrambiosciences.com",
+              "First": 1477536888072,
+              "Last": 1529255997135,
+              "Overlap": true
+            },
+            {
+              "Domain": "orchidcellmark.com",
+              "First": 1477537699539,
+              "Last": 1485332926958,
+              "Overlap": true
+            },
+            {
+              "Domain": "virologic.com",
+              "First": 1481030341088,
+              "Last": 1529280044312,
+              "Overlap": true
+            },
+            {
+              "Domain": "hhla.com",
+              "First": 1485401953491,
+              "Last": 1529269118381,
+              "Overlap": true
+            },
+            {
+              "Domain": "prlnet.com",
+              "First": 1488863926147,
+              "Last": 1488863926147,
+              "Overlap": true
+            },
+            {
+              "Domain": "liposcience.com",
+              "First": 1488840930305,
+              "Last": 1488840930305,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlighten-health.co",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlighten-health.com",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlighten-health.net",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlighten-health.org",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlightenhealth.info",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlightenhealth.org",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlightenhealth.biz",
+              "First": 1491692400000,
+              "Last": 1549058432223,
+              "Overlap": true
+            },
+            {
+              "Domain": "southwestlaboratories.com",
+              "First": 1494647933217,
+              "Last": 1529221979413,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlighten-health.us",
+              "First": 1496530800000,
+              "Last": 1502242713564,
+              "Overlap": true
+            },
+            {
+              "Domain": "enlightenhealth.us",
+              "First": 1496530800000,
+              "Last": 1502242713564,
+              "Overlap": true
+            },
+            {
+              "Domain": "healthtestingcenters.com",
+              "First": 1498441185949,
+              "Last": 1499427696213,
+              "Overlap": true
+            },
+            {
+              "Domain": "correlagen.com",
+              "First": 1524493521098,
+              "Last": 1529288340977,
+              "Overlap": true
+            },
+            {
+              "Domain": "trofile.co.uk",
+              "First": 1529247211304,
+              "Last": 1529247211304,
+              "Overlap": true
+            },
+            {
+              "Domain": "trofile.net",
+              "First": 1529247211304,
+              "Last": 1529247211304,
+              "Overlap": true
+            },
+            {
+              "Domain": "trofileassay.com",
+              "First": 1529247211304,
+              "Last": 1529247211304,
+              "Overlap": true
+            },
+            {
+              "Domain": "trofile.org",
+              "First": 1529247211304,
+              "Last": 1529247211304,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosense.net",
+              "First": 1529273225383,
+              "Last": 1529273225383,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosenseintegrase.net",
+              "First": 1529280460093,
+              "Last": 1529280460093,
+              "Overlap": true
+            },
+            {
+              "Domain": "geneseqintegrase.net",
+              "First": 1529226021379,
+              "Last": 1529226021379,
+              "Overlap": true
+            },
+            {
+              "Domain": "geneseq.org",
+              "First": 1529290790352,
+              "Last": 1529290790352,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramhiv.org",
+              "First": 1529256599819,
+              "Last": 1529256599819,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosense.org",
+              "First": 1529284207489,
+              "Last": 1529284207489,
+              "Overlap": true
+            },
+            {
+              "Domain": "myvirologic.com",
+              "First": 1529249390692,
+              "Last": 1529249390692,
+              "Overlap": true
+            },
+            {
+              "Domain": "integraseassay.net",
+              "First": 1529272831826,
+              "Last": 1529272831826,
+              "Overlap": true
+            },
+            {
+              "Domain": "integraseassay.com",
+              "First": 1529272831826,
+              "Last": 1529272831826,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosensegt.com",
+              "First": 1529286924310,
+              "Last": 1529286924310,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramgateway.org",
+              "First": 1529250897668,
+              "Last": 1529250897668,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogrambio.org",
+              "First": 1529250897668,
+              "Last": 1529250897668,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramhiv.com",
+              "First": 1529246979209,
+              "Last": 1529246979209,
+              "Overlap": true
+            },
+            {
+              "Domain": "hivtropism.net",
+              "First": 1529262289031,
+              "Last": 1529262289031,
+              "Overlap": true
+            },
+            {
+              "Domain": "hivtropism.com",
+              "First": 1529262289031,
+              "Last": 1529262289031,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogrambio.net",
+              "First": 1529262970207,
+              "Last": 1529262970207,
+              "Overlap": true
+            },
+            {
+              "Domain": "geneseqintegrase.org",
+              "First": 1529225195159,
+              "Last": 1529225195159,
+              "Overlap": true
+            },
+            {
+              "Domain": "geneseq.net",
+              "First": 1529290963048,
+              "Last": 1529290963048,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramoncology.com",
+              "First": 1529253824274,
+              "Last": 1529253824274,
+              "Overlap": true
+            },
+            {
+              "Domain": "virologic.org",
+              "First": 1529280044312,
+              "Last": 1529280044312,
+              "Overlap": true
+            },
+            {
+              "Domain": "virologic.net",
+              "First": 1529280044312,
+              "Last": 1529280044312,
+              "Overlap": true
+            },
+            {
+              "Domain": "hivdrugresistance.com",
+              "First": 1529262576241,
+              "Last": 1529262576241,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramgateway.net",
+              "First": 1529258146356,
+              "Last": 1529258146356,
+              "Overlap": true
+            },
+            {
+              "Domain": "sequenomcmm.com",
+              "First": 1529239620589,
+              "Last": 1529239620589,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogramhiv.net",
+              "First": 1529248483002,
+              "Last": 1529248483002,
+              "Overlap": true
+            },
+            {
+              "Domain": "geneseq.com",
+              "First": 1529288551192,
+              "Last": 1529288551192,
+              "Overlap": true
+            },
+            {
+              "Domain": "hermarkassay.com",
+              "First": 1529265052029,
+              "Last": 1529265052029,
+              "Overlap": true
+            },
+            {
+              "Domain": "ngi.com",
+              "First": 1552009598147,
+              "Last": 1585512497226,
+              "Overlap": true
+            },
+            {
+              "Domain": "bodetech.com",
+              "First": 1580615924830,
+              "Last": 1580615924830,
+              "Overlap": true
+            },
+            {
+              "Domain": "mnglabs.com",
+              "First": 1601865115083,
+              "Last": 1619264734543,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "crazyegg",
+          "Value": "212262",
+          "First": 1484006005199,
+          "Last": 1601164427930,
+          "Matches": [
+            {
+              "Domain": "classicmuscle.com",
+              "First": 1463017459027,
+              "Last": 1473577033031,
+              "Overlap": false
+            },
+            {
+              "Domain": "cdynamics.com",
+              "First": 1464148156001,
+              "Last": 1584161281509,
+              "Overlap": true
+            },
+            {
+              "Domain": "pmg-research.com",
+              "First": 1464161883030,
+              "Last": 1607941201313,
+              "Overlap": true
+            },
+            {
+              "Domain": "cimtecautomation.com",
+              "First": 1464150490710,
+              "Last": 1533682800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "signandstamp.com",
+              "First": 1464158613137,
+              "Last": 1493989895149,
+              "Overlap": true
+            },
+            {
+              "Domain": "iveymcclellan.com",
+              "First": 1464158663365,
+              "Last": 1533711572304,
+              "Overlap": true
+            },
+            {
+              "Domain": "northwestpeds.com",
+              "First": 1464148297202,
+              "Last": 1509843401590,
+              "Overlap": true
+            },
+            {
+              "Domain": "senndunn.com",
+              "First": 1464153446285,
+              "Last": 1481869875298,
+              "Overlap": false
+            },
+            {
+              "Domain": "medcost.com",
+              "First": 1464160966333,
+              "Last": 1623174710361,
+              "Overlap": true
+            },
+            {
+              "Domain": "ccair.com",
+              "First": 1464163420736,
+              "Last": 1547806409452,
+              "Overlap": true
+            },
+            {
+              "Domain": "microscopeworld.com",
+              "First": 1467336329429,
+              "Last": 1623155306319,
+              "Overlap": true
+            },
+            {
+              "Domain": "canterpowersystems.com",
+              "First": 1467299029449,
+              "Last": 1601449131942,
+              "Overlap": true
+            },
+            {
+              "Domain": "static05.canterpowersystems.com",
+              "First": 1467299029449,
+              "Last": 1468374537385,
+              "Overlap": false
+            },
+            {
+              "Domain": "static01.canterpowersystems.com",
+              "First": 1467298976860,
+              "Last": 1468374537385,
+              "Overlap": false
+            },
+            {
+              "Domain": "static02.canterpowersystems.com",
+              "First": 1468374537385,
+              "Last": 1468374537385,
+              "Overlap": false
+            },
+            {
+              "Domain": "loveandlogic.com",
+              "First": 1470801767541,
+              "Last": 1579687916140,
+              "Overlap": true
+            },
+            {
+              "Domain": "tristatelaundryequipment.com",
+              "First": 1473595622445,
+              "Last": 1512012685062,
+              "Overlap": true
+            },
+            {
+              "Domain": "nanmckay.com",
+              "First": 1473594866343,
+              "Last": 1623218595661,
+              "Overlap": true
+            },
+            {
+              "Domain": "ncbiotech.org",
+              "First": 1481034400683,
+              "Last": 1607887875324,
+              "Overlap": true
+            },
+            {
+              "Domain": "automationwarehouse.com",
+              "First": 1481793502587,
+              "Last": 1539528114108,
+              "Overlap": true
+            },
+            {
+              "Domain": "myhotelcar.com",
+              "First": 1484036840837,
+              "Last": 1484036840837,
+              "Overlap": true
+            },
+            {
+              "Domain": "liposcience.com",
+              "First": 1488840930305,
+              "Last": 1488840930305,
+              "Overlap": true
+            },
+            {
+              "Domain": "oluti.com",
+              "First": 1493975922191,
+              "Last": 1537878293571,
+              "Overlap": true
+            },
+            {
+              "Domain": "integratedgenetics.com",
+              "First": 1494014133758,
+              "Last": 1627543778400,
+              "Overlap": true
+            },
+            {
+              "Domain": "southwestlaboratories.com",
+              "First": 1494647933217,
+              "Last": 1529221979413,
+              "Overlap": true
+            },
+            {
+              "Domain": "hhla.com",
+              "First": 1494676505530,
+              "Last": 1529269118381,
+              "Overlap": true
+            },
+            {
+              "Domain": "tronebrandenergy.com",
+              "First": 1501037924625,
+              "Last": 1632091016249,
+              "Overlap": true
+            },
+            {
+              "Domain": "beminteractive.com",
+              "First": 1501037844830,
+              "Last": 1529267325215,
+              "Overlap": true
+            },
+            {
+              "Domain": "epeers.com",
+              "First": 1509822344123,
+              "Last": 1570128098471,
+              "Overlap": true
+            },
+            {
+              "Domain": "pinkinthepark.com",
+              "First": 1509884732786,
+              "Last": 1626157757633,
+              "Overlap": true
+            },
+            {
+              "Domain": "greensboroimaging.com",
+              "First": 1509898111765,
+              "Last": 1626959767866,
+              "Overlap": true
+            },
+            {
+              "Domain": "trone.com",
+              "First": 1511940743527,
+              "Last": 1529281966781,
+              "Overlap": true
+            },
+            {
+              "Domain": "correlagen.com",
+              "First": 1524493521098,
+              "Last": 1529288340977,
+              "Overlap": true
+            },
+            {
+              "Domain": "cimtec.com",
+              "First": 1524497772994,
+              "Last": 1524497772994,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearn.com",
+              "First": 1528429424367,
+              "Last": 1546029164185,
+              "Overlap": true
+            },
+            {
+              "Domain": "microscope-world.com",
+              "First": 1529236603966,
+              "Last": 1529236603966,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearn.ca",
+              "First": 1529224498719,
+              "Last": 1529224498719,
+              "Overlap": true
+            },
+            {
+              "Domain": "vetmentor.com",
+              "First": 1529282431821,
+              "Last": 1529282431821,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearn-ce.net",
+              "First": 1529221292733,
+              "Last": 1529221292733,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearn-webdvm.com",
+              "First": 1529221292733,
+              "Last": 1529221292733,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearn-ce.ca",
+              "First": 1529221292733,
+              "Last": 1529221292733,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearnce.ca",
+              "First": 1529221577611,
+              "Last": 1529221577611,
+              "Overlap": true
+            },
+            {
+              "Domain": "mypetlearn.net",
+              "First": 1529253374312,
+              "Last": 1529253374312,
+              "Overlap": true
+            },
+            {
+              "Domain": "mypetlearn.com",
+              "First": 1529248330432,
+              "Last": 1529248330432,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearncorporatesolutions.com",
+              "First": 1529287926118,
+              "Last": 1529287926118,
+              "Overlap": true
+            },
+            {
+              "Domain": "vetconsultant.com",
+              "First": 1529288186440,
+              "Last": 1529288186440,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearnce.com",
+              "First": 1529221424747,
+              "Last": 1529221424747,
+              "Overlap": true
+            },
+            {
+              "Domain": "veterinarywebsitesdesign.com",
+              "First": 1529287639205,
+              "Last": 1529287639205,
+              "Overlap": true
+            },
+            {
+              "Domain": "mindfulsupply.com",
+              "First": 1529220981996,
+              "Last": 1614199764869,
+              "Overlap": true
+            },
+            {
+              "Domain": "sequenomcmm.com",
+              "First": 1529239620589,
+              "Last": 1529239620589,
+              "Overlap": true
+            },
+            {
+              "Domain": "mywebdvm.com",
+              "First": 1529248483002,
+              "Last": 1529248483002,
+              "Overlap": true
+            },
+            {
+              "Domain": "lifelearnce.net",
+              "First": 1529222157381,
+              "Last": 1529222157381,
+              "Overlap": true
+            },
+            {
+              "Domain": "vecoplanllc.com",
+              "First": 1545955896964,
+              "Last": 1632313350281,
+              "Overlap": true
+            },
+            {
+              "Domain": "sccommerce.com",
+              "First": 1546039501243,
+              "Last": 1623193663643,
+              "Overlap": true
+            },
+            {
+              "Domain": "labcorpdna.com",
+              "First": 1576950284888,
+              "Last": 1623190353645,
+              "Overlap": true
+            },
+            {
+              "Domain": "dig-go.com",
+              "First": 1588921773682,
+              "Last": 1601537102496,
+              "Overlap": true
+            },
+            {
+              "Domain": "pinkinthepark.tronedev.com",
+              "First": 1599254187330,
+              "Last": 1634714636024,
+              "Overlap": true
+            },
+            {
+              "Domain": "greensboroimaging.tronedev.com",
+              "First": 1599254187330,
+              "Last": 1634714184701,
+              "Overlap": true
+            },
+            {
+              "Domain": "greensboroimaging.tronestaging.com",
+              "First": 1599258061024,
+              "Last": 1634714489051,
+              "Overlap": true
+            },
+            {
+              "Domain": "dig-go.tronestaging.com",
+              "First": 1599258061024,
+              "Last": 1599258061024,
+              "Overlap": true
+            },
+            {
+              "Domain": "ncbcjobs.ncbiotech.org",
+              "First": 1599653918262,
+              "Last": 1605102553879,
+              "Overlap": true
+            },
+            {
+              "Domain": "salemdist.com",
+              "First": 1601256863245,
+              "Last": 1601256878312,
+              "Overlap": false
+            },
+            {
+              "Domain": "marshkitchens.com",
+              "First": 1601840164560,
+              "Last": 1628741067330,
+              "Overlap": false
+            },
+            {
+              "Domain": "motic-microscope.com",
+              "First": 1601871123045,
+              "Last": 1629144728513,
+              "Overlap": false
+            },
+            {
+              "Domain": "simplykindhearted.com",
+              "First": 1602050881540,
+              "Last": 1631064845960,
+              "Overlap": false
+            },
+            {
+              "Domain": "swift-microscopeworld.com",
+              "First": 1602140664724,
+              "Last": 1634385976509,
+              "Overlap": false
+            },
+            {
+              "Domain": "diggovet-wp.tronedev.com",
+              "First": 1603569769865,
+              "Last": 1634714636024,
+              "Overlap": false
+            },
+            {
+              "Domain": "ybzcbbjgs.com",
+              "First": 1603932745860,
+              "Last": 1612753887433,
+              "Overlap": false
+            },
+            {
+              "Domain": "aspdotnetstorefront.swift-microscopeworld.tronedev.com",
+              "First": 1608029875379,
+              "Last": 1627709964328,
+              "Overlap": false
+            },
+            {
+              "Domain": "diggovet.com",
+              "First": 1609642150880,
+              "Last": 1630224295679,
+              "Overlap": false
+            },
+            {
+              "Domain": "aspdotnetstorefront.motic-microscope.tronedev.com",
+              "First": 1612434148286,
+              "Last": 1627709964328,
+              "Overlap": false
+            },
+            {
+              "Domain": "sccommerce-d8.tronedev.com",
+              "First": 1623114148271,
+              "Last": 1623114148271,
+              "Overlap": false
+            },
+            {
+              "Domain": "aspdotnetstorefront.microscopeworld.tronedev.com",
+              "First": 1627709964328,
+              "Last": 1627709964328,
+              "Overlap": false
+            },
+            {
+              "Domain": "salemftg.com",
+              "First": 1630756016947,
+              "Last": 1630756016947,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "newrelic",
+          "Value": "4613b25f22",
+          "First": 1484723271880,
+          "Last": 1559490504614,
+          "Matches": [
+            {
+              "Domain": "vecoplanllc.com",
+              "First": 1464151377100,
+              "Last": 1481876224727,
+              "Overlap": false
+            },
+            {
+              "Domain": "bgtechservices.com",
+              "First": 1464149253302,
+              "Last": 1481797692988,
+              "Overlap": false
+            },
+            {
+              "Domain": "craftcentralbeer.com",
+              "First": 1464155217502,
+              "Last": 1476598249785,
+              "Overlap": false
+            },
+            {
+              "Domain": "atlaslightingproducts.com",
+              "First": 1464151560696,
+              "Last": 1481850825605,
+              "Overlap": false
+            },
+            {
+              "Domain": "tronepanel.com",
+              "First": 1464152544951,
+              "Last": 1473588547162,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.canopy-partners.com",
+              "First": 1464158663365,
+              "Last": 1481858121161,
+              "Overlap": false
+            },
+            {
+              "Domain": "greensboroimaging.com",
+              "First": 1464152528563,
+              "Last": 1481348294419,
+              "Overlap": false
+            },
+            {
+              "Domain": "ncarbm.org",
+              "First": 1464147241081,
+              "Last": 1476589508029,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.classicmuscle.com",
+              "First": 1464156593007,
+              "Last": 1469767224784,
+              "Overlap": false
+            },
+            {
+              "Domain": "albemarlebank.com",
+              "First": 1467285532659,
+              "Last": 1481025551989,
+              "Overlap": false
+            },
+            {
+              "Domain": "streck.ahvec.com",
+              "First": 1468393612424,
+              "Last": 1481040177654,
+              "Overlap": false
+            },
+            {
+              "Domain": "shorescleaners.com",
+              "First": 1468375662981,
+              "Last": 1481869999864,
+              "Overlap": false
+            },
+            {
+              "Domain": "heckereye.com",
+              "First": 1468373751747,
+              "Last": 1481768503527,
+              "Overlap": false
+            },
+            {
+              "Domain": "news.iveymcclellan.com",
+              "First": 1468388979046,
+              "Last": 1481778694074,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.mma-midatlantic.com",
+              "First": 1469772516521,
+              "Last": 1481868009971,
+              "Overlap": false
+            },
+            {
+              "Domain": "salemdist.com",
+              "First": 1470819616969,
+              "Last": 1481868963819,
+              "Overlap": false
+            },
+            {
+              "Domain": "maberealtors.com",
+              "First": 1470801803276,
+              "Last": 1481790993853,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.medcost.com",
+              "First": 1473584299243,
+              "Last": 1481783029930,
+              "Overlap": false
+            },
+            {
+              "Domain": "bodheguard.com",
+              "First": 1473594280921,
+              "Last": 1481794792756,
+              "Overlap": false
+            },
+            {
+              "Domain": "artandframesourceinc.com",
+              "First": 1473594189879,
+              "Last": 1481768050783,
+              "Overlap": false
+            },
+            {
+              "Domain": "carolinafreightways.com",
+              "First": 1476474596418,
+              "Last": 1481030062331,
+              "Overlap": false
+            },
+            {
+              "Domain": "classicmuscle.com",
+              "First": 1476601690543,
+              "Last": 1481778694074,
+              "Overlap": false
+            },
+            {
+              "Domain": "ennisflintemea.com",
+              "First": 1476606543399,
+              "Last": 1476606543399,
+              "Overlap": false
+            },
+            {
+              "Domain": "southatlanticpackaging.com",
+              "First": 1477538914266,
+              "Last": 1481871127418,
+              "Overlap": false
+            },
+            {
+              "Domain": "westtownbank.com",
+              "First": 1477537553725,
+              "Last": 1481876448869,
+              "Overlap": false
+            },
+            {
+              "Domain": "hiattscanning.com",
+              "First": 1481766508362,
+              "Last": 1481767698769,
+              "Overlap": false
+            },
+            {
+              "Domain": "gulfsteamcompany.com",
+              "First": 1481768800349,
+              "Last": 1481768800349,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.signandstamp.com",
+              "First": 1481778694074,
+              "Last": 1481870051765,
+              "Overlap": false
+            },
+            {
+              "Domain": "blog.us-duct.com",
+              "First": 1481778694074,
+              "Last": 1481875015538,
+              "Overlap": false
+            },
+            {
+              "Domain": "ilovegoodwill.org",
+              "First": 1481787848482,
+              "Last": 1481788103558,
+              "Overlap": false
+            },
+            {
+              "Domain": "earthg.com",
+              "First": 1481798782447,
+              "Last": 1481798843225,
+              "Overlap": false
+            },
+            {
+              "Domain": "lewissystemsinc.com",
+              "First": 1481867595026,
+              "Last": 1481867595026,
+              "Overlap": false
+            },
+            {
+              "Domain": "netgroupengineering.com",
+              "First": 1481797572977,
+              "Last": 1481854201716,
+              "Overlap": false
+            },
+            {
+              "Domain": "kdpackaging.com",
+              "First": 1481863060473,
+              "Last": 1481863060473,
+              "Overlap": false
+            },
+            {
+              "Domain": "hhla.com",
+              "First": 1486649209903,
+              "Last": 1529269118381,
+              "Overlap": true
+            },
+            {
+              "Domain": "testmenu2.labcorp.com",
+              "First": 1486701808919,
+              "Last": 1528388524566,
+              "Overlap": true
+            },
+            {
+              "Domain": "prlnet.com",
+              "First": 1488863926147,
+              "Last": 1488863926147,
+              "Overlap": true
+            },
+            {
+              "Domain": "liposcience.com",
+              "First": 1488840930305,
+              "Last": 1488840930305,
+              "Overlap": true
+            },
+            {
+              "Domain": "southwestlaboratories.com",
+              "First": 1494647933217,
+              "Last": 1529221979413,
+              "Overlap": true
+            },
+            {
+              "Domain": "correlagen.com",
+              "First": 1524493521098,
+              "Last": 1529288340977,
+              "Overlap": true
+            },
+            {
+              "Domain": "jlrlabs.com",
+              "First": 1561469482854,
+              "Last": 1561469482854,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "hotjar",
+          "Value": "426274",
+          "First": 1488527128162,
+          "Last": 1601164427930,
+          "Matches": [
+            {
+              "Domain": "perlenschmiedin.com",
+              "First": 1329742800000,
+              "Last": 1462543200000,
+              "Overlap": false
+            },
+            {
+              "Domain": "diewildschweine.com",
+              "First": 1329742800000,
+              "Last": 1329742800000,
+              "Overlap": false
+            },
+            {
+              "Domain": "prlnet.com",
+              "First": 1488863926147,
+              "Last": 1488863926147,
+              "Overlap": true
+            },
+            {
+              "Domain": "liposcience.com",
+              "First": 1488840930305,
+              "Last": 1488840930305,
+              "Overlap": true
+            },
+            {
+              "Domain": "southwestlaboratories.com",
+              "First": 1494647933217,
+              "Last": 1529221979413,
+              "Overlap": true
+            },
+            {
+              "Domain": "hhla.com",
+              "First": 1494676505530,
+              "Last": 1529269118381,
+              "Overlap": true
+            },
+            {
+              "Domain": "correlagen.com",
+              "First": 1524493521098,
+              "Last": 1529288340977,
+              "Overlap": true
+            },
+            {
+              "Domain": "ir.labcorp.com",
+              "First": 1618248439286,
+              "Last": 1618248439286,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "newrelic",
+          "Value": "db8d2a5eb8",
+          "First": 1498506020342,
+          "Last": 1501021688294,
+          "Matches": [
+            {
+              "Domain": "testmenu2.labcorp.com",
+              "First": 1498507093270,
+              "Last": 1501021534042,
+              "Overlap": true
+            },
+            {
+              "Domain": "phenosense.com",
+              "First": 1498487131655,
+              "Last": 1498487131655,
+              "Overlap": false
+            },
+            {
+              "Domain": "monogrambio.com",
+              "First": 1498486443884,
+              "Last": 1498641307532,
+              "Overlap": true
+            },
+            {
+              "Domain": "labcorpdna.com",
+              "First": 1498667073845,
+              "Last": 1499413243577,
+              "Overlap": true
+            },
+            {
+              "Domain": "viromed.com",
+              "First": 1498645508415,
+              "Last": 1529283123280,
+              "Overlap": true
+            },
+            {
+              "Domain": "virologic.com",
+              "First": 1498642057928,
+              "Last": 1498642057928,
+              "Overlap": true
+            },
+            {
+              "Domain": "esoterix.com",
+              "First": 1498648841539,
+              "Last": 1536805246052,
+              "Overlap": true
+            },
+            {
+              "Domain": "litholink.com",
+              "First": 1498650307824,
+              "Last": 1499413443397,
+              "Overlap": true
+            },
+            {
+              "Domain": "dianon.com",
+              "First": 1498667507323,
+              "Last": 1529260417401,
+              "Overlap": true
+            },
+            {
+              "Domain": "monogrambiosciences.com",
+              "First": 1498641061316,
+              "Last": 1498641061316,
+              "Overlap": true
+            },
+            {
+              "Domain": "integratedgenetics.com",
+              "First": 1498654244083,
+              "Last": 1512020382882,
+              "Overlap": true
+            },
+            {
+              "Domain": "bodecellmark.com",
+              "First": 1498662595755,
+              "Last": 1547495717255,
+              "Overlap": true
+            },
+            {
+              "Domain": "hhla.com",
+              "First": 1498660656118,
+              "Last": 1498660656118,
+              "Overlap": true
+            },
+            {
+              "Domain": "integratedoncology.com",
+              "First": 1528514122970,
+              "Last": 1537098539837,
+              "Overlap": false
+            },
+            {
+              "Domain": "mytestingoptions.com",
+              "First": 1529249078321,
+              "Last": 1529249078321,
+              "Overlap": false
+            },
+            {
+              "Domain": "endocrinesciences.com",
+              "First": 1529247404269,
+              "Last": 1534469358015,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "52.202.170.188",
+          "First": 1502751600000,
+          "Last": 1515193200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.160.134",
+          "First": 1516057200000,
+          "Last": 1618248439286,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.161.134",
+          "First": 1516057200000,
+          "Last": 1623565825816,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "www.labcorp.com.cdn.cloudflare.net.",
+          "First": 1516057200000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "20830150",
+          "First": 1519858800000,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "labcorpcareers.com",
+              "First": 1474574925344,
+              "Last": 1520000906959,
+              "Overlap": true
+            },
+            {
+              "Domain": "jobs.labcorp.com",
+              "First": 1475535600000,
+              "Last": 1529224546815,
+              "Overlap": true
+            },
+            {
+              "Domain": "bodejobs.com",
+              "First": 1517511049687,
+              "Last": 1517511049687,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "hotjar",
+          "Value": "766989",
+          "First": 1519858800000,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "jobs.labcorp.com",
+              "First": 1518237102063,
+              "Last": 1529224546815,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "KTN6MR",
+          "First": 1519858800000,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "jobs.labcorp.com",
+              "First": 1477535027129,
+              "Last": 1529224546815,
+              "Overlap": true
+            },
+            {
+              "Domain": "bodejobs.com",
+              "First": 1517511049687,
+              "Last": 1517511049687,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "63.131.135.125",
+          "First": 1532991600000,
+          "Last": 1571379361523,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.1",
+          "First": 1533433600278,
+          "Last": 1533433600278,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.200",
+          "First": 1533512092389,
+          "Last": 1533512092389,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.164",
+          "First": 1533673817530,
+          "Last": 1584808611972,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.54.91.93",
+          "First": 1539478452463,
+          "Last": 1539478452463,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.200.84.169",
+          "First": 1539478452463,
+          "Last": 1539478452463,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.175.219.111",
+          "First": 1539478452463,
+          "Last": 1539478452463,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.202.226.194",
+          "First": 1539478452463,
+          "Last": 1554976371041,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "96543265",
+          "First": 1539478452463,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "express.labcorp.com",
+              "First": 1509827081790,
+              "Last": 1528388524566,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "78963557",
+          "First": 1539478452463,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "patient.labcorp.com",
+              "First": 1488844663258,
+              "Last": 1528388409786,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "bizo",
+          "Value": "470980",
+          "First": 1539478452463,
+          "Last": 1583583965772,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.145.198.104",
+          "First": 1545918998490,
+          "Last": 1563648719375,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "100.24.215.124",
+          "First": 1545918998490,
+          "Last": 1545918998490,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.1.111.109",
+          "First": 1545918998490,
+          "Last": 1559490504614,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.207.25.248",
+          "First": 1554976371041,
+          "Last": 1563648719375,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "169.255.59.11",
+          "First": 1557589360493,
+          "Last": 1571378789305,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.23.26.200",
+          "First": 1559490504614,
+          "Last": 1563648719375,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.57",
+          "First": 1559502278452,
+          "Last": 1586521578243,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.18.29.75",
+          "First": 1563648719375,
+          "Last": 1615017600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.18.28.75",
+          "First": 1563648719375,
+          "Last": 1618124400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.205.113.202",
+          "First": 1563655124594,
+          "Last": 1574059044237,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "35.225.164.147",
+          "First": 1564304842922,
+          "Last": 1580564092454,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.76.198.217",
+          "First": 1574052705219,
+          "Last": 1574052705219,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.76.198.152",
+          "First": 1574052705219,
+          "Last": 1574052705219,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.85.146.174",
+          "First": 1574052705219,
+          "Last": 1574052705219,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.159.188.115",
+          "First": 1574052705219,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.210.237.49",
+          "First": 1574052705219,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.237.209.109",
+          "First": 1574052705219,
+          "Last": 1574052705219,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "761e715901",
+          "First": 1574052705219,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1574916762893,
+          "Last": 1584068681879,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.223.29.31",
+          "First": 1579681853933,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.213.178.33",
+          "First": 1583583965772,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.54.111",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.52.111",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.26",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.76",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.38",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.112.67.54",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.46.70",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.46.43",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.15",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.68",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.192.30.58",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.192.30.50",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.192.30.116",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.192.30.93",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.55.57.105",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.55.57.91",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "100.25.66.60",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.117.118",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.120.118",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.119.118",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.118.118",
+          "First": 1588148634426,
+          "Last": 1588148634426,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.145.93.221",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.145.93.205",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.205.233.111",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.209",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.204.38.3",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.205.136.119",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.198.160.154",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.145.93.222",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.22.20.70",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.204.78.244",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.209.2.245",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.84.89.89",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.145.89.26",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.221",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.215.124.10",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.145.93.146",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.55.57.27",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.16.94.207",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "12.39.198.206",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.45.74.6",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.89.168.195",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.55.57.50",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.239.5.31",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "96541340",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "96337323",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "express-dev.labcorp.com",
+              "First": 1623565825816,
+              "Last": 1623565825816,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "96597913",
+          "First": 1588147263220,
+          "Last": 1588147263220,
+          "Matches": [
+            {
+              "Domain": "express-stage.labcorp.com",
+              "First": 1623565825816,
+              "Last": 1623565825816,
+              "Overlap": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

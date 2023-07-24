@@ -1,0 +1,537 @@
+{
+  "Relationships": [
+    {
+      "Domain": "nativeshoes.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "205.186.133.92",
+          "First": 1345212000000,
+          "Last": 1365080400000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "10619438",
+          "First": 1286575200000,
+          "Last": 1613966715297,
+          "Matches": [
+            {
+              "Domain": "nativision.nativeshoes.com",
+              "First": 1364302800000,
+              "Last": 1381669200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "shop.nativeshoes.com",
+              "First": 1364302800000,
+              "Last": 1381669200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "native.archive.ryanilg.com",
+              "First": 1458565200000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "mattpenner.com",
+              "First": 1329742800000,
+              "Last": 1329742800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "phpstack-117575-335279.cloudwaysapps.com",
+              "First": 1507244400000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "nativeshoes.com.tw",
+              "First": 1514234820124,
+              "Last": 1514234820124,
+              "Overlap": true
+            },
+            {
+              "Domain": "www.nativeshoes.com",
+              "First": 1519971304506,
+              "Last": 1520316897089,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "205.186.130.159",
+          "First": 1367676000000,
+          "Last": 1413982800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.14.118.11",
+          "First": 1414587600000,
+          "Last": 1429711200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.159.242.68",
+          "First": 1416402000000,
+          "Last": 1443621600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.159.243.68",
+          "First": 1416402000000,
+          "Last": 1443621600000,
+          "Matches": []
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "747801205279892",
+          "First": 1415106000000,
+          "Last": 1415106000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "190.93.255.59",
+          "First": 1434895200000,
+          "Last": 1436968800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "190.93.254.59",
+          "First": 1434895200000,
+          "Last": 1436968800000,
+          "Matches": []
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "508991839240945",
+          "First": 1443621600000,
+          "Last": 1443621600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.25.230.29",
+          "First": 1444654800000,
+          "Last": 1452690000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.25.231.29",
+          "First": 1444654800000,
+          "Last": 1452690000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.20.89.94",
+          "First": 1453899600000,
+          "Last": 1504566000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.20.90.94",
+          "First": 1453899600000,
+          "Last": 1504566000000,
+          "Matches": []
+        },
+        {
+          "Type": "google",
+          "Value": "nativeshoes",
+          "First": 1423054800000,
+          "Last": 1497997249547,
+          "Matches": []
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "1050943788273143",
+          "First": 1456923600000,
+          "Last": 1498221411595,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "w92sl3",
+          "First": 1415106000000,
+          "Last": 1456923600000,
+          "Matches": []
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "789747934446313",
+          "First": 1443621600000,
+          "Last": 1454504400000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "W92SL3",
+          "First": 1470802900162,
+          "Last": 1533596400000,
+          "Matches": [
+            {
+              "Domain": "nativeshoes.com.tw",
+              "First": 1514234820124,
+              "Last": 1514234820124,
+              "Overlap": true
+            },
+            {
+              "Domain": "www.nativeshoes.com",
+              "First": 1518237092392,
+              "Last": 1520316897089,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "adroll",
+          "Value": "RPUYABQENBETHJBDUAG7QG",
+          "First": 1470802900162,
+          "Last": 1494681175570,
+          "Matches": []
+        },
+        {
+          "Type": "hotjar",
+          "Value": "345707",
+          "First": 1484007901398,
+          "Last": 1514235093584,
+          "Matches": [
+            {
+              "Domain": "nativeshoes.com.tw",
+              "First": 1514234820124,
+              "Last": 1514234820124,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "newrelic",
+          "Value": "50eeab31c7",
+          "First": 1500970095644,
+          "Last": 1514235093584,
+          "Matches": [
+            {
+              "Domain": "nativeshoes.com.tw",
+              "First": 1514234820124,
+              "Last": 1514234820124,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "198.185.159.145",
+          "First": 1502751600000,
+          "Last": 1502751600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "198.185.159.144",
+          "First": 1502751600000,
+          "Last": 1502751600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "198.49.23.145",
+          "First": 1502751600000,
+          "Last": 1502751600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "198.49.23.144",
+          "First": 1502751600000,
+          "Last": 1502751600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.20.221.65",
+          "First": 1505775600000,
+          "Last": 1533596400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.20.220.65",
+          "First": 1505775600000,
+          "Last": 1533596400000,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "2a932e09d7",
+          "First": 1519858800000,
+          "Last": 1533596400000,
+          "Matches": [
+            {
+              "Domain": "www.nativeshoes.com",
+              "First": 1518237092392,
+              "Last": 1520316897089,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1577967243994,
+          "Last": 1585717819493,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.22.0.123",
+          "First": 1589491168230,
+          "Last": 1605095969212,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.22.1.123",
+          "First": 1592378702621,
+          "Last": 1635106397339,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "172.67.15.210",
+          "First": 1595044637730,
+          "Last": 1628073649756,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "5LFJ6LV",
+          "First": 1595044637730,
+          "Last": 1635106397339,
+          "Matches": [
+            {
+              "Domain": "njwnyq.com",
+              "First": 1633132256229,
+              "Last": 1633132256229,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.129.84",
+          "First": 1614153600000,
+          "Last": 1618210800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.255.83",
+          "First": 1611216000000,
+          "Last": 1618383600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.131.84",
+          "First": 1611561600000,
+          "Last": 1618815600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.128.84",
+          "First": 1611734400000,
+          "Last": 1618815600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.130.84",
+          "First": 1614153600000,
+          "Last": 1615017600000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "PWW94X2\\",
+          "First": 1623483990779,
+          "Last": 1633062749454,
+          "Matches": [
+            {
+              "Domain": "onestopplus.com",
+              "First": 1623030558448,
+              "Last": 1634840965785,
+              "Overlap": true
+            },
+            {
+              "Domain": "kingsize.com",
+              "First": 1623045934414,
+              "Last": 1635110253872,
+              "Overlap": true
+            },
+            {
+              "Domain": "fullbeauty.com",
+              "First": 1623052158981,
+              "Last": 1635264450362,
+              "Overlap": true
+            },
+            {
+              "Domain": "roamans.com",
+              "First": 1623077817058,
+              "Last": 1635138127980,
+              "Overlap": true
+            },
+            {
+              "Domain": "brylanehome.com",
+              "First": 1623090532428,
+              "Last": 1635107464313,
+              "Overlap": true
+            },
+            {
+              "Domain": "jessicalondon.com",
+              "First": 1623118258702,
+              "Last": 1635109689039,
+              "Overlap": true
+            },
+            {
+              "Domain": "womanwithin.com",
+              "First": 1623119943651,
+              "Last": 1635196068108,
+              "Overlap": true
+            },
+            {
+              "Domain": "outlet.theory.com",
+              "First": 1623481819666,
+              "Last": 1635104939670,
+              "Overlap": true
+            },
+            {
+              "Domain": "swimsuitsforall.com",
+              "First": 1623484268384,
+              "Last": 1635107625924,
+              "Overlap": true
+            },
+            {
+              "Domain": "catherines.com",
+              "First": 1623486207961,
+              "Last": 1635108592713,
+              "Overlap": true
+            },
+            {
+              "Domain": "ellos.us",
+              "First": 1623497614992,
+              "Last": 1635002048834,
+              "Overlap": true
+            },
+            {
+              "Domain": "intimatesforall.com",
+              "First": 1625223769622,
+              "Last": 1631762313415,
+              "Overlap": true
+            },
+            {
+              "Domain": "pimkie.com",
+              "First": 1626153804630,
+              "Last": 1626153804630,
+              "Overlap": true
+            },
+            {
+              "Domain": "shoesforall.com",
+              "First": 1626660416925,
+              "Last": 1633987646016,
+              "Overlap": true
+            },
+            {
+              "Domain": "sujintao.com",
+              "First": 1627556800815,
+              "Last": 1627556800815,
+              "Overlap": true
+            },
+            {
+              "Domain": "versace.ru",
+              "First": 1627805467900,
+              "Last": 1627805467900,
+              "Overlap": true
+            },
+            {
+              "Domain": "theory.com",
+              "First": 1628072551837,
+              "Last": 1635104939670,
+              "Overlap": true
+            },
+            {
+              "Domain": "157west57thstreet.com",
+              "First": 1628291857216,
+              "Last": 1628291857216,
+              "Overlap": true
+            },
+            {
+              "Domain": "betachess.com",
+              "First": 1628986130243,
+              "Last": 1628986130243,
+              "Overlap": true
+            },
+            {
+              "Domain": "grahambrown.com",
+              "First": 1631246761425,
+              "Last": 1631246761425,
+              "Overlap": true
+            },
+            {
+              "Domain": "morgandetoi.com",
+              "First": 1632285770232,
+              "Last": 1632944047818,
+              "Overlap": true
+            },
+            {
+              "Domain": "morgandetoi.fr",
+              "First": 1632285770232,
+              "Last": 1632944043694,
+              "Overlap": true
+            },
+            {
+              "Domain": "morgandetoi.es",
+              "First": 1632941438832,
+              "Last": 1632944043694,
+              "Overlap": true
+            },
+            {
+              "Domain": "sanmarina.fr",
+              "First": 1633833802779,
+              "Last": 1633835221784,
+              "Overlap": false
+            },
+            {
+              "Domain": "san-marina.com",
+              "First": 1633834383625,
+              "Last": 1633834745012,
+              "Overlap": false
+            },
+            {
+              "Domain": "versace.cn",
+              "First": 1634833446586,
+              "Last": 1634833446586,
+              "Overlap": false
+            },
+            {
+              "Domain": "helmutlang.com",
+              "First": 1635104033776,
+              "Last": 1635104033776,
+              "Overlap": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

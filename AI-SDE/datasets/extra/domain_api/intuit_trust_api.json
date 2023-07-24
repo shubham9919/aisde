@@ -1,0 +1,18 @@
+{
+  "Domain": "intuit.org",
+  "DBRecord": {
+    "EarliestRecord": 1434841200,
+    "LatestUpdate": 1631689200,
+    "PremiumTechs": 0,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 0,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

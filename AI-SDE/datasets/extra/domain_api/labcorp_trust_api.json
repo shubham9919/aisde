@@ -1,0 +1,18 @@
+{
+  "Domain": "labcorp.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1634799600,
+    "PremiumTechs": 64,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": true,
+    "Spend": 25135,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 1
+}

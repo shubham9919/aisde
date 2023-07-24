@@ -1,0 +1,23 @@
+{
+  "Tech": {
+    "Icon": "https://d3dpwkknyrpnnn.cloudfront.net/thumb/8e-d9-z6-c4-14-35/n",
+    "Categories": [
+      "Audience Measurement",
+      "Conversion Optimization",
+      "Product Recommendations"
+    ],
+    "Tag": "analytics",
+    "IsPremium": "Yes",
+    "Name": "ForeSee Results",
+    "Description": "Customer satisfaction products.",
+    "Link": "http://www.foreseeresults.com/",
+    "TrendsLink": "https://trends.builtwith.com/analytics/ForeSee-Results",
+    "Coverage": {
+      "TenK": 74,
+      "HundredK": 193,
+      "Mil": 322,
+      "Live": 873,
+      "Historical": 31284
+    }
+  }
+}

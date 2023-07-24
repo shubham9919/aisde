@@ -1,0 +1,25 @@
+For latest doc, please check: https://visionbox-ai.atlassian.net/wiki/spaces/VS/pages/236814337/APIs+Doc+for+AWS
+
+A. Steps to Create Environment for the APIs
+	1.	Create a new environment
+		-	Use this command to create one using conda - "conda env create -f conda_env.yml"
+		-	OR
+		-	Install all the dependencies using - "pip install -r requirements.txt"
+	2.	Upload all the files on the server
+	3.	Make sure "app_api.py" file and ".flaskenv" exist in root folder.
+	4.	Make sure the contents of .flaskenv file are:
+		"""
+		FLASK_APP=app_api
+		FLASK_DEBUG=1
+		TEMPLATE_AUTO_RELOAD=1
+		"""
+
+	5.	Run "flask run" to start the server
+	6.	Test the APIs (flow below)
+
+
+B. APIs Testing
+	1.	For all the API testing, lets use Postman. Install postman on local desktop.
+	2.	Import all the APIs from “postman_apis/VisionBox.postman_collection.json” in Postman.
+	3.	Hit it!
+

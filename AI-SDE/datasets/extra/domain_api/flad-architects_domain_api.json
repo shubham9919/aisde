@@ -1,0 +1,259 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1381705200000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1381705200000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GeoTrust SSL",
+                "Description": "Certificate provided by GeoTrust.",
+                "Link": "http://geotrust.com",
+                "Tag": "ssl",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1379286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RapidSSL",
+                "Description": "RapidSSL certificate provider.",
+                "Link": "http://rapidssl.com",
+                "Tag": "ssl",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1379286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Suhosin",
+                "Description": "Suhosin is an advanced protection system for PHP installations. ",
+                "Link": "http://www.hardened-php.net/suhosin/",
+                "Tag": "Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1379286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "OpenSSL",
+                "Description": "The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library.",
+                "Link": "http://openssl.org",
+                "Tag": "Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "FreeBSD",
+                "Description": "FreeBSD is an operating system for modern server, desktop, and embedded computer platforms. ",
+                "Link": "http://www.freebsd.org/",
+                "Tag": "Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SWFObject",
+                "Description": "SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.",
+                "Link": "http://blog.deconcept.com/swfobject/",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1379286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "mod_ssl",
+                "Description": "This module provides strong cryptography for the Apache 1.3 webserver via the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols",
+                "Link": "http://www.modssl.org/",
+                "Tag": "Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DAV",
+                "Description": "WebDAV stands for \"Web-based Distributed Authoring and Versioning\". It is a set of extensions to the HTTP protocol which allows users to collaboratively edit and manage files on remote web servers.",
+                "Link": "http://www.webdav.org/",
+                "Tag": "framework",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "SupraNet Communications",
+                "Description": "Network infrastructure from SupraNet Communications based in the US.",
+                "Link": "http://supranet.net",
+                "Tag": "hosting",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1630998000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SWF Address",
+                "Description": "Allows deep linkings of SWF and AJAX content that bots understand.",
+                "Link": "http://www.asual.com/swfaddress/",
+                "Tag": "javascript",
+                "FirstDetected": 1362056400000,
+                "LastDetected": 1379286000000
+              },
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.2",
+                "Description": "Apache version 2.2.*",
+                "Link": "http://httpd.apache.org/docs/2.2",
+                "Tag": "Web Server",
+                "FirstDetected": 1387148400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "Parent": "OpenSSL",
+                "IsPremium": "no",
+                "Name": "OpenSSL 0.9.8",
+                "Description": "OpenSSL version 0.9.8",
+                "Link": "http://www.openssl.org",
+                "Tag": "Server",
+                "FirstDetected": 1387148400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "Parent": "mod_ssl",
+                "IsPremium": "no",
+                "Name": "mod_ssl 2.2.25",
+                "Description": "mod_ssl version 2.2.25",
+                "Link": "http://httpd.apache.org/docs/2.2/mod/mod_ssl.html",
+                "Tag": "Server",
+                "FirstDetected": 1387148400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1397862000000,
+                "LastDetected": 1630998000000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Classic",
+                "Description": "Classic Google Analytics - sites that are using non-universal analytics code.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/gajs/",
+                "Tag": "analytics",
+                "FirstDetected": 1447196400000,
+                "LastDetected": 1452466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Dedicated Hosting",
+                "Description": "This website is on an IP address not shared with other domains - it is more likely this website is not using shared hosting for this reason.",
+                "Link": "https://en.wikipedia.org/wiki/Dedicated_hosting_service",
+                "Tag": "hosting",
+                "FirstDetected": 1458601200000,
+                "LastDetected": 1510095600000
+              }
+            ],
+            "FirstIndexed": 1362056400000,
+            "LastIndexed": 1630998000000,
+            "Domain": "fladarchitects.com",
+            "Url": "",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Unknown",
+        "Social": null,
+        "CompanyName": null,
+        "Telephones": [
+          "+1-678-490-0357",
+          "+1-212-213-8250"
+        ],
+        "Emails": [],
+        "City": "Atlanta",
+        "State": "GA",
+        "Postcode": "30309",
+        "Country": "US",
+        "Names": null,
+        "ARank": 100000001,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1362056400000,
+      "LastIndexed": 1630998000000,
+      "Lookup": "fladarchitects.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

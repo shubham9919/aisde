@@ -1,0 +1,18 @@
+{
+  "Domain": "nativeshoes.com",
+  "DBRecord": {
+    "EarliestRecord": 1252879200,
+    "LatestUpdate": 1635145200,
+    "PremiumTechs": 19,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": false,
+    "Spend": 39660,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

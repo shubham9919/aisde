@@ -1,0 +1,683 @@
+{
+	"info": {
+		"_postman_id": "c9c7f316-1d99-4e01-9f3d-cda1fcda8e0a",
+		"name": "VisionBox-Dev AWS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25903231"
+	},
+	"item": [
+		{
+			"name": "General Company Data By ID",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/company/id",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"company",
+						"id"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "General Company Data By Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/company/name/amazon",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"company",
+						"name",
+						"amazon"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"client_name\": \"amazon\",\n    \"domain_name\": \"amazon.com\",\n    \"email_id\": \"abhi10@test.com\",\n    \"password\": \"1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/register",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = JSON.parse(responseBody);",
+							"pm.environment.set(\"token\", jsonData.token);",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjEsImV4cCI6MTY3NzMxMTMyNX0.PdnC41BZkvBWNEDtLjtuquFPRj1N1HCtvGISBUg1Jog",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email_id\": \"abhi10@test.com\",\n    \"password\": \"1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Self-Score",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/scores/self-score",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"scores",
+						"self-score"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Single_Specific_Client_Score",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/scores/single-vendor/flipkart.com,hawaii.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"scores",
+						"single-vendor",
+						"flipkart.com,hawaii.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Multiple_Specific_Client_Score",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/scores/multiple-vendors/amazon.com,flipkart.com,hawaii.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"scores",
+						"multiple-vendors",
+						"amazon.com,flipkart.com,hawaii.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "All_Specific_Client_Score",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/scores/all-vendors/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"scores",
+						"all-vendors",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Self-Features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/features/self-features",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"features",
+						"self-features"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Single_Specific_Client_Features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/features/single-vendor/flipkart.com,hawaii.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"features",
+						"single-vendor",
+						"flipkart.com,hawaii.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Multiple_Specific_Client_Features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/features/multiple-vendors/g.com,amazon.com,flipkart.com,hawaii.com,google.com,get.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"features",
+						"multiple-vendors",
+						"g.com,amazon.com,flipkart.com,hawaii.com,google.com,get.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "All_Specific_Client_Features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/features/all-vendors/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"features",
+						"all-vendors",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete_Single_Specific_Vendor_with_features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/delete/single-vendor/flipkart.com_empty,hawaii.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"delete",
+						"single-vendor",
+						"flipkart.com_empty,hawaii.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete_Multiple_Specific_Vendor_with_features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/delete/multiple-vendors/flipkart.com,hawaii.com,temp.com",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"delete",
+						"multiple-vendors",
+						"flipkart.com,hawaii.com,temp.com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete_All_Vendors_with_features",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client/delete/all-vendors",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client",
+						"delete",
+						"all-vendors"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Client Vendor Relationship",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/client-vendor-relationships/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"client-vendor-relationships",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Direct Client",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Projects/VisionBox/visionbox-services/cyber_vulnerability_prediction/AI-SDE/client_uploaded_csv/sample_data_-_direct_clients.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/upload-dc/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"upload-dc",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Direct Client - Update Vendors",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Projects/VisionBox/visionbox-services/cyber_vulnerability_prediction/AI-SDE/client_uploaded_csv/sample_data_-_update_-_direct_clients.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/update-dc-vendors/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"update-dc-vendors",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Direct Client - Update Vendors Technologies",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Projects/VisionBox/visionbox-services/cyber_vulnerability_prediction/AI-SDE/client_uploaded_csv/sample_data_-_update_technolgies_-_direct_clients.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/update-dc-vendors-technologies/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"update-dc-vendors-technologies",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Enterprise Level",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Projects/VisionBox/visionbox-services/cyber_vulnerability_prediction/AI-SDE/client_uploaded_csv/sample_data_-_enterprise_client_vendors.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{url}}/upload-enterprise/",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"upload-enterprise",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

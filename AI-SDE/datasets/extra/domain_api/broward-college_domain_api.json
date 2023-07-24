@@ -1,0 +1,673 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 123,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Google Plus One Platform",
+                "Description": "Google+ API functionality.",
+                "Link": "https://developers.google.com/+/",
+                "Tag": "widgets",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "Categories": [
+                  "Contextual Advertising"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Adsense",
+                "Description": "A contextual advertising solution for delivering Google AdWords ads that are relevant to site content pages.",
+                "Link": "http://google.com/adsense",
+                "Tag": "ads",
+                "FirstDetected": 1293609600000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1275116400000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Maps API",
+                "Description": "Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.",
+                "Link": "https://developers.google.com/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Unified Layer",
+                "Description": "Unified Layer is a brand owned by EIG, an owner of over 50 hosting providers.",
+                "Link": "http://www.enduranceinternational.com/",
+                "Tag": "hosting",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "BlueHost",
+                "Description": "Professional web hosting and eCommerce.",
+                "Link": "http://www.bluehost.com",
+                "Tag": "hosting",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1393196400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "nginx",
+                "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                "Link": "http://nginx.net/",
+                "Tag": "Web Server",
+                "FirstDetected": 1395356400000,
+                "LastDetected": 1397862000000
+              },
+              {
+                "Parent": "Google Adsense",
+                "IsPremium": "no",
+                "Name": "Google Adsense for Domains",
+                "Description": "AdSense for domains allows publishers with undeveloped domains to help users by providing relevant information including ads, links and search results.",
+                "Link": "http://www.google.com/domainpark/",
+                "Tag": "ads",
+                "FirstDetected": 1293609600000,
+                "LastDetected": 1397862000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Savvis",
+                "Description": "Enterprise level hosting for media, government, financial, software and retailers. Now owned by CenturyLink.",
+                "Link": "http://www.savvis.com",
+                "Tag": "hosting",
+                "FirstDetected": 1395356400000,
+                "LastDetected": 1395356400000
+              },
+              {
+                "Categories": [
+                  "Dedicated Hosting",
+                  "Shared Hosting",
+                  "US hosting",
+                  "VPS Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy",
+                "Description": "Global hosting and domain registration provider led by Bob Parsons.",
+                "Link": "http://www.godaddy.com",
+                "Tag": "hosting",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GoDaddy DNS",
+                "Description": "DNS services provided by GoDaddy.",
+                "Link": "http://godaddy.com",
+                "Tag": "ns",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1627714800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET",
+                "Description": "ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",
+                "Link": "http://www.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1527894000000
+              },
+              {
+                "Parent": "ASP.NET",
+                "IsPremium": "no",
+                "Name": "ASP.NET 4.0",
+                "Description": "ASP.NET version 4.0.*",
+                "Link": "http://www.microsoft.com/net",
+                "Tag": "framework",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1527894000000
+              },
+              {
+                "Categories": [
+                  "Web Hosting Provider Email"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy Email",
+                "Description": "GoDaddy email provides a personalized address but protection against viruses and spam and includes tools like Calendar.",
+                "Link": "http://www.godaddy.com/email/email-hosting.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1488582000000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 7",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1527894000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IIS",
+                "Description": "This website is running on a Microsoft IIS Server solution.",
+                "Link": "http://www.microsoft.com/servers/home.mspx",
+                "Tag": "Web Server",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1527894000000
+              },
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "no",
+                "Name": "Barracuda Networks",
+                "Description": "Mail hosting by security company Barracude Networks",
+                "Link": "http://barracuda.com",
+                "Tag": "mx",
+                "FirstDetected": 1491692400000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1518735600000,
+                "LastDetected": 1630047600000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft Exchange Online",
+                "Description": "A rich hosted Exchange environment for every user without having to manage a server.",
+                "Link": "http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1518735600000,
+                "LastDetected": 1632466800000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Office 365 Mail",
+                "Description": "Email sent from this domain has records showing Office 365 usage.",
+                "Link": "https://products.office.com/en-us/business/office",
+                "Tag": "mx",
+                "FirstDetected": 1518735600000,
+                "LastDetected": 1632466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Azure DNS",
+                "Description": "This domain is verified with Microsoft Azure.",
+                "Link": "http://windowsazure.com",
+                "Tag": "mx",
+                "FirstDetected": 1518735600000,
+                "LastDetected": 1632466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GoDaddy CDN",
+                "Description": "This site has content that links to GoDaddy CDN.",
+                "Link": "http://www.godaddy.com",
+                "Tag": "cdn",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1547334000000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy SSL",
+                "Description": "Certificate provided by GoDaddy.",
+                "Link": "http://godaddy.com",
+                "Tag": "ssl",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "Categories": [
+                  "Login"
+                ],
+                "IsPremium": "maybe",
+                "Name": "OneLogin",
+                "Description": "Unified Access Management platform.",
+                "Link": "https://onelogin.com",
+                "Tag": "widgets",
+                "FirstDetected": 1551049200000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Bootstrap.js",
+                "Description": "Twitter Bootstrap JS components.",
+                "Link": "https://getbootstrap.com/javascript/",
+                "Tag": "javascript",
+                "FirstDetected": 1551049200000,
+                "LastDetected": 1587337200000
+              },
+              {
+                "Parent": "GoDaddy DNS",
+                "IsPremium": "yes",
+                "Name": "GoDaddy Premium DNS",
+                "Description": "GoDaddy premium DNS.",
+                "Link": "https://godaddy.com/hosting/premium-dns",
+                "Tag": "ns",
+                "FirstDetected": 1551049200000,
+                "LastDetected": 1627714800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1559430000000,
+                "LastDetected": 1604995200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Robots Disallow",
+                "Description": "A robots disallow all directive with no other options.",
+                "Link": "https://robotstxt.org",
+                "Tag": "robots",
+                "FirstDetected": 1594076400000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Classic",
+                "Description": "Classic Google Analytics - sites that are using non-universal analytics code.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/gajs/",
+                "Tag": "analytics",
+                "FirstDetected": 1275116400000,
+                "LastDetected": 1294214400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "JSON",
+                "Description": "JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.",
+                "Link": "http://json.org",
+                "Tag": "javascript",
+                "FirstDetected": 1293609600000,
+                "LastDetected": 1294214400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Demand Media Parking",
+                "Description": "A demand media parked domain.",
+                "Link": "http://www.demandmedia.com",
+                "Tag": "parked",
+                "FirstDetected": 1293609600000,
+                "LastDetected": 1294214400000
+              }
+            ],
+            "FirstIndexed": 1275116400000,
+            "LastIndexed": 1632466800000,
+            "Domain": "browardcollege.net",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RSS",
+                "Description": "A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",
+                "Link": "http://en.wikipedia.org/wiki/RSS_(file_format)",
+                "Tag": "feeds",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Categories": [
+                  "Open Source",
+                  "Blog"
+                ],
+                "IsPremium": "no",
+                "Name": "WordPress",
+                "Description": "WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",
+                "Link": "http://wordpress.org",
+                "Tag": "cms",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Wordpress Plugins",
+                "Description": "Plugins are tools to extend the functionality of WordPress. The website uses various plugins from WordPress to provide additional functionality. Some of them may be listed here.",
+                "Link": "http://codex.wordpress.org/Plugins",
+                "Tag": "widgets",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Categories": [
+                  "WordPress Theme"
+                ],
+                "IsPremium": "no",
+                "Name": "Twenty Seventeen",
+                "Description": "Twenty Seventeen brings your site to life with header video and immersive featured images by WordPress.org.",
+                "Link": "https://wordpress.org/themes/twentyseventeen/",
+                "Tag": "framework",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Really Simple Discovery",
+                "Description": "Really Simple Discovery is a way to help client software find the services needed to read, edit, or \"work with\" weblogging software.",
+                "Link": "http://cyber.law.harvard.edu/blogs/gems/tech/rsd.html",
+                "Tag": "feeds",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Live Writer Support",
+                "Description": "Windows Live Writer Tagging Support Schema",
+                "Link": "http://windowslivewriter.spaces.live.com",
+                "Tag": "feeds",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "Wordpress 4.9",
+                "Description": "WordPress version 4.9.*",
+                "Link": "http://codex.wordpress.org/Version_4.9",
+                "Tag": "cms",
+                "FirstDetected": 1541199600000,
+                "LastDetected": 1541199600000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "Wordpress 5.0",
+                "Description": "Wordpress version 5.0.*",
+                "Link": "https://make.wordpress.org/core/5-0/",
+                "Tag": "cms",
+                "FirstDetected": 1547766000000,
+                "LastDetected": 1547766000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache Traffic Server",
+                "Description": "Apache Traffic ServerT is fast, scalable and extensible HTTP/1.1 compliant caching proxy server.",
+                "Link": "http://trafficserver.apache.org",
+                "Tag": "Web Server",
+                "FirstDetected": 1547766000000,
+                "LastDetected": 1573426800000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "Wordpress 5.1",
+                "Description": "Wordpress version 5.1.*",
+                "Link": "https://make.wordpress.org/core/5-1/",
+                "Tag": "cms",
+                "FirstDetected": 1551567600000,
+                "LastDetected": 1555542000000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.2",
+                "Description": "WordPress version 5.2.*",
+                "Link": "http://codex.wordpress.org/Version_5.2",
+                "Tag": "cms",
+                "FirstDetected": 1559430000000,
+                "LastDetected": 1568156400000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.3",
+                "Description": "WordPress version 5.3.*",
+                "Link": "https://make.wordpress.org/core/5-3/",
+                "Tag": "cms",
+                "FirstDetected": 1573426800000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "OpenResty",
+                "Description": "Application server and framework system.",
+                "Link": "http://openresty.org",
+                "Tag": "framework",
+                "FirstDetected": 1577142000000,
+                "LastDetected": 1604995200000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.4",
+                "Description": "WordPress version 5.4.*",
+                "Link": "https://make.wordpress.org/core/5-4/",
+                "Tag": "cms",
+                "FirstDetected": 1588719600000,
+                "LastDetected": 1596697200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Twemoji",
+                "Description": "Twitter Emoji for Everyone",
+                "Link": "https://github.com/twitter/twemoji",
+                "Tag": "widgets",
+                "FirstDetected": 1588719600000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.5",
+                "Description": "WordPress version 5.5.*",
+                "Link": "http://codex.wordpress.org/Version_5.5",
+                "Tag": "cms",
+                "FirstDetected": 1600153200000,
+                "LastDetected": 1605945600000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.6",
+                "Description": "WordPress version 5.6.*",
+                "Link": "http://codex.wordpress.org/Version_5.6",
+                "Tag": "cms",
+                "FirstDetected": 1608969600000,
+                "LastDetected": 1613894400000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.7",
+                "Description": "WordPress version 5.7.*",
+                "Link": "http://codex.wordpress.org/Version_5.7",
+                "Tag": "cms",
+                "FirstDetected": 1619074800000,
+                "LastDetected": 1624086000000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "WordPress 5.8",
+                "Description": "WordPress version 5.8.*",
+                "Link": "http://codex.wordpress.org/Version_5.8",
+                "Tag": "cms",
+                "FirstDetected": 1629097200000,
+                "LastDetected": 1629097200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Domain Not Resolving",
+                "Description": "This domain or subdomain is not resolving to an IP.",
+                "Link": "https://builtwith.com",
+                "Tag": "hosting",
+                "FirstDetected": 1633244400000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1541199600000,
+            "LastIndexed": 1633244400000,
+            "Domain": "browardcollege.net",
+            "Url": "",
+            "SubDomain": "training"
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Education",
+        "Social": [
+          "http://twitter.com/browardcollege",
+          "http://facebook.com/browardcollege"
+        ],
+        "CompanyName": "",
+        "Telephones": [
+          "+1-954-201-7478"
+        ],
+        "Emails": [],
+        "City": "New Salem",
+        "State": "PA",
+        "Postcode": "15468",
+        "Country": "US",
+        "Names": null,
+        "ARank": 87142699,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1275116400000,
+      "LastIndexed": 1633244400000,
+      "Lookup": "browardcollege.net",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

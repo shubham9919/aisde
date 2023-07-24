@@ -1,0 +1,18 @@
+{
+  "Domain": "homeboxoffice.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635145200,
+    "PremiumTechs": 4,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 0,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

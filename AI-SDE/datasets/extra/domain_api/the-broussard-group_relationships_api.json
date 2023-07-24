@@ -1,0 +1,2325 @@
+{
+  "Relationships": [
+    {
+      "Domain": "thebroussardgroup.com",
+      "Identifiers": [
+        {
+          "Type": "google-analytics",
+          "Value": "41082316",
+          "First": 1381669200000,
+          "Last": 1524498075168,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.72.232.69",
+          "First": 1369922400000,
+          "Last": 1397829600000,
+          "Matches": [
+            {
+              "Domain": "broussardhealthcare.com",
+              "First": 1369922400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bc-cpa.com",
+              "First": 1369922400000,
+              "Last": 1395320400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "brightonbridge.com",
+              "First": 1369922400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "talkatwork.com",
+              "First": 1369922400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "synergycare.com",
+              "First": 1371909600000,
+              "Last": 1395320400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "backupatwork.com",
+              "First": 1393160400000,
+              "Last": 1395320400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "charlestonhcgroup.com",
+              "First": 1393160400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "cloudkayak.com",
+              "First": 1393160400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "louisesdavis.com",
+              "First": 1393160400000,
+              "Last": 1397829600000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "198.154.120.20",
+          "First": 1403013600000,
+          "Last": 1413118800000,
+          "Matches": [
+            {
+              "Domain": "backupatwork.com",
+              "First": 1397829600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "synergycare.com",
+              "First": 1397829600000,
+              "Last": 1427202000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bc-cpa.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "broussardhealthcare.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "charlestonhcgroup.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "brightonbridge.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "cloudkayak.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "louisesdavis.com",
+              "First": 1400421600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "talkatwork.com",
+              "First": 1400421600000,
+              "Last": 1634417876402,
+              "Overlap": true
+            },
+            {
+              "Domain": "serveratwork.com",
+              "First": 1422622800000,
+              "Last": 1424869200000,
+              "Overlap": false
+            },
+            {
+              "Domain": "sawdrop.com",
+              "First": 1553283223162,
+              "Last": 1633853948283,
+              "Overlap": false
+            },
+            {
+              "Domain": "wellnecrx.com",
+              "First": 1554602799557,
+              "Last": 1627877161406,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "207.207.51.58",
+          "First": 1449752400000,
+          "Last": 1454936400000,
+          "Matches": [
+            {
+              "Domain": "brightonbridge.com",
+              "First": 1427202000000,
+              "Last": 1440338400000,
+              "Overlap": false
+            },
+            {
+              "Domain": "serveratwork.com",
+              "First": 1427202000000,
+              "Last": 1454936400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bc-cpa.com",
+              "First": 1432130400000,
+              "Last": 1454936400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "broussardhealthcare.com",
+              "First": 1432130400000,
+              "Last": 1447160400000,
+              "Overlap": false
+            },
+            {
+              "Domain": "charlestonhcgroup.com",
+              "First": 1432130400000,
+              "Last": 1440338400000,
+              "Overlap": false
+            },
+            {
+              "Domain": "louisesdavis.com",
+              "First": 1432130400000,
+              "Last": 1454936400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "synergycare.com",
+              "First": 1432130400000,
+              "Last": 1440338400000,
+              "Overlap": false
+            },
+            {
+              "Domain": "backupatwork.com",
+              "First": 1574750058786,
+              "Last": 1628871985622,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "77.104.146.108",
+          "First": 1589889632290,
+          "Last": 1593456410995,
+          "Matches": [
+            {
+              "Domain": "voicesfromthebalcony.com",
+              "First": 1573644861480,
+              "Last": 1583350671974,
+              "Overlap": false
+            },
+            {
+              "Domain": "workshop1668.com",
+              "First": 1573786077518,
+              "Last": 1583429914931,
+              "Overlap": false
+            },
+            {
+              "Domain": "wheelhousejourney.com",
+              "First": 1573739735586,
+              "Last": 1583404035205,
+              "Overlap": false
+            },
+            {
+              "Domain": "wesleetu.com",
+              "First": 1573730506858,
+              "Last": 1573730506858,
+              "Overlap": false
+            },
+            {
+              "Domain": "wristocracy.com",
+              "First": 1573797598866,
+              "Last": 1583435366543,
+              "Overlap": false
+            },
+            {
+              "Domain": "writeondana.com",
+              "First": 1573798518332,
+              "Last": 1583436231524,
+              "Overlap": false
+            },
+            {
+              "Domain": "xrpactionteam.com",
+              "First": 1573868919054,
+              "Last": 1583475759732,
+              "Overlap": false
+            },
+            {
+              "Domain": "xeninesolutions.com",
+              "First": 1573832387016,
+              "Last": 1579438203871,
+              "Overlap": false
+            },
+            {
+              "Domain": "familyrentals.com",
+              "First": 1574117898914,
+              "Last": 1583619872954,
+              "Overlap": false
+            },
+            {
+              "Domain": "drageda.com",
+              "First": 1574117668748,
+              "Last": 1583619377703,
+              "Overlap": false
+            },
+            {
+              "Domain": "howsyouronion.com",
+              "First": 1574079716945,
+              "Last": 1583596665352,
+              "Overlap": false
+            },
+            {
+              "Domain": "ulgatl.org",
+              "First": 1574094261690,
+              "Last": 1590092575790,
+              "Overlap": true
+            },
+            {
+              "Domain": "kitchenremodelideas.com",
+              "First": 1574075539902,
+              "Last": 1583592572298,
+              "Overlap": false
+            },
+            {
+              "Domain": "3branchesofgovernment.com",
+              "First": 1574230410117,
+              "Last": 1583682337772,
+              "Overlap": false
+            },
+            {
+              "Domain": "7nomads.net",
+              "First": 1574317529531,
+              "Last": 1583729659222,
+              "Overlap": false
+            },
+            {
+              "Domain": "aerialdelsolutions.com",
+              "First": 1574435556878,
+              "Last": 1583798107803,
+              "Overlap": false
+            },
+            {
+              "Domain": "afterave.com",
+              "First": 1574445620714,
+              "Last": 1574445620714,
+              "Overlap": false
+            },
+            {
+              "Domain": "ajsqu.com",
+              "First": 1574483954664,
+              "Last": 1583825457504,
+              "Overlap": false
+            },
+            {
+              "Domain": "alvintodd.com",
+              "First": 1574530711639,
+              "Last": 1583853193023,
+              "Overlap": false
+            },
+            {
+              "Domain": "arrowheadboyslacrosse.com",
+              "First": 1574634928469,
+              "Last": 1583912257474,
+              "Overlap": false
+            },
+            {
+              "Domain": "anchoragelandtrust.org",
+              "First": 1574561014955,
+              "Last": 1583870833822,
+              "Overlap": false
+            },
+            {
+              "Domain": "aymstudiocreativo.com",
+              "First": 1574727296273,
+              "Last": 1583965060550,
+              "Overlap": false
+            },
+            {
+              "Domain": "banknaija.com",
+              "First": 1574767394805,
+              "Last": 1583986287381,
+              "Overlap": false
+            },
+            {
+              "Domain": "bakerandcooksonoma.com",
+              "First": 1574760623391,
+              "Last": 1583983037125,
+              "Overlap": false
+            },
+            {
+              "Domain": "badtothebowl.com",
+              "First": 1574752265925,
+              "Last": 1583977784180,
+              "Overlap": false
+            },
+            {
+              "Domain": "bccannabisclub.com",
+              "First": 1574793218236,
+              "Last": 1584000647593,
+              "Overlap": false
+            },
+            {
+              "Domain": "brooksidemanornh.com",
+              "First": 1574961588390,
+              "Last": 1584093660770,
+              "Overlap": false
+            },
+            {
+              "Domain": "bodaferyadri.com",
+              "First": 1574919036055,
+              "Last": 1584069650731,
+              "Overlap": false
+            },
+            {
+              "Domain": "cdrsample.com.au",
+              "First": 1575078420023,
+              "Last": 1584160977636,
+              "Overlap": false
+            },
+            {
+              "Domain": "casainteligentebrasil.com",
+              "First": 1575052815326,
+              "Last": 1584145103565,
+              "Overlap": false
+            },
+            {
+              "Domain": "cctempcontrol.com",
+              "First": 1575073071011,
+              "Last": 1590680735176,
+              "Overlap": true
+            },
+            {
+              "Domain": "caitlinmusgrave.com",
+              "First": 1575028919765,
+              "Last": 1584133193031,
+              "Overlap": false
+            },
+            {
+              "Domain": "ceramicpromarkham.com",
+              "First": 1575093564201,
+              "Last": 1584169093713,
+              "Overlap": false
+            },
+            {
+              "Domain": "clippercaddy.com",
+              "First": 1575159250438,
+              "Last": 1580880782188,
+              "Overlap": false
+            },
+            {
+              "Domain": "coasttocoastweb.com",
+              "First": 1575181012491,
+              "Last": 1584218801603,
+              "Overlap": false
+            },
+            {
+              "Domain": "dennisarteaga.com",
+              "First": 1575367476087,
+              "Last": 1584324809803,
+              "Overlap": false
+            },
+            {
+              "Domain": "demetreonics.com",
+              "First": 1575363771953,
+              "Last": 1584323418240,
+              "Overlap": false
+            },
+            {
+              "Domain": "djhayson.com",
+              "First": 1575429736539,
+              "Last": 1581174705600,
+              "Overlap": false
+            },
+            {
+              "Domain": "doyleopticians.com",
+              "First": 1575476116295,
+              "Last": 1584385629678,
+              "Overlap": false
+            },
+            {
+              "Domain": "doragongames.com",
+              "First": 1575467648730,
+              "Last": 1584381984090,
+              "Overlap": false
+            },
+            {
+              "Domain": "drlesleyhoey.com",
+              "First": 1575495275125,
+              "Last": 1584396774126,
+              "Overlap": false
+            },
+            {
+              "Domain": "drjimvigue.com",
+              "First": 1575494461202,
+              "Last": 1584396904053,
+              "Overlap": false
+            },
+            {
+              "Domain": "dynamicdesigntoledo.com",
+              "First": 1575540870494,
+              "Last": 1584421225679,
+              "Overlap": false
+            },
+            {
+              "Domain": "earlkf.com",
+              "First": 1575553853618,
+              "Last": 1584429316634,
+              "Overlap": false
+            },
+            {
+              "Domain": "ebykeelite.com",
+              "First": 1575564972834,
+              "Last": 1575564972834,
+              "Overlap": false
+            },
+            {
+              "Domain": "ebacupuncture.com",
+              "First": 1575560615378,
+              "Last": 1584432850982,
+              "Overlap": false
+            },
+            {
+              "Domain": "einsteinairconditioning.com",
+              "First": 1575549707252,
+              "Last": 1584426521124,
+              "Overlap": false
+            },
+            {
+              "Domain": "eightysixinc.org",
+              "First": 1575606949329,
+              "Last": 1581361673726,
+              "Overlap": false
+            },
+            {
+              "Domain": "ecopetscr.com",
+              "First": 1575571822396,
+              "Last": 1581324474390,
+              "Overlap": false
+            },
+            {
+              "Domain": "egygear.com",
+              "First": 1575602786250,
+              "Last": 1575602786250,
+              "Overlap": false
+            },
+            {
+              "Domain": "emerypressbooks.com",
+              "First": 1575649046313,
+              "Last": 1581405831946,
+              "Overlap": false
+            },
+            {
+              "Domain": "ektashrestha.com",
+              "First": 1575617005632,
+              "Last": 1581372296370,
+              "Overlap": false
+            },
+            {
+              "Domain": "enrichedself.com",
+              "First": 1575675924234,
+              "Last": 1581434479239,
+              "Overlap": false
+            },
+            {
+              "Domain": "endora.net.br",
+              "First": 1575665409463,
+              "Last": 1581422945396,
+              "Overlap": false
+            },
+            {
+              "Domain": "executivecourtinn.com",
+              "First": 1575754476568,
+              "Last": 1581517916228,
+              "Overlap": false
+            },
+            {
+              "Domain": "everydaymakeupforyou.com",
+              "First": 1575742704893,
+              "Last": 1581505366166,
+              "Overlap": false
+            },
+            {
+              "Domain": "expressremodelutah.com",
+              "First": 1575758393844,
+              "Last": 1581522118150,
+              "Overlap": false
+            },
+            {
+              "Domain": "fellowshiposhawa.com",
+              "First": 1575825195051,
+              "Last": 1591205647633,
+              "Overlap": true
+            },
+            {
+              "Domain": "feast2thebeat.com",
+              "First": 1575817927894,
+              "Last": 1584573756101,
+              "Overlap": false
+            },
+            {
+              "Domain": "fikelleclothier.com",
+              "First": 1575848603380,
+              "Last": 1581582828322,
+              "Overlap": false
+            },
+            {
+              "Domain": "fmtfranchise.com",
+              "First": 1575887871558,
+              "Last": 1584612258615,
+              "Overlap": false
+            },
+            {
+              "Domain": "focaeventos.com.br",
+              "First": 1575890879312,
+              "Last": 1581606591899,
+              "Overlap": false
+            },
+            {
+              "Domain": "gallery423.ca",
+              "First": 1575971077319,
+              "Last": 1581649703462,
+              "Overlap": false
+            },
+            {
+              "Domain": "gamagroupnyc.com",
+              "First": 1575977288134,
+              "Last": 1591327892655,
+              "Overlap": true
+            },
+            {
+              "Domain": "garrapeixe.com.br",
+              "First": 1575983698959,
+              "Last": 1581656146624,
+              "Overlap": false
+            },
+            {
+              "Domain": "gfsa.me",
+              "First": 1576028764037,
+              "Last": 1581680212446,
+              "Overlap": false
+            },
+            {
+              "Domain": "gmwhoa.org",
+              "First": 1576073091112,
+              "Last": 1597478227880,
+              "Overlap": true
+            },
+            {
+              "Domain": "gkboyles.com",
+              "First": 1576056483140,
+              "Last": 1581693969900,
+              "Overlap": false
+            },
+            {
+              "Domain": "gunlovingjesusfreak.com",
+              "First": 1576148322636,
+              "Last": 1581744489949,
+              "Overlap": false
+            },
+            {
+              "Domain": "gryphonbasketball.com",
+              "First": 1576130273719,
+              "Last": 1581734670039,
+              "Overlap": false
+            },
+            {
+              "Domain": "gotechmom.com",
+              "First": 1576101287423,
+              "Last": 1581719468773,
+              "Overlap": false
+            },
+            {
+              "Domain": "greathopegolf.com",
+              "First": 1576118430574,
+              "Last": 1576118430574,
+              "Overlap": false
+            },
+            {
+              "Domain": "hddbnvqgtc.org",
+              "First": 1576223055061,
+              "Last": 1576223055061,
+              "Overlap": false
+            },
+            {
+              "Domain": "housecallnow.com",
+              "First": 1576329210187,
+              "Last": 1581842568645,
+              "Overlap": false
+            },
+            {
+              "Domain": "huertaquorum.com",
+              "First": 1576353828564,
+              "Last": 1584858496166,
+              "Overlap": false
+            },
+            {
+              "Domain": "ifoodrealmealplans.com",
+              "First": 1576423951762,
+              "Last": 1581895226918,
+              "Overlap": false
+            },
+            {
+              "Domain": "ibuday.com",
+              "First": 1576397948100,
+              "Last": 1581880942900,
+              "Overlap": false
+            },
+            {
+              "Domain": "idsfl.com",
+              "First": 1576416944921,
+              "Last": 1581891544789,
+              "Overlap": false
+            },
+            {
+              "Domain": "ignitemktg.net",
+              "First": 1576428238097,
+              "Last": 1581898166629,
+              "Overlap": false
+            },
+            {
+              "Domain": "ifrevolunteers.org",
+              "First": 1576424494621,
+              "Last": 1581895844887,
+              "Overlap": false
+            },
+            {
+              "Domain": "imtbreds.com",
+              "First": 1576465681990,
+              "Last": 1581917009792,
+              "Overlap": false
+            },
+            {
+              "Domain": "nekacreative.com",
+              "First": 1576470612855,
+              "Last": 1582464000024,
+              "Overlap": false
+            },
+            {
+              "Domain": "wordpress.com",
+              "First": 1576434095126,
+              "Last": 1584901862878,
+              "Overlap": false
+            },
+            {
+              "Domain": "itofilmtech.com",
+              "First": 1576550915244,
+              "Last": 1631857975596,
+              "Overlap": true
+            },
+            {
+              "Domain": "jgboxes.com",
+              "First": 1576637594031,
+              "Last": 1582000418982,
+              "Overlap": false
+            },
+            {
+              "Domain": "jjwminvest.com",
+              "First": 1576658105862,
+              "Last": 1582010352216,
+              "Overlap": false
+            },
+            {
+              "Domain": "jmmazzei.com",
+              "First": 1576668292406,
+              "Last": 1582015721558,
+              "Overlap": false
+            },
+            {
+              "Domain": "jimsimcoe.com",
+              "First": 1576647864390,
+              "Last": 1582006040090,
+              "Overlap": false
+            },
+            {
+              "Domain": "joetv.biz",
+              "First": 1576680355882,
+              "Last": 1597783977581,
+              "Overlap": true
+            },
+            {
+              "Domain": "jordanfamilydentalmn.com",
+              "First": 1576691911338,
+              "Last": 1582027487230,
+              "Overlap": false
+            },
+            {
+              "Domain": "kokopelealpaca.com",
+              "First": 1576879084643,
+              "Last": 1582118587590,
+              "Overlap": false
+            },
+            {
+              "Domain": "knowinghappiness.com",
+              "First": 1576870749144,
+              "Last": 1582115294028,
+              "Overlap": false
+            },
+            {
+              "Domain": "kkmramex.com",
+              "First": 1576852455570,
+              "Last": 1582106446405,
+              "Overlap": false
+            },
+            {
+              "Domain": "knwbility.com",
+              "First": 1576871753760,
+              "Last": 1576871753760,
+              "Overlap": false
+            },
+            {
+              "Domain": "lappartementduchef.com",
+              "First": 1576972867234,
+              "Last": 1582165489433,
+              "Overlap": false
+            },
+            {
+              "Domain": "lichtenfelts.com",
+              "First": 1577051575084,
+              "Last": 1582205046559,
+              "Overlap": false
+            },
+            {
+              "Domain": "lion-cctv.com",
+              "First": 1577070518943,
+              "Last": 1582214678435,
+              "Overlap": false
+            },
+            {
+              "Domain": "lolaceleste.com",
+              "First": 1577110418282,
+              "Last": 1582234723701,
+              "Overlap": false
+            },
+            {
+              "Domain": "lpholistichealth.live",
+              "First": 1577131097617,
+              "Last": 1582243611822,
+              "Overlap": false
+            },
+            {
+              "Domain": "lujiacai.com",
+              "First": 1577147937991,
+              "Last": 1577147937991,
+              "Overlap": false
+            },
+            {
+              "Domain": "lucidxr.com",
+              "First": 1577145160132,
+              "Last": 1577145160132,
+              "Overlap": false
+            },
+            {
+              "Domain": "luvsalonaz.com",
+              "First": 1577155499899,
+              "Last": 1582257548836,
+              "Overlap": false
+            },
+            {
+              "Domain": "mendchiropractic.com",
+              "First": 1577283630014,
+              "Last": 1582322945121,
+              "Overlap": false
+            },
+            {
+              "Domain": "mexcatalog.com",
+              "First": 1577296935569,
+              "Last": 1582328855717,
+              "Overlap": false
+            },
+            {
+              "Domain": "mhddcenter.org",
+              "First": 1577307483547,
+              "Last": 1577307483547,
+              "Overlap": false
+            },
+            {
+              "Domain": "microfabnh.com",
+              "First": 1577314600817,
+              "Last": 1577314600817,
+              "Overlap": false
+            },
+            {
+              "Domain": "mirmd.com",
+              "First": 1577338780630,
+              "Last": 1582349718002,
+              "Overlap": false
+            },
+            {
+              "Domain": "miwebtuani.com",
+              "First": 1577345917284,
+              "Last": 1582353285027,
+              "Overlap": false
+            },
+            {
+              "Domain": "mindbodyyou.info",
+              "First": 1577334465019,
+              "Last": 1582346817169,
+              "Overlap": false
+            },
+            {
+              "Domain": "miyoworld.com",
+              "First": 1577348004309,
+              "Last": 1582354417030,
+              "Overlap": false
+            },
+            {
+              "Domain": "millcitypm.com",
+              "First": 1577328491516,
+              "Last": 1582344184531,
+              "Overlap": false
+            },
+            {
+              "Domain": "mrswum.com",
+              "First": 1577422631981,
+              "Last": 1582393993622,
+              "Overlap": false
+            },
+            {
+              "Domain": "myhappyshirt.com",
+              "First": 1577477582363,
+              "Last": 1582423257140,
+              "Overlap": false
+            },
+            {
+              "Domain": "mybhrtphysician.com",
+              "First": 1577468234826,
+              "Last": 1582418086531,
+              "Overlap": false
+            },
+            {
+              "Domain": "my4dideas.com",
+              "First": 1577465541212,
+              "Last": 1577465541212,
+              "Overlap": false
+            },
+            {
+              "Domain": "nancydinovo.com",
+              "First": 1577519409537,
+              "Last": 1582445220351,
+              "Overlap": false
+            },
+            {
+              "Domain": "nantucketvr.com",
+              "First": 1577519409537,
+              "Last": 1577519409537,
+              "Overlap": false
+            },
+            {
+              "Domain": "nannycarehub.com",
+              "First": 1577520180519,
+              "Last": 1582445828610,
+              "Overlap": false
+            },
+            {
+              "Domain": "naomibates.com",
+              "First": 1577521006581,
+              "Last": 1582446786983,
+              "Overlap": false
+            },
+            {
+              "Domain": "nabihberry.com",
+              "First": 1577505225719,
+              "Last": 1582437749616,
+              "Overlap": false
+            },
+            {
+              "Domain": "nacionalhotelrio.com",
+              "First": 1577505539014,
+              "Last": 1582437811423,
+              "Overlap": false
+            },
+            {
+              "Domain": "nemaconsulting.com",
+              "First": 1577556495903,
+              "Last": 1582463696722,
+              "Overlap": false
+            },
+            {
+              "Domain": "nebulalogistics.com",
+              "First": 1577547444343,
+              "Last": 1577547444343,
+              "Overlap": false
+            },
+            {
+              "Domain": "nhlhutbuilder.com",
+              "First": 1577582762704,
+              "Last": 1577582762704,
+              "Overlap": false
+            },
+            {
+              "Domain": "njacoby.com",
+              "First": 1577604607440,
+              "Last": 1582490796272,
+              "Overlap": false
+            },
+            {
+              "Domain": "njcap.org",
+              "First": 1577605076575,
+              "Last": 1582490866130,
+              "Overlap": false
+            },
+            {
+              "Domain": "nomamiami.com",
+              "First": 1577627936469,
+              "Last": 1582502979601,
+              "Overlap": false
+            },
+            {
+              "Domain": "northshoreteez.com",
+              "First": 1577633249093,
+              "Last": 1582505988013,
+              "Overlap": false
+            },
+            {
+              "Domain": "noudji.com",
+              "First": 1577639569169,
+              "Last": 1582509057763,
+              "Overlap": false
+            },
+            {
+              "Domain": "nwapparelindustry.com",
+              "First": 1577671384050,
+              "Last": 1582525726481,
+              "Overlap": false
+            },
+            {
+              "Domain": "o1visasponsor.com",
+              "First": 1577682681549,
+              "Last": 1577682681549,
+              "Overlap": false
+            },
+            {
+              "Domain": "odmotorworx.com",
+              "First": 1577705808547,
+              "Last": 1582543137514,
+              "Overlap": false
+            },
+            {
+              "Domain": "odreport.com",
+              "First": 1577706053744,
+              "Last": 1582544381936,
+              "Overlap": false
+            },
+            {
+              "Domain": "orchardparknurseryschool.ca",
+              "First": 1577784477292,
+              "Last": 1582586428792,
+              "Overlap": false
+            },
+            {
+              "Domain": "optimumg.com",
+              "First": 1577778782348,
+              "Last": 1582583617691,
+              "Overlap": false
+            },
+            {
+              "Domain": "palmoreboenig.com",
+              "First": 1577848254775,
+              "Last": 1582620275205,
+              "Overlap": false
+            },
+            {
+              "Domain": "overattjs.com",
+              "First": 1577821341651,
+              "Last": 1582606324046,
+              "Overlap": false
+            },
+            {
+              "Domain": "ownersforum.ca",
+              "First": 1577826036332,
+              "Last": 1582608288913,
+              "Overlap": false
+            },
+            {
+              "Domain": "paradisederm.com",
+              "First": 1577860942403,
+              "Last": 1589570054277,
+              "Overlap": false
+            },
+            {
+              "Domain": "pebblecreekcameraclub.com",
+              "First": 1577891199135,
+              "Last": 1582643727418,
+              "Overlap": false
+            },
+            {
+              "Domain": "pbjbouncers.com",
+              "First": 1577877949387,
+              "Last": 1582636954278,
+              "Overlap": false
+            },
+            {
+              "Domain": "paymydebt.net",
+              "First": 1577874837318,
+              "Last": 1582634744887,
+              "Overlap": false
+            },
+            {
+              "Domain": "ansonpierce.info",
+              "First": 1577920588896,
+              "Last": 1577920588896,
+              "Overlap": false
+            },
+            {
+              "Domain": "cambridgedigital.ca",
+              "First": 1577977114867,
+              "Last": 1582688971250,
+              "Overlap": false
+            },
+            {
+              "Domain": "poudrejouvert.com",
+              "First": 1578010546693,
+              "Last": 1582706918146,
+              "Overlap": false
+            },
+            {
+              "Domain": "qlinv.com",
+              "First": 1578095975605,
+              "Last": 1602774086597,
+              "Overlap": true
+            },
+            {
+              "Domain": "sethbrayerglass.com",
+              "First": 1578075417115,
+              "Last": 1582741218050,
+              "Overlap": false
+            },
+            {
+              "Domain": "rasdansoftware.com",
+              "First": 1578149715842,
+              "Last": 1633568639907,
+              "Overlap": true
+            },
+            {
+              "Domain": "renterpm.com",
+              "First": 1578200352290,
+              "Last": 1593006322132,
+              "Overlap": true
+            },
+            {
+              "Domain": "rgproducciones.com",
+              "First": 1578220654198,
+              "Last": 1582819604503,
+              "Overlap": false
+            },
+            {
+              "Domain": "rmuriel.com",
+              "First": 1578258409494,
+              "Last": 1582839350018,
+              "Overlap": false
+            },
+            {
+              "Domain": "rodneysonthelake.com",
+              "First": 1578269368996,
+              "Last": 1582844430649,
+              "Overlap": false
+            },
+            {
+              "Domain": "rtypeshit.com",
+              "First": 1578309062674,
+              "Last": 1582865996549,
+              "Overlap": false
+            },
+            {
+              "Domain": "rudcoplumbing.com",
+              "First": 1578312663681,
+              "Last": 1585896199389,
+              "Overlap": false
+            },
+            {
+              "Domain": "saintchef1.com",
+              "First": 1578355485864,
+              "Last": 1582891471472,
+              "Overlap": false
+            },
+            {
+              "Domain": "ryhanday.com",
+              "First": 1578334472985,
+              "Last": 1582879866567,
+              "Overlap": false
+            },
+            {
+              "Domain": "saintpatsnh.com",
+              "First": 1578355145304,
+              "Last": 1582891638893,
+              "Overlap": false
+            },
+            {
+              "Domain": "s2s.cl",
+              "First": 1578340224912,
+              "Last": 1582883606777,
+              "Overlap": false
+            },
+            {
+              "Domain": "sameeralsheikh.com",
+              "First": 1578365211650,
+              "Last": 1578365211650,
+              "Overlap": false
+            },
+            {
+              "Domain": "sculptura120.com",
+              "First": 1578412199846,
+              "Last": 1582921349503,
+              "Overlap": false
+            },
+            {
+              "Domain": "scubadivingearth.com",
+              "First": 1578413795152,
+              "Last": 1582922745220,
+              "Overlap": false
+            },
+            {
+              "Domain": "sci-gg.com",
+              "First": 1578404344064,
+              "Last": 1582917215393,
+              "Overlap": false
+            },
+            {
+              "Domain": "saversbuy.com",
+              "First": 1578385459931,
+              "Last": 1582907271997,
+              "Overlap": false
+            },
+            {
+              "Domain": "schedaup.com",
+              "First": 1578403393193,
+              "Last": 1582917034582,
+              "Overlap": false
+            },
+            {
+              "Domain": "sbsciencematters.com",
+              "First": 1578394459252,
+              "Last": 1582912510219,
+              "Overlap": false
+            },
+            {
+              "Domain": "savageted.com",
+              "First": 1578384582693,
+              "Last": 1582906781003,
+              "Overlap": false
+            },
+            {
+              "Domain": "scottshellstrom.com",
+              "First": 1578408496297,
+              "Last": 1582919588003,
+              "Overlap": false
+            },
+            {
+              "Domain": "secondchancebluegrass.com",
+              "First": 1578430056065,
+              "Last": 1582930890051,
+              "Overlap": false
+            },
+            {
+              "Domain": "sesqa.net",
+              "First": 1578455944592,
+              "Last": 1582943903487,
+              "Overlap": false
+            },
+            {
+              "Domain": "seuzeh.com",
+              "First": 1578457952850,
+              "Last": 1582944999442,
+              "Overlap": false
+            },
+            {
+              "Domain": "seemaeye.com",
+              "First": 1578433491641,
+              "Last": 1593138004299,
+              "Overlap": true
+            },
+            {
+              "Domain": "sheisherown.com",
+              "First": 1578482850413,
+              "Last": 1582957413518,
+              "Overlap": false
+            },
+            {
+              "Domain": "shellstrom.com",
+              "First": 1578481888889,
+              "Last": 1582957133034,
+              "Overlap": false
+            },
+            {
+              "Domain": "sisgh.com",
+              "First": 1578528892042,
+              "Last": 1582981721098,
+              "Overlap": false
+            },
+            {
+              "Domain": "sigmadealz.com",
+              "First": 1578511468052,
+              "Last": 1582973024737,
+              "Overlap": false
+            },
+            {
+              "Domain": "smartbookz.com",
+              "First": 1578566316643,
+              "Last": 1583000103219,
+              "Overlap": false
+            },
+            {
+              "Domain": "snapmemoriesphotobooth.com",
+              "First": 1578581988482,
+              "Last": 1583009090536,
+              "Overlap": false
+            },
+            {
+              "Domain": "sobiamaryam.com",
+              "First": 1578589123770,
+              "Last": 1583012695330,
+              "Overlap": false
+            },
+            {
+              "Domain": "smoothiespotmiami.com",
+              "First": 1578575614563,
+              "Last": 1583004657250,
+              "Overlap": false
+            },
+            {
+              "Domain": "skyvault.world",
+              "First": 1578552634933,
+              "Last": 1582993329799,
+              "Overlap": false
+            },
+            {
+              "Domain": "skydigitalinc.com",
+              "First": 1578553220049,
+              "Last": 1582993045067,
+              "Overlap": false
+            },
+            {
+              "Domain": "sopercreekwildlife.com",
+              "First": 1578611382929,
+              "Last": 1583024873376,
+              "Overlap": false
+            },
+            {
+              "Domain": "somuchtruth.com",
+              "First": 1578606182056,
+              "Last": 1583021479543,
+              "Overlap": false
+            },
+            {
+              "Domain": "songsleep.com",
+              "First": 1578607475298,
+              "Last": 1578607475298,
+              "Overlap": false
+            },
+            {
+              "Domain": "sodi-pop.com",
+              "First": 1578593590930,
+              "Last": 1578593590930,
+              "Overlap": false
+            },
+            {
+              "Domain": "socalwesty.com",
+              "First": 1578592759446,
+              "Last": 1583014813215,
+              "Overlap": false
+            },
+            {
+              "Domain": "spokesmanmtb.com",
+              "First": 1578641193889,
+              "Last": 1583038879314,
+              "Overlap": false
+            },
+            {
+              "Domain": "success360.net",
+              "First": 1578703099752,
+              "Last": 1583072824561,
+              "Overlap": false
+            },
+            {
+              "Domain": "susanejwhite.com",
+              "First": 1578727200326,
+              "Last": 1583086033170,
+              "Overlap": false
+            },
+            {
+              "Domain": "teamjmsc.com",
+              "First": 1578827486268,
+              "Last": 1583139024010,
+              "Overlap": false
+            },
+            {
+              "Domain": "tdhdigital.co.nz",
+              "First": 1578821979124,
+              "Last": 1583136553720,
+              "Overlap": false
+            },
+            {
+              "Domain": "tiendaventascol.com",
+              "First": 1578892640014,
+              "Last": 1583173999108,
+              "Overlap": false
+            },
+            {
+              "Domain": "tkscardetailing.com",
+              "First": 1578916776833,
+              "Last": 1589901012451,
+              "Overlap": true
+            },
+            {
+              "Domain": "truactiveproducts.com",
+              "First": 1578987583460,
+              "Last": 1583222624938,
+              "Overlap": false
+            },
+            {
+              "Domain": "treasurevalleycpa.com",
+              "First": 1578975925548,
+              "Last": 1583215423733,
+              "Overlap": false
+            },
+            {
+              "Domain": "tumercadito.cl",
+              "First": 1579008254256,
+              "Last": 1583233813264,
+              "Overlap": false
+            },
+            {
+              "Domain": "tuanishop.com",
+              "First": 1579001374941,
+              "Last": 1583229782513,
+              "Overlap": false
+            },
+            {
+              "Domain": "twistedwillow.co",
+              "First": 1579025029375,
+              "Last": 1583242077527,
+              "Overlap": false
+            },
+            {
+              "Domain": "ultracleanservicecorp.com",
+              "First": 1579071091453,
+              "Last": 1583266441558,
+              "Overlap": false
+            },
+            {
+              "Domain": "undutchdani.com",
+              "First": 1579080091967,
+              "Last": 1583271808496,
+              "Overlap": false
+            },
+            {
+              "Domain": "umrahvisafromusa.com",
+              "First": 1579074753579,
+              "Last": 1583269097358,
+              "Overlap": false
+            },
+            {
+              "Domain": "uscvita.org",
+              "First": 1579113222884,
+              "Last": 1583288183201,
+              "Overlap": false
+            },
+            {
+              "Domain": "valleysun.com",
+              "First": 1579145886515,
+              "Last": 1583303795828,
+              "Overlap": false
+            },
+            {
+              "Domain": "uxfix.net",
+              "First": 1579130689333,
+              "Last": 1579130689333,
+              "Overlap": false
+            },
+            {
+              "Domain": "vaughnandsons.com",
+              "First": 1579156441651,
+              "Last": 1583309957817,
+              "Overlap": false
+            },
+            {
+              "Domain": "victoriabarayev.com",
+              "First": 1579190706528,
+              "Last": 1583326606860,
+              "Overlap": false
+            },
+            {
+              "Domain": "voodoocable.net",
+              "First": 1579243157849,
+              "Last": 1583353891702,
+              "Overlap": false
+            },
+            {
+              "Domain": "vrafoundation.org",
+              "First": 1579252845178,
+              "Last": 1583358644660,
+              "Overlap": false
+            },
+            {
+              "Domain": "vrwonderland.ca",
+              "First": 1579255487768,
+              "Last": 1583360259701,
+              "Overlap": false
+            },
+            {
+              "Domain": "volantes10.com",
+              "First": 1579239326268,
+              "Last": 1583351390828,
+              "Overlap": false
+            },
+            {
+              "Domain": "wclconsulting.com",
+              "First": 1579302133574,
+              "Last": 1579302133574,
+              "Overlap": false
+            },
+            {
+              "Domain": "wedotahiti.com",
+              "First": 1579313695124,
+              "Last": 1583390400576,
+              "Overlap": false
+            },
+            {
+              "Domain": "wickedlycoolstuff.com",
+              "First": 1579349524608,
+              "Last": 1583409217624,
+              "Overlap": false
+            },
+            {
+              "Domain": "wrenstedinteriors.com",
+              "First": 1579399556794,
+              "Last": 1586376484208,
+              "Overlap": false
+            },
+            {
+              "Domain": "xtrx.ca",
+              "First": 1579481769758,
+              "Last": 1583477869314,
+              "Overlap": false
+            },
+            {
+              "Domain": "enginesus.com",
+              "First": 1579683426685,
+              "Last": 1583581247119,
+              "Overlap": false
+            },
+            {
+              "Domain": "davidpepper.com",
+              "First": 1579691227170,
+              "Last": 1583585323025,
+              "Overlap": false
+            },
+            {
+              "Domain": "therevolutionaryclub.com",
+              "First": 1579739234710,
+              "Last": 1583609828965,
+              "Overlap": false
+            },
+            {
+              "Domain": "4pointsadventures.com",
+              "First": 1579910479779,
+              "Last": 1579910479779,
+              "Overlap": false
+            },
+            {
+              "Domain": "502entrepreneurs.com",
+              "First": 1579915237894,
+              "Last": 1583700034478,
+              "Overlap": false
+            },
+            {
+              "Domain": "environmentalhealth.org",
+              "First": 1579893136396,
+              "Last": 1579893136396,
+              "Overlap": false
+            },
+            {
+              "Domain": "aateria.com",
+              "First": 1580031675308,
+              "Last": 1583759123478,
+              "Overlap": false
+            },
+            {
+              "Domain": "adamveronscholarship.com",
+              "First": 1580075351305,
+              "Last": 1583782395171,
+              "Overlap": false
+            },
+            {
+              "Domain": "adultingishblog.com",
+              "First": 1580092725729,
+              "Last": 1583792176529,
+              "Overlap": false
+            },
+            {
+              "Domain": "aerialtek.net",
+              "First": 1580101646845,
+              "Last": 1583797002102,
+              "Overlap": false
+            },
+            {
+              "Domain": "agconstructionsltd.com",
+              "First": 1580118706575,
+              "Last": 1583805453649,
+              "Overlap": false
+            },
+            {
+              "Domain": "afxone.com",
+              "First": 1580115211554,
+              "Last": 1580115211554,
+              "Overlap": false
+            },
+            {
+              "Domain": "aocda.com",
+              "First": 1580271411853,
+              "Last": 1583886137585,
+              "Overlap": false
+            },
+            {
+              "Domain": "burntoutondebt.com",
+              "First": 1580693614024,
+              "Last": 1584110481396,
+              "Overlap": false
+            },
+            {
+              "Domain": "cameraready.film",
+              "First": 1580741907239,
+              "Last": 1596765815732,
+              "Overlap": true
+            },
+            {
+              "Domain": "bxcbd.net",
+              "First": 1580708684751,
+              "Last": 1584118777927,
+              "Overlap": false
+            },
+            {
+              "Domain": "ccbrentacar.com",
+              "First": 1580775624143,
+              "Last": 1584154135541,
+              "Overlap": false
+            },
+            {
+              "Domain": "charleslapuz.com",
+              "First": 1580827147313,
+              "Last": 1584177767860,
+              "Overlap": false
+            },
+            {
+              "Domain": "claudiagonzalezdevicenzo.com.ar",
+              "First": 1580875921239,
+              "Last": 1584205316502,
+              "Overlap": false
+            },
+            {
+              "Domain": "consultoriomhc.com",
+              "First": 1580929516469,
+              "Last": 1584232962443,
+              "Overlap": false
+            },
+            {
+              "Domain": "coworkcabyn.com",
+              "First": 1580950729475,
+              "Last": 1580950729475,
+              "Overlap": false
+            },
+            {
+              "Domain": "curtstump.com",
+              "First": 1581006892741,
+              "Last": 1584273127720,
+              "Overlap": false
+            },
+            {
+              "Domain": "curatingheartandsoul.com",
+              "First": 1581008474978,
+              "Last": 1581008474978,
+              "Overlap": false
+            },
+            {
+              "Domain": "dadabuildweb.com",
+              "First": 1581037086512,
+              "Last": 1584288774803,
+              "Overlap": false
+            },
+            {
+              "Domain": "discodonkey.com",
+              "First": 1581162959978,
+              "Last": 1581162959978,
+              "Overlap": false
+            },
+            {
+              "Domain": "doahhemp.com",
+              "First": 1581194755181,
+              "Last": 1581194755181,
+              "Overlap": false
+            },
+            {
+              "Domain": "dn-flooring.com",
+              "First": 1581193745767,
+              "Last": 1584369373510,
+              "Overlap": false
+            },
+            {
+              "Domain": "drkentonnd.com",
+              "First": 1581243741360,
+              "Last": 1581243741360,
+              "Overlap": false
+            },
+            {
+              "Domain": "drlauraliao.in",
+              "First": 1581243082597,
+              "Last": 1584397256907,
+              "Overlap": false
+            },
+            {
+              "Domain": "dykesraisingtykes.com",
+              "First": 1581291550308,
+              "Last": 1584421252349,
+              "Overlap": false
+            },
+            {
+              "Domain": "emmanuelbible.church",
+              "First": 1581411897788,
+              "Last": 1581411897788,
+              "Overlap": false
+            },
+            {
+              "Domain": "ergomaxoffice.com",
+              "First": 1581457506725,
+              "Last": 1581457506725,
+              "Overlap": false
+            },
+            {
+              "Domain": "electtrump.net",
+              "First": 1581379826602,
+              "Last": 1581379826602,
+              "Overlap": false
+            },
+            {
+              "Domain": "finiq.co.nz",
+              "First": 1581584952002,
+              "Last": 1581584952002,
+              "Overlap": false
+            },
+            {
+              "Domain": "flfusion.com",
+              "First": 1581597530259,
+              "Last": 1581597530259,
+              "Overlap": false
+            },
+            {
+              "Domain": "framedmusic.com",
+              "First": 1581620232562,
+              "Last": 1581620232562,
+              "Overlap": false
+            },
+            {
+              "Domain": "frenchie123.com",
+              "First": 1581620380650,
+              "Last": 1581620380650,
+              "Overlap": false
+            },
+            {
+              "Domain": "garagedoorrepairwestjordanutah.com",
+              "First": 1581654767979,
+              "Last": 1581654767979,
+              "Overlap": false
+            },
+            {
+              "Domain": "gatsbybygatsby.com",
+              "First": 1581657523237,
+              "Last": 1581657523237,
+              "Overlap": false
+            },
+            {
+              "Domain": "gnschoolbus.ca",
+              "First": 1581705363431,
+              "Last": 1581705363431,
+              "Overlap": false
+            },
+            {
+              "Domain": "grancomunidadyoga.com",
+              "First": 1581726319688,
+              "Last": 1581726319688,
+              "Overlap": false
+            },
+            {
+              "Domain": "gsotocr.com",
+              "First": 1581736603508,
+              "Last": 1581736603508,
+              "Overlap": false
+            },
+            {
+              "Domain": "nguoiviettoancau.org",
+              "First": 1581784392525,
+              "Last": 1581784392525,
+              "Overlap": false
+            },
+            {
+              "Domain": "hvacrtoronto.com",
+              "First": 1581864061618,
+              "Last": 1581864061618,
+              "Overlap": false
+            },
+            {
+              "Domain": "inbalancewellness.net",
+              "First": 1581918758998,
+              "Last": 1581918758998,
+              "Overlap": false
+            },
+            {
+              "Domain": "in-seguros.com.mx",
+              "First": 1581935925965,
+              "Last": 1581935925965,
+              "Overlap": false
+            },
+            {
+              "Domain": "iqyoyoshops.com",
+              "First": 1581941384889,
+              "Last": 1581941384889,
+              "Overlap": false
+            },
+            {
+              "Domain": "isuntex.cn",
+              "First": 1581953576138,
+              "Last": 1584960140507,
+              "Overlap": false
+            },
+            {
+              "Domain": "ivanlo.ca",
+              "First": 1581962546614,
+              "Last": 1581962546614,
+              "Overlap": false
+            },
+            {
+              "Domain": "jeanye.com",
+              "First": 1581991289807,
+              "Last": 1581991289807,
+              "Overlap": false
+            },
+            {
+              "Domain": "jjwealthmgmt.com",
+              "First": 1582010531226,
+              "Last": 1582010531226,
+              "Overlap": false
+            },
+            {
+              "Domain": "juicelabscreative.com",
+              "First": 1582043085513,
+              "Last": 1582043085513,
+              "Overlap": false
+            },
+            {
+              "Domain": "kahok.com",
+              "First": 1582060100294,
+              "Last": 1582060100294,
+              "Overlap": false
+            },
+            {
+              "Domain": "knokau.com",
+              "First": 1582114002481,
+              "Last": 1582114002481,
+              "Overlap": false
+            },
+            {
+              "Domain": "ksbuildersinc.net",
+              "First": 1582135597754,
+              "Last": 1582135597754,
+              "Overlap": false
+            },
+            {
+              "Domain": "lesleybyfordrmt.com",
+              "First": 1582194579685,
+              "Last": 1582194579685,
+              "Overlap": false
+            },
+            {
+              "Domain": "lodichemical.com",
+              "First": 1582230014574,
+              "Last": 1632428937783,
+              "Overlap": true
+            },
+            {
+              "Domain": "lvl-up.io",
+              "First": 1582261141139,
+              "Last": 1592101777278,
+              "Overlap": true
+            },
+            {
+              "Domain": "lymecore.com",
+              "First": 1582264540590,
+              "Last": 1582264540590,
+              "Overlap": false
+            },
+            {
+              "Domain": "machon-merchavim.org.il",
+              "First": 1577181863177,
+              "Last": 1582270983854,
+              "Overlap": false
+            },
+            {
+              "Domain": "migueldelaguila.com",
+              "First": 1582340498794,
+              "Last": 1582340498794,
+              "Overlap": false
+            },
+            {
+              "Domain": "mii2scooter.com",
+              "First": 1582341101838,
+              "Last": 1582341255332,
+              "Overlap": false
+            },
+            {
+              "Domain": "mujerthriving.com",
+              "First": 1582405417074,
+              "Last": 1582405417074,
+              "Overlap": false
+            },
+            {
+              "Domain": "mula.co.il",
+              "First": 1577445464744,
+              "Last": 1582405973837,
+              "Overlap": false
+            },
+            {
+              "Domain": "mypawprintz.com",
+              "First": 1582427374731,
+              "Last": 1582427374731,
+              "Overlap": false
+            },
+            {
+              "Domain": "nohuman.org",
+              "First": 1582500432979,
+              "Last": 1582500432979,
+              "Overlap": false
+            },
+            {
+              "Domain": "paga3.com",
+              "First": 1582617866200,
+              "Last": 1582617866200,
+              "Overlap": false
+            },
+            {
+              "Domain": "precisionpainting4u.com",
+              "First": 1582713199333,
+              "Last": 1582713199333,
+              "Overlap": false
+            },
+            {
+              "Domain": "representusatx.org",
+              "First": 1582810140628,
+              "Last": 1626341190537,
+              "Overlap": true
+            },
+            {
+              "Domain": "roxxordecals.com",
+              "First": 1582858165266,
+              "Last": 1582858165266,
+              "Overlap": false
+            },
+            {
+              "Domain": "royalcapecatamarans.com",
+              "First": 1582858990284,
+              "Last": 1582858990284,
+              "Overlap": false
+            },
+            {
+              "Domain": "rudcoph.com",
+              "First": 1582868536098,
+              "Last": 1633787536456,
+              "Overlap": true
+            },
+            {
+              "Domain": "rv3solutions.com",
+              "First": 1582875498034,
+              "Last": 1593072193194,
+              "Overlap": true
+            },
+            {
+              "Domain": "davewyant.net",
+              "First": 1582876094784,
+              "Last": 1582876094784,
+              "Overlap": false
+            },
+            {
+              "Domain": "sailjubilee.com",
+              "First": 1582891042410,
+              "Last": 1582891042410,
+              "Overlap": false
+            },
+            {
+              "Domain": "sapnameansdream.com",
+              "First": 1582900792346,
+              "Last": 1582900792346,
+              "Overlap": false
+            },
+            {
+              "Domain": "scissorfilmsfx.com",
+              "First": 1582917230940,
+              "Last": 1582917230940,
+              "Overlap": false
+            },
+            {
+              "Domain": "snacktheapp.com",
+              "First": 1583008959301,
+              "Last": 1583008959301,
+              "Overlap": false
+            },
+            {
+              "Domain": "snootybaby.com",
+              "First": 1583010245599,
+              "Last": 1583010245599,
+              "Overlap": false
+            },
+            {
+              "Domain": "sottopellelifestyle.com",
+              "First": 1583026749362,
+              "Last": 1583026749362,
+              "Overlap": false
+            },
+            {
+              "Domain": "suddenlyslendermaryland.com",
+              "First": 1583073537528,
+              "Last": 1583073537528,
+              "Overlap": false
+            },
+            {
+              "Domain": "suricataestudio.com",
+              "First": 1583084783596,
+              "Last": 1583084783596,
+              "Overlap": false
+            },
+            {
+              "Domain": "swastikherb.com",
+              "First": 1583090933294,
+              "Last": 1583090933294,
+              "Overlap": false
+            },
+            {
+              "Domain": "syenrgy.com",
+              "First": 1583099137608,
+              "Last": 1583099137608,
+              "Overlap": false
+            },
+            {
+              "Domain": "thaifootie.com",
+              "First": 1583159298165,
+              "Last": 1583159298165,
+              "Overlap": false
+            },
+            {
+              "Domain": "umrahfromusa.com",
+              "First": 1583269097358,
+              "Last": 1583269097358,
+              "Overlap": false
+            },
+            {
+              "Domain": "jamesdherron.com",
+              "First": 1583270026608,
+              "Last": 1611278574400,
+              "Overlap": true
+            },
+            {
+              "Domain": "victorytee.com",
+              "First": 1583327876514,
+              "Last": 1583327876514,
+              "Overlap": false
+            },
+            {
+              "Domain": "vstwheels.com",
+              "First": 1583361919953,
+              "Last": 1583361919953,
+              "Overlap": false
+            },
+            {
+              "Domain": "xaylandinvestment.com",
+              "First": 1583451108423,
+              "Last": 1583451108423,
+              "Overlap": false
+            },
+            {
+              "Domain": "zslaw.com",
+              "First": 1583568991496,
+              "Last": 1583568991496,
+              "Overlap": false
+            },
+            {
+              "Domain": "umbrasports.com",
+              "First": 1583616423830,
+              "Last": 1583616423830,
+              "Overlap": false
+            },
+            {
+              "Domain": "aatnv.com",
+              "First": 1583759048756,
+              "Last": 1584353745457,
+              "Overlap": false
+            },
+            {
+              "Domain": "agubephotograph.com",
+              "First": 1583810665975,
+              "Last": 1583810665975,
+              "Overlap": false
+            },
+            {
+              "Domain": "airbify.com",
+              "First": 1583820937651,
+              "Last": 1583820937651,
+              "Overlap": false
+            },
+            {
+              "Domain": "amommyoneday.com",
+              "First": 1583864824747,
+              "Last": 1583864824747,
+              "Overlap": false
+            },
+            {
+              "Domain": "barnburner1.com",
+              "First": 1583989993856,
+              "Last": 1583989993856,
+              "Overlap": false
+            },
+            {
+              "Domain": "bazbazdevelopment.com",
+              "First": 1583996197866,
+              "Last": 1583996197866,
+              "Overlap": false
+            },
+            {
+              "Domain": "bbbflyy.com",
+              "First": 1583996728553,
+              "Last": 1583996728553,
+              "Overlap": false
+            },
+            {
+              "Domain": "berkyr.com",
+              "First": 1584020014479,
+              "Last": 1584020014479,
+              "Overlap": false
+            },
+            {
+              "Domain": "bmoredogs.com",
+              "First": 1584063714040,
+              "Last": 1584063714040,
+              "Overlap": false
+            },
+            {
+              "Domain": "cafeforstrays.com",
+              "First": 1584131239784,
+              "Last": 1584131239784,
+              "Overlap": false
+            },
+            {
+              "Domain": "cefoisa.com",
+              "First": 1584164336723,
+              "Last": 1584164336723,
+              "Overlap": false
+            },
+            {
+              "Domain": "chorusinc.com",
+              "First": 1584186144335,
+              "Last": 1584186144335,
+              "Overlap": false
+            },
+            {
+              "Domain": "colleenkachmann.com",
+              "First": 1584228439915,
+              "Last": 1594133212460,
+              "Overlap": true
+            },
+            {
+              "Domain": "dibumall.com",
+              "First": 1584342839870,
+              "Last": 1584342839870,
+              "Overlap": false
+            },
+            {
+              "Domain": "drlesliebnewman.com",
+              "First": 1584397664287,
+              "Last": 1584397664287,
+              "Overlap": false
+            },
+            {
+              "Domain": "blairceramics.com",
+              "First": 1588735293257,
+              "Last": 1590525065840,
+              "Overlap": true
+            },
+            {
+              "Domain": "campcedar.com",
+              "First": 1588778759851,
+              "Last": 1590635075309,
+              "Overlap": true
+            },
+            {
+              "Domain": "campusgreensboro.org",
+              "First": 1588779650447,
+              "Last": 1590637624760,
+              "Overlap": true
+            },
+            {
+              "Domain": "centeredsnacks.com",
+              "First": 1588803876695,
+              "Last": 1595656021493,
+              "Overlap": true
+            },
+            {
+              "Domain": "deerjolie.com",
+              "First": 1588901778256,
+              "Last": 1600633984713,
+              "Overlap": true
+            },
+            {
+              "Domain": "eacpro.com",
+              "First": 1588954095910,
+              "Last": 1597220540205,
+              "Overlap": true
+            },
+            {
+              "Domain": "genesishypnosisms.com",
+              "First": 1589078997509,
+              "Last": 1631029029239,
+              "Overlap": true
+            },
+            {
+              "Domain": "hillsboroughprivateschools.com",
+              "First": 1589154123296,
+              "Last": 1591543958923,
+              "Overlap": true
+            },
+            {
+              "Domain": "helpingamericasseniors.com",
+              "First": 1589147450735,
+              "Last": 1591519391531,
+              "Overlap": true
+            },
+            {
+              "Domain": "katcora.com",
+              "First": 1589275017590,
+              "Last": 1596020321655,
+              "Overlap": true
+            },
+            {
+              "Domain": "labsonjava.com",
+              "First": 1589311840204,
+              "Last": 1632261592660,
+              "Overlap": true
+            },
+            {
+              "Domain": "lindsaywallace.ca",
+              "First": 1589349244420,
+              "Last": 1598087829895,
+              "Overlap": true
+            },
+            {
+              "Domain": "livelyes.com",
+              "First": 1589354488152,
+              "Last": 1621716959992,
+              "Overlap": true
+            },
+            {
+              "Domain": "micominc.com",
+              "First": 1589432776042,
+              "Last": 1592233319419,
+              "Overlap": true
+            },
+            {
+              "Domain": "navapouch.com",
+              "First": 1589493315509,
+              "Last": 1592383082675,
+              "Overlap": true
+            },
+            {
+              "Domain": "practicalhomesteader.com",
+              "First": 1589617652089,
+              "Last": 1633401838353,
+              "Overlap": true
+            },
+            {
+              "Domain": "ruinthenite.com",
+              "First": 1589700049589,
+              "Last": 1593064676076,
+              "Overlap": true
+            },
+            {
+              "Domain": "sleephappybaby.com",
+              "First": 1589768081516,
+              "Last": 1593215585671,
+              "Overlap": true
+            },
+            {
+              "Domain": "theapodacagroup.com",
+              "First": 1589893280075,
+              "Last": 1593455805381,
+              "Overlap": true
+            },
+            {
+              "Domain": "stevegrossinc.com",
+              "First": 1589811619131,
+              "Last": 1593293593911,
+              "Overlap": true
+            },
+            {
+              "Domain": "theunderbelly.com",
+              "First": 1589882732808,
+              "Last": 1593438005479,
+              "Overlap": true
+            },
+            {
+              "Domain": "usshingle.com",
+              "First": 1589954056146,
+              "Last": 1593584807647,
+              "Overlap": true
+            },
+            {
+              "Domain": "unitedfinancialcenter.net",
+              "First": 1589946889325,
+              "Last": 1593571267794,
+              "Overlap": true
+            },
+            {
+              "Domain": "staging6.katcora.com",
+              "First": 1596020321655,
+              "Last": 1632107229373,
+              "Overlap": false
+            },
+            {
+              "Domain": "staging7.katcora.com",
+              "First": 1596020321655,
+              "Last": 1632107229373,
+              "Overlap": false
+            },
+            {
+              "Domain": "victorymerchants.com",
+              "First": 1608103727468,
+              "Last": 1634843334362,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "35.208.231.144",
+          "First": 1599196264251,
+          "Last": 1599196264251,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "35.208.2.143",
+          "First": 1607984348244,
+          "Last": 1634563485856,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

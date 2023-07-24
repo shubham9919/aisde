@@ -1,0 +1,641 @@
+{
+  "Relationships": [
+    {
+      "Domain": "zillowgroup.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "54.173.146.27",
+          "First": 1424869200000,
+          "Last": 1442412000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.0.203.178",
+          "First": 1424869200000,
+          "Last": 1442412000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.152.189.106",
+          "First": 1443016800000,
+          "Last": 1456318800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.0.190.252",
+          "First": 1443016800000,
+          "Last": 1456318800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.236.233.241",
+          "First": 1456923600000,
+          "Last": 1563613951862,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.5.79.89",
+          "First": 1456923600000,
+          "Last": 1563613951862,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.73.191.37",
+          "First": 1422622800000,
+          "Last": 1422622800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.88.227.183",
+          "First": 1427202000000,
+          "Last": 1427202000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "107.23.108.108",
+          "First": 1427202000000,
+          "Last": 1427202000000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "59723516",
+          "First": 1425474000000,
+          "Last": 1520000906959,
+          "Matches": [
+            {
+              "Domain": "zillowgroup.net",
+              "First": 1467317229198,
+              "Last": 1520000906959,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "lb-pool-001.oc.zillow.com.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "21174015",
+          "First": 1517959378041,
+          "Last": 1634564198349,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "05c5d4f20c",
+          "First": 1528393386058,
+          "Last": 1628071812411,
+          "Matches": [
+            {
+              "Domain": "trulia.com",
+              "First": 1528355685400,
+              "Last": 1528355685400,
+              "Overlap": false
+            },
+            {
+              "Domain": "realestate.com",
+              "First": 1528495224119,
+              "Last": 1545920569564,
+              "Overlap": true
+            },
+            {
+              "Domain": "hotpads.com",
+              "First": 1528495551757,
+              "Last": 1528495551757,
+              "Overlap": true
+            },
+            {
+              "Domain": "billburginsblog.com",
+              "First": 1529221427751,
+              "Last": 1529221427751,
+              "Overlap": true
+            },
+            {
+              "Domain": "bridgeinteractive.com",
+              "First": 1529250491476,
+              "Last": 1533445868105,
+              "Overlap": true
+            },
+            {
+              "Domain": "zillow.com",
+              "First": 1531377565914,
+              "Last": 1586511413122,
+              "Overlap": true
+            },
+            {
+              "Domain": "nakedapartments.com",
+              "First": 1558046857291,
+              "Last": 1558046857291,
+              "Overlap": true
+            },
+            {
+              "Domain": "zillowclosings.com",
+              "First": 1568382725967,
+              "Last": 1628050527285,
+              "Overlap": true
+            },
+            {
+              "Domain": "premieragent.zillow.com",
+              "First": 1605080082221,
+              "Last": 1612885717638,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "206.200.251.19",
+          "First": 1539429418165,
+          "Last": 1539429418165,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.30",
+          "First": 1539429418165,
+          "Last": 1539429418165,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.217.149.241",
+          "First": 1545868611874,
+          "Last": 1545868611874,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1545868611874,
+          "Last": 1586483417401,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "761e715901",
+          "First": 1545868611874,
+          "Last": 1545868611874,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "132434263",
+          "First": 1554939977776,
+          "Last": 1586483417401,
+          "Matches": [
+            {
+              "Domain": "goodenergy.co.uk",
+              "First": 1556872528785,
+              "Last": 1584721879041,
+              "Overlap": true
+            },
+            {
+              "Domain": "nii.com",
+              "First": 1552026915858,
+              "Last": 1585518535808,
+              "Overlap": true
+            },
+            {
+              "Domain": "potlatchdeltic.com",
+              "First": 1552663948787,
+              "Last": 1585739291358,
+              "Overlap": true
+            },
+            {
+              "Domain": "vireohealth.com",
+              "First": 1554460855704,
+              "Last": 1593654445057,
+              "Overlap": true
+            },
+            {
+              "Domain": "warriorrig.com",
+              "First": 1554555663992,
+              "Last": 1586322610075,
+              "Overlap": true
+            },
+            {
+              "Domain": "grainger.com",
+              "First": 1554978346254,
+              "Last": 1574054232646,
+              "Overlap": true
+            },
+            {
+              "Domain": "dominionenergy.com",
+              "First": 1554971943935,
+              "Last": 1586509034595,
+              "Overlap": true
+            },
+            {
+              "Domain": "varonis.com",
+              "First": 1555021746990,
+              "Last": 1583612281196,
+              "Overlap": true
+            },
+            {
+              "Domain": "apei.com",
+              "First": 1555492927085,
+              "Last": 1586854262251,
+              "Overlap": true
+            },
+            {
+              "Domain": "irwendys.com",
+              "First": 1557229758094,
+              "Last": 1584951635068,
+              "Overlap": true
+            },
+            {
+              "Domain": "ironwoodpharma.com",
+              "First": 1557228642369,
+              "Last": 1584950411688,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseys.com",
+              "First": 1559489169534,
+              "Last": 1583582076402,
+              "Overlap": true
+            },
+            {
+              "Domain": "coty.com",
+              "First": 1559502102643,
+              "Last": 1583592069741,
+              "Overlap": true
+            },
+            {
+              "Domain": "denbury.com",
+              "First": 1559498478134,
+              "Last": 1583590663315,
+              "Overlap": true
+            },
+            {
+              "Domain": "cvshealth.com",
+              "First": 1563646886041,
+              "Last": 1579680705096,
+              "Overlap": true
+            },
+            {
+              "Domain": "alcon.com",
+              "First": 1563650659052,
+              "Last": 1586508132549,
+              "Overlap": true
+            },
+            {
+              "Domain": "apple.com",
+              "First": 1563643443465,
+              "Last": 1586509700188,
+              "Overlap": true
+            },
+            {
+              "Domain": "dsstanker.com",
+              "First": 1564856995755,
+              "Last": 1581260718823,
+              "Overlap": true
+            },
+            {
+              "Domain": "lightspeedhq.com",
+              "First": 1571477483765,
+              "Last": 1585235699894,
+              "Overlap": true
+            },
+            {
+              "Domain": "dsstankers.com",
+              "First": 1575511314512,
+              "Last": 1584405877518,
+              "Overlap": true
+            },
+            {
+              "Domain": "seadriftcoke.com",
+              "First": 1578424805112,
+              "Last": 1582927580603,
+              "Overlap": true
+            },
+            {
+              "Domain": "firstsolar.com",
+              "First": 1583611876052,
+              "Last": 1586557533799,
+              "Overlap": true
+            },
+            {
+              "Domain": "central.com",
+              "First": 1587881448862,
+              "Last": 1587881448862,
+              "Overlap": false
+            },
+            {
+              "Domain": "walgreensbootsalliance.com",
+              "First": 1593735917309,
+              "Last": 1593735917309,
+              "Overlap": false
+            },
+            {
+              "Domain": "ir.costargroup.com",
+              "First": 1623482779176,
+              "Last": 1628070795834,
+              "Overlap": false
+            },
+            {
+              "Domain": "investor.costargroup.com",
+              "First": 1623482779176,
+              "Last": 1628070795834,
+              "Overlap": false
+            },
+            {
+              "Domain": "homecapital.com",
+              "First": 1625110883800,
+              "Last": 1631580478728,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "69.172.200.241",
+          "First": 1554939977776,
+          "Last": 1554939977776,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "4b6f7f959c",
+          "First": 1554939977776,
+          "Last": 1586483417401,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "208.113.202.193",
+          "First": 1554939329375,
+          "Last": 1586484330450,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "69.172.200.252",
+          "First": 1563613951862,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.44.91",
+          "First": 1574008029196,
+          "Last": 1574008029196,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.44.95",
+          "First": 1574008029196,
+          "Last": 1574008029196,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.44.82",
+          "First": 1574008029196,
+          "Last": 1611648000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.35",
+          "First": 1579632735631,
+          "Last": 1579632735631,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.191.88",
+          "First": 1583555650780,
+          "Last": 1583555650780,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.191.119",
+          "First": 1583555650780,
+          "Last": 1583555650780,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.191.129",
+          "First": 1583555650780,
+          "Last": 1583555650780,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.191.69",
+          "First": 1583555650780,
+          "Last": 1583555650780,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "UA-21174015-75",
+          "First": 1583555650780,
+          "Last": 1628071812411,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.85.151.59",
+          "First": 1586483417401,
+          "Last": 1586483417401,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.222.149.107",
+          "First": 1590075008435,
+          "Last": 1590075008435,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.53",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.3",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.100",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.96",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "20.45.1.53",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.85.146.59",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.85.146.78",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.49",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.85.146.46",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.73",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.104",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.85.146.50",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.40.126",
+          "First": 1593932814418,
+          "Last": 1593932814418,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.224.66.18",
+          "First": 1595042744534,
+          "Last": 1595042744534,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.224.66.100",
+          "First": 1599653491742,
+          "Last": 1599653491742,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.43.35",
+          "First": 1601115967176,
+          "Last": 1601115967176,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.224.121.86",
+          "First": 1605093603647,
+          "Last": 1605093603647,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.32.100",
+          "First": 1608370458123,
+          "Last": 1608370458123,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.230.126.99",
+          "First": 1612878578470,
+          "Last": 1612878578470,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.42.122",
+          "First": 1614758400000,
+          "Last": 1614758400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "143.204.0.68",
+          "First": 1615017600000,
+          "Last": 1615017600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.192.73.87",
+          "First": 1618227717827,
+          "Last": 1618227717827,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.249.43.93",
+          "First": 1623480746973,
+          "Last": 1623480746973,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.227.246.69",
+          "First": 1628071812411,
+          "Last": 1628071812411,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

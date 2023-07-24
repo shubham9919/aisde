@@ -1,0 +1,605 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 3700,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Data Management Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "Bizo",
+                "Description": "Advertising platform spun off from zoominfo.com now owned by LinkedIn.",
+                "Link": "http://www.bizo.com",
+                "Tag": "ads",
+                "FirstDetected": 1387494000000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.4.2",
+                "Description": "jQuery version 1.4.2",
+                "Link": "http://blog.jquery.com/2010/02/19/jquery-142-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1386889200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "Social Sharing"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Like",
+                "Description": "Allows users to Like items they find on the web, similar to how you Like items within Facebook.",
+                "Link": "http://developers.facebook.com/docs/reference/plugins/like",
+                "Tag": "widgets",
+                "FirstDetected": 1371250800000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "MarkMonitor DNS",
+                "Description": "Thomson Reuters owned DNS protection system.",
+                "Link": "http://markmonitor.com",
+                "Tag": "ns",
+                "FirstDetected": 1348182000000,
+                "LastDetected": 1404774000000
+              },
+              {
+                "Categories": [
+                  "A/B Testing",
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Marketing Automation",
+                  "Personalization",
+                  "Product Recommendations"
+                ],
+                "IsPremium": "yes",
+                "Name": "Omniture Adobe Test and Target",
+                "Description": "Test&Target - Adobe Target Advanced, gives marketers the necessary capabilities to continually make their online content and offers more relevant to their customers-yielding greater conversion.",
+                "Link": "http://www.omniture.com/en/products/conversion/testandtarget",
+                "Tag": "analytics",
+                "FirstDetected": 1362056400000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Omniture SiteCatalyst",
+                "Description": "Omniture SiteCatalyst provides your website with actionable, real-time intelligence regarding online strategies and marketing initiatives.",
+                "Link": "http://www.omniture.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Invite Media",
+                "Description": "Automatically buy from multiple ad exchanges in real-time, all through the same interface.",
+                "Link": "http://invitemedia.com",
+                "Tag": "analytics",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "Audience Targeting",
+                  "Multi-Channel"
+                ],
+                "IsPremium": "no",
+                "Name": "DemDex",
+                "Description": "Demdex's turn-key audience management solutions make implementing a dynamic, multi-channel data strategy cost-effective and easy. Now known as Adobe Audience Manager.",
+                "Link": "http://www.demdex.com/",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Audience Targeting",
+                  "Data Management Platform",
+                  "Demand-side Platform",
+                  "Multi-Channel",
+                  "Ad Network",
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "Turn",
+                "Description": "Provides performance-based CPA, CPC, and CPM pricing, automatic and blended targeting, plus market quality control through Smart Marketing technology. Now known as Amobee.",
+                "Link": "http://turn.com",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1382655600000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "AppNexus",
+                "Description": "Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",
+                "Link": "http://www.appnexus.com/",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1369144800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AOL-Time Warner Online Advertising",
+                "Description": "The website uses AOL-Time Warner Advertising Network",
+                "Link": "http://aol.com",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Videology",
+                "Description": "Video advertising technology that works across all video screens to connect brands with those consumers they most want to reach. Previously known as TidalTV.",
+                "Link": "http://www.videologygroup.com",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1357477200000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1356958800000,
+                "LastDetected": 1386889200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI Tabs",
+                "Description": "Support tabs interfaces using the JQuery library",
+                "Link": "http://docs.jquery.com/UI/Tabs",
+                "Tag": "javascript",
+                "FirstDetected": 1356958800000,
+                "LastDetected": 1386889200000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery Autocomplete",
+                "Description": "Autocomplete an input field to enable users quickly finding and selecting some value, leveraging searching and filtering.",
+                "Link": "http://docs.jquery.com/Plugins/autocomplete",
+                "Tag": "javascript",
+                "FirstDetected": 1351774800000,
+                "LastDetected": 1354798800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cookie",
+                "Description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+                "Link": "https://github.com/carhartl/jquery-cookie",
+                "Tag": "javascript",
+                "FirstDetected": 1299070800000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "MarkMonitor",
+                "Description": "Thomson Reuters owned based protection system.",
+                "Link": "http://markmonitor.com",
+                "Tag": "hosting",
+                "FirstDetected": 1348149600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1387494000000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Ad Server",
+                  "Digital Video Ads",
+                  "Search"
+                ],
+                "IsPremium": "no",
+                "Name": "Atlas",
+                "Description": "High end provider of advertising solutions, using by 9 of the top 10 global brands and 7 of the top 10 global advertisement agencies. Owned by the Microsoft Corporation.",
+                "Link": "http://www.atlassolutions.com/",
+                "Tag": "ads",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1296478800000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Atlas Action Tags",
+                "Description": "Work alongside the tracking of campaigns and track the conversion performance of your online media activity.",
+                "Link": "http://advertising.microsoft.com/advertiser-tools",
+                "Tag": "analytics",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1296478800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Java EE",
+                "Description": "Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",
+                "Link": "http://java.sun.com/javaee/",
+                "Tag": "framework",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache Tomcat Coyote",
+                "Description": "Coyote HTTP/1.1 Connector element represents a Connector component that supports the HTTP/1.1 protocol. It enables Catalina to function as a stand-alone web server, in addition to its ability to execute servlets and JSP pages.",
+                "Link": "http://tomcat.apache.org/tomcat-4.1-doc/config/coyote.html",
+                "Tag": "Web Server",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Akamai Hosted",
+                "Description": "Data network CDN provider.",
+                "Link": "http://akamai.com",
+                "Tag": "hosting",
+                "FirstDetected": 1422399600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai DNS",
+                "Description": "DNS services provided by Akamai.",
+                "Link": "http://akamai.net",
+                "Tag": "ns",
+                "FirstDetected": 1422399600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Verizon",
+                "Description": "Hosting solutions from Verizon.",
+                "Link": "http://verizon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1447196400000,
+                "LastDetected": 1447196400000
+              },
+              {
+                "Categories": [
+                  "Edge Delivery Network"
+                ],
+                "IsPremium": "yes",
+                "Name": "Akamai Edge",
+                "Description": "Akamai's Edge Platform is one of the world's largest distributed computing platforms. It is a network of more than 95,000 secure servers equipped with proprietary software and deployed in 71 countries.",
+                "Link": "http://www.akamai.com/html/technology/edgeplatform.html",
+                "Tag": "cdns",
+                "FirstDetected": 1467327600000,
+                "LastDetected": 1632466800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai SSL",
+                "Description": "Akamai CDN SSL certificate.",
+                "Link": "http://akamai.com",
+                "Tag": "ssl",
+                "FirstDetected": 1468969200000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "CenturyLink",
+                "Description": "Hosting services from large telecom company CenturyLink.",
+                "Link": "http://centurylink.com",
+                "Tag": "hosting",
+                "FirstDetected": 1469487600000,
+                "LastDetected": 1472770800000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1478127600000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "Categories": [
+                  "Dutch hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Eweka Internet Services",
+                "Description": "Network infrastructure from Eweka Internet Services based in Netherlands.",
+                "Link": "http://eweka.nl",
+                "Tag": "hosting",
+                "FirstDetected": 1488409200000,
+                "LastDetected": 1488409200000
+              },
+              {
+                "Categories": [
+                  "Enterprise"
+                ],
+                "IsPremium": "yes",
+                "Name": "Google Search Appliance",
+                "Description": "Google Search for Work system provides searching of internal business systems.",
+                "Link": "https://www.google.com.au/work/search/products/gsa.html",
+                "Tag": "cms",
+                "FirstDetected": 1491519600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "Symantec VeriSign",
+                "Description": "VeriSign/Symantec SSL Certificates.",
+                "Link": "http://verisign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1494975600000,
+                "LastDetected": 1524524400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Spanish",
+                "Description": "Website content is written in Spanish.",
+                "Link": "http://es.wikipedia.org",
+                "Tag": "language",
+                "FirstDetected": 1496358000000,
+                "LastDetected": 1502406000000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "yes",
+                "Name": "Akamai mPulse",
+                "Description": "Multi-channel real time analytics package - RUM system by Akamai previously Soasta.",
+                "Link": "https://akamai.com",
+                "Tag": "analytics",
+                "FirstDetected": 1503702000000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Time Warner",
+                "Description": "Time Warner Business Class business solutions.",
+                "Link": "http://www.twcbc.com/northeast/",
+                "Tag": "hosting",
+                "FirstDetected": 1507590000000,
+                "LastDetected": 1507590000000
+              },
+              {
+                "Categories": [
+                  "Swedish hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "TeliaSonera",
+                "Description": "Network infrastructure from TeliaSonera based in Sweden.",
+                "Link": "http://teliasonera.com",
+                "Tag": "hosting",
+                "FirstDetected": 1510614000000,
+                "LastDetected": 1510614000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Comcast",
+                "Description": "Hosted on Comcast infrastructure",
+                "Link": "http://comcast.com",
+                "Tag": "hosting",
+                "FirstDetected": 1517526000000,
+                "LastDetected": 1517526000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "WebEx Panel",
+                "Description": "WebEx system.",
+                "Link": "http://webex.com",
+                "Tag": "widgets",
+                "FirstDetected": 1546815600000,
+                "LastDetected": 1592002800000
+              },
+              {
+                "Categories": [
+                  "Japan hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Softbank BB",
+                "Description": "Network infrastructure from Softbank BB based in Japan.",
+                "Link": "http://softbankbb.co.jp",
+                "Tag": "hosting",
+                "FirstDetected": 1554505200000,
+                "LastDetected": 1555023600000
+              }
+            ],
+            "FirstIndexed": 1294059600000,
+            "LastIndexed": 1635058800000,
+            "Domain": "southwestairlines.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1491519600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1491519600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "Mobile"
+                ],
+                "IsPremium": "no",
+                "Name": "Smart App Banner",
+                "Description": "Displays a banner that provides a direct link to an Apple Store app, or opens the app if the user already has it installed.",
+                "Link": "https://developer.apple.com/news/index.php?id=10082012b",
+                "Tag": "widgets",
+                "FirstDetected": 1491519600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web Clips Icon",
+                "Description": "This page contains an icon for iPhone, iPad and iTouch devices.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1491519600000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "yes",
+                "Name": "Dynatrace",
+                "Description": "Dynatrace provides software intelligence for enterprise cloud ecosystems. Dynatrace is an AI-powered, full stack and automated monitoring and analytics solution that provides insights into users, transactions, applications, and hybrid multi-cloud environments.",
+                "Link": "http://www.dynatrace.com",
+                "Tag": "analytics",
+                "FirstDetected": 1505516400000,
+                "LastDetected": 1530831600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1526598000000,
+                "LastDetected": 1531436400000
+              }
+            ],
+            "FirstIndexed": 1491519600000,
+            "LastIndexed": 1531436400000,
+            "Domain": "southwestairlines.com",
+            "Url": "m",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Unknown",
+        "Social": null,
+        "CompanyName": null,
+        "Telephones": [],
+        "Emails": [],
+        "City": "",
+        "State": "",
+        "Postcode": "",
+        "Country": "",
+        "Names": null,
+        "ARank": 814570,
+        "QRank": 107294
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1294059600000,
+      "LastIndexed": 1635058800000,
+      "Lookup": "southwestairlines.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

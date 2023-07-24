@@ -1,0 +1,4925 @@
+{
+  "id": "bundle--885c3121-49f4-4140-b991-ef1580f0565a",
+  "objects": [
+    {
+      "created": "2017-01-20T00:00:00.000Z",
+      "definition": {
+        "tlp": "amber"
+      },
+      "definition_type": "tlp",
+      "id": "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82",
+      "type": "marking-definition"
+    },
+    {
+      "created": "2019-12-26T00:00:00Z",
+      "definition": {
+        "statement": "Copyright Sixgill 2020. All rights reserved."
+      },
+      "definition_type": "statement",
+      "id": "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+      "type": "marking-definition"
+    },
+    {
+      "created": "2021-07-18T21:05:41.755Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36376",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--66f6663e-ef47-4f74-ad29-c42fe3e53e28",
+      "modified": "2021-07-18T21:05:41.755Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-36376 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36376",
+          "modified": "2021-07-16T19:20:00.000Z",
+          "published": "2021-07-13T13:15:00.000Z",
+          "score_2_0": 4.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.754Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3637",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--60c89fed-385e-497b-8f5b-c545a2386c6b",
+      "modified": "2021-07-18T21:05:41.754Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3637 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3637",
+          "modified": "2021-07-13T17:56:00.000Z",
+          "published": "2021-07-09T11:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.751Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-35957",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--1e2c164a-87fa-4d9d-9eaa-59ac9aed8754",
+      "modified": "2021-07-18T21:05:41.751Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-35957 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.7,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35957",
+          "modified": "2021-07-15T14:25:00.000Z",
+          "published": "2021-07-13T14:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.748Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-35039",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4d55dd12-a5e1-452a-b80b-4f218802ff5d",
+      "modified": "2021-07-18T21:05:41.748Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-35039 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35039",
+          "modified": "2021-07-15T15:16:00.000Z",
+          "published": "2021-07-07T01:15:00.000Z",
+          "score_2_0": 6.9,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:M/Au:N/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.746Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34525",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2c50a0f3-db8f-4615-b9e0-c9ebb57a9675",
+      "modified": "2021-07-18T21:05:41.746Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34525 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34525",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.86,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.86
+          },
+          "previouslyExploited": 1.16
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.745Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34523",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4109615f-ac5e-4fb7-a2f9-10beddb202a4",
+      "modified": "2021-07-18T21:05:41.745Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34523 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34523",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.92,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.92
+          },
+          "previouslyExploited": 1.29
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.740Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34494",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--767f3002-e99b-4f33-bfb4-02784af8b3dd",
+      "modified": "2021-07-18T21:05:41.740Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1f0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34494 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34494",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.99
+          },
+          "previouslyExploited": 1.68
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.738Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34470",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7aa4db15-25a5-4ad5-a108-b751f7bbd883",
+      "modified": "2021-07-18T21:05:41.738Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ef",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34470 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34470",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.86,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.86
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.736Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34458",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--00bb20ec-fd6f-4070-bba8-e50591f3da19",
+      "modified": "2021-07-18T21:05:41.736Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ee",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34458 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34458",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.735Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34456",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e0a92a22-960b-4a42-88b4-febdc585a9bf",
+      "modified": "2021-07-18T21:05:41.735Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ed",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34456 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34456",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.734Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34448",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ced351aa-8000-485b-a45f-02b2e19671ac",
+      "modified": "2021-07-18T21:05:41.734Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ec",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34448 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34448",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 2.7,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 2.7
+          },
+          "previouslyExploited": 5.53
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.733Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34445",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cc7f095c-02d7-4ddc-aeb9-5551e22b2650",
+      "modified": "2021-07-18T21:05:41.733Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1eb",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34445 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34445",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34293",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--61fdd925-af51-4258-b218-91dcedb204d3",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34293 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34293",
+          "modified": "2021-07-15T16:18:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.87,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.87
+          },
+          "previouslyExploited": 1.31
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34294",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e9d66a00-c8e0-44d1-b5c0-fd33aa09595c",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34294 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34294",
+          "modified": "2021-07-15T16:09:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34295",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--41f241ba-6ded-48a9-80fe-1fff4f54d120",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34295 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34295",
+          "modified": "2021-07-15T16:09:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34303",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b63c29e7-634e-4614-8fa1-a95eae1f3095",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34303 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34303",
+          "modified": "2021-07-15T17:14:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34306",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--411bd532-4e20-43d4-9f23-71ea2f39517a",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d7",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34306 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34306",
+          "modified": "2021-07-15T17:22:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34307",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--a987e092-f67d-4e1e-be4f-667d1132891c",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d8",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34307 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34307",
+          "modified": "2021-07-15T17:23:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34308",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6a6e63a6-1897-413b-a565-af27bfe7ef93",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d9",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34308 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34308",
+          "modified": "2021-07-15T17:24:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34309",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9d3f966e-b4b3-4ac8-aac3-9a5deca85c8d",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1da",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34309 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34309",
+          "modified": "2021-07-15T17:24:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34310",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6b3ae09f-2411-46b2-83bf-ff85ab06c44a",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1db",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34310 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34310",
+          "modified": "2021-07-15T17:25:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34311",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--bf2e2f86-188a-46c6-a1e2-44a9e75123e6",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1dc",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34311 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34311",
+          "modified": "2021-07-15T17:26:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34312",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--bfbbd863-9b8e-4126-8d54-b89acd4eead2",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1dd",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34312 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34312",
+          "modified": "2021-07-15T17:31:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34313",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4f5bfb32-c316-4511-ad1b-9dcfcfde0e68",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1de",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34313 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34313",
+          "modified": "2021-07-16T13:35:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34314",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--1bba2eb8-2090-4825-b335-353116e4c04b",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1df",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34314 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34314",
+          "modified": "2021-07-15T17:36:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34315",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--50b94caf-a432-4bdb-be81-a8dd94031f83",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34315 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34315",
+          "modified": "2021-07-15T17:38:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34316",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--69542acd-9733-459a-b069-f78fad05f1e6",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34316 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34316",
+          "modified": "2021-07-15T17:38:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34317",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7dc4c95b-3955-417f-b273-8a94b759ced9",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34317 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34317",
+          "modified": "2021-07-15T17:39:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34318",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9eb57e93-dc8a-42ec-ba46-85f8e78ddb03",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34318 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34318",
+          "modified": "2021-07-15T17:40:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34319",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2a57c4ff-c7ef-4d3d-9dd3-bd3f28455fb3",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34319 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34319",
+          "modified": "2021-07-15T17:41:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34320",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--13ecaac8-8158-42e5-8923-0f4316808ce6",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34320 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34320",
+          "modified": "2021-07-15T17:42:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34321",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--645500d1-1d5c-41ef-8588-ac71f8c695d3",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34321 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34321",
+          "modified": "2021-07-15T17:46:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34322",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b53d8bd3-9b55-4032-adba-52d6cd41b741",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e7",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34322 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34322",
+          "modified": "2021-07-15T17:47:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34323",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--80f2610f-1327-43be-89e6-488a79781fd8",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e8",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34323 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34323",
+          "modified": "2021-07-15T17:48:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.82,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34324",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e79912e1-f40b-477d-88e0-463a487edb3e",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1e9",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34324 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34324",
+          "modified": "2021-07-15T17:48:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.732Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34325",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--94788e79-7e0e-475a-90d6-46dcb6863d77",
+      "modified": "2021-07-18T21:05:41.732Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ea",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-34325 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34325",
+          "modified": "2021-07-15T17:49:00.000Z",
+          "published": "2021-07-13T11:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.731Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3413",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--db9b5289-39e4-4672-bce3-a04ccdb4f48e",
+      "modified": "2021-07-18T21:05:41.731Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3413 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.3,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3413",
+          "modified": "2021-04-14T21:00:00.000Z",
+          "published": "2021-04-08T23:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.730Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33778",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8645e1fe-923b-42d5-8a1f-014c829db55d",
+      "modified": "2021-07-18T21:05:41.730Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33778 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33778",
+          "modified": "2021-07-16T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.730Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33780",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ff1d7d89-97df-4a79-a174-6d37a449cec9",
+      "modified": "2021-07-18T21:05:41.730Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1d1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33780 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33780",
+          "modified": "2021-07-17T02:34:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.93,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.93
+          },
+          "previouslyExploited": 1.32
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.729Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33773",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d803b1a6-1b8c-41be-baa8-bdd3fde4b222",
+      "modified": "2021-07-18T21:05:41.729Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1cc",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33773 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33773",
+          "modified": "2021-07-16T14:18:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.729Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33775",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--10eb703f-85ff-4109-9738-9e3eb1230af6",
+      "modified": "2021-07-18T21:05:41.729Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1cd",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33775 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33775",
+          "modified": "2021-07-16T19:16:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.729Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33776",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--125f219c-5f56-4bea-a713-d1a54c94fe20",
+      "modified": "2021-07-18T21:05:41.729Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ce",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33776 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33776",
+          "modified": "2021-07-16T19:15:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.729Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33777",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cb91ecd3-a5ca-4e21-974d-aea2d98f1e7d",
+      "modified": "2021-07-18T21:05:41.729Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1cf",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33777 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33777",
+          "modified": "2021-07-16T19:15:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.727Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33766",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cc998bd4-60de-4f32-be4d-f427855925f4",
+      "modified": "2021-07-18T21:05:41.727Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1cb",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33766 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33766",
+          "modified": "2021-07-16T14:41:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.726Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33761",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--41e3bba3-bdec-4535-b5f8-ca6206320753",
+      "modified": "2021-07-18T21:05:41.726Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ca",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33761 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33761",
+          "modified": "2021-07-16T19:58:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.725Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33752",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--346e6c43-37cd-4957-bea2-95ff8d26b382",
+      "modified": "2021-07-18T21:05:41.725Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c7",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33752 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33752",
+          "modified": "2021-07-17T02:55:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.725Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33754",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ab8e79b9-e026-4c62-8b6f-51b2e5590276",
+      "modified": "2021-07-18T21:05:41.725Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c8",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33754 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.0,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33754",
+          "modified": "2021-07-17T02:54:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.85,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.725Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33756",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ea8af7d3-f461-461b-aafc-19d2a68b6a1c",
+      "modified": "2021-07-18T21:05:41.725Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c9",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33756 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33756",
+          "modified": "2021-07-16T15:17:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.724Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33746",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6a0ccce1-2c38-4296-8c8c-20935ef9ecab",
+      "modified": "2021-07-18T21:05:41.724Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33746 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33746",
+          "modified": "2021-07-17T02:57:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.85,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.724Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33749",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cfb63464-70bb-4c9a-b5b1-0f8d9c80e419",
+      "modified": "2021-07-18T21:05:41.724Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33749 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33749",
+          "modified": "2021-07-17T02:58:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.724Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33750",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c40668f1-a6e0-4769-80bb-7480470e3d26",
+      "modified": "2021-07-18T21:05:41.724Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-33750 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33750",
+          "modified": "2021-07-17T02:56:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.720Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3328",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ddff65dc-666b-4bfd-a9eb-78629896869e",
+      "modified": "2021-07-18T21:05:41.720Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3328 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3328",
+          "modified": "2021-04-14T20:20:00.000Z",
+          "published": "2021-04-08T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.719Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-32746",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0884523d-daee-409c-91b4-9752076b4e58",
+      "modified": "2021-07-18T21:05:41.719Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-32746 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.3,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-32746",
+          "modified": "2021-07-15T16:40:00.000Z",
+          "published": "2021-07-12T23:15:00.000Z",
+          "score_2_0": 3.5,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:N/AC:M/Au:S/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.719Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-32747",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6f179403-6f07-4139-9d0e-0caed9ef0b8e",
+      "modified": "2021-07-18T21:05:41.719Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-32747 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-32747",
+          "modified": "2021-07-15T17:20:00.000Z",
+          "published": "2021-07-12T23:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.719Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-32754",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--30c8a5ea-b9b5-4204-991b-aa018b329103",
+      "modified": "2021-07-18T21:05:41.719Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1c2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-32754 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.3,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-32754",
+          "modified": "2021-07-15T16:31:00.000Z",
+          "published": "2021-07-12T23:15:00.000Z",
+          "score_2_0": 3.5,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:N/AC:M/Au:S/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.712Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31947",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3f4de4a4-3383-4784-a61f-51876226267a",
+      "modified": "2021-07-18T21:05:41.712Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1bf",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-31947 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31947",
+          "modified": "2021-07-16T20:32:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.711Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3146",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3a3145ec-5692-4775-bac4-43ffd91741c8",
+      "modified": "2021-07-18T21:05:41.711Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1bc",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3146 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3146",
+          "modified": "2021-04-14T21:04:00.000Z",
+          "published": "2021-04-08T20:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 1.09,
+          "highest": {
+            "date": "2021-04-10T00:00:00.000Z",
+            "value": 5.05
+          },
+          "previouslyExploited": 2.8
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.711Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3149",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--73bc3586-7d2d-429c-9d96-a2b9fc3034f5",
+      "modified": "2021-07-18T21:05:41.711Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1bd",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3149 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.2,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3149",
+          "modified": "2021-04-15T09:15:00.000Z",
+          "published": "2021-02-22T02:15:00.000Z",
+          "score_2_0": 9.0,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 1.02,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.43
+          },
+          "previouslyExploited": 2.59
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.711Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3150",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f21dc129-1dae-4a08-8151-6bcd8735d96e",
+      "modified": "2021-07-18T21:05:41.711Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1be",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-3150 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.1,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3150",
+          "modified": "2021-04-15T09:15:00.000Z",
+          "published": "2021-03-15T19:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.86
+          },
+          "previouslyExploited": 1.16
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.710Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31196",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2c1bd79b-0228-4259-b65b-d3c60439ff50",
+      "modified": "2021-07-18T21:05:41.710Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ba",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-31196 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.2,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31196",
+          "modified": "2021-07-17T03:31:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.88,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+          },
+          "previouslyExploited": 1.28
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.710Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31223",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3183becf-9f7d-4cc7-93de-00458429b527",
+      "modified": "2021-07-18T21:05:41.710Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1bb",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-31223 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.7,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31223",
+          "modified": "2021-07-15T16:08:00.000Z",
+          "published": "2021-07-13T14:15:00.000Z",
+          "score_2_0": 2.9,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:A/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.709Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31183",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b96e81e9-64ac-403f-a9ae-e8e2e6e53967",
+      "modified": "2021-07-18T21:05:41.709Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b9",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-31183 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31183",
+          "modified": "2021-07-16T20:34:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.707Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-30463",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--93acf62b-e686-4154-a644-a0cd92d135b7",
+      "modified": "2021-07-18T21:05:41.707Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b8",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-30463 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30463",
+          "modified": "2021-04-14T21:33:00.000Z",
+          "published": "2021-04-08T14:15:00.000Z",
+          "score_2_0": 7.2,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:L/AC:L/Au:N/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.39
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.706Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-30127",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f2fb5ff5-6c79-4b69-9033-4cd86f014b94",
+      "modified": "2021-07-18T21:05:41.706Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-30127 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.3,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30127",
+          "modified": "2021-04-14T20:27:00.000Z",
+          "published": "2021-04-03T18:15:00.000Z",
+          "score_2_0": 7.5,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L"
+        },
+        "score": {
+          "current": 0.98,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 6.38
+          },
+          "previouslyExploited": 2.5
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.706Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-30141",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9f050f3b-01a6-4055-ad4e-624f81c09af4",
+      "modified": "2021-07-18T21:05:41.706Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b7",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-30141 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30141",
+          "modified": "2021-04-15T15:04:00.000Z",
+          "published": "2021-04-05T23:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.705Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-30045",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--fa930183-c576-4c8b-abb3-90a917b80ab0",
+      "modified": "2021-07-18T21:05:41.705Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-30045 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 9.1,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30045",
+          "modified": "2021-04-12T14:10:00.000Z",
+          "published": "2021-04-06T13:15:00.000Z",
+          "score_2_0": 6.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.702Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29654",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ddbf6358-2b2e-417b-83d6-a23e0446501c",
+      "modified": "2021-07-18T21:05:41.702Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29654 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.2,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29654",
+          "modified": "2021-04-21T20:36:00.000Z",
+          "published": "2021-04-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.98,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.5
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.702Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29759",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--76dc4c32-5f91-4853-ab15-1fec65d1581a",
+      "modified": "2021-07-18T21:05:41.702Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29759 changed from Low to Medium.",
+          "event_datetime": "2021-07-18T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Medium",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 2.3,
+          "base_severity_v3": "LOW",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29759",
+          "modified": "2021-07-15T17:32:00.000Z",
+          "published": "2021-07-07T17:15:00.000Z",
+          "score_2_0": 2.1,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:N"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.701Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29437",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--82b7e9e3-672c-44d4-a53c-d1c317d21b14",
+      "modified": "2021-07-18T21:05:41.701Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ae",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29437 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.8,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29437",
+          "modified": "2021-04-22T15:28:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:H/Au:N/C:P/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.701Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29444",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ea1f78b1-8058-4b10-aa42-8c877b9de30f",
+      "modified": "2021-07-18T21:05:41.701Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1af",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29444 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.9,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29444",
+          "modified": "2021-04-23T20:36:00.000Z",
+          "published": "2021-04-16T22:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 1.01,
+          "highest": {
+            "date": "2021-04-19T00:00:00.000Z",
+            "value": 5.06
+          },
+          "previouslyExploited": 2.58
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.701Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29445",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--eb15ffe2-c6d7-4f7f-b3bb-c8d80cc6903f",
+      "modified": "2021-07-18T21:05:41.701Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29445 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.9,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29445",
+          "modified": "2021-04-23T20:33:00.000Z",
+          "published": "2021-04-16T22:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 1.02,
+          "highest": {
+            "date": "2021-04-19T00:00:00.000Z",
+            "value": 5.08
+          },
+          "previouslyExploited": 2.61
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.701Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29451",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8344cfad-5803-4977-bcb7-e6b2c17c2051",
+      "modified": "2021-07-18T21:05:41.701Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29451 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 9.1,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29451",
+          "modified": "2021-04-22T21:25:00.000Z",
+          "published": "2021-04-16T22:15:00.000Z",
+          "score_2_0": 6.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N"
+        },
+        "score": {
+          "current": 1.02,
+          "highest": {
+            "date": "2021-04-25T00:00:00.000Z",
+            "value": 5.07
+          },
+          "previouslyExploited": 2.59
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.701Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29452",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6b74a7e5-6d32-49a3-9d2f-9e88f342e539",
+      "modified": "2021-07-18T21:05:41.701Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1b2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29452 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29452",
+          "modified": "2021-04-22T21:23:00.000Z",
+          "published": "2021-04-16T22:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "score": {
+          "current": 1.03,
+          "highest": {
+            "date": "2021-04-25T00:00:00.000Z",
+            "value": 5.09
+          },
+          "previouslyExploited": 2.62
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.700Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-29428",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--190e1df7-7500-4e22-bf4b-e46b7dbeec15",
+      "modified": "2021-07-18T21:05:41.700Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ad",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-29428 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-29428",
+          "modified": "2021-04-22T15:46:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 4.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.698Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28856",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4978d26a-3f11-4160-820c-8f9c4d3b5a32",
+      "modified": "2021-07-18T21:05:41.698Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ab",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28856 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28856",
+          "modified": "2021-04-21T19:03:00.000Z",
+          "published": "2021-04-14T17:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.02
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.698Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28874",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--712962c4-918c-4f7a-b3fe-d01a6134bf6d",
+      "modified": "2021-07-18T21:05:41.698Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1ac",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28874 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28874",
+          "modified": "2021-04-09T20:11:00.000Z",
+          "published": "2021-04-06T13:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.17
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.697Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28646",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cb14232b-2f5e-4761-85b0-03e816dc9179",
+      "modified": "2021-07-18T21:05:41.697Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a9",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28646 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28646",
+          "modified": "2021-04-14T21:19:00.000Z",
+          "published": "2021-04-13T13:15:00.000Z",
+          "score_2_0": 2.1,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.697Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28647",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--64a14cc0-7eac-4b7c-a914-53d78a5234da",
+      "modified": "2021-07-18T21:05:41.697Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1aa",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28647 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28647",
+          "modified": "2021-04-14T21:07:00.000Z",
+          "published": "2021-04-13T13:15:00.000Z",
+          "score_2_0": 4.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.03
+          },
+          "previouslyExploited": 2.53
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.694Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28469",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8b28a37f-25bb-4699-a83e-8cec754a2168",
+      "modified": "2021-07-18T21:05:41.694Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a5",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28469 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28469",
+          "modified": "2021-04-20T17:19:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 2.23,
+          "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+          },
+          "previouslyExploited": 5.88
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.694Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28473",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--a8ea566c-5cba-4e80-85e1-7aec5b34f01d",
+      "modified": "2021-07-18T21:05:41.694Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a6",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28473 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28473",
+          "modified": "2021-04-16T21:21:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 2.26,
+          "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.06
+          },
+          "previouslyExploited": 5.95
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.694Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28475",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--59f7f875-c1ce-43f2-8490-f471f23211ff",
+      "modified": "2021-07-18T21:05:41.694Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a7",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28475 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28475",
+          "modified": "2021-04-16T21:22:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 2.23,
+          "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+          },
+          "previouslyExploited": 5.88
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.694Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28477",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c8904caf-50c5-4673-bdd9-b979e13e2670",
+      "modified": "2021-07-18T21:05:41.694Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a8",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28477 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28477",
+          "modified": "2021-04-16T21:22:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 2.23,
+          "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+          },
+          "previouslyExploited": 5.88
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.693Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28457",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--164c4772-43ac-4582-b627-dfbca661557a",
+      "modified": "2021-07-18T21:05:41.693Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a4",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28457 changed from Medium to Low.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "Low",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Medium",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28457",
+          "modified": "2021-04-20T22:19:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 2.26,
+          "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.06
+          },
+          "previouslyExploited": 5.95
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.690Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28316",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b5988985-c073-4368-a548-28cdbba03364",
+      "modified": "2021-07-18T21:05:41.690Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a3",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28316 changed from Critical to High.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "High",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Critical",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 4.6,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28316",
+          "modified": "2021-04-15T20:47:00.000Z",
+          "published": "2021-04-13T20:15:00.000Z",
+          "score_2_0": 2.1,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 8.21,
+          "highest": {
+            "date": "2021-05-12T00:00:00.000Z",
+            "value": 9.99
+          },
+          "previouslyExploited": 9.86
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.689Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27990",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8c417360-9128-49cd-8b00-85748c9d9409",
+      "modified": "2021-07-18T21:05:41.689Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19e",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27990 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27990",
+          "modified": "2021-04-21T18:02:00.000Z",
+          "published": "2021-04-14T14:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.86
+          },
+          "previouslyExploited": 2.02
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.689Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28075",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3e9a33e1-5780-4643-9b9d-01923b703c30",
+      "modified": "2021-07-18T21:05:41.689Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19f",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28075 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28075",
+          "modified": "2021-04-12T12:34:00.000Z",
+          "published": "2021-04-06T13:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.689Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28171",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--31c34728-e127-49b6-9066-6a091b9f4410",
+      "modified": "2021-07-18T21:05:41.689Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a0",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28171 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28171",
+          "modified": "2021-04-09T19:41:00.000Z",
+          "published": "2021-04-06T12:15:00.000Z",
+          "score_2_0": 7.5,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.55
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.689Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28172",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b5a5a1b3-0b6f-46b1-a694-0ac3e3b37457",
+      "modified": "2021-07-18T21:05:41.689Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a1",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28172 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28172",
+          "modified": "2021-04-09T18:32:00.000Z",
+          "published": "2021-04-06T12:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.689Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-28173",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--84aff609-3a00-49fa-a51d-73204b85b68a",
+      "modified": "2021-07-18T21:05:41.689Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca1a2",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-28173 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28173",
+          "modified": "2021-04-09T19:15:00.000Z",
+          "published": "2021-04-06T12:15:00.000Z",
+          "score_2_0": 7.5,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.59
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.688Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27698",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f99aca9f-b0d8-4000-b6e1-25d16376f59c",
+      "modified": "2021-07-18T21:05:41.688Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19c",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27698 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27698",
+          "modified": "2021-04-09T17:58:00.000Z",
+          "published": "2021-04-06T13:15:00.000Z",
+          "score_2_0": 7.5,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.59
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.688Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27945",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--1f8bcbde-7228-44a7-b781-cffd79264196",
+      "modified": "2021-07-18T21:05:41.688Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19d",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27945 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.1,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27945",
+          "modified": "2021-04-14T20:17:00.000Z",
+          "published": "2021-04-08T17:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+        },
+        "score": {
+          "current": 1.0,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.05
+          },
+          "previouslyExploited": 2.55
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.687Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27544",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b3c4d827-c7b4-43fe-8fb7-5770c379de67",
+      "modified": "2021-07-18T21:05:41.687Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19a",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27544 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 4.8,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27544",
+          "modified": "2021-04-21T15:16:00.000Z",
+          "published": "2021-04-15T12:15:00.000Z",
+          "score_2_0": 3.5,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:N/AC:M/Au:S/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N"
+        },
+        "score": {
+          "current": 0.98,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.5
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.687Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27545",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--fb684213-0b70-4eec-b274-0b9eecf83614",
+      "modified": "2021-07-18T21:05:41.687Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca19b",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27545 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27545",
+          "modified": "2021-04-21T19:33:00.000Z",
+          "published": "2021-04-15T12:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.98,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.5
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.686Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27250",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c68d2274-ecfe-4d23-9d0b-d389e363944a",
+      "modified": "2021-07-18T21:05:41.686Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca198",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27250 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27250",
+          "modified": "2021-04-22T20:49:00.000Z",
+          "published": "2021-04-14T16:15:00.000Z",
+          "score_2_0": 3.3,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:A/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.97,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 4.99
+          },
+          "previouslyExploited": 2.48
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.686Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-27259",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--22e1c1c9-e3a5-4607-9d56-ab75229478aa",
+      "modified": "2021-07-18T21:05:41.686Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca199",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-27259 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27259",
+          "modified": "2021-04-22T15:59:00.000Z",
+          "published": "2021-04-14T16:15:00.000Z",
+          "score_2_0": 4.4,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.97,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 4.99
+          },
+          "previouslyExploited": 2.48
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.684Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-26833",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--849a386f-e420-4081-a603-8d077d19fa42",
+      "modified": "2021-07-18T21:05:41.684Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca196",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-26833 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.9,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26833",
+          "modified": "2021-04-14T20:54:00.000Z",
+          "published": "2021-04-06T16:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 1.07,
+          "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.75
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.684Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-26919",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6974d2a3-ec8d-49ea-9b3c-bdc6c8fe0d7e",
+      "modified": "2021-07-18T21:05:41.684Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca197",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-26919 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26919",
+          "modified": "2021-04-15T01:15:00.000Z",
+          "published": "2021-03-30T08:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.76,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 1.23
+          },
+          "previouslyExploited": 1.25
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.681Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-26076",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c58572d6-4f7c-4e75-9392-be7ec78c6acd",
+      "modified": "2021-07-18T21:05:41.681Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca195",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-26076 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 3.7,
+          "base_severity_v3": "LOW",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26076",
+          "modified": "2021-04-22T00:01:00.000Z",
+          "published": "2021-04-15T00:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.02
+          },
+          "previouslyExploited": 2.52
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.680Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-26030",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ee21a6f1-00cb-45ce-ab87-3101ea9d5121",
+      "modified": "2021-07-18T21:05:41.680Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca193",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-26030 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 6.1,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26030",
+          "modified": "2021-04-22T15:54:00.000Z",
+          "published": "2021-04-14T18:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+        },
+        "score": {
+          "current": 1.24,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.13
+          },
+          "previouslyExploited": 3.19
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T21:05:41.680Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-26031",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4b57c284-24c9-4f87-97b2-a9815f533de4",
+      "modified": "2021-07-18T21:05:41.680Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f497a505780294853ca194",
+          "action": "modified",
+          "description": "Sixgill Current score of CVE-2021-26031 changed from Low to None.",
+          "event_datetime": "2021-07-19T00:00:00.000Z",
+          "exploit_terms": null,
+          "level": "None",
+          "name": "Sixgill_score_level_change",
+          "prev_level": "Low",
+          "type": "score_level"
+        },
+        "nvd": {
+          "base_score_v3": 5.3,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26031",
+          "modified": "2021-04-22T00:35:00.000Z",
+          "published": "2021-04-14T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+        },
+        "score": {
+          "current": 1.24,
+          "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.13
+          },
+          "previouslyExploited": 3.19
+        }
+      }
+    }
+  ],
+  "spec_version": "2.0",
+  "type": "bundle"
+}

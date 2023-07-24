@@ -1,0 +1,18 @@
+{
+  "Domain": "teladoc.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635058800,
+    "PremiumTechs": 31,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 9602,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

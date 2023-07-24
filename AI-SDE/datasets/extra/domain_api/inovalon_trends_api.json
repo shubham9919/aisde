@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d3dpwkknyrpnnn.cloudfront.net/thumb/76-j0-cc-07-40-94/n",
+    "Categories": [],
+    "Tag": "framework",
+    "IsPremium": "No",
+    "Name": "ASP.NET 2.0",
+    "Description": "ASP.NET version 2.0.*",
+    "Link": "http://www.microsoft.com/net",
+    "TrendsLink": "https://trends.builtwith.com/framework/ASP.NET-2.0",
+    "Coverage": {
+      "TenK": 313,
+      "HundredK": 2025,
+      "Mil": 9255,
+      "Live": 473791,
+      "Historical": 1882072
+    }
+  }
+}

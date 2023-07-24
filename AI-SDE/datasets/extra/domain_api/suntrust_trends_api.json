@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d363qos3mhnap4.cloudfront.net/thumb/c0-e6-2d-48-3z-ed/n",
+    "Categories": [],
+    "Tag": "javascript",
+    "IsPremium": "No",
+    "Name": "jQuery 1.4.4",
+    "Description": "jQuery version 1.4.4",
+    "Link": "http://blog.jquery.com/2010/11/11/jquery-1-4-4-release-notes/",
+    "TrendsLink": "https://trends.builtwith.com/javascript/jQuery-1.4.4",
+    "Coverage": {
+      "TenK": 144,
+      "HundredK": 885,
+      "Mil": 4248,
+      "Live": 144944,
+      "Historical": 949645
+    }
+  }
+}

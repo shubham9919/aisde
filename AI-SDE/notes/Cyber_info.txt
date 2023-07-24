@@ -1,0 +1,42 @@
+Cyber Project Details:
+
+This project repo has the following folder structure
+common
+    - All the necessary utility scripts (Database, API, scores etc)
+config
+    - Config.yaml has all the configurations for this project
+    - Vault.json has the necessary credentials for --- api.
+DB
+    - Has all the MongoDB dump files required for cyber.
+Documentation
+    - Has all the documentations made on Cyber Project
+Key
+    - Has the files that can authenticate our account on GCP(for computing BSScore) 
+models
+    - Contains all the necessary model files for the project.
+notes
+    - Contains all necessary information about cyber project.
+output
+    - Contains the intermediate output files for TEV score computation.
+static
+    - All the necessary CSS files
+templates
+    - Contains all the necessary HTML files for flask app
+predicted_reports/prediction/repository/training/test
+    - All the model training/prediction repositories. (These are Untouched files from CBL project)
+
+app.py - This fis the main file which has the code to run the flask app. 
+
+class_app.py - This file is from the previous CBL project. (untouched)
+
+ProcureAllData.py - This file computes scores for all the companies from the Comapny DB.
+    - Note: except Samsung, Meta and Microsoft because one of the APIs does not return scores for these companies)
+    - Currently we dont have access to dataprovider so I have stopped collecting data for CBL!
+
+Regarding the DB: We are not collcting data after October 5. So what ever data we have is till 5th of october.
+
+We have four different routes for the app.
+Default-"/"
+Company details page - "/companydetails"
+All company scores - "/scorehistory"
+Specific company route - "/scorehistory/<int:variable>"

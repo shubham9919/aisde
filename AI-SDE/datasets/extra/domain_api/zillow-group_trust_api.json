@@ -1,0 +1,18 @@
+{
+  "Domain": "zillowgroup.com",
+  "DBRecord": {
+    "EarliestRecord": 1414281600,
+    "LatestUpdate": 1634799600,
+    "PremiumTechs": 33,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 14901,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

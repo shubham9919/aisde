@@ -1,0 +1,1784 @@
+{
+  "Relationships": [
+    {
+      "Domain": "eddiebauer.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "208.92.180.240",
+          "First": 1345212000000,
+          "Last": 1374242400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "204.74.99.100",
+          "First": 1375970400000,
+          "Last": 1563649594320,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "22834214",
+          "First": 1304344800000,
+          "Last": 1329742800000,
+          "Matches": [
+            {
+              "Domain": "eddiebaueroutlet.com",
+              "First": 1304344800000,
+              "Last": 1309701600000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "51977016",
+          "First": 1468378086671,
+          "Last": 1554977022758,
+          "Matches": [
+            {
+              "Domain": "petflow.com",
+              "First": 1463019204987,
+              "Last": 1583582404077,
+              "Overlap": true
+            },
+            {
+              "Domain": "vineyardvines.com",
+              "First": 1463020226531,
+              "Last": 1464155225241,
+              "Overlap": false
+            },
+            {
+              "Domain": "matalan.co.uk",
+              "First": 1463021268762,
+              "Last": 1493973945532,
+              "Overlap": true
+            },
+            {
+              "Domain": "whsmith.co.uk",
+              "First": 1463021696543,
+              "Last": 1463021696543,
+              "Overlap": false
+            },
+            {
+              "Domain": "lancome-usa.com",
+              "First": 1463021142264,
+              "Last": 1554973138859,
+              "Overlap": true
+            },
+            {
+              "Domain": "jtv.com",
+              "First": 1464151167877,
+              "Last": 1529260470988,
+              "Overlap": true
+            },
+            {
+              "Domain": "zh.lancome-usa.com",
+              "First": 1464153982022,
+              "Last": 1528375332572,
+              "Overlap": true
+            },
+            {
+              "Domain": "carnival.com",
+              "First": 1464158553370,
+              "Last": 1501064774759,
+              "Overlap": true
+            },
+            {
+              "Domain": "services.carnival.com",
+              "First": 1464158613137,
+              "Last": 1501041567456,
+              "Overlap": true
+            },
+            {
+              "Domain": "hautelook.com",
+              "First": 1464158663365,
+              "Last": 1514139579374,
+              "Overlap": true
+            },
+            {
+              "Domain": "nordstromrack.com",
+              "First": 1464158715874,
+              "Last": 1499413805821,
+              "Overlap": true
+            },
+            {
+              "Domain": "es.lancome-usa.com",
+              "First": 1464153305247,
+              "Last": 1501035639560,
+              "Overlap": true
+            },
+            {
+              "Domain": "jtvauctions.com",
+              "First": 1464151167877,
+              "Last": 1529260470988,
+              "Overlap": true
+            },
+            {
+              "Domain": "sswdealersupply.com",
+              "First": 1468399935058,
+              "Last": 1538554931207,
+              "Overlap": true
+            },
+            {
+              "Domain": "jewelrytelevision.com",
+              "First": 1469771779197,
+              "Last": 1529260470988,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerfriends.com",
+              "First": 1473579694833,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.de",
+              "First": 1476591090745,
+              "Last": 1498442798268,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorel.it",
+              "First": 1476591090745,
+              "Last": 1493970751700,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.es",
+              "First": 1476591090745,
+              "Last": 1498442798952,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorel.com",
+              "First": 1476591633314,
+              "Last": 1504168553513,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.ca",
+              "First": 1476591090745,
+              "Last": 1493970751700,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.fr",
+              "First": 1476591090745,
+              "Last": 1498442798952,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.nl",
+              "First": 1476591090745,
+              "Last": 1498442301351,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorel.at",
+              "First": 1476591090745,
+              "Last": 1493970751700,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.co.uk",
+              "First": 1476591573987,
+              "Last": 1493970751700,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorel.ie",
+              "First": 1476591633314,
+              "Last": 1498470380666,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorel.fi",
+              "First": 1476591090745,
+              "Last": 1498442798268,
+              "Overlap": true
+            },
+            {
+              "Domain": "sorelfootwear.be",
+              "First": 1476591090745,
+              "Last": 1498442301351,
+              "Overlap": true
+            },
+            {
+              "Domain": "carnival.co.uk",
+              "First": 1477533535127,
+              "Last": 1501041840270,
+              "Overlap": true
+            },
+            {
+              "Domain": "hautelook.net",
+              "First": 1481791492024,
+              "Last": 1498469643086,
+              "Overlap": true
+            },
+            {
+              "Domain": "w-w-d.org",
+              "First": 1484002945191,
+              "Last": 1484002945191,
+              "Overlap": true
+            },
+            {
+              "Domain": "lancome.com",
+              "First": 1488527541265,
+              "Last": 1530012958435,
+              "Overlap": true
+            },
+            {
+              "Domain": "services.carnival.co.uk",
+              "First": 1488864084734,
+              "Last": 1501041559749,
+              "Overlap": true
+            },
+            {
+              "Domain": "carnival.com.au",
+              "First": 1488876540283,
+              "Last": 1488877634240,
+              "Overlap": true
+            },
+            {
+              "Domain": "roadrunnersports.com",
+              "First": 1493988091565,
+              "Last": 1607795754329,
+              "Overlap": true
+            },
+            {
+              "Domain": "petglad.com",
+              "First": 1494662074473,
+              "Last": 1512059311463,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauer.ca",
+              "First": 1500968845899,
+              "Last": 1556419775513,
+              "Overlap": true
+            },
+            {
+              "Domain": "firstscent.com",
+              "First": 1511946843492,
+              "Last": 1524499343124,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebayuer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddieboauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiepauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiesbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddisbauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddkebauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddfiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebvauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddienbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebrauer.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaeuer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauertravelsystem.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauertravelsystem.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerbassinet.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerusa.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddeiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerbassinets.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaurr.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eediebauer.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaueroutlt.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstores.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerpaint.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstroller.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauersports.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauer-coupons.net",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddeibauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstrollerx.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauert.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddidbauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiedauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "efddiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiedbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebsauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "couponsforeddiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529276375482,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebnauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiuebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerpromocode.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddievbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerpromotioncode.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiwbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercouponscodes.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaue5.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "edduiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaues.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauer-coupons.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauet.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercouponsx.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerdraperyhardware.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaued.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauere.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerdeals.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercarseats.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauef.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "exploreeddiebauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerclearance.com",
+              "First": 1511946843492,
+              "Last": 1517489743034,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercarseat.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerclothes.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerkorea.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerlies.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "dddiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529253669637,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercoupon.net",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercouponcode.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercouponcode.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "firstacent.com",
+              "First": 1511946843492,
+              "Last": 1529227010528,
+              "Overlap": true
+            },
+            {
+              "Domain": "edidebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "buyeddiebauerstrollers.com",
+              "First": 1511946843492,
+              "Last": 1529229532349,
+              "Overlap": true
+            },
+            {
+              "Domain": "firstascend.com",
+              "First": 1511946843492,
+              "Last": 1529227010528,
+              "Overlap": true
+            },
+            {
+              "Domain": "edediebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddievauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauer.co",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiibauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddeebauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiiebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerseattle.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauver.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercouponcodes.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauyer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercoupons.net",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerhighchairreview.com",
+              "First": 1511946843492,
+              "Last": 1520588433552,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddibeauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebzuer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerjrent.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddieibauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebajer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddoebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercard.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiewbauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebarer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "edduebauer.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerpaints.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "addiebauer.com",
+              "First": 1511946843492,
+              "Last": 1524474915721,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaher.com",
+              "First": 1511946843492,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaier.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddieabuer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaudr.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerconvertibleevenfloconvertiblecarseat.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "esddiebauer.com",
+              "First": 1511946843492,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "lancome.in",
+              "First": 1511946779717,
+              "Last": 1514108430940,
+              "Overlap": true
+            },
+            {
+              "Domain": "rddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529222366693,
+              "Overlap": true
+            },
+            {
+              "Domain": "sddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529271113409,
+              "Overlap": true
+            },
+            {
+              "Domain": "www-eddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529269626653,
+              "Overlap": true
+            },
+            {
+              "Domain": "weloveeddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529269626653,
+              "Overlap": true
+            },
+            {
+              "Domain": "weddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529269626653,
+              "Overlap": true
+            },
+            {
+              "Domain": "wwwleddiebauer.com",
+              "First": 1511945538007,
+              "Last": 1529269626653,
+              "Overlap": true
+            },
+            {
+              "Domain": "athleteshelpingathletes.org",
+              "First": 1511951577279,
+              "Last": 1524472678083,
+              "Overlap": true
+            },
+            {
+              "Domain": "yourdiscoveryrun.com",
+              "First": 1514129190104,
+              "Last": 1517511275527,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauher.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauier.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauee.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiehauer.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerdiaperbag.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerlocations.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddieeauer.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiegauer.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerfreinds.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerfriend.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauir.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaueroutlet.org",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebasuer.com",
+              "First": 1514112564597,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddieabauer.com",
+              "First": 1514112564597,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauetr.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaiuer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaver.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauewr.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstrollers.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauersurvey.com",
+              "First": 1514120215459,
+              "Last": 1517489743034,
+              "Overlap": true
+            },
+            {
+              "Domain": "geddiebauer.com",
+              "First": 1514120215459,
+              "Last": 1524497166650,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddoiebauer.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "ewddiebauer.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "iddiebauer.com",
+              "First": 1514120215459,
+              "Last": 1529259840822,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebaouer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddyebauer.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebausr.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauter.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "teameddiebauerjr.com",
+              "First": 1514120215459,
+              "Last": 1529285963808,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddjebauer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerhomestore.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "edditbauer.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiwebauer.com",
+              "First": 1514120215459,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebwuer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "erddiebauer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddirebauer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "dediebauer.com",
+              "First": 1514120215459,
+              "Last": 1529253669637,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddie-bauer.com",
+              "First": 1514120215459,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "reddiebauer.com",
+              "First": 1514120215459,
+              "Last": 1524470610767,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebeauer.com",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauercarseat.com",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddienauer.com",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerbaby.net",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerbabystroller.com",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerbassinet.com",
+              "First": 1517489743034,
+              "Last": 1517489743034,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddsiebauer.com",
+              "First": 1517489743034,
+              "Last": 1517489743034,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstroller.com",
+              "First": 1517489743034,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauwr.com",
+              "First": 1517489743034,
+              "Last": 1524482148848,
+              "Overlap": true
+            },
+            {
+              "Domain": "lancome-huiddiagnose.nl",
+              "First": 1520621329032,
+              "Last": 1520621329032,
+              "Overlap": true
+            },
+            {
+              "Domain": "lancome-diagnosticsoin.be",
+              "First": 1520621329032,
+              "Last": 1520621329032,
+              "Overlap": true
+            },
+            {
+              "Domain": "firstassent.com",
+              "First": 1529227010528,
+              "Last": 1529227010528,
+              "Overlap": true
+            },
+            {
+              "Domain": "petflow.net",
+              "First": 1529265164846,
+              "Last": 1529265164846,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddlebauer.com",
+              "First": 1529240904989,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauerstore.com",
+              "First": 1529240904989,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "edfiebauer.com",
+              "First": 1529240904989,
+              "Last": 1529240904989,
+              "Overlap": true
+            },
+            {
+              "Domain": "ewrairportparkingtips.com",
+              "First": 1549173343954,
+              "Last": 1549173343954,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "coremetrics",
+          "Value": "30000102",
+          "First": 1468378086671,
+          "Last": 1532938653136,
+          "Matches": []
+        },
+        {
+          "Type": "coremetrics",
+          "Value": "99999999",
+          "First": 1470808284857,
+          "Last": 1532940537446,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "ev.eddiebauer.com.edgekey.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "e379.a.akamaiedge.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.193.185.200",
+          "First": 1507590000000,
+          "Last": 1507590000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.6.65.182",
+          "First": 1508281200000,
+          "Last": 1574053725193,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.96.233.181",
+          "First": 1508799600000,
+          "Last": 1508799600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.13.145.167",
+          "First": 1510009200000,
+          "Last": 1516662000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "2.19.129.167",
+          "First": 1510614000000,
+          "Last": 1510614000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "72.247.82.50",
+          "First": 1513033200000,
+          "Last": 1517266800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "2.20.201.248",
+          "First": 1514847600000,
+          "Last": 1514847600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.74.70.210",
+          "First": 1515193200000,
+          "Last": 1517871600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.50.107.64",
+          "First": 1516057200000,
+          "Last": 1516057200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.214.16.87",
+          "First": 1519081200000,
+          "Last": 1519081200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.125.186.71",
+          "First": 1519686000000,
+          "Last": 1519686000000,
+          "Matches": []
+        },
+        {
+          "Type": "signal",
+          "Value": "tEUfura",
+          "First": 1519858800000,
+          "Last": 1520290800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.88.43.199",
+          "First": 1519945200000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "sitecatalyst",
+          "Value": "eddiebauerusprod",
+          "First": 1528045131644,
+          "Last": 1605099601011,
+          "Matches": [
+            {
+              "Domain": "wlspe.com",
+              "First": 1539257027328,
+              "Last": 1539257027328,
+              "Overlap": true
+            },
+            {
+              "Domain": "zaarmagus.site",
+              "First": 1573967569379,
+              "Last": 1573967569379,
+              "Overlap": true
+            },
+            {
+              "Domain": "ebi.eddiebauer.com",
+              "First": 1605099601011,
+              "Last": 1605099601011,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "64735145",
+          "First": 1532692893737,
+          "Last": 1533234250849,
+          "Matches": [
+            {
+              "Domain": "careers.eddiebauer.com",
+              "First": 1458565200000,
+              "Last": 1628090969271,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "52.52.64.247",
+          "First": 1532861992709,
+          "Last": 1587074093627,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.52.18.176",
+          "First": 1532861992709,
+          "Last": 1584443714895,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.86.163.26",
+          "First": 1532916051509,
+          "Last": 1588298189252,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.22.216.234",
+          "First": 1532916051509,
+          "Last": 1588298189252,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.196.16.50",
+          "First": 1532938653136,
+          "Last": 1586509700188,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.12",
+          "First": 1532947902619,
+          "Last": 1539485359148,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.14",
+          "First": 1533577733555,
+          "Last": 1533577733555,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.25",
+          "First": 1533577733555,
+          "Last": 1533577733555,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "AW-938136348",
+          "First": 1535643083245,
+          "Last": 1602441561993,
+          "Matches": [
+            {
+              "Domain": "eddiebauer.ca",
+              "First": 1540846847620,
+              "Last": 1602576948825,
+              "Overlap": true
+            },
+            {
+              "Domain": "zaarmagus.site",
+              "First": 1573967569379,
+              "Last": 1573967569379,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.2",
+          "First": 1536684178489,
+          "Last": 1536684178489,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.21",
+          "First": 1536684016704,
+          "Last": 1536684016704,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.12",
+          "First": 1540846871073,
+          "Last": 1540846871073,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1545926555248,
+          "Last": 1586507812677,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "98.129.229.225",
+          "First": 1545919292000,
+          "Last": 1554977022758,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.239.36.21",
+          "First": 1546003128922,
+          "Last": 1583600187405,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.239.32.21",
+          "First": 1546003128922,
+          "Last": 1583600187405,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.239.38.21",
+          "First": 1546003128922,
+          "Last": 1583600187405,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.239.34.21",
+          "First": 1546003128922,
+          "Last": 1579720835106,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "83191501",
+          "First": 1563649594320,
+          "Last": 1602441561993,
+          "Matches": [
+            {
+              "Domain": "eddiebauer.ca",
+              "First": 1560637873701,
+              "Last": 1602576948825,
+              "Overlap": true
+            },
+            {
+              "Domain": "zaarmagus.site",
+              "First": 1573967569379,
+              "Last": 1573967569379,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "23.5.139.30",
+          "First": 1574053725193,
+          "Last": 1574053725193,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.102.207.196",
+          "First": 1579679970751,
+          "Last": 1579679970751,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.70.48.208",
+          "First": 1583581745346,
+          "Last": 1583581745346,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.196.99.226",
+          "First": 1583581745346,
+          "Last": 1583581745346,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.95.178.213",
+          "First": 1586509700188,
+          "Last": 1586509700188,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.218.48.63",
+          "First": 1586509700188,
+          "Last": 1586509700188,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.108.106.31",
+          "First": 1591938741233,
+          "Last": 1591938741233,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.125.17.59",
+          "First": 1595074184101,
+          "Last": 1595074184101,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.204.36.218",
+          "First": 1599680800740,
+          "Last": 1599680800740,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.109.57.190",
+          "First": 1601113021286,
+          "Last": 1601113021286,
+          "Matches": []
+        },
+        {
+          "Type": "optimizely",
+          "Value": "18379630710",
+          "First": 1601137583402,
+          "Last": 1605099601011,
+          "Matches": [
+            {
+              "Domain": "stg01.eddiebauer.com",
+              "First": 1599680800740,
+              "Last": 1628090969271,
+              "Overlap": true
+            },
+            {
+              "Domain": "ebi.eddiebauer.com",
+              "First": 1599680800740,
+              "Last": 1605099601011,
+              "Overlap": true
+            },
+            {
+              "Domain": "eddiebauer.ca",
+              "First": 1601248561514,
+              "Last": 1602576948825,
+              "Overlap": true
+            },
+            {
+              "Domain": "development.eddiebauer.ca",
+              "First": 1605228053789,
+              "Last": 1605228053789,
+              "Overlap": false
+            },
+            {
+              "Domain": "eddiebaueroutlet.com",
+              "First": 1620202292154,
+              "Last": 1620202292154,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "184.27.209.145",
+          "First": 1605079291578,
+          "Last": 1618242806920,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.1.46.119",
+          "First": 1605099601011,
+          "Last": 1614240000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.39.114.97",
+          "First": 1608420848775,
+          "Last": 1608420848775,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.96.216.121",
+          "First": 1612894954451,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "173.223.193.136",
+          "First": 1614240000000,
+          "Last": 1614240000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.5.130.119",
+          "First": 1614240000000,
+          "Last": 1615104000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.25.198.231",
+          "First": 1614240000000,
+          "Last": 1628090175714,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.207.209.9",
+          "First": 1614240000000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.91.110.85",
+          "First": 1614240000000,
+          "Last": 1614240000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.119.18.40",
+          "First": 1614240000000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.117.1.58",
+          "First": 1614326400000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.202.156.162",
+          "First": 1614326400000,
+          "Last": 1614326400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.24.68.237",
+          "First": 1614326400000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.46.235.76",
+          "First": 1614412800000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.46.58.111",
+          "First": 1614412800000,
+          "Last": 1614412800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.2.149.152",
+          "First": 1618815600000,
+          "Last": 1618815600000,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

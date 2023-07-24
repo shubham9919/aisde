@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://dbuflkpcdpfh3.cloudfront.net/thumb/87-e3-qe-91-d5-e2/n",
+    "Categories": [],
+    "Tag": "ns",
+    "IsPremium": "No",
+    "Name": "1and1 DNS",
+    "Description": "DNS services provided by 1&1.",
+    "Link": "http://1and1.com",
+    "TrendsLink": "https://trends.builtwith.com/ns/1and1-DNS",
+    "Coverage": {
+      "TenK": 4,
+      "HundredK": 57,
+      "Mil": 1050,
+      "Live": 285448,
+      "Historical": 2779678
+    }
+  }
+}

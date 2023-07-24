@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<!--suppress ALL -->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <title>WISR.AI</title>
+
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+
+    <script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+    <link href="{{ url_for('static', filename='stylesheets/style.css') }}" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+    <script src="//cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+
+    <!-- Area Chart example (overall scores chart)-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <!-- Area chart for CVE-->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let nvd = "{{data['CVEG_nvd_score']}}";
+        let css = "{{data['CVEG_css_score']}}";
+        var nvd_arr = JSON.parse("[" + nvd + "]");
+        var css_arr = JSON.parse("[" + css + "]");
+        console.log(nvd_arr[0])
+        console.log(css_arr[0])
+        len = nvd_arr[0].length;
+        let data_mode = "{{data['data_mode']}}";
+        console.log(data_mode)
+        var date_arr1 = [];
+        if (data_mode == 0) {
+            for (let j = len; j >= 1; j = j - 1) {
+                var today1 = new Date();
+                var temp1 = today1.setDate(today1.getDate() - j);
+                var past_date1 = new Date(temp1).toDateString();
+                date_arr1.push(past_date1);
+            };
+        }
+        else {
+            for (let j = len - 1; j >= 0; j = j - 1) {
+                var today1 = new Date();
+                var temp1 = today1.setDate(today1.getDate() - j);
+                var past_date1 = new Date(temp1).toDateString();
+                date_arr1.push(past_date1);
+            };
+
+        }
+        console.log(date_arr1)
+        function drawChart() {
+            var data1 = [];
+            var Header1 = ['Date', 'NVD', 'CSS'];
+            data1.push(Header1);
+
+            for (var i = 0; i < nvd_arr[0].length; i++) {
+                var temp = [];
+                temp.push(date_arr1[i]);
+                temp.push(nvd_arr[0][i]);
+                temp.push(css_arr[0][i]);
+                data1.push(temp);
+            }
+
+
+            var chartdata1 = new google.visualization.arrayToDataTable(data1);
+
+            var options = {
+                hAxis: {
+                    title: 'Date', titleTextStyle: { color: '#333' }, textPosition: 'none',
+                    gridlines: {
+                        color: 'white'
+                    }
+                },
+                vAxis: {
+                    minValue: 0,
+                    gridlines: {
+                        color: 'white'
+                    }
+                },
+                color: ["#00FFEA", "#8612F3"],
+                legend: { position: 'bottom' }
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('CVE_div'));
+            chart.draw(chartdata1, options);
+        }
+    </script>
+    <!--Line Chart  (BSS)-->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let bss = "{{data['BSS_trend']}}";
+        var array = JSON.parse("[" + bss + "]");
+        console.log(array)
+        var len = array[0].length;
+        console.log(len)
+        var date_arr = [];
+        if (data_mode == 0) {
+
+            for (let j = len; j >= 1; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_arr.push(past_date);
+            };
+        }
+        else {
+            for (let j = len - 1; j >= 0; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_arr.push(past_date);
+            };
+
+        }
+        console.log(date_arr);
+
+        function drawChart() {
+            var data = [];
+            var Header = ['Date', 'BSS'];
+            data.push(Header);
+
+            for (var i = 0; i < array[0].length; i++) {
+                var temp = [];
+                temp.push(date_arr[i])
+                temp.push(array[0][i])
+                data.push(temp);
+            }
+
+            var chartdata = new google.visualization.arrayToDataTable(data);
+            var options = {
+                legend: { position: 'None' },
+                hAxis: {
+                    title: 'Date',
+                    textPosition: 'none',
+                    gridlines: {
+                        color: 'white'
+                    }
+                },
+                vAxis: {
+                    gridlines: {
+                        color: '#a5abb1'
+                    }
+                }
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
+
+            chart.draw(chartdata, options);
+        }
+    </script>
+    <!--area chart BSS -->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let BSS = "{{data['BSS_trend']}}";
+        var bss_array = JSON.parse("[" + BSS + "]");
+        console.log(bss_array)
+        for (let i = 0; i < bss_array[0].length; i++) {
+            bss_array[0][i] = (bss_array[0][i] + 5) / 2
+        }
+
+        if (bss_array[0].length > 7) {
+            var leng = 7;
+        }
+        else {
+            var leng = bss_array[0].length;
+        }
+        console.log(bss_array[0][16])
+        var date_arrr = [];
+        if (data_mode == 0) {
+            for (let j = leng; j >= 1; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_arrr.push(past_date);
+            };
+
+        }
+        else {
+            for (let j = leng - 1; j >= 0; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_arrr.push(past_date);
+            };
+
+        }
+        console.log(date_arrr);
+
+        function drawChart() {
+            var data = [];
+            var Header = ['Date', 'BSS'];
+            data.push(Header);
+            var arr_len = bss_array[0].length;
+            if (arr_len < 7) {
+                for (var k = 0; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_arrr[k]);
+                    temp.push(bss_array[0][k]);
+                    data.push(temp);
+                }
+
+            }
+            else {
+                let i = 0;
+                for (var k = arr_len - 7; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_arrr[i]);
+                    temp.push(bss_array[0][k]);
+                    data.push(temp);
+                    i = i + 1;
+                }
+
+            }
+
+            var chartdata = new google.visualization.arrayToDataTable(data);
+            var options = {
+                legend: 'None',
+                chartArea: { width: '100%', height: '100%' },
+                legend: { position: 'none' },
+                hAxis: {
+                    textPosition: 'none', gridlines: {
+                        color: 'transparent'
+
+                    }
+                },
+                vAxis: {
+                    viewWindow: {
+                        min: 0,
+                        max: 10
+                    },
+
+                    textPosition: 'none',
+
+                    gridlines: {
+                        color: 'transparent'
+
+                    }
+                }
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart_div2'));
+
+            chart.draw(chartdata, options);
+        }
+    </script>
+    <!--area chart Dark web CVE-->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let CS = "{{data['CVEG_css_score']}}";
+        var css_arrr = JSON.parse("[" + CS + "]");
+        console.log(css_arrr[0])
+        if (css_arrr[0].length > 7) {
+            var len = 7;
+        }
+        else {
+            var len = css_arrr[0].length;
+        }
+        console.log(len)
+        var date_arrr1 = [];
+        if (data_mode == 0) {
+            for (let j = len; j >= 1; j = j - 1) {
+                var today1 = new Date();
+                var temp1 = today1.setDate(today1.getDate() - j);
+                var past_date1 = new Date(temp1).toDateString();
+                date_arrr1.push(past_date1);
+            };
+
+        }
+        else {
+            for (let j = len - 1; j >= 0; j = j - 1) {
+                var today1 = new Date();
+                var temp1 = today1.setDate(today1.getDate() - j);
+                var past_date1 = new Date(temp1).toDateString();
+                date_arrr1.push(past_date1);
+            };
+
+        }
+
+        console.log(date_arrr1)
+        function drawChart() {
+            var data1 = [];
+            var Header1 = ['Date', 'CSS'];
+            data1.push(Header1);
+            var arr_len = css_arrr[0].length;
+            if (arr_len < 7) {
+                for (var k = 0; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_arrr1[k]);
+                    temp.push(css_arrr[0][k]);
+                    data1.push(temp);
+                }
+            }
+            else {
+                let i = 0;
+                for (var k = arr_len - 7; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_arrr1[i]);
+                    temp.push(css_arrr[0][k]);
+                    i = i + 1
+                    data1.push(temp);
+                }
+            }
+
+            var chartdata1 = new google.visualization.arrayToDataTable(data1);
+
+            var options = {
+                legend: 'None',
+                chartArea: { width: '100%', height: '100%' },
+                legend: { position: 'none' },
+                hAxis: {
+                    textPosition: 'none', gridlines: {
+                        color: 'transparent'
+
+                    }
+                },
+                vAxis: {
+                    viewWindow: {
+                        min: 0,
+                        max: 9
+                    },
+                    textPosition: 'none',
+
+                    gridlines: {
+                        color: 'transparent'
+
+                    }
+                }
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart_div3'));
+            chart.draw(chartdata1, options);
+        }
+    </script>
+    <!--area chart for Breach Risk-->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let BRS = "{{data['Breach_Risk_Score']}}";
+        var brs_array = JSON.parse("[" + BRS + "]");
+        console.log(brs_array)
+        if (brs_array[0].length > 7) {
+            var leng1 = 7;
+        }
+        else {
+            var leng1 = brs_array[0].length;
+        }
+        var date_array1 = [];
+        if (data_mode == 0) {
+            for (let j = leng1; j >= 1; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_array1.push(past_date);
+            };
+        }
+        else {
+            for (let j = leng1 - 1; j >= 0; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_array1.push(past_date);
+            };
+        }
+
+        console.log(date_array1);
+
+        function drawChart() {
+            var data = [];
+            var Header = ['Date', 'Breach_risk_score'];
+            data.push(Header);
+            var arr_len = brs_array[0].length;
+            if (arr_len < 7) {
+                for (var k = 0; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_array1[k])
+                    temp.push(brs_array[0][k]);
+                    data.push(temp);
+                }
+            }
+            else {
+                let i = 0;
+                for (var k = arr_len - 7; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_array1[i])
+                    temp.push(brs_array[0][k]);
+                    data.push(temp);
+                    i = i + 1
+                }
+            }
+
+            var chartdata = new google.visualization.arrayToDataTable(data);
+            var options = {
+                legend: 'None',
+                chartArea: { width: '100%', height: '100%' },
+
+                legend: { position: 'none' },
+                hAxis: {
+                    textPosition: 'none', gridlines: {
+                        color: 'transparent'
+
+                    }
+                },
+                vAxis: {
+                    viewWindow: {
+                        min: 0,
+                        max: 10
+                    },
+                    textPosition: 'none',
+
+                    gridlines: {
+                        color: 'transparent'
+
+                    }
+                }
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart_div1'));
+
+            chart.draw(chartdata, options);
+        }
+    </script>
+    <!--area chart for 90 day History-->
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+        let over = "{{data['overall_trend']}}";
+        var over_array = JSON.parse("[" + over + "]");
+        console.log(over_array)
+        if (over_array[0].length > 7) {
+            var leng2 = 7;
+        }
+        else {
+            var leng2 = over_array[0].length;
+        }
+        console.log(leng2)
+        var date_array2 = [];
+        if (data_mode == 0) {
+            for (let j = leng2; j >= 1; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_array2.push(past_date);
+            };
+
+        }
+        else {
+            for (let j = leng2 - 1; j >= 0; j = j - 1) {
+                var today = new Date();
+                var temp = today.setDate(today.getDate() - j);
+                var past_date = new Date(temp).toDateString();
+                date_array2.push(past_date);
+            };
+
+        }
+        console.log(date_array2);
+
+        function drawChart() {
+            var data = [];
+            var Header = ['Date', 'Overall_score'];
+            data.push(Header);
+            var arr_len = over_array[0].length;
+            if (arr_len < 7) {
+                for (var k = 0; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_array2[k])
+                    temp.push(over_array[0][k]);
+                    data.push(temp);
+                    console.log(temp)
+                }
+
+
+            }
+            else {
+                let i = 0;
+                for (var k = arr_len - 7; k < arr_len; k++) {
+                    var temp = [];
+                    temp.push(date_array2[i])
+                    temp.push(over_array[0][k]);
+                    data.push(temp);
+                    i = i + 1
+                }
+
+            }
+
+            var chartdata = new google.visualization.arrayToDataTable(data);
+            var options = {
+                legend: 'None',
+                chartArea: { width: '100%', height: '100%' },
+                legend: { position: 'none' },
+                hAxis: {
+                    textPosition: 'none', gridlines: {
+                        color: 'transparent'
+
+                    }
+                },
+                vAxis: {
+                    viewWindow: {
+                        min: 0,
+                        max: 10
+                    },
+                    textPosition: 'none',
+
+                    gridlines: {
+                        color: 'transparent'
+
+                    }
+                }
+            };
+
+            var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+
+            chart.draw(chartdata, options);
+        }
+    </script>
+</head>
+
+<body>
+
+
+    <div class="wrapper">
+
+        <nav id="sidebar">
+
+            <div class="sidebar-header">
+                <a href={{url_for("index") }}>
+                    <h2>WISR.AI</h2>
+                </a>
+            </div>
+            <ul class="list-unstyled components">
+
+
+                <li>
+                    <a href={{url_for("index") }}>Cyber Breach Probability</a>
+                </li>
+
+                <li>
+                    <a href="#">Trending Exploits</a>
+                </li>
+
+                <li>
+                    <a href="#">Base Org Risk</a>
+                </li>
+
+                <li>
+                    <a href="#">Master Risk Score</a>
+                </li>
+
+                <li>
+                    <a href="#">Dark Web Risk</a>
+                </li>
+
+                <li>
+                    <a href="/scorehistory">Vendor Risk Scores</a>
+                </li>
+
+                <li>
+                    <a href="/companydetails">Company Details</a>
+                </li>
+
+                <li>
+                    <a href="#">Help</a>
+                </li>
+
+            </ul>
+        </nav>
+
+
+        <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+                <div class="container-fluid">
+
+                    <h2>CYBER RISK INSIGHTS ENGINE</h2>
+                    <button class="btn  btn-info " id="sidebarCollapse" type="button">
+
+                        <span>Toggle Sidebar</span>
+
+                    </button>
+                </div>
+            </nav>
+
+
+            <br>
+            <br>
+
+            <div class="container-fluid allDiv ">
+
+                <h3>Cyber Breach Insights</h3>
+                <br>
+
+                <h4>Predicted Breach Risk Overview</h4>
+                <br>
+
+                <p>
+                    The Wisr Cyber Risk Analysis system uses our artificial intelligence platform to predict the overall
+                    cyber risk faced by an organization.
+                </p>
+                <br>
+                <form action="/" method="POST">
+                    <div class="form-group">
+
+                        <div class="row g-3 align-items-center">
+
+                            <div class="col-auto">
+                                <label class="col-form-label" for="hostname">Enter your Domain:</label>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <input aria-describedby="passwordHelpInline" class="form-control" id="hostname"
+                                    name="hostname" type="text" required value='{{data["hostname"]}}'>
+                            </div>
+
+                            <div class="col-auto">
+                                <label class="col-form-label" for="company">Enter your Company Name:</label>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <input aria-describedby="passwordHelpInline" class="form-control" id="company"
+                                    name="company" type="text" required value='{{data["Company"]}}'>
+                            </div>
+
+
+
+                            <div class="col-auto">
+                                <button class="btn btn-primary" type="submit">Go!</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                {% if data and not data['success'] %}
+                {% if data['status'] == 404 %}
+                <h5 class="card-header alert alert-danger">Hostname '{{data['features']['hostname']}}' not found!</h5>
+                {% elif data['status'] == 403 %}
+                <h5 class="card-header alert alert-danger">Subscription limit reached!</h5>
+                {% endif %}
+                {% endif %}
+
+            </div>
+
+            <br>
+
+            {% if data and data['success'] %}
+            <div class="container-fluid allDiv">
+                <h4><b>Cyber Risk Exposure</b></h4>
+                <br>
+                <div class="row d-flex align-items-center justify-content-center">
+                    <div class="col-md-2">
+                        <h5 class="scoreHeaderText2">Total Inherent Risk</h5>
+                        <br>
+                        <p>The total cyber risk across your enterprise and all of your 3rd party vendors and partners
+                        </p>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="skill">
+                            <div class="outer">
+                                <div class="inner">
+                                    {%if data['Overall'] >= 7.0%}
+                                    <div id="number1" class="numberred">
+                                        {{data['Overall']}}
+                                    </div>
+                                    {%elif data['Overall'] > 4.0 and data['Overall'] <= 7.0%} <div id="number1"
+                                        class="numberorange">
+                                        {{data['Overall']}}
+                                </div>
+                                {%else%}
+                                <div id="number1" class="numbergreen">
+                                    {{data['Overall']}}
+                                </div>
+                                {%endif%}
+                            </div>
+                        </div>
+
+                        <svg height="160px" width="160px" xmlns="http://www.w3.org/2000/svg">
+                            <defs>
+                                <linearGradient id="GradientColor">
+                                    <stop offset="0%" stop-color="#e91e63" />
+                                    <stop offset="100%" stop-color="#673ab7" />
+                                </linearGradient>
+                            </defs>
+                            {%if data['Overall'] >= 7.0%}
+                            <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="red"
+                                class="animation2" />
+                            {%elif data['Overall'] > 4.0 and data['Overall']
+                            <= 7.0%} <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round"
+                                stroke="rgb(243, 188, 85)" class="animation2" />
+                            {%else%}
+                            <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round"
+                                stroke="rgb(36, 155, 36)" class="animation2" />
+                            {%endif%}
+                        </svg>
+
+                    </div>
+
+                </div>
+                <div class="col-md-2">
+                    <h5 class="leftalign">90 Day History</h5>
+                    <div id="chart_div"></div>
+                    <p class=" graphheader">Your Risk: {{data['Overall']}}<br><span class="graphfooter">
+                            {%if data['overall_inc'] >= 0%}
+                            <span style="color:red">{{"%.2f"|format(data['overall_inc']*100)}}%</span> higher <br>vs
+                            previous day</span></p>
+                    {%elif data['overall_inc'] < 0%} <span style="color:green">
+                        {{"%.2f"|format(data['overall_inc']*100*-1)}}%</span> lower <br>vs previous
+                        day</span></p>
+                        {%endif%}
+                </div>
+                <div class="col-md-2">
+                    <h5 class="leftalign">Breach Risk</h5>
+                    <div id="chart_div1"></div>
+                    <p class="graphheader">3rd Party Risk: {{"%.2f"|format(data['predictions']['probability'] *
+                        10)}}<br><span class="graphfooter">
+                            {%if data['breach_inc'] >= 0%}
+                            <span style="color:red;">{{"%.2f"|format(data['breach_inc']*100)}}%</span> higher <br>vs
+                            previous day</span></p>
+                    {%elif data['breach_inc'] < 0%} <span style="color:green">
+                        {{"%.2f"|format(data['breach_inc']*100*-1)}}%</span> lower <br>vs previous
+                        day</span></p>
+                        {%endif%}
+                </div>
+                <div class="col-md-2">
+                    <h5 class="leftalign">Brand Sentiment</h5>
+                    <div id="chart_div2"></div>
+                    {%if data['bss_inc'] >= 0%}
+                    <p class="graphheader">Risk: Decreasing <br><span class="graphfooter">
+                            <span style="color: green;">{{"%.2f"|format(data['bss_inc']*100)}}%</span> higher <br>vs
+                            previous day</span>
+                    </p>
+                    {%elif data['bss_inc'] < 0%} <p class="graphheader">Risk: Increasing <br><span
+                            class="graphfooter"><span style="color:red">
+                                {{"%.2f"|format(data['bss_inc']*100*-1)}}%</span> lower <br>vs previous
+                            day</span></p>
+                        {%endif%}
+                        </p>
+                </div>
+                <div class="col-md-2">
+                    <h5 class="leftalign">Dark Web Risk</h5>
+                    <div id="chart_div3"></div>
+                    {%if data['css_inc'] >= 0%}
+                    <p class="graphheader">Risk: Increasing<br><span class="graphfooter">
+                            <span style="color: red;">{{"%.2f"|format(data['css_inc']*100)}}%</span> higher <br>vs
+                            previous day</span></p>
+                    {%elif data['css_inc'] < 0%} <p class="graphheader">Risk: Decreasing<br><span
+                            class="graphfooter"><span style="color:green">
+                                {{"%.2f"|format(data['css_inc']*100*-1)}}%</span> lower <br>vs previous
+                            day</span></p>
+                        {%endif%}
+                </div>
+
+            </div>
+
+
+        </div>
+        <br>
+        <div class="container-fluid allDiv">
+            <h4><b>Cyber Breach Probability</b></h4>
+            <br>
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-md-2 col-sm-6">
+                    <h5 class="scoreHeaderText2">Predicted Breach Risk</h5>
+                    <br>
+                    <p>This represents the similarity between your organization and our AI-based model of previously
+                        breached companies.</p>
+                </div>
+                <div class="col-md-2 col-sm-6">
+                    <div class="skill">
+                        <div class="outer">
+                            <div class="inner">
+                                {% if data['predictions']['probability'] <= 0.33 %} <div id="number"
+                                    class="numbergreen">
+                                    {{"%.2f"|format(data['predictions']['probability'] * 10)}}
+                            </div>
+                            {%elif data['predictions']['probability'] > 0.33 and data['predictions']['probability']
+                            <= 0.66%} <div id="number" class="numberorange">
+                                {{"%.2f"|format(data['predictions']['probability'] * 10)}}
+                        </div>
+                        {%else%}
+                        <div id="number" class="numberred">{{"%.2f"|format(data['predictions']['probability'] *10)}}
+                        </div>
+                        {%endif%}
+                    </div>
+                </div>
+
+                <svg height="160px" width="160px" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="GradientColor">
+                            <stop offset="0%" stop-color="#e91e63" />
+                            <stop offset="100%" stop-color="#673ab7" />
+                        </linearGradient>
+                    </defs>
+                    {% if data['predictions']['probability']
+                    <= 0.33 %} <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="green"
+                        class="animation3" />
+                    {%elif data['predictions']['probability'] > 0.33 and data['predictions']['probability']
+                    <= 0.66 %} <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round"
+                        stroke="rgb(243, 188, 85)" class="animation3" />
+                    {%else%}
+                    <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="red"
+                        class="animation3" />
+                    {%endif%}
+                </svg>
+
+            </div>
+
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <h5 class="scoreHeaderText" title="This is trust score">Trust Score</h5>
+
+            {% if data['features']['trustscore'] <= 40.0 %} <p class="critical ">
+                {{data['features']['trustscore']}}</p>
+                {% elif data['features']['trustscore']>= 80.0 %} <p class="safe ">
+                    {{data['features']['trustscore']}}</p>
+                {% else%} <p class="moderate ">
+                    {{data['features']['trustscore']}}</p>
+                {% endif %}
+
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <h5 class="scoreHeaderText" title="This is trust Grade">Trust Grade</h5>
+            {% if data['features']['trustgrade'] == "D" or data['features']['trustgrade'] == "E" %} <p
+                class="critical ">
+                {{data['features']['trustgrade']}}</p>
+            {% elif data['features']['trustgrade']== "B" or data['features']['trustgrade']== "C" %} <p
+                class="moderate ">
+                {{data['features']['trustgrade']}}</p>
+            {% elif data['features']['trustgrade']== " "%} <p class="scoreHeaderText">
+                Grade
+                not
+                available</p>
+            {% else%} <p class="safe ">
+                {{data['features']['trustgrade']}}</p>
+            {% endif %}
+
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <h5 class="scoreHeaderText" title="This is Security score">Security Score</h5>
+            {% if data['features']['securityscore'] <= 40.0 %} <p class="critical ">
+                {{data['features']['securityscore']}}</p>
+                {% elif data['features']['securityscore']>= 80.0 %} <p class="safe ">
+                    {{data['features']['securityscore']}}</p>
+                {% else%} <p class="moderate ">
+                    {{data['features']['securityscore']}}</p>
+                {% endif %}
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <h5 class="scoreHeaderText" title="This is cloud score">Cloud Score</h5>
+            {% if data['features']['cloudscore'] <= 3.0 %} <p class="critical ">
+                {{data['features']['cloudscore']}}</p>
+                {% elif data['features']['cloudscore']>= 15.0 %} <p class="safe ">
+                    {{data['features']['cloudscore']}}</p>
+                {% else%} <p class="moderate ">
+                    {{data['features']['cloudscore']}}</p>
+                {% endif %}
+
+        </div>
+
+    </div>
+    </div>
+    <br>
+    <div class="container-fluid allDiv">
+        <h4><b>Brand Sentiment Risk</b></h4>
+        <br>
+        <div class="row d-flex align-items-center justify-content-center">
+            <div class="col-md-2">
+                <h5 class="scoreHeaderText2" data-toggle="tooltip"
+                    title="This score represrents today's BSS scaled to 0-10">Current
+                    Sentiment Score</h5>
+                <br>
+                <p>This represents the global view of your brand. Changes in brand sentiment can precede cyber
+                    attacks.</p>
+            </div>
+            <div class="col-md-2">
+                <div class="skill">
+                    <div class="outer">
+                        <div class="inner">{%if data['BSS'] < 3.3%} <div id="number2" class="numbergreen">
+                                {{"%.2f"|format(data['BSS'])}}
+                        </div>
+                        {%elif data['BSS'] >= 3.3 and data['BSS'] < 6.6%} <div id="number2" class="numberorange">
+                            {{"%.2f"|format(data['BSS'])}}
+                    </div>
+                    {%else%}
+                    <div id="number2" class="numberred">
+                        {{ "%.2f"|format(data['BSS'])}}
+                    </div>
+                    {%endif%}
+                </div>
+            </div>
+
+            <svg height="160px" width="160px" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="GradientColor">
+                        <stop offset="0%" stop-color="red" />
+                        <stop offset="100%" stop-color="red" />
+                    </linearGradient>
+                </defs>
+                {%if data['BSS']
+                < 3.3%} <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="green"
+                    class="animation" />
+                {%elif data['BSS']>=3.3 and data['BSS']
+                < 6.6%} <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="orange"
+                    class="animation" />
+                {%else%}
+                <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" stroke="red" class="animation" />
+                {%endif%}
+
+            </svg>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <h5 class="bssheaderText" data-toggle="tooltip"
+            title="this represents the BSS trend graph for the last few days"> Brand Sentiment
+            Trend</h5>
+        <div id="line_chart" style="width: 900px" title="Brand Sentiment Trend"></div>
+    </div>
+    </div>
+    </div>
+    <br>
+    <div class="parent-container d-flex">
+        <div class="container allDiv">
+            <h5 class="scoreHeaderText2"><b>Dark Web: CVE Risk Prediction and Severity</b></h5>
+            <div id="CVE_div" style="width: 100%;"></div>
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-md-12">
+                    <p>This chart shows the overall predicted risk trend and severity of the risk</p>
+                </div>
+
+            </div>
+
+
+        </div>
+        <br>
+        <div class="container allDiv">
+            <h5 style="text-align:left" data-toggle="tooltip" title="These are the top impact trending CVE's">
+                <b>Predicted Trending CVE's</b>
+            </h5>
+            {% block content %}
+            <table id="data" class="hover" style="font-weight: 75px; width:100%">
+                <thead style="background-color: #b9c1c9">
+                    <tr>
+                        <th>
+                            <font color="#2e2c2c">CVE Ids</font>
+                        </th>
+                        <th>
+                            <font color="#2e2c2c">Impact</font>
+                        </th>
+                        <th>
+                            <font color="#2e2c2c">Technology</font>
+                        </th>
+                        <th>
+                            <font color="#2e2c2c">Solution</font>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in data["CVE"]%}
+                    <tr>
+                        <td style="color:#a5abb1">{{item["CVE"]}}</td>
+                        <td style="color:#a5abb1">{{item["Impact"]}}</td>
+                        <td style="color:#a5abb1">{{item["technologies"][0]}}</td>
+                        <td style="color:#a5abb1"><a href={{item["link"]}} target="_blank"> Details</td>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% endblock %}
+
+
+
+        </div>
+    </div>
+    </div>
+    {% endif %}
+    </div>
+
+    </div>
+
+    {% if data and data['success']%}
+    <script>
+        $(document).ready(function () {
+            $('#data').DataTable({
+                "dom": 'rtip',
+                paging: true,
+                "pageLength": 4,
+                ordering: false,
+                info: false,
+            });
+        })
+
+
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+    </script>
+    <script>
+        let number = document.getElementById("number");
+        let counter = 0;
+        let val = Number("{{ data['predictions']['probability']}}")
+        //console.log(val)
+        let stroke_val = Math.round(472 - (472 * val))
+        console.log(stroke_val)
+        document.documentElement.style.setProperty('--my-stroke-value', stroke_val);
+        console.log(val)
+        setInterval(() => {
+            if (counter === val) {
+                clearInterval();
+            } else {
+                counter += 1;
+            }
+
+        }, 30);
+
+    </script>
+    <script>
+        let number1 = document.getElementById("number1");
+        let counter1 = 0;
+        let val1 = Number("{{ data['Overall']}}")
+        console.log(val1)
+        let stroke_val1 = Math.round(472 - (472 * val1) / 10)
+        console.log(stroke_val1)
+        document.documentElement.style.setProperty('--my-stroke-value1', stroke_val1);
+        console.log(val)
+        setInterval(() => {
+            if (counter1 === val1) {
+                clearInterval();
+            } else {
+                counter1 += 1;
+            }
+
+        }, 30);
+
+    </script>
+
+    <script>
+        let number2 = document.getElementById("number2");
+        let counter2 = 0;
+        let val2 = Number("{{ data['BSS']}}")
+        console.log(val2)
+        let stroke_val2 = Math.round(472 - (472 * val2) / 10)
+        console.log(stroke_val2)
+        document.documentElement.style.setProperty('--my-stroke-value2', stroke_val2);
+        setInterval(() => {
+            if (counter2 === val2) {
+                clearInterval();
+            } else {
+                counter2 += 1;
+            }
+
+        }, 30);
+
+    </script>
+
+    {% endif %}
+
+    <script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+
+    </script>
+
+
+</body>
+
+</html>

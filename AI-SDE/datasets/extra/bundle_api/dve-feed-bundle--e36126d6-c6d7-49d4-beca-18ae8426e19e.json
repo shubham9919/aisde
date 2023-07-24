@@ -1,0 +1,4926 @@
+{
+  "id": "bundle--e36126d6-c6d7-49d4-beca-18ae8426e19e",
+  "objects": [
+    {
+      "created": "2017-01-20T00:00:00.000Z",
+      "definition": {
+        "tlp": "amber"
+      },
+      "definition_type": "tlp",
+      "id": "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82",
+      "type": "marking-definition"
+    },
+    {
+      "created": "2019-12-26T00:00:00Z",
+      "definition": {
+        "statement": "Copyright Sixgill 2020. All rights reserved."
+      },
+      "definition_type": "statement",
+      "id": "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+      "type": "marking-definition"
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34452",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0e2ad8a3-116e-4d8c-822e-de8edb0bcbf8",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcdd",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34452.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34452",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34454",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3e083959-f8ad-47f1-969d-2a88ad170288",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcde",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34454.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34454",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34455",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e46fb9bc-4af4-4bb1-bf39-e11f1b82ad4a",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcdf",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34455.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34455",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34456",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--40478344-192e-4e3c-a1d0-55c6f0a18a58",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce0",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34456.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34456",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34457",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--90116339-6c3b-4c65-aaec-c41c08cc22d8",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce1",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34457.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34457",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34458",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--277ffcf2-70e3-4be9-a4fe-541b61dcae0c",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce2",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34458.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34458",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34459",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--08bab8a2-47b7-4030-bdc3-2ce9e189a663",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce3",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34459.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34459",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34460",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cb77f9bf-5900-482f-a747-5eb1442c7bbe",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce4",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34460.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34460",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 5.01,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.49
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34461",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--48e651e8-16d2-49f8-8385-627a71f2429e",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce5",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34461.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34461",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34462",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--29d3badb-2676-456c-8e96-32b8e6d8dd29",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce6",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34462.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34462",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34464",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--06a23dc3-2b5b-408a-b0e1-0492f12fba8c",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce7",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34464.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34464",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.27
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34466",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d1971be1-b7e5-4b51-946f-b108f353c7f7",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce8",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34466.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34466",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.25
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34467",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--197b4791-5e29-471d-969c-75d24388d9a8",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dce9",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34467.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34467",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.88,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34481",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--aba85663-63cb-43a1-a9ae-f2996c8f0d85",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcea",
+          "action": "added",
+          "description": "Mitre published CVE-2021-34481.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34481",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3452",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--bb5b037c-5663-4da2-8ca9-32271b6e8b96",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dceb",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3452.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3452",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3453",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ba698d3e-6fd7-49bf-98a8-6b5b955f1424",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcec",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3453.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3453",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3550",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--43464511-b7fc-4efa-8c26-63172ea311ee",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dced",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3550.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3550",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-35961",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2c6c8ee0-756a-4e79-b120-c5c33f2b8e63",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcee",
+          "action": "added",
+          "description": "Mitre published CVE-2021-35961.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35961",
+          "modified": "2021-07-16T16:55:00.000Z",
+          "published": "2021-07-16T16:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-35962",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e22e40cb-54db-4470-9901-e397b1033ca9",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcef",
+          "action": "added",
+          "description": "Mitre published CVE-2021-35962.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35962",
+          "modified": "2021-07-16T16:55:00.000Z",
+          "published": "2021-07-16T16:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3614",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--a616f297-32d4-4e89-81e6-3d7722012752",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf0",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3614.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3614",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3647",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f5db4f45-aba1-4fc1-8313-bd651bb8b9e5",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf1",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3647.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3647",
+          "modified": "2021-07-16T12:07:00.000Z",
+          "published": "2021-07-16T11:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-3649",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9bbe8438-440c-43a8-9056-c61ff6142904",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf2",
+          "action": "added",
+          "description": "Mitre published CVE-2021-3649.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3649",
+          "modified": "2021-07-16T16:55:00.000Z",
+          "published": "2021-07-16T14:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36769",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0b35c621-404d-4805-a164-09cb93fd6e3c",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf3",
+          "action": "added",
+          "description": "Mitre published CVE-2021-36769.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36769",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-17T00:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-4675",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4507ccb1-e13f-4a46-ac52-7f9149fe3b42",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf4",
+          "action": "added",
+          "description": "Mitre published CVE-2020-4675.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4675",
+          "modified": "2021-07-16T17:43:00.000Z",
+          "published": "2021-07-16T17:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-4821",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0855fb25-694f-4637-b211-450a24b84305",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf5",
+          "action": "added",
+          "description": "Mitre published CVE-2020-4821.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4821",
+          "modified": "2021-07-16T17:43:00.000Z",
+          "published": "2021-07-16T17:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-4980",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2d00f94d-f891-4c31-bae2-4e2dcd2aa125",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf6",
+          "action": "added",
+          "description": "Mitre published CVE-2020-4980.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4980",
+          "modified": "2021-07-16T17:43:00.000Z",
+          "published": "2021-07-16T17:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2019-3752",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--59ef30ff-cf14-4c50-a996-2e27acc2b595",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf7",
+          "action": "added",
+          "description": "Mitre published CVE-2019-3752.",
+          "event_datetime": "2021-07-16T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-3752",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T22:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-32574",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7fbfdd28-0d38-4aba-a356-f76f5cf8a721",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf8",
+          "action": "added",
+          "description": "Mitre published CVE-2021-32574.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-32574",
+          "modified": "2021-07-17T18:15:00.000Z",
+          "published": "2021-07-17T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33911",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9c8949e4-10e9-4fdb-98dd-5c1dd3b43cd6",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcf9",
+          "action": "added",
+          "description": "Mitre published CVE-2021-33911.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33911",
+          "modified": "2021-07-17T19:15:00.000Z",
+          "published": "2021-07-17T19:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36213",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e5cc5bb5-ac1b-46ff-9a1b-44a548a15061",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcfa",
+          "action": "added",
+          "description": "Mitre published CVE-2021-36213.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36213",
+          "modified": "2021-07-17T18:15:00.000Z",
+          "published": "2021-07-17T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36771",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c5d9a29f-38fc-49a9-9264-eb334a432188",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcfb",
+          "action": "added",
+          "description": "Mitre published CVE-2021-36771.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36771",
+          "modified": "2021-07-17T19:15:00.000Z",
+          "published": "2021-07-17T19:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36772",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--5f099ca7-0d6b-4c4f-a64a-f84f394fbd3e",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcfc",
+          "action": "added",
+          "description": "Mitre published CVE-2021-36772.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36772",
+          "modified": "2021-07-17T19:15:00.000Z",
+          "published": "2021-07-17T19:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:59.277Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-36773",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0f1da60b-1556-46d5-8654-a63c9a7224bb",
+      "modified": "2021-07-18T18:25:59.277Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723789e20fed0dc1dcfd",
+          "action": "added",
+          "description": "Mitre published CVE-2021-36773.",
+          "event_datetime": "2021-07-17T00:00:00.001Z",
+          "exploit_terms": null,
+          "name": "Mitre_published_record",
+          "type": "mitre"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36773",
+          "modified": "2021-07-18T04:15:00.000Z",
+          "published": "2021-07-18T04:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:53.125Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-2021",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--b0b30d9d-4c23-4518-9f27-f1a320156797",
+      "modified": "2021-07-18T18:25:53.125Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723189e20fed0dc1dcb9",
+          "action": "added",
+          "actor": "metasploit",
+          "description": "CVE-2021-2021 was entioned by the actor Metasploit on market_0day",
+          "event_datetime": "2021-07-16T00:00:00.000Z",
+          "exploit_terms": null,
+          "name": "mention_Metasploit",
+          "site": "market_0day",
+          "sixgill_portal_id": "219ac13097193e5fa90fd3a5814e804abb8c98ea",
+          "type": "poc_mention"
+        },
+        "nvd": {
+          "base_score_v3": 4.9,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-2021",
+          "modified": "2021-05-26T12:15:00.000Z",
+          "published": "2021-01-20T15:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:N/I:N/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 1.16,
+          "highest": {
+            "date": "2021-02-22T00:00:00.000Z",
+            "value": 5.09
+          },
+          "previouslyExploited": 2.97
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:53.125Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-21985",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ba17c544-97a3-4b34-8cdf-69442aa5dcb8",
+      "modified": "2021-07-18T18:25:53.125Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4723189e20fed0dc1dcba",
+          "action": "added",
+          "actor": "metasploit",
+          "description": "CVE-2021-21985 was entioned by the actor Metasploit on market_0day",
+          "event_datetime": "2021-07-16T00:00:00.000Z",
+          "exploit_terms": null,
+          "name": "mention_Metasploit",
+          "site": "market_0day",
+          "sixgill_portal_id": "219ac13097193e5fa90fd3a5814e804abb8c98ea",
+          "type": "poc_mention"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21985",
+          "modified": "2021-07-13T17:15:00.000Z",
+          "published": "2021-05-26T15:15:00.000Z",
+          "score_2_0": 10.0,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 10.0,
+          "highest": {
+            "date": "2021-06-04T00:00:00.000Z",
+            "value": 10.0
+          },
+          "previouslyExploited": 10.0
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:46.445Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2013-2551",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--1f26157a-a8a5-4170-accf-1db2fe153886",
+      "modified": "2021-07-18T18:25:46.445Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722a89e20fed0dc1dcad",
+          "action": "added",
+          "actor": "Admin",
+          "description": "Threat actor Admin mentioned CVE-2013-2551 in connection with an exploit on on blog_hackdig.",
+          "event_datetime": "2021-07-15T23:26:52.000Z",
+          "exploit_terms": "[u'\"exploit kit*\"']",
+          "name": "CVE_exploit_mention",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "5d7fe60b6d91eecbd5c8389a31725a0fac0f7fd4",
+          "type": "exploit_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-2551",
+          "modified": "2018-10-12T22:04:00.000Z",
+          "published": "2013-03-11T10:55:00.000Z",
+          "score_2_0": 9.3,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:M/Au:N/C:C/I:C/A:C",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 2.7,
+          "highest": {
+            "date": "2020-01-07T00:00:00.000Z",
+            "value": 3.42
+          },
+          "previouslyExploited": 7.18
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-23707",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ccbd72bf-3d6b-4673-866e-f6f1804b301c",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9a",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2020-23707 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:53:10.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "554725aa87e98f31b05c3a7b843da1f1b4822990",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-23707",
+          "modified": "2021-07-16T12:07:00.000Z",
+          "published": "2021-07-15T22:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-11632",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ccbdca75-7d17-4140-86e8-13b89871f566",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9b",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2020-11632 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:53:18.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "04160e101b9958481cdcd7130c174089ad424862",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11632",
+          "modified": "2021-07-15T20:44:00.000Z",
+          "published": "2021-07-15T20:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-11634",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d643d57b-c90d-4313-84b2-60306da2f8a1",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9c",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2020-11634 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:53:36.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "61b22ab74a489ac09a19e8b4e0b7e28c01f76b63",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11634",
+          "modified": "2021-07-15T20:44:00.000Z",
+          "published": "2021-07-15T20:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-0276",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--946ec9d4-17dc-4c32-8660-cb41d3025e04",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9d",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2021-0276 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:53:56.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "a784932058bffa43d2d5a3382765d4426d1c83d7",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-0276",
+          "modified": "2021-07-15T21:15:00.000Z",
+          "published": "2021-07-15T20:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-0277",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--71cf1a89-00a7-46d8-80a8-b41035c74852",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9e",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2021-0277 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:54:15.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "bc65f84aa8bcb8e3cb5d219901039455e2ad3f73",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-0277",
+          "modified": "2021-07-15T21:15:00.000Z",
+          "published": "2021-07-15T20:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-0278",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e64bf695-a43f-434b-b592-63563d7e31f0",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc9f",
+          "action": "added",
+          "actor": "anonymous",
+          "description": "CVE-2021-0278 was mentioned on the highly rated source forum_cxsecurity by threat actor anonymous",
+          "event_datetime": "2021-07-16T11:54:36.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "forum_cxsecurity",
+          "sixgill_portal_id": "853dd54ffdce1776e180c218e3fc565f805ccd27",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-0278",
+          "modified": "2021-07-15T21:15:00.000Z",
+          "published": "2021-07-15T20:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34481",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--65da589a-7349-40a4-be77-e07952ec1773",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca0",
+          "action": "added",
+          "actor": "| U03A9 |#3010(592047479168565272)",
+          "description": "CVE-2021-34481 was mentioned on the highly rated source discord by threat actor | U03A9 |#3010(592047479168565272)",
+          "event_datetime": "2021-07-16T12:15:34.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "discord",
+          "sixgill_portal_id": "3851569407ba2457b3b8ddc0e8bcac91fcdca650",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34481",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34527",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ebb51c23-df2b-4ee3-aadf-bf41ec9a7fca",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca1",
+          "action": "added",
+          "actor": "Kelvin Security(726342910)",
+          "description": "CVE-2021-34527 was mentioned on the highly rated source telegram by threat actor Kelvin Security(726342910)",
+          "event_datetime": "2021-07-16T12:35:20.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "346ecc8c0caf3969727675de17ac4f0e124951d9",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34527",
+          "modified": "2021-07-14T18:15:00.000Z",
+          "published": "2021-07-02T22:15:00.000Z",
+          "score_2_0": 9.0,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 8.48,
+          "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 8.69
+          },
+          "previouslyExploited": 9.99
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-1675",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9f7ddec0-4a46-4462-ab9d-4ea04fb6cf89",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca2",
+          "action": "added",
+          "actor": "Kelvin Security(726342910)",
+          "description": "CVE-2021-1675 was mentioned on the highly rated source telegram by threat actor Kelvin Security(726342910)",
+          "event_datetime": "2021-07-16T12:35:20.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "346ecc8c0caf3969727675de17ac4f0e124951d9",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1675",
+          "modified": "2021-07-07T13:46:00.000Z",
+          "published": "2021-06-08T23:15:00.000Z",
+          "score_2_0": 9.3,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:M/Au:N/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 10.0,
+          "highest": {
+            "date": "2021-07-02T00:00:00.000Z",
+            "value": 10.0
+          },
+          "previouslyExploited": 10.0
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-7383",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9e7173de-7b6f-4aee-a350-11c4d2a35106",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca3",
+          "action": "added",
+          "actor": "ANTICHAT Channel(1112483048)",
+          "description": "CVE-2020-7383 was mentioned on the highly rated source telegram by threat actor ANTICHAT Channel(1112483048)",
+          "event_datetime": "2021-07-16T12:51:35.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "fcba1e5eba10b9cc00b2e34ed4473daa8474d596",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.1,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-7383",
+          "modified": "2020-10-19T20:04:00.000Z",
+          "published": "2020-10-14T20:15:00.000Z",
+          "score_2_0": 5.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": "2020-12-22T00:00:00.000Z",
+            "value": 5.14
+          },
+          "previouslyExploited": 3.73
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2020-7383",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2e8b53f5-7ce2-4b3e-b237-98bd25ddb54a",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca4",
+          "action": "added",
+          "actor": "ANTICHAT Public(1112483048)",
+          "description": "CVE-2020-7383 was mentioned on the highly rated source telegram by threat actor ANTICHAT Public(1112483048)",
+          "event_datetime": "2021-07-16T12:51:38.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "0d654cee86d7164b934274e27d21a2099eedabd8",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.1,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-7383",
+          "modified": "2020-10-19T20:04:00.000Z",
+          "published": "2020-10-14T20:15:00.000Z",
+          "score_2_0": 5.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": "2020-12-22T00:00:00.000Z",
+            "value": 5.14
+          },
+          "previouslyExploited": 3.73
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34481",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--140e6dfc-4a51-4c96-8eef-f526c15cf7ff",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca5",
+          "action": "added",
+          "actor": "CyberSecurityMiddleEast(673174668)",
+          "description": "CVE-2021-34481 was mentioned on the highly rated source telegram by threat actor CyberSecurityMiddleEast(673174668)",
+          "event_datetime": "2021-07-16T14:22:06.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "a0176df8ce937b3e7c251756a81177be4b5aa613",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34481",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34481",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d4ced5e7-ac9f-45f9-a98f-1334ae79d95a",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca6",
+          "action": "added",
+          "actor": "Hacking Zap(1150386152)",
+          "description": "CVE-2021-34481 was mentioned on the highly rated source telegram by threat actor Hacking Zap(1150386152)",
+          "event_datetime": "2021-07-16T17:18:53.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "telegram",
+          "sixgill_portal_id": "095791fab14205d0c7433ddca943f1493dd965b4",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34481",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-22555",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7c580816-80e7-4cf4-8439-f0d5efc8c1ce",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca7",
+          "action": "added",
+          "actor": "japx",
+          "description": "CVE-2021-22555 was mentioned on the highly rated source irc_rizon by threat actor japx",
+          "event_datetime": "2021-07-17T10:49:32.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "irc_rizon",
+          "sixgill_portal_id": "d63cb93a7e6479e315e6b27cc0190d54c9cd3137",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22555",
+          "modified": "2021-07-16T17:15:00.000Z",
+          "published": "2021-07-07T12:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 7.03,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 7.03
+          },
+          "previouslyExploited": 5.38
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.822Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-22555",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d54cc923-c62b-4790-9aef-d95e1b5d65d2",
+      "modified": "2021-07-18T18:25:43.822Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dca8",
+          "action": "added",
+          "actor": "japx",
+          "description": "CVE-2021-22555 was mentioned on the highly rated source irc_rizon by threat actor japx",
+          "event_datetime": "2021-07-17T10:49:50.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "irc_rizon",
+          "sixgill_portal_id": "354f07204b80131532b8015bc2d862b4ba2dd51f",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22555",
+          "modified": "2021-07-16T17:15:00.000Z",
+          "published": "2021-07-07T12:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 7.03,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 7.03
+          },
+          "previouslyExploited": 5.38
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31947",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--301df8f4-4bfb-4941-b7a9-e06a35a11895",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc2e",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-31947 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31947",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34504",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6d9051ee-05dd-4bad-8258-98231ad1010f",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc2f",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34504 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34504",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33756",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8f1587f7-e5d0-435c-921f-e03bae23349c",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc30",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33756 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33756",
+          "modified": "2021-07-16T15:17:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33749",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--db446cdc-d7d2-456d-84b3-4eaf28711048",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc31",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33749 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33749",
+          "modified": "2021-07-17T02:58:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34457",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--dac5c07a-b565-48a2-84b0-d59479ec1013",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc32",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34457 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34457",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34528",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f34be637-992f-4c51-9655-61f52fa05840",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc33",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34528 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34528",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33743",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--08926a3e-26c3-4126-8d69-d827b316fa99",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc34",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33743 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33743",
+          "modified": "2021-07-17T03:16:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33778",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--4a2911b8-1fc0-4350-b3ed-79a49e77a3b1",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc35",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33778 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33778",
+          "modified": "2021-07-16T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.8,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34523",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2829eee9-d1ea-44e8-81bd-14c6d2a8cc8e",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc36",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34523 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34523",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.92,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.92
+          },
+          "previouslyExploited": 1.29
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33783",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--bb7223fb-17e0-478c-be2c-5b669fd6ad84",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc37",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33783 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 6.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33783",
+          "modified": "2021-07-17T03:25:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34494",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--5209dd24-b121-401d-bbc8-91782d35608b",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc38",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34494 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34494",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.99,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.99
+          },
+          "previouslyExploited": 1.68
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34444",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--3aa99ee5-2a76-4e19-9612-13fe8e33acc5",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc39",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34444 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34444",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33766",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f43fa4ec-5b30-4b38-a409-4abe47a0725e",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3a",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33766 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33766",
+          "modified": "2021-07-16T14:41:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33751",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--74d8290e-20ac-4717-81a5-55838b29c780",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3b",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33751 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33751",
+          "modified": "2021-07-17T02:56:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 6.59,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 6.59
+          },
+          "previouslyExploited": 5.16
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34440",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--aff4b47f-e422-44eb-862e-ed72183f2802",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3c",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34440 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34440",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33781",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8e14adb8-dec6-46a6-ad59-993fd844c2c8",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3d",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33781 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.1,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33781",
+          "modified": "2021-07-17T03:20:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 5.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N"
+        },
+        "score": {
+          "current": 0.92,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.92
+          },
+          "previouslyExploited": 1.43
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33765",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--9b4bfa32-8e9a-46af-885b-3a3f430c0dcc",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3e",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33765 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33765",
+          "modified": "2021-07-16T14:57:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 2.1,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:L/AC:L/Au:N/C:N/I:P/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N"
+        },
+        "score": {
+          "current": 5.01,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.49
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34438",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d0c10bd1-dd7d-4524-a47c-ff5ccabd1250",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc3f",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34438 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34438",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.79,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+          },
+          "previouslyExploited": 1.1
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31984",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--8d33f5d3-5e42-46b8-9689-b76be4b63250",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc40",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-31984 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31984",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34519",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7ff54113-a00c-468d-9d33-629445a7becb",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc41",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34519 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34519",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34466",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d4d73f98-ae21-4ea8-a5a8-e08362f6ab03",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc42",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34466 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34466",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.84,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+          },
+          "previouslyExploited": 1.25
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34518",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--c0ce9f5b-d22a-4700-b407-03305693e493",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc43",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34518 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34518",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.91,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.91
+          },
+          "previouslyExploited": 1.3
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33758",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--eb559147-0f65-497f-9158-0ac15f30ef91",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc44",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33758 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.7,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33758",
+          "modified": "2021-07-16T15:32:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34525",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--332e84d1-4140-4a37-8e0b-8bee361ca0b7",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc45",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34525 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34525",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.86,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.86
+          },
+          "previouslyExploited": 1.16
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34448",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0b2605d3-88d1-4b35-8965-4fdcb7acf557",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc46",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34448 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34448",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 2.7,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 2.7
+          },
+          "previouslyExploited": 5.53
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33754",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--f38fbcd7-513e-4c83-9ecb-32a9327449a1",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc47",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33754 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.0,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33754",
+          "modified": "2021-07-17T02:54:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.85,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33746",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--2eca70d8-fefe-421b-8344-45b82a06c232",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc48",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33746 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33746",
+          "modified": "2021-07-17T02:57:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.85,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.15
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31961",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--5a725233-ac3a-43bc-b6fc-2a8e13b96d18",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc49",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-31961 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31961",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34445",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--26a139e7-27dc-485f-a4a1-cd98976e2cc7",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4a",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34445 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34445",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34510",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--036bc61d-6323-41ba-b759-ec7056119ea8",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4b",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34510 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34510",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 5.01,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+          },
+          "previouslyExploited": 2.49
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34501",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--74e3e7f7-0658-4921-8e33-a9c711e4bd20",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4c",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34501 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34501",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.85,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+          },
+          "previouslyExploited": 1.13
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34477",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--61738417-7554-4109-9d6b-20d94aa3e2a6",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4d",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34477 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34477",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34468",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--18aedd83-cb00-4ad2-9b31-fc137771ab71",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4e",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34468 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34468",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 5.2,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.2
+          },
+          "previouslyExploited": 4.06
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33788",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--48c200ae-544f-443a-b92e-38f5fd6175ad",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc4f",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33788 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33788",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33780",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--cfac6380-aa74-409a-9d82-c2ac1ee876b0",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc50",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33780 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33780",
+          "modified": "2021-07-17T02:34:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 6.5,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:S/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.93,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.93
+          },
+          "previouslyExploited": 1.32
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34521",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ce374454-4d23-4838-ad3d-5c21e1cdd128",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc51",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34521 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34521",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.81,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33786",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--60fb8dac-c541-496d-949f-87a4eae9d535",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc52",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33786 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33786",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33764",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--e9ee678c-eb28-4944-8e7a-ee0c0e5680b4",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc53",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33764 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 5.9,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33764",
+          "modified": "2021-07-16T15:59:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.3,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:M/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33760",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--0b789152-2bca-4ff3-ba1a-cf9e2c512f9f",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc54",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33760 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 5.5,
+          "base_severity_v3": "MEDIUM",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33760",
+          "modified": "2021-07-16T19:58:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 2.1,
+          "severity_2_0": "LOW",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:N/A:N",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31979",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7105c54e-4923-434c-b427-dc389c6af41c",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc55",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-31979 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31979",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34527",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--66678f8e-fbe9-456f-92f8-bdec7818342b",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc56",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34527 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 8.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34527",
+          "modified": "2021-07-08T04:15:00.000Z",
+          "published": "2021-07-02T22:15:00.000Z",
+          "score_2_0": 9.0,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:S/C:C/I:C/A:C",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 5.24,
+          "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 8.69
+          },
+          "previouslyExploited": 9.97
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34467",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--bb6bfd21-6657-47c9-ab10-c83d19df00c5",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc57",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34467 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34467",
+          "modified": "2021-07-17T03:09:00.000Z",
+          "published": "2021-07-16T21:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.88,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33784",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--04d65f18-a8a3-4d42-987a-bc7cfb0c1e13",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc58",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33784 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.8,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33784",
+          "modified": "2021-07-17T03:50:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 4.6,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:L/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.11
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33772",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--6890525e-dab5-43c0-b9c2-96ccbb9c29ea",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc59",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33772 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 7.5,
+          "base_severity_v3": "HIGH",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33772",
+          "modified": "2021-07-16T14:18:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 5.0,
+          "severity_2_0": "MEDIUM",
+          "vector_v2": "AV:N/AC:L/Au:N/C:N/I:N/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.14
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34517",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--62cab68e-8293-4d8d-89b1-e3a9a2414adc",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc5a",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34517 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34517",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.83,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-33757",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--7a7d76ac-0feb-4a7d-ba68-9d868f655ae6",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc5b",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-33757 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": 9.8,
+          "base_severity_v3": "CRITICAL",
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33757",
+          "modified": "2021-07-17T00:50:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": 7.5,
+          "severity_2_0": "HIGH",
+          "vector_v2": "AV:N/AC:L/Au:N/C:P/I:P/A:P",
+          "vector_v3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+        },
+        "score": {
+          "current": 5.4,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.4
+          },
+          "previouslyExploited": 3.18
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-31196",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--ad3e6ef0-d066-43bf-88b8-a997a5dc24da",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc5c",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-31196 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31196",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34508",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--d729d985-318e-4a45-b17f-a399e48ffe43",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc5d",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34508 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34508",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": 0.8,
+          "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+          },
+          "previouslyExploited": 1.12
+        }
+      }
+    },
+    {
+      "created": "2021-07-18T18:25:43.821Z",
+      "external_references": [
+        {
+          "external_id": "CVE-2021-34496",
+          "source_name": "cve"
+        }
+      ],
+      "id": "cveevent--288c85e9-3102-4e3d-9ac8-7d24532e30d0",
+      "modified": "2021-07-18T18:25:43.821Z",
+      "object_marking_refs": [
+        "marking-definition--41eaaf7c-0bc0-4c56-abdf-d89a7f096ac4",
+        "marking-definition--f88d31f6-486f-44da-b317-01333bde0b82"
+      ],
+      "spec_version": "2.0",
+      "type": "x-cybersixgill-com-cve-event",
+      "x_sixgill_info": {
+        "event": {
+          "_id": "60f4722789e20fed0dc1dc5e",
+          "action": "added",
+          "actor": "Admin",
+          "description": "CVE-2021-34496 was mentioned on the highly rated source blog_hackdig by threat actor Admin",
+          "event_datetime": "2021-07-15T21:34:23.000Z",
+          "exploit_terms": null,
+          "name": "Mention_in_high_rated_site",
+          "site": "blog_hackdig",
+          "sixgill_portal_id": "68de81f6422798ee09c32a63482e89cf51e40d1a",
+          "type": "site_mention"
+        },
+        "nvd": {
+          "base_score_v3": null,
+          "base_severity_v3": null,
+          "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34496",
+          "modified": "2021-07-14T19:14:00.000Z",
+          "published": "2021-07-14T18:15:00.000Z",
+          "score_2_0": null,
+          "severity_2_0": null,
+          "vector_v2": "None",
+          "vector_v3": "None"
+        },
+        "score": {
+          "current": null,
+          "highest": {
+            "date": null,
+            "value": null
+          },
+          "previouslyExploited": null
+        }
+      }
+    }
+  ],
+  "spec_version": "2.0",
+  "type": "bundle"
+}

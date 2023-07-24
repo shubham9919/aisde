@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://d363qos3mhnap4.cloudfront.net/thumb/0c-2q-3j-c0-13-88/n",
+    "Categories": [
+      "Edge Delivery Network"
+    ],
+    "Tag": "cdns",
+    "IsPremium": "Yes",
+    "Name": "Akamai Edge",
+    "Description": "Akamai's Edge Platform is one of the world's largest distributed computing platforms. It is a network of more than 95,000 secure servers equipped with proprietary software and deployed in 71 countries.",
+    "Link": "http://www.akamai.com/html/technology/edgeplatform.html",
+    "TrendsLink": "https://trends.builtwith.com/cdns/Akamai-Edge",
+    "Coverage": {
+      "TenK": 2155,
+      "HundredK": 8867,
+      "Mil": 22513,
+      "Live": 106568,
+      "Historical": 186208
+    }
+  }
+}

@@ -1,0 +1,6466 @@
+{
+    "CVE-2021-45814": {
+        "current": 5.06,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.06
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-45885": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-45903": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-45812": {
+        "current": 5.05,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-45813": {
+        "current": 5.04,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-45425": {
+        "current": 5.04,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-4483": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-12-29T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-44832": {
+        "current": 7.49,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 7.49
+        },
+        "previouslyExploited": 5.02
+    },
+    "CVE-2021-45041": {
+        "current": 3.48,
+        "highest": {
+            "date": "2021-12-22T00:00:00.000Z",
+            "value": 5.09
+        },
+        "previouslyExploited": 2.63
+    },
+    "CVE-2021-43876": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-43907": {
+        "current": 2.09,
+        "highest": {
+            "date": "2021-12-22T00:00:00.000Z",
+            "value": 5.16
+        },
+        "previouslyExploited": 5.51
+    },
+    "CVE-2021-43981": {
+        "current": 4.64,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 4.64
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-43984": {
+        "current": 4.64,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 4.64
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-43987": {
+        "current": 4.58,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 4.58
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-44160": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-44161": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-44263": {
+        "current": 5.04,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-44732": {
+        "current": 6.38,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 6.38
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-44771": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-12-29T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-43527": {
+        "current": 9.0,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 9.0
+        },
+        "previouslyExploited": 6.33
+    },
+    "CVE-2021-43554": {
+        "current": 5.09,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.09
+        },
+        "previouslyExploited": 2.63
+    },
+    "CVE-2021-43556": {
+        "current": 5.07,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.07
+        },
+        "previouslyExploited": 2.63
+    },
+    "CVE-2021-43589": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-4175": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-4176": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-4179": {
+        "current": 5.05,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-4187": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-4188": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-42583": {
+        "current": 5.02,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-41383": {
+        "current": 1.93,
+        "highest": {
+            "date": "2021-10-19T00:00:00.000Z",
+            "value": 7.76
+        },
+        "previouslyExploited": 5.06
+    },
+    "CVE-2021-41387": {
+        "current": 1.03,
+        "highest": {
+            "date": "2021-09-30T00:00:00.000Z",
+            "value": 6.45
+        },
+        "previouslyExploited": 2.63
+    },
+    "CVE-2021-41392": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-09-30T00:00:00.000Z",
+            "value": 6.46
+        },
+        "previouslyExploited": 2.61
+    },
+    "CVE-2021-41393": {
+        "current": 1.85,
+        "highest": {
+            "date": "2021-10-19T00:00:00.000Z",
+            "value": 7.71
+        },
+        "previouslyExploited": 4.84
+    },
+    "CVE-2021-41303": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-12-02T00:00:00.000Z",
+            "value": 6.46
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-41314": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-10-01T00:00:00.000Z",
+            "value": 4.52
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-40716": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.87
+        },
+        "previouslyExploited": 2.46
+    },
+    "CVE-2021-40697": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-40708": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-40651": {
+        "current": 0.96,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.81
+        },
+        "previouslyExploited": 2.43
+    },
+    "CVE-2021-40330": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-09-29T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.56
+    },
+    "CVE-2021-40579": {
+        "current": 5.0,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-39829": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-10T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39830": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-10T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39831": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-10T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39832": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-10T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39833": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-02T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39834": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-02T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39835": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-02T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39836": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39837": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-39838": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39839": {
+        "current": 1.75,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 6.45
+        },
+        "previouslyExploited": 4.59
+    },
+    "CVE-2021-39841": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39842": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39843": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39844": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39845": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39846": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-09T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39849": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-08T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39850": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-08T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39851": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39852": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39853": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39854": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39855": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39856": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-39857": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39858": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-11-11T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-39860": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-39861": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-39862": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.91
+        },
+        "previouslyExploited": 2.47
+    },
+    "CVE-2021-39863": {
+        "current": 6.48,
+        "highest": {
+            "date": "2021-11-05T00:00:00.000Z",
+            "value": 8.63
+        },
+        "previouslyExploited": 5.98
+    },
+    "CVE-2021-39865": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-39267": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-08-26T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-39268": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-08-26T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-39342": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.56
+    },
+    "CVE-2021-39821": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-12-02T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-39227": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 6.38
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-38680": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-38688": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-38300": {
+        "current": 1.27,
+        "highest": {
+            "date": "2021-11-06T00:00:00.000Z",
+            "value": 6.54
+        },
+        "previouslyExploited": 3.29
+    },
+    "CVE-2021-38314": {
+        "current": 7.8,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 7.8
+        },
+        "previouslyExploited": 5.58
+    },
+    "CVE-2021-3806": {
+        "current": 1.85,
+        "highest": {
+            "date": "2021-09-29T00:00:00.000Z",
+            "value": 7.71
+        },
+        "previouslyExploited": 4.85
+    },
+    "CVE-2021-37925": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 6.4
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-37927": {
+        "current": 1.11,
+        "highest": {
+            "date": "2021-10-12T00:00:00.000Z",
+            "value": 6.43
+        },
+        "previouslyExploited": 2.85
+    },
+    "CVE-2021-37973": {
+        "current": 7.93,
+        "highest": {
+            "date": "2021-12-15T00:00:00.000Z",
+            "value": 9.98
+        },
+        "previouslyExploited": 8.9
+    },
+    "CVE-2021-37400": {
+        "current": 5.03,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-37401": {
+        "current": 5.02,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-36975": {
+        "current": 3.18,
+        "highest": {
+            "date": "2021-11-28T00:00:00.000Z",
+            "value": 9.92
+        },
+        "previouslyExploited": 8.5
+    },
+    "CVE-2021-3708": {
+        "current": 0.68,
+        "highest": {
+            "date": "2021-11-03T00:00:00.000Z",
+            "value": 6.19
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-3666": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-09-30T00:00:00.000Z",
+            "value": 6.39
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-36722": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-12-30T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2020-25736": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-23580": {
+        "current": 6.4,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 6.4
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2020-23705": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-23706": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-23707": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-22876": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2020-22882": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2020-22907": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2020-20252": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.17
+    },
+    "CVE-2020-19722": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-19717": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-19721": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-19715": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-19716": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-14245": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.43
+        },
+        "previouslyExploited": 2.59
+    },
+    "CVE-2020-14368": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-02-16T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 1.69
+    },
+    "CVE-2020-15485": {
+        "current": null,
+        "highest": {
+            "date": "2020-08-26T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-15495": {
+        "current": null,
+        "highest": {
+            "date": "2020-12-22T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2020-15496": {
+        "current": null,
+        "highest": {
+            "date": "2020-12-22T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2020-15500": {
+        "current": 0.76,
+        "highest": {
+            "date": "2020-07-01T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 0.48
+    },
+    "CVE-2020-16122": {
+        "current": 0.76,
+        "highest": {
+            "date": "2020-11-24T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.17
+    },
+    "CVE-2020-12729": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-12730": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-12731": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-12732": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-12733": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-12734": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2019-9670": {
+        "current": 6.66,
+        "highest": {
+            "date": "2021-06-30T00:00:00.000Z",
+            "value": 9.64
+        },
+        "previouslyExploited": 8.52
+    },
+    "CVE-2020-11632": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-11633": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-11634": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-1181": {
+        "current": 2.03,
+        "highest": {
+            "date": "2020-07-29T00:00:00.000Z",
+            "value": 6.86
+        },
+        "previouslyExploited": 5.34
+    },
+    "CVE-2019-17624": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-10-21T00:00:00.000Z",
+            "value": 5.1
+        },
+        "previouslyExploited": 1.19
+    },
+    "CVE-2019-17662": {
+        "current": 1.41,
+        "highest": {
+            "date": "2019-10-29T00:00:00.000Z",
+            "value": 6.68
+        },
+        "previouslyExploited": 3.67
+    },
+    "CVE-2019-1796": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-04-18T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-1797": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-04-18T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-1799": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-04-18T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-1800": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-04-19T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2019-1978": {
+        "current": 0.76,
+        "highest": {
+            "date": "2020-04-01T00:00:00.000Z",
+            "value": 0.98
+        },
+        "previouslyExploited": 0.72
+    },
+    "CVE-2019-3752": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2019-12900": {
+        "current": null,
+        "highest": {
+            "date": "2019-08-06T00:00:00.000Z",
+            "value": 4.49
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2019-15681": {
+        "current": null,
+        "highest": {
+            "date": "2019-11-25T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-1579": {
+        "current": 3.16,
+        "highest": {
+            "date": "2019-09-27T00:00:00.000Z",
+            "value": 8.87
+        },
+        "previouslyExploited": 8.4
+    },
+    "CVE-2019-16366": {
+        "current": null,
+        "highest": {
+            "date": "2019-09-17T00:00:00.000Z",
+            "value": 6.35
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2018-8518": {
+        "current": 0.76,
+        "highest": {
+            "date": "2018-10-13T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.48
+    },
+    "CVE-2019-0683": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-04-09T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2019-0880": {
+        "current": null,
+        "highest": {
+            "date": "2020-07-30T00:00:00.000Z",
+            "value": 0.87
+        },
+        "previouslyExploited": 1.35
+    },
+    "CVE-2018-1320": {
+        "current": 1.03,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.63
+    },
+    "CVE-2017-3332": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2017-8936": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2017-2824": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-01-08T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2017-3163": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-08-18T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2017-3164": {
+        "current": 1.11,
+        "highest": {
+            "date": "2019-03-14T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.85
+    },
+    "CVE-2016-3092": {
+        "current": null,
+        "highest": {
+            "date": "2020-01-26T00:00:00.000Z",
+            "value": 7.05
+        },
+        "previouslyExploited": 9.44
+    },
+    "CVE-2016-3134": {
+        "current": null,
+        "highest": {
+            "date": "2016-09-07T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-4997": {
+        "current": null,
+        "highest": {
+            "date": "2016-11-23T00:00:00.000Z",
+            "value": 0.2
+        },
+        "previouslyExploited": 0.08
+    },
+    "CVE-2016-5289": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5290": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-5291": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5292": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-5293": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5294": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-5295": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5296": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-5297": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5298": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-5299": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-5804": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2016-7117": {
+        "current": 0.76,
+        "highest": {
+            "date": "2016-11-14T00:00:00.000Z",
+            "value": 1.63
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2016-9061": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9062": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9063": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9064": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9065": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9066": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9067": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9068": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9070": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9071": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9072": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9073": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9074": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9075": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2016-9076": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2016-9077": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2014-0050": {
+        "current": null,
+        "highest": {
+            "date": "2020-01-26T00:00:00.000Z",
+            "value": 7.07
+        },
+        "previouslyExploited": 9.4
+    },
+    "CVE-2014-1812": {
+        "current": 1.66,
+        "highest": {
+            "date": "2020-12-25T00:00:00.000Z",
+            "value": 5.36
+        },
+        "previouslyExploited": 4.33
+    },
+    "CVE-2014-3452": {
+        "current": null,
+        "highest": {
+            "date": "2014-05-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.96
+    },
+    "CVE-2014-3582": {
+        "current": null,
+        "highest": {
+            "date": "2020-11-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2014-8609": {
+        "current": null,
+        "highest": {
+            "date": "2015-04-07T00:00:00.000Z",
+            "value": 1.31
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2015-0679": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2015-6668": {
+        "current": null,
+        "highest": {
+            "date": "2019-06-30T00:00:00.000Z",
+            "value": 1.22
+        },
+        "previouslyExploited": 1.72
+    },
+    "CVE-2012-2680": {
+        "current": null,
+        "highest": {
+            "date": "2013-02-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2012-2681": {
+        "current": null,
+        "highest": {
+            "date": "2013-02-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2012-2683": {
+        "current": null,
+        "highest": {
+            "date": "2013-02-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2012-5569": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2013-0248": {
+        "current": null,
+        "highest": {
+            "date": "2020-01-26T00:00:00.000Z",
+            "value": 7.05
+        },
+        "previouslyExploited": 9.44
+    },
+    "CVE-2013-2143": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2011-2189": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-10-05T00:00:00.000Z",
+            "value": 1.04
+        },
+        "previouslyExploited": 0.91
+    },
+    "CVE-2011-2371": {
+        "current": 0.76,
+        "highest": {
+            "date": "2011-10-18T00:00:00.000Z",
+            "value": 1.02
+        },
+        "previouslyExploited": 1.0
+    },
+    "CVE-2021-34525": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-33775": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33776": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33777": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33778": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33780": {
+        "current": 0.93,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.93
+        },
+        "previouslyExploited": 1.32
+    },
+    "CVE-2021-1566": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-31947": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-31206": {
+        "current": 0.91,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.91
+        },
+        "previouslyExploited": 1.28
+    },
+    "CVE-2021-3637": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-24365": {
+        "current": 4.9,
+        "highest": {
+            "date": "2021-07-14T00:00:00.000Z",
+            "value": 4.9
+        },
+        "previouslyExploited": 3.75
+    },
+    "CVE-2021-20027": {
+        "current": 8.07,
+        "highest": {
+            "date": "2021-07-17T00:00:00.000Z",
+            "value": 8.07
+        },
+        "previouslyExploited": 6.35
+    },
+    "CVE-2021-34494": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.99
+        },
+        "previouslyExploited": 1.68
+    },
+    "CVE-2021-21166": {
+        "current": 1.92,
+        "highest": {
+            "date": "2021-04-08T00:00:00.000Z",
+            "value": 5.38
+        },
+        "previouslyExploited": 5.06
+    },
+    "CVE-2021-34514": {
+        "current": 5.05,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-1879": {
+        "current": 7.17,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 7.17
+        },
+        "previouslyExploited": 6.87
+    },
+    "CVE-2021-22921": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-13T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-35039": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34481": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-22204": {
+        "current": 10.0,
+        "highest": {
+            "date": "2021-05-16T00:00:00.000Z",
+            "value": 10.0
+        },
+        "previouslyExploited": 10.0
+    },
+    "CVE-2021-30551": {
+        "current": 9.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 9.8
+        },
+        "previouslyExploited": 8.42
+    },
+    "CVE-2021-33742": {
+        "current": 9.96,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 9.96
+        },
+        "previouslyExploited": 9.76
+    },
+    "CVE-2021-34448": {
+        "current": 2.7,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 2.7
+        },
+        "previouslyExploited": 5.53
+    },
+    "CVE-2021-22555": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-20026": {
+        "current": 9.45,
+        "highest": {
+            "date": "2021-07-17T00:00:00.000Z",
+            "value": 9.45
+        },
+        "previouslyExploited": 7.23
+    },
+    "CVE-2021-3560": {
+        "current": 9.98,
+        "highest": {
+            "date": "2021-06-14T00:00:00.000Z",
+            "value": 9.98
+        },
+        "previouslyExploited": 9.96
+    },
+    "CVE-2021-21985": {
+        "current": 10.0,
+        "highest": {
+            "date": "2021-06-04T00:00:00.000Z",
+            "value": 10.0
+        },
+        "previouslyExploited": 10.0
+    },
+    "CVE-2021-1675": {
+        "current": 10.0,
+        "highest": {
+            "date": "2021-07-02T00:00:00.000Z",
+            "value": 10.0
+        },
+        "previouslyExploited": 10.0
+    },
+    "CVE-2021-33757": {
+        "current": 5.4,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.4
+        },
+        "previouslyExploited": 3.18
+    },
+    "CVE-2021-2021": {
+        "current": 1.16,
+        "highest": {
+            "date": "2021-02-22T00:00:00.000Z",
+            "value": 5.09
+        },
+        "previouslyExploited": 2.97
+    },
+    "CVE-2021-22707": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2018-7801": {
+        "current": 0.77,
+        "highest": {
+            "date": "2019-02-02T00:00:00.000Z",
+            "value": 0.91
+        },
+        "previouslyExploited": 1.29
+    },
+    "CVE-2021-22708": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-24700": {
+        "current": null,
+        "highest": {
+            "date": "2021-01-14T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2020-24701": {
+        "current": null,
+        "highest": {
+            "date": "2021-01-14T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-26698": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-26699": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35464": {
+        "current": 9.5,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 9.5
+        },
+        "previouslyExploited": 9.57
+    },
+    "CVE-2021-25155": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 4.61
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25156": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25157": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25158": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25159": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 4.61
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25160": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25161": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-25162": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 4.58
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-22000": {
+        "current": 5.0,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-36213": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-32574": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36772": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36771": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-33911": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36773": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-1422": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21799": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21800": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21801": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21802": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21803": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21804": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21816": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21817": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21818": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21819": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21820": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-28053": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-28054": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-28114": {
+        "current": 0.92,
+        "highest": {
+            "date": "2021-07-06T00:00:00.000Z",
+            "value": 0.92
+        },
+        "previouslyExploited": 1.45
+    },
+    "CVE-2021-32749": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-32769": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34438": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34439": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34440": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34441": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34442": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34444": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34445": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34446": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34447": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34449": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34450": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34451": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34456": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33755": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34499": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33740": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33744": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34460": {
+        "current": 5.01,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-33771": {
+        "current": 7.18,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 7.18
+        },
+        "previouslyExploited": 6.03
+    },
+    "CVE-2021-31183": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34469": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34509": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33774": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33752": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34464": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.27
+    },
+    "CVE-2021-34458": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34507": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34497": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34522": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.27
+    },
+    "CVE-2021-33745": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34493": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34474": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34513": {
+        "current": 5.01,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-33763": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33779": {
+        "current": 1.04,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 1.04
+        },
+        "previouslyExploited": 1.29
+    },
+    "CVE-2021-33761": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33768": {
+        "current": 5.05,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.76
+    },
+    "CVE-2021-34520": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34454": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33782": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34490": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33750": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33759": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34461": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34491": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34462": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34489": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34500": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34452": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34496": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34519": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-0501": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-9802": {
+        "current": 1.96,
+        "highest": {
+            "date": "2020-12-01T00:00:00.000Z",
+            "value": 5.33
+        },
+        "previouslyExploited": 5.16
+    },
+    "CVE-2021-33753": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33773": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34529": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34476": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34511": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34498": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34473": {
+        "current": 5.56,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.56
+        },
+        "previouslyExploited": 5.51
+    },
+    "CVE-2021-34492": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.26
+    },
+    "CVE-2021-34516": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34470": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34512": {
+        "current": 5.01,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-33767": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34503": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34479": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34459": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2011-2699": {
+        "current": null,
+        "highest": {
+            "date": "2013-03-08T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2011-2925": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2011-4930": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2012-1090": {
+        "current": null,
+        "highest": {
+            "date": "2020-07-27T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2012-1097": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2009-4133": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2009-5005": {
+        "current": null,
+        "highest": {
+            "date": "2020-03-23T00:00:00.000Z",
+            "value": 6.71
+        },
+        "previouslyExploited": 9.22
+    },
+    "CVE-2009-5006": {
+        "current": null,
+        "highest": {
+            "date": "2020-03-23T00:00:00.000Z",
+            "value": 6.71
+        },
+        "previouslyExploited": 9.22
+    },
+    "CVE-2009-5136": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2010-2101": {
+        "current": 0.76,
+        "highest": {
+            "date": "2011-10-10T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2010-3083": {
+        "current": null,
+        "highest": {
+            "date": "2020-03-23T00:00:00.000Z",
+            "value": 6.71
+        },
+        "previouslyExploited": 9.22
+    },
+    "CVE-2010-3275": {
+        "current": 0.76,
+        "highest": {
+            "date": "2011-04-06T00:00:00.000Z",
+            "value": 0.9
+        },
+        "previouslyExploited": 1.05
+    },
+    "CVE-2010-3701": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2008-0244": {
+        "current": null,
+        "highest": {
+            "date": "2015-05-11T00:00:00.000Z",
+            "value": 0.62
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2008-3094": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2008-3219": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2008-3220": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2008-3221": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2008-3222": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2009-0204": {
+        "current": 0.76,
+        "highest": {
+            "date": "2009-02-04T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-1999-0120": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.26
+    },
+    "CVE-2004-2431": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-11-10T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2004-2553": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-11-10T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2005-1640": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-11-10T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2005-1641": {
+        "current": 0.76,
+        "highest": {
+            "date": "2019-11-10T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2020-15778": {
+        "current": 2.48,
+        "highest": {
+            "date": "2021-03-15T00:00:00.000Z",
+            "value": 7.11
+        },
+        "previouslyExploited": 6.57
+    },
+    "CVE-2020-14343": {
+        "current": 0.44,
+        "highest": {
+            "date": "2021-04-19T00:00:00.000Z",
+            "value": 6.4
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2020-1747": {
+        "current": 0.21,
+        "highest": {
+            "date": "2020-04-19T00:00:00.000Z",
+            "value": 4.52
+        },
+        "previouslyExploited": 0.53
+    },
+    "CVE-2021-34308": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-33578": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36376": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34294": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-21702": {
+        "current": 1.28,
+        "highest": {
+            "date": "2021-03-31T00:00:00.000Z",
+            "value": 5.17
+        },
+        "previouslyExploited": 3.3
+    },
+    "CVE-2021-21786": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34323": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34324": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34319": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33766": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34325": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-21789": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21788": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34322": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34320": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34303": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34295": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34312": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34316": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34306": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34309": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34523": {
+        "current": 0.92,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.92
+        },
+        "previouslyExploited": 1.29
+    },
+    "CVE-2020-22875": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-22874": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34311": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34313": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34314": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34317": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-32747": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-22884": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34318": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-34315": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-34307": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-22873": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34310": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-34321": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-32746": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-32754": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29759": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-0605": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-22440": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-31221": {
+        "current": 0.27,
+        "highest": {
+            "date": "2020-02-15T00:00:00.000Z",
+            "value": 0.61
+        },
+        "previouslyExploited": 0.68
+    },
+    "CVE-2021-34293": {
+        "current": 0.87,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.87
+        },
+        "previouslyExploited": 1.31
+    },
+    "CVE-2021-33746": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-26153": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-33754": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-31223": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-33749": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-31196": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.28
+    },
+    "CVE-2021-33756": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-26090": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35957": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-34488": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33785": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34455": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-30129": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-07-14T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-35211": {
+        "current": 1.57,
+        "highest": {
+            "date": "2021-07-14T00:00:00.000Z",
+            "value": 1.57
+        },
+        "previouslyExploited": 3.31
+    },
+    "CVE-2020-2551": {
+        "current": 2.37,
+        "highest": {
+            "date": "2020-03-01T00:00:00.000Z",
+            "value": 9.12
+        },
+        "previouslyExploited": 6.3
+    },
+    "CVE-2020-0796": {
+        "current": 8.7,
+        "highest": {
+            "date": "2020-04-16T00:00:00.000Z",
+            "value": 10.0
+        },
+        "previouslyExploited": 9.94
+    },
+    "CVE-2020-2555": {
+        "current": 1.9,
+        "highest": {
+            "date": "2020-04-18T00:00:00.000Z",
+            "value": 8.27
+        },
+        "previouslyExploited": 5.0
+    },
+    "CVE-2020-14644": {
+        "current": 0.79,
+        "highest": {
+            "date": "2020-08-24T00:00:00.000Z",
+            "value": 5.36
+        },
+        "previouslyExploited": 1.19
+    },
+    "CVE-2020-15871": {
+        "current": 0.77,
+        "highest": {
+            "date": "2020-09-04T00:00:00.000Z",
+            "value": 1.0
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2016-0189": {
+        "current": 3.61,
+        "highest": {
+            "date": "2017-11-21T00:00:00.000Z",
+            "value": 6.74
+        },
+        "previouslyExploited": 9.62
+    },
+    "CVE-2013-2551": {
+        "current": 2.7,
+        "highest": {
+            "date": "2020-01-07T00:00:00.000Z",
+            "value": 3.42
+        },
+        "previouslyExploited": 7.18
+    },
+    "CVE-2021-1844": {
+        "current": 6.85,
+        "highest": {
+            "date": "2021-06-16T00:00:00.000Z",
+            "value": 6.9
+        },
+        "previouslyExploited": 4.84
+    },
+    "CVE-2019-0230": {
+        "current": 3.2,
+        "highest": {
+            "date": "2020-10-09T00:00:00.000Z",
+            "value": 9.86
+        },
+        "previouslyExploited": 8.03
+    },
+    "CVE-2021-36755": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36758": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2019-7481": {
+        "current": 9.7,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 9.7
+        },
+        "previouslyExploited": 8.16
+    },
+    "CVE-2021-30563": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-33788": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-31979": {
+        "current": 5.93,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.93
+        },
+        "previouslyExploited": 5.97
+    },
+    "CVE-2021-34527": {
+        "current": 5.24,
+        "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 8.69
+        },
+        "previouslyExploited": 9.97
+    },
+    "CVE-2021-34467": {
+        "current": 0.88,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-33784": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33772": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-34517": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34508": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33781": {
+        "current": 0.92,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.92
+        },
+        "previouslyExploited": 1.43
+    },
+    "CVE-2020-1206": {
+        "current": 2.09,
+        "highest": {
+            "date": "2020-07-14T00:00:00.000Z",
+            "value": 8.32
+        },
+        "previouslyExploited": 5.51
+    },
+    "CVE-2021-3413": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-3328": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-3146": {
+        "current": 1.09,
+        "highest": {
+            "date": "2021-04-10T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.8
+    },
+    "CVE-2021-3149": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.43
+        },
+        "previouslyExploited": 2.59
+    },
+    "CVE-2021-3150": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-30463": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.39
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-30127": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 6.38
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-30141": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-30045": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-29654": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-29437": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-29444": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-19T00:00:00.000Z",
+            "value": 5.06
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-29445": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-04-19T00:00:00.000Z",
+            "value": 5.08
+        },
+        "previouslyExploited": 2.61
+    },
+    "CVE-2021-29451": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-04-25T00:00:00.000Z",
+            "value": 5.07
+        },
+        "previouslyExploited": 2.59
+    },
+    "CVE-2021-29452": {
+        "current": 1.03,
+        "highest": {
+            "date": "2021-04-25T00:00:00.000Z",
+            "value": 5.09
+        },
+        "previouslyExploited": 2.62
+    },
+    "CVE-2021-29428": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-28856": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-28874": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.17
+    },
+    "CVE-2021-28646": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-28647": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-28469": {
+        "current": 2.23,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+        },
+        "previouslyExploited": 5.88
+    },
+    "CVE-2021-28473": {
+        "current": 2.26,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.06
+        },
+        "previouslyExploited": 5.95
+    },
+    "CVE-2021-28475": {
+        "current": 2.23,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+        },
+        "previouslyExploited": 5.88
+    },
+    "CVE-2021-28477": {
+        "current": 2.23,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.04
+        },
+        "previouslyExploited": 5.88
+    },
+    "CVE-2021-28457": {
+        "current": 2.26,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 8.06
+        },
+        "previouslyExploited": 5.95
+    },
+    "CVE-2021-28316": {
+        "current": 8.21,
+        "highest": {
+            "date": "2021-05-12T00:00:00.000Z",
+            "value": 9.99
+        },
+        "previouslyExploited": 9.86
+    },
+    "CVE-2021-27990": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 2.02
+    },
+    "CVE-2021-28075": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-28171": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.55
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-28172": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-28173": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.59
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-27698": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.59
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-27945": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-27544": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-27545": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-27250": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 4.99
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-27259": {
+        "current": 0.97,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 4.99
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-26833": {
+        "current": 1.07,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.75
+    },
+    "CVE-2021-26919": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 1.23
+        },
+        "previouslyExploited": 1.25
+    },
+    "CVE-2021-26076": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-26030": {
+        "current": 1.24,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.13
+        },
+        "previouslyExploited": 3.19
+    },
+    "CVE-2021-26031": {
+        "current": 1.24,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.13
+        },
+        "previouslyExploited": 3.19
+    },
+    "CVE-2021-34504": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-34457": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34528": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33743": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33783": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33751": {
+        "current": 6.59,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 6.59
+        },
+        "previouslyExploited": 5.16
+    },
+    "CVE-2021-33765": {
+        "current": 5.01,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-31984": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34466": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.25
+    },
+    "CVE-2021-34518": {
+        "current": 0.91,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.91
+        },
+        "previouslyExploited": 1.3
+    },
+    "CVE-2021-33758": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-31961": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34510": {
+        "current": 5.01,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-34501": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-34477": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33760": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34468": {
+        "current": 5.2,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 5.2
+        },
+        "previouslyExploited": 4.06
+    },
+    "CVE-2021-34521": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33764": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-33786": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-35973": {
+        "current": 6.37,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 6.37
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-34816": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34817": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-21224": {
+        "current": 9.35,
+        "highest": {
+            "date": "2021-07-13T00:00:00.000Z",
+            "value": 9.35
+        },
+        "previouslyExploited": 6.71
+    },
+    "CVE-2019-5782": {
+        "current": null,
+        "highest": {
+            "date": "2020-11-14T00:00:00.000Z",
+            "value": 1.06
+        },
+        "previouslyExploited": 1.96
+    },
+    "CVE-2021-21220": {
+        "current": 2.76,
+        "highest": {
+            "date": "2021-05-03T00:00:00.000Z",
+            "value": 5.07
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-3452": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2017-11176": {
+        "current": 0.71,
+        "highest": {
+            "date": "2018-10-08T00:00:00.000Z",
+            "value": 6.81
+        },
+        "previouslyExploited": 0.67
+    },
+    "CVE-2021-33037": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-14T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.26
+    },
+    "CVE-2021-36769": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2017-0147": {
+        "current": 9.99,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 9.99
+        },
+        "previouslyExploited": 10.0
+    },
+    "CVE-2021-3550": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-3453": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-36716": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-25445": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-27379": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-29147": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34824": {
+        "current": 1.36,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 1.36
+        },
+        "previouslyExploited": 3.44
+    },
+    "CVE-2021-21573": {
+        "current": 5.4,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 5.4
+        },
+        "previouslyExploited": 4.82
+    },
+    "CVE-2021-21998": {
+        "current": 6.91,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 6.91
+        },
+        "previouslyExploited": 5.37
+    },
+    "CVE-2021-21571": {
+        "current": 5.45,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 5.45
+        },
+        "previouslyExploited": 5.05
+    },
+    "CVE-2021-35513": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-35514": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-35456": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.04
+    },
+    "CVE-2021-34389": {
+        "current": 4.94,
+        "highest": {
+            "date": "2021-06-30T00:00:00.000Z",
+            "value": 4.94
+        },
+        "previouslyExploited": 2.48
+    },
+    "CVE-2021-34475": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.25
+    },
+    "CVE-2021-34386": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-24T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-33538": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-32723": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-32682": {
+        "current": 6.5,
+        "highest": {
+            "date": "2021-06-21T00:00:00.000Z",
+            "value": 6.5
+        },
+        "previouslyExploited": 4.71
+    },
+    "CVE-2021-32698": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-06-24T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-31955": {
+        "current": 8.96,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 8.96
+        },
+        "previouslyExploited": 9.11
+    },
+    "CVE-2021-3044": {
+        "current": 1.08,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 1.08
+        },
+        "previouslyExploited": 1.35
+    },
+    "CVE-2021-28556": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-06-04T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.27
+    },
+    "CVE-2021-28562": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-06-12T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-28563": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-06-03T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-28586": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-20T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-28800": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-27850": {
+        "current": 8.81,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 8.81
+        },
+        "previouslyExploited": 5.64
+    },
+    "CVE-2021-26828": {
+        "current": 1.56,
+        "highest": {
+            "date": "2021-06-22T00:00:00.000Z",
+            "value": 2.33
+        },
+        "previouslyExploited": 1.6
+    },
+    "CVE-2021-23399": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-21083": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-30T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21084": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-05-19T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21090": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-16T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21098": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-02T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21099": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-11T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-21101": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-05-22T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-21102": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-05-17T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-1104": {
+        "current": 1.16,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 1.16
+        },
+        "previouslyExploited": 2.89
+    },
+    "CVE-2021-1134": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-06-19T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-7210": {
+        "current": 0.8,
+        "highest": {
+            "date": "2020-02-14T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.21
+    },
+    "CVE-2020-8704": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-06-09T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2020-9971": {
+        "current": 3.15,
+        "highest": {
+            "date": "2021-04-08T00:00:00.000Z",
+            "value": 8.92
+        },
+        "previouslyExploited": 8.38
+    },
+    "CVE-2020-3580": {
+        "current": 8.12,
+        "highest": {
+            "date": "2021-06-29T00:00:00.000Z",
+            "value": 8.12
+        },
+        "previouslyExploited": 7.01
+    },
+    "CVE-2020-22607": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-22608": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-22609": {
+        "current": null,
+        "highest": {
+            "date": "2021-03-01T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2020-23710": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-23711": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-23715": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-24577": {
+        "current": null,
+        "highest": {
+            "date": "2021-01-15T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2020-24578": {
+        "current": null,
+        "highest": {
+            "date": "2021-02-01T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2020-24579": {
+        "current": 1.8,
+        "highest": {
+            "date": "2021-02-24T00:00:00.000Z",
+            "value": 6.54
+        },
+        "previouslyExploited": 4.73
+    },
+    "CVE-2020-24580": {
+        "current": null,
+        "highest": {
+            "date": "2021-03-18T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2020-25695": {
+        "current": null,
+        "highest": {
+            "date": "2020-12-18T00:00:00.000Z",
+            "value": 9.46
+        },
+        "previouslyExploited": 8.96
+    },
+    "CVE-2020-20389": {
+        "current": 0.83,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2020-20640": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-21142": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-21394": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-18671": {
+        "current": 0.85,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.17
+    },
+    "CVE-2020-16134": {
+        "current": 4.37,
+        "highest": {
+            "date": "2020-08-13T00:00:00.000Z",
+            "value": 4.55
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2020-15303": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-16018": {
+        "current": 6.53,
+        "highest": {
+            "date": "2021-01-20T00:00:00.000Z",
+            "value": 7.8
+        },
+        "previouslyExploited": 5.46
+    },
+    "CVE-2020-1337": {
+        "current": 3.38,
+        "highest": {
+            "date": "2020-10-01T00:00:00.000Z",
+            "value": 9.32
+        },
+        "previouslyExploited": 9.3
+    },
+    "CVE-2020-13799": {
+        "current": 1.92,
+        "highest": {
+            "date": "2020-12-24T00:00:00.000Z",
+            "value": 6.62
+        },
+        "previouslyExploited": 5.03
+    },
+    "CVE-2019-0201": {
+        "current": null,
+        "highest": {
+            "date": "2019-07-23T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-11074": {
+        "current": null,
+        "highest": {
+            "date": "2020-03-28T00:00:00.000Z",
+            "value": 4.49
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2019-11135": {
+        "current": 1.04,
+        "highest": {
+            "date": "2019-12-14T00:00:00.000Z",
+            "value": 1.06
+        },
+        "previouslyExploited": 0.25
+    },
+    "CVE-2019-14743": {
+        "current": 0.8,
+        "highest": {
+            "date": "2019-10-12T00:00:00.000Z",
+            "value": 4.98
+        },
+        "previouslyExploited": 1.5
+    },
+    "CVE-2019-17570": {
+        "current": 0.79,
+        "highest": {
+            "date": "2020-04-19T00:00:00.000Z",
+            "value": 5.14
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2019-18845": {
+        "current": 0.79,
+        "highest": {
+            "date": "2019-12-21T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2019-19119": {
+        "current": null,
+        "highest": {
+            "date": "2020-02-05T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2019-6263": {
+        "current": null,
+        "highest": {
+            "date": "2019-01-18T00:00:00.000Z",
+            "value": 1.49
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2019-6452": {
+        "current": null,
+        "highest": {
+            "date": "2019-08-02T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2018-1138": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2018-12437": {
+        "current": null,
+        "highest": {
+            "date": "2019-07-01T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2018-14683": {
+        "current": 0.84,
+        "highest": {
+            "date": "2019-04-14T00:00:00.000Z",
+            "value": 0.87
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2018-19203": {
+        "current": null,
+        "highest": {
+            "date": "2019-05-23T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2018-19204": {
+        "current": null,
+        "highest": {
+            "date": "2019-05-01T00:00:00.000Z",
+            "value": 6.45
+        },
+        "previouslyExploited": 3.19
+    },
+    "CVE-2016-5078": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2017-8570": {
+        "current": 3.62,
+        "highest": {
+            "date": "2018-04-08T00:00:00.000Z",
+            "value": 8.56
+        },
+        "previouslyExploited": 9.76
+    },
+    "CVE-2015-5477": {
+        "current": null,
+        "highest": {
+            "date": "2015-08-03T00:00:00.000Z",
+            "value": 1.95
+        },
+        "previouslyExploited": 3.56
+    },
+    "CVE-2015-7358": {
+        "current": null,
+        "highest": {
+            "date": "2019-06-16T00:00:00.000Z",
+            "value": 1.59
+        },
+        "previouslyExploited": 3.59
+    },
+    "CVE-2015-7359": {
+        "current": null,
+        "highest": {
+            "date": "2019-06-15T00:00:00.000Z",
+            "value": 1.39
+        },
+        "previouslyExploited": 3.08
+    },
+    "CVE-2015-7611": {
+        "current": 0.85,
+        "highest": {
+            "date": "2020-02-27T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2015-8813": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-06-28T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.25
+    },
+    "CVE-2010-5137": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2002-1574": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2002-1584": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2002-1664": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2002-2061": {
+        "current": 0.77,
+        "highest": {
+            "date": "2019-11-14T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.08
+    },
+    "CVE-2002-2211": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2003-0057": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2003-0257": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2003-0299": {
+        "current": null,
+        "highest": {
+            "date": "2019-11-23T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.08
+    },
+    "CVE-2003-0322": {
+        "current": 0.77,
+        "highest": {
+            "date": "2019-12-13T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.08
+    },
+    "CVE-2003-0440": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2003-0451": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2003-0682": {
+        "current": 3.67,
+        "highest": {
+            "date": "2020-04-01T00:00:00.000Z",
+            "value": 8.84
+        },
+        "previouslyExploited": 9.92
+    },
+    "CVE-2003-0782": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35448": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35475": {
+        "current": 0.43,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.43
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2021-34506": {
+        "current": 0.84,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.25
+    },
+    "CVE-2021-35041": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-34067": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34068": {
+        "current": 0.78,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.78
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34069": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34070": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-34071": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-3275": {
+        "current": 0.94,
+        "highest": {
+            "date": "2021-03-28T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.39
+    },
+    "CVE-2021-32823": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-32690": {
+        "current": 0.92,
+        "highest": {
+            "date": "2021-06-20T00:00:00.000Z",
+            "value": 0.92
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-32677": {
+        "current": 0.82,
+        "highest": {
+            "date": "2021-06-10T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-32537": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-30737": {
+        "current": 8.49,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 8.49
+        },
+        "previouslyExploited": 7.25
+    },
+    "CVE-2021-3034": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-27T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-3039": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-06-10T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.3
+    },
+    "CVE-2021-29081": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-07T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-29079": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-04T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-29080": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-03-28T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.54
+    },
+    "CVE-2021-29075": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 5.02
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-29065": {
+        "current": 1.1,
+        "highest": {
+            "date": "2021-03-31T00:00:00.000Z",
+            "value": 6.41
+        },
+        "previouslyExploited": 2.82
+    },
+    "CVE-2021-29066": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-20T00:00:00.000Z",
+            "value": 6.37
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-29067": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-05-01T00:00:00.000Z",
+            "value": 6.37
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-29026": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29027": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-06T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-29028": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-16T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29029": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-30T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29030": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-05-05T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29031": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-12T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29032": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-29033": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-25T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-28967": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-07T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-28968": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-09T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-28972": {
+        "current": 1.04,
+        "highest": {
+            "date": "2021-05-01T00:00:00.000Z",
+            "value": 6.45
+        },
+        "previouslyExploited": 2.65
+    },
+    "CVE-2021-28819": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 6.38
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-28680": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-28T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.26
+    },
+    "CVE-2021-28817": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-03-27T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-28250": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-23T00:00:00.000Z",
+            "value": 5.04
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-27928": {
+        "current": 1.68,
+        "highest": {
+            "date": "2021-05-19T00:00:00.000Z",
+            "value": 6.84
+        },
+        "previouslyExploited": 3.64
+    },
+    "CVE-2021-27803": {
+        "current": 1.9,
+        "highest": {
+            "date": "2021-04-06T00:00:00.000Z",
+            "value": 6.64
+        },
+        "previouslyExploited": 4.99
+    },
+    "CVE-2021-27918": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-31T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.29
+    },
+    "CVE-2021-27919": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-29T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-27921": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 0.89
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-27922": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-01T00:00:00.000Z",
+            "value": 0.9
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-27923": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-05T00:00:00.000Z",
+            "value": 0.91
+        },
+        "previouslyExploited": 1.19
+    },
+    "CVE-2021-27218": {
+        "current": 1.06,
+        "highest": {
+            "date": "2021-03-24T00:00:00.000Z",
+            "value": 5.13
+        },
+        "previouslyExploited": 2.7
+    },
+    "CVE-2021-27221": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-16T00:00:00.000Z",
+            "value": 6.38
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-27309": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-18T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.52
+    },
+    "CVE-2021-27310": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-27315": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2021-27316": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-24T00:00:00.000Z",
+            "value": 0.89
+        },
+        "previouslyExploited": 1.24
+    },
+    "CVE-2021-27319": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-27T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2021-27320": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-05-05T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-27056": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-05-04T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-26858": {
+        "current": 3.86,
+        "highest": {
+            "date": "2021-04-25T00:00:00.000Z",
+            "value": 9.19
+        },
+        "previouslyExploited": 7.07
+    },
+    "CVE-2021-2687": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-29T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.26
+    },
+    "CVE-2021-26882": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-06-09T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-26886": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-10T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-26927": {
+        "current": 1.02,
+        "highest": {
+            "date": "2021-04-01T00:00:00.000Z",
+            "value": 5.08
+        },
+        "previouslyExploited": 2.61
+    },
+    "CVE-2021-26935": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-2695": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-26T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-26295": {
+        "current": 2.32,
+        "highest": {
+            "date": "2021-05-08T00:00:00.000Z",
+            "value": 8.66
+        },
+        "previouslyExploited": 6.1
+    },
+    "CVE-2021-25919": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-25920": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-03-24T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-25921": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-06T00:00:00.000Z",
+            "value": 4.97
+        },
+        "previouslyExploited": 2.5
+    },
+    "CVE-2021-25922": {
+        "current": 1.82,
+        "highest": {
+            "date": "2021-04-16T00:00:00.000Z",
+            "value": 6.52
+        },
+        "previouslyExploited": 4.76
+    },
+    "CVE-2021-25252": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-17T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-25265": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-10T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-25649": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25650": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25651": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25652": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25653": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25655": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-25656": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-06-25T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.1
+    },
+    "CVE-2021-24370": {
+        "current": 6.8,
+        "highest": {
+            "date": "2021-06-24T00:00:00.000Z",
+            "value": 6.8
+        },
+        "previouslyExploited": 5.28
+    },
+    "CVE-2021-24148": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-01T00:00:00.000Z",
+            "value": 4.58
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-24084": {
+        "current": 0.77,
+        "highest": {
+            "date": "2021-03-09T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-24123": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-03-25T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-24124": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-13T00:00:00.000Z",
+            "value": 0.9
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-24125": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-24134": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-03T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-24135": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-02T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-24137": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-26T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-24138": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-05-29T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-24145": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-07T00:00:00.000Z",
+            "value": 0.82
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-24147": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-07T00:00:00.000Z",
+            "value": 0.8
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2021-23274": {
+        "current": 1.09,
+        "highest": {
+            "date": "2021-04-01T00:00:00.000Z",
+            "value": 6.41
+        },
+        "previouslyExploited": 2.78
+    },
+    "CVE-2021-23351": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-05-01T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-23359": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-24T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-23888": {
+        "current": 1.28,
+        "highest": {
+            "date": "2021-04-28T00:00:00.000Z",
+            "value": 5.26
+        },
+        "previouslyExploited": 3.29
+    },
+    "CVE-2021-23889": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-03-30T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-22862": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-27T00:00:00.000Z",
+            "value": 0.85
+        },
+        "previouslyExploited": 1.15
+    },
+    "CVE-2021-23017": {
+        "current": 8.42,
+        "highest": {
+            "date": "2021-06-16T00:00:00.000Z",
+            "value": 8.42
+        },
+        "previouslyExploited": 6.25
+    },
+    "CVE-2021-22543": {
+        "current": 5.64,
+        "highest": {
+            "date": "2021-06-13T00:00:00.000Z",
+            "value": 5.64
+        },
+        "previouslyExploited": 2.95
+    },
+    "CVE-2021-22651": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-03-29T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-30158": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-06-03T00:00:00.000Z",
+            "value": 0.92
+        },
+        "previouslyExploited": 1.2
+    },
+    "CVE-2021-31618": {
+        "current": 6.62,
+        "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 6.62
+        },
+        "previouslyExploited": 4.96
+    },
+    "CVE-2021-30155": {
+        "current": 0.8,
+        "highest": {
+            "date": "2021-05-06T00:00:00.000Z",
+            "value": 0.94
+        },
+        "previouslyExploited": 1.21
+    },
+    "CVE-2021-30157": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-05-22T00:00:00.000Z",
+            "value": 0.9
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2019-17567": {
+        "current": 6.93,
+        "highest": {
+            "date": "2021-06-19T00:00:00.000Z",
+            "value": 6.93
+        },
+        "previouslyExploited": 5.04
+    },
+    "CVE-2021-30154": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-05-03T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-26690": {
+        "current": 7.0,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 7.0
+        },
+        "previouslyExploited": 5.04
+    },
+    "CVE-2020-35452": {
+        "current": 6.94,
+        "highest": {
+            "date": "2021-07-11T00:00:00.000Z",
+            "value": 6.94
+        },
+        "previouslyExploited": 5.04
+    },
+    "CVE-2021-26691": {
+        "current": 8.11,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 8.11
+        },
+        "previouslyExploited": 5.28
+    },
+    "CVE-2021-30152": {
+        "current": 1.03,
+        "highest": {
+            "date": "2021-05-06T00:00:00.000Z",
+            "value": 5.08
+        },
+        "previouslyExploited": 2.61
+    },
+    "CVE-2021-30641": {
+        "current": 7.04,
+        "highest": {
+            "date": "2021-07-15T00:00:00.000Z",
+            "value": 7.04
+        },
+        "previouslyExploited": 5.12
+    },
+    "CVE-2021-3614": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0276": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0277": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-34394": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-07-02T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-34395": {
+        "current": 5.05,
+        "highest": {
+            "date": "2021-07-02T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-34391": {
+        "current": 0.86,
+        "highest": {
+            "date": "2021-07-02T00:00:00.000Z",
+            "value": 0.86
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2021-34390": {
+        "current": 0.91,
+        "highest": {
+            "date": "2021-07-04T00:00:00.000Z",
+            "value": 0.91
+        },
+        "previouslyExploited": 1.19
+    },
+    "CVE-2021-25893": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-25894": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.05
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-25250": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.4
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-24094": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.08
+        },
+        "previouslyExploited": 1.38
+    },
+    "CVE-2021-23884": {
+        "current": 0.98,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.01
+        },
+        "previouslyExploited": 2.49
+    },
+    "CVE-2021-21976": {
+        "current": 2.93,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 8.78
+        },
+        "previouslyExploited": 7.78
+    },
+    "CVE-2021-21310": {
+        "current": 1.84,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.58
+        },
+        "previouslyExploited": 4.83
+    },
+    "CVE-2021-21412": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 0.84
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2021-21062": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-21063": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-21014": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 1.16
+        },
+        "previouslyExploited": 1.19
+    },
+    "CVE-2021-21047": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.77
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-21048": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.8
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-21049": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.8
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-21050": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-21051": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 4.77
+        },
+        "previouslyExploited": 1.18
+    },
+    "CVE-2021-21052": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-21053": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-21054": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.41
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-21055": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.06
+        },
+        "previouslyExploited": 2.58
+    },
+    "CVE-2021-21058": {
+        "current": 1.0,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.41
+        },
+        "previouslyExploited": 2.55
+    },
+    "CVE-2021-21059": {
+        "current": 1.01,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.42
+        },
+        "previouslyExploited": 2.57
+    },
+    "CVE-2021-20496": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20497": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20498": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20499": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20500": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20510": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20511": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20523": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20524": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20533": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20534": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20537": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-20439": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-19635": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 0.77
+        },
+        "previouslyExploited": 1.11
+    },
+    "CVE-2021-1647": {
+        "current": 5.58,
+        "highest": {
+            "date": "2021-02-19T00:00:00.000Z",
+            "value": 9.99
+        },
+        "previouslyExploited": 10.0
+    },
+    "CVE-2021-1672": {
+        "current": 1.14,
+        "highest": {
+            "date": "2021-01-20T00:00:00.000Z",
+            "value": 5.15
+        },
+        "previouslyExploited": 2.92
+    },
+    "CVE-2021-1309": {
+        "current": 1.09,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 6.39
+        },
+        "previouslyExploited": 2.78
+    },
+    "CVE-2021-1000000": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 1.45
+        },
+        "previouslyExploited": 1.09
+    },
+    "CVE-2021-1251": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.0
+        },
+        "previouslyExploited": 2.51
+    },
+    "CVE-2021-0278": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0279": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0280": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0281": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0282": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0283": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0285": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0286": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0287": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0288": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0289": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0290": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0291": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0292": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0293": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0294": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-0295": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-7383": {
+        "current": null,
+        "highest": {
+            "date": "2020-12-22T00:00:00.000Z",
+            "value": 5.14
+        },
+        "previouslyExploited": 3.73
+    },
+    "CVE-2020-4675": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-4821": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-4980": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-4983": {
+        "current": 1.93,
+        "highest": {
+            "date": "2021-02-18T00:00:00.000Z",
+            "value": 6.65
+        },
+        "previouslyExploited": 5.07
+    },
+    "CVE-2020-6507": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 5.11
+        },
+        "previouslyExploited": 1.21
+    },
+    "CVE-2020-36195": {
+        "current": 6.46,
+        "highest": {
+            "date": "2021-05-13T00:00:00.000Z",
+            "value": 7.8
+        },
+        "previouslyExploited": 5.05
+    },
+    "CVE-2020-35578": {
+        "current": 1.45,
+        "highest": {
+            "date": "2021-03-18T00:00:00.000Z",
+            "value": 7.71
+        },
+        "previouslyExploited": 3.76
+    },
+    "CVE-2020-35775": {
+        "current": 1.04,
+        "highest": {
+            "date": "2021-04-15T00:00:00.000Z",
+            "value": 7.71
+        },
+        "previouslyExploited": 2.66
+    },
+    "CVE-2020-29227": {
+        "current": 1.95,
+        "highest": {
+            "date": "2020-12-19T00:00:00.000Z",
+            "value": 7.76
+        },
+        "previouslyExploited": 5.13
+    },
+    "CVE-2020-28360": {
+        "current": null,
+        "highest": {
+            "date": "2021-01-12T00:00:00.000Z",
+            "value": 8.28
+        },
+        "previouslyExploited": 6.47
+    },
+    "CVE-2020-28387": {
+        "current": 0.76,
+        "highest": {
+            "date": "2021-03-19T00:00:00.000Z",
+            "value": 0.83
+        },
+        "previouslyExploited": 1.14
+    },
+    "CVE-2020-26815": {
+        "current": 0.76,
+        "highest": {
+            "date": "2020-11-24T00:00:00.000Z",
+            "value": 0.88
+        },
+        "previouslyExploited": 1.16
+    },
+    "CVE-2020-2509": {
+        "current": 6.55,
+        "highest": {
+            "date": "2021-05-13T00:00:00.000Z",
+            "value": 8.71
+        },
+        "previouslyExploited": 5.72
+    },
+    "CVE-2020-25506": {
+        "current": 1.92,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 7.76
+        },
+        "previouslyExploited": 5.03
+    },
+    "CVE-2020-25593": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35961": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-35962": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-3647": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2021-3649": {
+        "current": null,
+        "highest": {
+            "date": null,
+            "value": null
+        },
+        "previouslyExploited": null
+    },
+    "CVE-2020-0417": {
+        "current": 0.79,
+        "highest": {
+            "date": "2021-07-16T00:00:00.000Z",
+            "value": 0.79
+        },
+        "previouslyExploited": 1.12
+    },
+    "CVE-2020-13950": {
+        "current": 6.94,
+        "highest": {
+            "date": "2021-06-19T00:00:00.000Z",
+            "value": 6.94
+        },
+        "previouslyExploited": 5.04
+    },
+    "CVE-2021-30458": {
+        "current": 0.99,
+        "highest": {
+            "date": "2021-04-14T00:00:00.000Z",
+            "value": 5.03
+        },
+        "previouslyExploited": 2.53
+    },
+    "CVE-2021-35197": {
+        "current": 0.81,
+        "highest": {
+            "date": "2021-07-08T00:00:00.000Z",
+            "value": 0.81
+        },
+        "previouslyExploited": 1.13
+    },
+    "CVE-2021-30159": {
+        "current": 1.63,
+        "highest": {
+            "date": "2021-07-06T00:00:00.000Z",
+            "value": 5.68
+        },
+        "previouslyExploited": 3.35
+    }
+}

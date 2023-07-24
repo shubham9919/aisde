@@ -1,0 +1,221 @@
+{
+  "Relationships": [
+    {
+      "Domain": "avalerehealth.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "198.101.157.179",
+          "First": 1393160400000,
+          "Last": 1427202000000,
+          "Matches": [
+            {
+              "Domain": "avalerehealth.net",
+              "First": 1380808800000,
+              "Last": 1429711200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalere.com",
+              "First": 1407938400000,
+              "Last": 1451480400000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "TWXXRKF",
+          "First": 1517480106192,
+          "Last": 1517480106192,
+          "Matches": [
+            {
+              "Domain": "avalere.com",
+              "First": 1493988765235,
+              "Last": 1635110031460,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalere.com?ao=1",
+              "First": 1498643718618,
+              "Last": 1528414875141,
+              "Overlap": true
+            },
+            {
+              "Domain": "valire.com",
+              "First": 1511975518576,
+              "Last": 1524521493828,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaler.com",
+              "First": 1511974895916,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalare.com",
+              "First": 1511974895916,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalere.net",
+              "First": 1511974895916,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalerehealth.net",
+              "First": 1511974895916,
+              "Last": 1514141625631,
+              "Overlap": false
+            },
+            {
+              "Domain": "avalerehealth.org",
+              "First": 1511972635116,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaleer.com",
+              "First": 1511972635116,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaere.com",
+              "First": 1511972635116,
+              "Last": 1514141625631,
+              "Overlap": false
+            },
+            {
+              "Domain": "avalere.org",
+              "First": 1514141625631,
+              "Last": 1517480106192,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaleere.com",
+              "First": 1514141625631,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaliere.com",
+              "First": 1514141625631,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalire.com",
+              "First": 1517480106192,
+              "Last": 1529221687560,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "bizo",
+          "Value": "6721",
+          "First": 1517480106192,
+          "Last": 1517480106192,
+          "Matches": [
+            {
+              "Domain": "avalere.com",
+              "First": 1464159330581,
+              "Last": 1539545429542,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalere.com?ao=1",
+              "First": 1467289038940,
+              "Last": 1528414875141,
+              "Overlap": true
+            },
+            {
+              "Domain": "valire.com",
+              "First": 1511975518576,
+              "Last": 1524521493828,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaler.com",
+              "First": 1511974895916,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalare.com",
+              "First": 1511974895916,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalere.net",
+              "First": 1511974895916,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalerehealth.net",
+              "First": 1511974895916,
+              "Last": 1514141625631,
+              "Overlap": false
+            },
+            {
+              "Domain": "avalerehealth.org",
+              "First": 1511972635116,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaleer.com",
+              "First": 1511972635116,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaere.com",
+              "First": 1511972635116,
+              "Last": 1514141625631,
+              "Overlap": false
+            },
+            {
+              "Domain": "avalere.org",
+              "First": 1514141625631,
+              "Last": 1529221687560,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaleere.com",
+              "First": 1514141625631,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avaliere.com",
+              "First": 1514141625631,
+              "Last": 1524471648111,
+              "Overlap": true
+            },
+            {
+              "Domain": "avalire.com",
+              "First": 1517480106192,
+              "Last": 1529221687560,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1588679823457,
+          "Last": 1628806153555,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

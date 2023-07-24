@@ -1,0 +1,38 @@
+{
+  "Relationships": [
+    {
+      "Domain": "fladarchitects.com",
+      "Identifiers": [
+        {
+          "Type": "google-analytics",
+          "Value": "26085893",
+          "First": 1381669200000,
+          "Last": 1381669200000,
+          "Matches": [
+            {
+              "Domain": "flad.com",
+              "First": 1381669200000,
+              "Last": 1581595072367,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "66.170.3.234",
+          "First": 1369922400000,
+          "Last": 1630826762143,
+          "Matches": [
+            {
+              "Domain": "flad.com",
+              "First": 1364302800000,
+              "Last": 1452430800000,
+              "Overlap": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

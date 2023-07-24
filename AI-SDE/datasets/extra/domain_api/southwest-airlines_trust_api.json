@@ -1,0 +1,18 @@
+{
+  "Domain": "southwestairlines.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635058800,
+    "PremiumTechs": 1,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 3700,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

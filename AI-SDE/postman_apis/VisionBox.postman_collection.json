@@ -1,0 +1,304 @@
+{
+	"info": {
+		"_postman_id": "36be2443-f352-4004-8a9f-1af800f358aa",
+		"name": "VisionBox",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25903231"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"client_name\": \"amazon\",\n    \"domain_name\": \"amazon.com\",\n    \"email_id\": \"abhi@test.com\",\n    \"password\": \"1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/register",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjEsImV4cCI6MTY3NzMxMTMyNX0.PdnC41BZkvBWNEDtLjtuquFPRj1N1HCtvGISBUg1Jog",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email_id\": \"abhi@test.com\",\n    \"password\": \"1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/login",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Specific_Client_Score",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY3NzU2Nzc0MiwianRpIjoiZWFkMmQ4OTEtZTc3OC00NWM1LTg4MWYtYjljODhmNjkwYWRmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbF9pZCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjF9LCJuYmYiOjE2Nzc1Njc3NDIsImV4cCI6MTY3NzU2ODM0Mn0.CYSv36Ww4uyMw-ROI1W2V2TdU3JTzd2sHRxTPIeKm1Y",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/client/scores/self-score",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"client",
+						"scores",
+						"self-score"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Client Vendor Relationship",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY3NzM3MzQ4NywianRpIjoiOWMxMjAzNzgtODFhNi00ZDJhLWIyOWMtOTMxOTY3NWQyZjYzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbF9pZCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjF9LCJuYmYiOjE2NzczNzM0ODcsImV4cCI6MTY3NzM3NDA4N30.Rgu3BB0qJinoldclL4ZbsCfBlQQM_uSI-XvFs1Fjwjg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/client-vendor-relationships/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"client-vendor-relationships",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "General Company Data By ID",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY3NzM3MzQ4NywianRpIjoiOWMxMjAzNzgtODFhNi00ZDJhLWIyOWMtOTMxOTY3NWQyZjYzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbF9pZCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjF9LCJuYmYiOjE2NzczNzM0ODcsImV4cCI6MTY3NzM3NDA4N30.Rgu3BB0qJinoldclL4ZbsCfBlQQM_uSI-XvFs1Fjwjg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/company/id",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"company",
+						"id"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "General Company Data By Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/company/name/amazon",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"company",
+						"name",
+						"amazon"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Direct Client",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY3NzU2Nzc0MiwianRpIjoiZWFkMmQ4OTEtZTc3OC00NWM1LTg4MWYtYjljODhmNjkwYWRmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbF9pZCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjF9LCJuYmYiOjE2Nzc1Njc3NDIsImV4cCI6MTY3NzU2ODM0Mn0.CYSv36Ww4uyMw-ROI1W2V2TdU3JTzd2sHRxTPIeKm1Y",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Projects/VisionBox/visionbox-services/cyber_vulnerability_prediction/AI-SDE/client_uploaded_csv/sample_data_dc_3_-_Sheet1.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/upload-dc/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"upload-dc",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CSV - Enterprise Level",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY3NzM3NDk3MSwianRpIjoiNGE2OWU3N2QtZjBlNS00NTUyLThhZjUtYjM4YzJjNzBkNDMwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJlbWFpbF9pZCI6ImFiaGlAdGVzdC5jb20iLCJjbGllbnRfaWQiOjF9LCJuYmYiOjE2NzczNzQ5NzEsImV4cCI6MTY3NzM3NTU3MX0.nvPJnVCLzr6ZUjiS-na8gru2zVGMVuwmuyNPuLBHOKo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/Users/pronoob/Downloads/sample_data_dc_7 - Sheet2 (1).csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/upload-enterprise/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"upload-enterprise",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

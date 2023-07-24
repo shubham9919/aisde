@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        input[type=text], select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+
+        input[type=submit] {
+            background-color: #04AA6D;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        input[type=submit]:hover {
+            background-color: #45a049;
+        }
+
+        .container {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+    </style>
+    <title>Predictions</title>
+</head>
+<body>
+
+<h3>Fill Details to Find Probability of being Breached!</h3>
+
+<div class="container">
+    <form action="/" method="POST">
+
+        <label for="company">Company Name</label>
+        <input type="text" value={{data['company_name']}} disabled id="company" name="company">
+
+        <label for="hostname">Hostname</label>
+        <input type="text" value={{data['hostname']}} disabled id="hostname" name="hostname"
+               placeholder="Ex: 127.0.0.1">
+
+        <label for="dp_average_load_time_ms">Average Website Load Time (in ms)</label>
+        <input type="text" value={{data['loadtime']}} disabled id="dp_average_load_time_ms"
+               name="dp_average_load_time_ms" placeholder="340">
+
+        <label for="dp_changes">Number of Fields Changed</label>
+        <input type="text" value={{data['changes']}} disabled id="dp_changes" name="dp_changes" placeholder="10">
+
+        <label for="dp_cloud_score">Cloud Score (To what extent a website uses cloud services)</label>
+        <input type="text" value={{data['cloudscore']}} disabled id="dp_cloud_score" name="dp_cloud_score"
+               placeholder="30">
+
+        <label for="dp_domain_name_length">Domain Length</label>
+        <input type="text" value={{data['domainlength']}} disabled id="dp_domain_name_length"
+               name="dp_domain_name_length" placeholder="15">
+
+        <label for="dp_economic_footprint">Economic Footprint (Economic impact of the website)</label>
+        <input type="text" value={{data['eii']}} disabled id="dp_economic_footprint" name="dp_economic_footprint"
+               placeholder="50">
+
+        <label for="dp_forwarding_domains_count">Total Forwarding Domains</label>
+        <input type="text" value={{data['forwardingcount']}} disabled id="dp_forwarding_domains_count"
+               name="dp_forwarding_domains_count" placeholder="45">
+
+        <label for="dp_html_size_kb">Website HTML Size</label>
+        <input type="text" value={{data['htmlsize']}} disabled id="dp_html_size_kb" name="dp_html_size_kb"
+               placeholder="100">
+
+        <label for="dp_incoming_links">Total Incoming Links</label>
+        <input type="text" value={{data['incominglinks']}} disabled id="dp_incoming_links" name="dp_incoming_links"
+               placeholder="40">
+
+        <label for="dp_linked_subdomains_count">Total Linked Subdomains Count</label>
+        <input type="text" value={{data['subdomainscount']}} disabled id="dp_linked_subdomains_count"
+               name="dp_linked_subdomains_count" placeholder="40">
+
+        <label for="dp_outgoing_links">Total Outgoing Links</label>
+        <input type="text" value={{data['outgoinglinks']}} disabled id="dp_outgoing_links" name="dp_outgoing_links"
+               placeholder="dp_outgoing_links">
+
+        <label for="dp_pages_indexed">Pages Indexed</label>
+        <input type="text" value={{data['pagesindexed']}} disabled id="dp_pages_indexed" name="dp_pages_indexed"
+               placeholder="dp_pages_indexed">
+
+        <label for="dp_pages">Total Pages</label>
+        <input type="text" value={{data['pages']}} disabled id="dp_pages" name="dp_pages" placeholder="dp_pages">
+
+        <label for="dp_seo_score">SEO Score</label>
+        <input type="text" value={{data['seo']}} disabled id="dp_seo_score" name="dp_seo_score"
+               placeholder="dp_seo_score">
+
+        <label for="dp_score">Heartbeat Score (Regular Changes made by owner)</label>
+        <input type="text" value={{data['trustscore']}} disabled id="dp_score" name="dp_score" placeholder="95">
+
+        <label for="dp_security_score">Security Score</label>
+        <input type="text" value={{data['securityscore']}} disabled id="dp_security_score" name="dp_security_score"
+               placeholder="80">
+
+        <label for="dp_site_traffic_estimation_average">Site Traffic Estimation Average</label>
+        <input type="text" value={{data['visitorsavg']}} disabled id="dp_site_traffic_estimation_average"
+               name="dp_site_traffic_estimation_average" placeholder="80">
+
+        <label for="dp_site_traffic_estimation">Site Traffic Estimation</label>
+        <input type="text" value={{data['visitors']}} disabled id="dp_site_traffic_estimation"
+               name="dp_site_traffic_estimation" placeholder="90">
+
+        <label for="dp_technical_evaluation">Technical Evaluation</label>
+        <input type="text" value={{data['grade']}} disabled id="dp_technical_evaluation" name="dp_technical_evaluation"
+               placeholder="95">
+
+        <label for="dp_traffic_index">Traffic Index</label>
+        <input type="text" value={{data['trafficindex']}} disabled id="dp_traffic_index" name="dp_traffic_index"
+               placeholder="75">
+
+        <label for="dp_trust_score">Trust Score</label>
+        <input type="text" value={{data['trustscore']}} disabled id="dp_trust_score" name="dp_trust_score"
+               placeholder="92">
+
+        <label for="dp_website_age">Website Age</label>
+        <input type="text" value={{data['websiteage']}} disabled id="dp_website_age" name="dp_website_age"
+               placeholder="50">
+
+        <label for="dp_ecommerce_certainty">ECommerce Certainty</label>
+        <input type="text" value={{data['ecommercequality']}} disabled id="dp_ecommerce_certainty"
+               name="dp_ecommerce_certainty" placeholder="70">
+
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+</body>
+</html>

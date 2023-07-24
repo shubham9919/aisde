@@ -1,0 +1,789 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "McAfee SaaS Email",
+                "Description": "McAfee SaaS Web and Email Protection Suite combines McAfee SaaS Web Protection and McAfee SaaS Email Protection and Continuity. Formally mxLogic.",
+                "Link": "http://www.mcafee.com/us/products/saas-email-and-web-protection-suite.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1389481200000,
+                "LastDetected": 1447196400000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Marketo",
+                "Description": "Marketo provides sophisticated yet easy marketing automation software that helps marketing and sales work together to drive revenue and improve marketing accountability.",
+                "Link": "http://www.marketo.com/index.php",
+                "Tag": "analytics",
+                "FirstDetected": 1389481200000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1389481200000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "eCommerce Enabled",
+                  "Enterprise"
+                ],
+                "IsPremium": "no",
+                "Name": "ExpressionEngine",
+                "Description": "ExpressionEngine is a flexible, feature-rich content management system that empowers thousands of individuals, organizations, and companies around the world to easily manage their website.",
+                "Link": "http://expressionengine.com",
+                "Tag": "cms",
+                "FirstDetected": 1389481200000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "CRM"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Salesforce",
+                "Description": "Salesforce is a leading platform for cloud based web apps.",
+                "Link": "http://salesforce.com",
+                "Tag": "analytics",
+                "FirstDetected": 1389481200000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SimpleModal",
+                "Description": "SimpleModal is a lightweight jQuery Plugin which provides a powerful interface for modal dialog development.",
+                "Link": "http://www.ericmmartin.com/projects/simplemodal/",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Online Video Platform",
+                  "Video Players"
+                ],
+                "IsPremium": "no",
+                "Name": "Vimeo",
+                "Description": "Use Vimeo to exchange videos with only the people you want to. We have a bunch of different privacy options so you can choose exactly who can see your videos, and others can do the same. The website embeds vimeo.",
+                "Link": "http://vimeo.com",
+                "Tag": "media",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Categories": [
+                  "Bookmarking",
+                  "Social Sharing"
+                ],
+                "IsPremium": "no",
+                "Name": "ShareThis",
+                "Description": "One button sharing - quick sharing to MySpace, Email and more!",
+                "Link": "http://sharethis.com",
+                "Tag": "widgets",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Modernizr",
+                "Description": "Modernizr allows you to target specific browser functionality in your stylesheet.",
+                "Link": "http://www.modernizr.com",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Validate",
+                "Description": "JQuery Form Validation Plugin.",
+                "Link": "http://jqueryvalidation.org",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1522710000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.9.1",
+                "Description": "jQuery version 1.9.1",
+                "Link": "http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery ScrollTo",
+                "Description": "An overloaded scrolling function for jquery.",
+                "Link": "https://github.com/flesler/jquery.scrollTo",
+                "Tag": "javascript",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rackspace DNS",
+                "Description": "DNS services provided by Rackspace.",
+                "Link": "http://rackspace.com",
+                "Tag": "ns",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1447196400000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Dedicated Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Rackspace",
+                "Description": "Fanatical Support web hosting from global hosting provider Rackspace, encompassing SliceHost.",
+                "Link": "http://www.rackspace.com",
+                "Tag": "hosting",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1442444400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Vimeo CDN",
+                "Description": "This page uses content from the Vimeo CDN.",
+                "Link": "http://vimeo.com",
+                "Tag": "cdn",
+                "FirstDetected": 1401408000000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking",
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Site Optimization",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "comScore",
+                "Description": "Market research company that studies internet trends and behavior.",
+                "Link": "http://www.comscore.com",
+                "Tag": "analytics",
+                "FirstDetected": 1401408000000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Content Delivery Network",
+                "Description": "This page contains links that give the impression that some of the site contents are stored on a content delivery network.",
+                "Link": "http://en.wikipedia.org/wiki/Content_Delivery_Network",
+                "Tag": "CDN",
+                "FirstDetected": 1401408000000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "AppNexus",
+                "Description": "Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",
+                "Link": "http://www.appnexus.com/",
+                "Tag": "ads",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1514329200000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Data Management Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "Bizo",
+                "Description": "Advertising platform spun off from zoominfo.com now owned by LinkedIn.",
+                "Link": "http://www.bizo.com",
+                "Tag": "ads",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "html5shiv",
+                "Description": "HTML5 IE enabling script shim.",
+                "Link": "https://github.com/afarkas/html5shiv",
+                "Tag": "javascript",
+                "FirstDetected": 1408838400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Parent": "Bizo",
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Bizo Insights",
+                "Description": "Bizo Insight Tags are installed on a partner website to enable Bizo to generate and/or record anonymous analytics about the partner\u2019s site visitors. Acquired by LinkedIn.",
+                "Link": "http://partner-docs.bizo.com/Home/insight-tags",
+                "Tag": "analytics",
+                "FirstDetected": 1408838400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "yepnope",
+                "Description": "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
+                "Link": "http://yepnopejs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1408838400000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking",
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Datalogix",
+                "Description": "Leverages the power of purchase-based audience targeting to drive measurable online and offline sales",
+                "Link": "http://datalogix.com",
+                "Tag": "analytics",
+                "FirstDetected": 1417305600000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Act-On",
+                "Description": "Marketing automation software.",
+                "Link": "http://www.actonsoftware.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1417305600000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Neustar AdAdvisor",
+                "Description": "Neustar AdAdvisor provides data to online marketers and websites to help them improve their ability to deliver content and advertising to consumers.",
+                "Link": "http://www.adadvisor.net/",
+                "Tag": "ads",
+                "FirstDetected": 1417305600000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Audience Targeting"
+                ],
+                "IsPremium": "no",
+                "Name": "Dstillery",
+                "Description": "Building custom audiences using brand loyalists and their strongest online connections.  Previously known as Media6Degrees.",
+                "Link": "http://media6degrees.com",
+                "Tag": "ads",
+                "FirstDetected": 1417305600000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Webmaster",
+                "Description": "Webmaster tools provide you with a free and easy way to make your site more Google-friendly.",
+                "Link": "http://www.google.com/webmasters/",
+                "Tag": "Web Master",
+                "FirstDetected": 1422658800000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement"
+                ],
+                "IsPremium": "no",
+                "Name": "Yahoo Web Analytics",
+                "Description": "Yahoo! Web Analytics is an enterprise site analytics tool that provides real-time insight into visitor behavior on your website.",
+                "Link": "http://web.analytics.yahoo.com",
+                "Tag": "analytics",
+                "FirstDetected": 1425945600000,
+                "LastDetected": 1428364800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Aggregate Knowledge",
+                "Description": "Data management solution that combines both media and audience data.",
+                "Link": "http://www.aggregateknowledge.com",
+                "Tag": "ads",
+                "FirstDetected": 1425945600000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Rapleaf",
+                "Description": "Marketing automation tools with the necessary data to help brands keep their customers engaged. Now TowerData.",
+                "Link": "http://www.rapleaf.com",
+                "Tag": "analytics",
+                "FirstDetected": 1427068800000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Dedicated Hosting",
+                  "Shared Hosting",
+                  "US hosting",
+                  "VPS Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy",
+                "Description": "Global hosting and domain registration provider led by Bob Parsons.",
+                "Link": "http://www.godaddy.com",
+                "Tag": "hosting",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1634540400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GoDaddy DNS",
+                "Description": "DNS services provided by GoDaddy.",
+                "Link": "http://godaddy.com",
+                "Tag": "ns",
+                "FirstDetected": 1470092400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Web Hosting Provider Email"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy Email",
+                "Description": "GoDaddy email provides a personalized address but protection against viruses and spam and includes tools like Calendar.",
+                "Link": "http://www.godaddy.com/email/email-hosting.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1470092400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "LinkedIn Insights",
+                "Description": "The LinkedIn Insight Tag is a piece of lightweight JavaScript code that you can add to your website to enable in-depth campaign reporting and unlock valuable insights about your website visitors and for conversion optimization of ads.",
+                "Link": "https://business.linkedin.com/marketing-solutions",
+                "Tag": "analytics",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1522710000000
+              },
+              {
+                "Categories": [
+                  "Social Management"
+                ],
+                "IsPremium": "yes",
+                "Name": "Oktopost",
+                "Description": "Social media management for B2B marketing.",
+                "Link": "http://www.oktopost.com",
+                "Tag": "analytics",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Categories": [
+                  "Content Curation",
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "Taboola",
+                "Description": "Personalized recommendations technology.",
+                "Link": "http://taboola.com",
+                "Tag": "ads",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1524438000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery BBQ",
+                "Description": "jQuery BBQ leverages the HTML5 hashchange event to allow simple, yet powerful bookmarkable #hash history.",
+                "Link": "http://benalman.com/projects/jquery-bbq-plugin/",
+                "Tag": "javascript",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Jssor",
+                "Description": "Responsive Touch Slider",
+                "Link": "https://www.jssor.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1508886000000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "LinkedIn Ads",
+                "Description": "LinkedIn advertising solutions.",
+                "Link": "http://linkedin.com/ads",
+                "Tag": "ads",
+                "FirstDetected": 1510354800000,
+                "LastDetected": 1521932400000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1510354800000,
+                "LastDetected": 1522710000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Red Hat Enterprise Linux",
+                "Description": "Red Hat Enterprise Linux (often abbreviated to RHEL) is a Linux distribution produced by Red Hat and targeted toward the commercial market, including mainframes.",
+                "Link": "http://www.redhat.com",
+                "Tag": "Server",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.2",
+                "Description": "Apache version 2.2.*",
+                "Link": "http://httpd.apache.org/docs/2.2",
+                "Tag": "Web Server",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1523228400000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Conversion Tracking",
+                "Description": "This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app).",
+                "Link": "https://support.google.com/adwords/answer/1722054",
+                "Tag": "analytics",
+                "FirstDetected": 1512082800000,
+                "LastDetected": 1521932400000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Remarketing",
+                "Description": "Google code specifically for remarketing/retargeting based advertising.",
+                "Link": "http://www.google.com.au/ads/innovations/remarketing.html",
+                "Tag": "ads",
+                "FirstDetected": 1512082800000,
+                "LastDetected": 1521932400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1512082800000,
+                "LastDetected": 1521932400000
+              },
+              {
+                "Categories": [
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "DoubleClick Bid Manager",
+                "Description": "Programmatic buying platform.",
+                "Link": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/",
+                "Tag": "ads",
+                "FirstDetected": 1514242800000,
+                "LastDetected": 1514329200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rubicon Project",
+                "Description": "Advertising optimization service.",
+                "Link": "http://rubiconproject.com",
+                "Tag": "ads",
+                "FirstDetected": 1514242800000,
+                "LastDetected": 1514329200000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "Adobe Connect",
+                "Description": "Adobe Connect web conferencing software offers online meeting functionality, virtual classrooms and large scale webinars.",
+                "Link": "http://www.adobe.com/products/adobeconnect.html",
+                "Tag": "widgets",
+                "FirstDetected": 1526338800000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "nginx",
+                "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                "Link": "http://nginx.net/",
+                "Tag": "Web Server",
+                "FirstDetected": 1537225200000,
+                "LastDetected": 1537225200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "Starfield Technologies",
+                "Description": "Certificate provided by Starfield Technologies",
+                "Link": "http://starfieldtech.com",
+                "Tag": "ssl",
+                "FirstDetected": 1551999600000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "AWS Global Accelerator",
+                "Description": "Networking service that sends traffic through Amazon Web Service\u2019s global network infrastructure for performance improvements.",
+                "Link": "https://aws.amazon.com/global-accelerator/",
+                "Tag": "hosting",
+                "FirstDetected": 1635058800000,
+                "LastDetected": 1635058800000
+              }
+            ],
+            "FirstIndexed": 1389481200000,
+            "LastIndexed": 1635058800000,
+            "Domain": "avalerehealth.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Tapad",
+                "Description": "Allows advertisers to engage the same consumer with consistent ads across multiple platforms.",
+                "Link": "http://www.tapad.com/",
+                "Tag": "ads",
+                "FirstDetected": 1425945600000,
+                "LastDetected": 1425945600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AOL-Time Warner Online Advertising",
+                "Description": "The website uses AOL-Time Warner Advertising Network",
+                "Link": "http://aol.com",
+                "Tag": "ads",
+                "FirstDetected": 1426464000000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "MediaMath",
+                "Description": "Tools that enable and empower marketing professionals.",
+                "Link": "http://mediamath.com",
+                "Tag": "analytics",
+                "FirstDetected": 1426464000000,
+                "LastDetected": 1428364800000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Twitter Ads",
+                "Description": "Twitter advertising includes conversion tracking and re-marketing tools.",
+                "Link": "http://ads.twitter.com",
+                "Tag": "ads",
+                "FirstDetected": 1428883200000,
+                "LastDetected": 1428883200000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Twitter Analytics",
+                "Description": "A tool that helps website owners understand how much traffic they receive from Twitter and the effectiveness of Twitter integrations on their sites. Includes Twitter Conversion Tracking.",
+                "Link": "https://dev.twitter.com/blog/introducing-twitter-web-analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1428883200000,
+                "LastDetected": 1428883200000
+              }
+            ],
+            "FirstIndexed": 1425945600000,
+            "LastIndexed": 1428883200000,
+            "Domain": "avalerehealth.com",
+            "Url": "dd",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Unknown",
+        "Social": [
+          "http://twitter.com/avalerehealth",
+          "http://linkedin.com/company/avalere-health",
+          "http://facebook.com/avalerehealth"
+        ],
+        "CompanyName": null,
+        "Telephones": [
+          "+1-202-467-4455"
+        ],
+        "Emails": [],
+        "City": "Washington",
+        "State": "DC",
+        "Postcode": "20036",
+        "Country": "US",
+        "Names": null,
+        "ARank": 7080366,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 5,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 1,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1389481200000,
+      "LastIndexed": 1635058800000,
+      "Lookup": "avalerehealth.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

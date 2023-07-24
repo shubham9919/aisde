@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d3dpwkknyrpnnn.cloudfront.net/thumb/16-cj-11-42-50-85/n",
+    "Categories": [],
+    "Tag": "javascript",
+    "IsPremium": "No",
+    "Name": "SWFObject",
+    "Description": "SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.",
+    "Link": "http://blog.deconcept.com/swfobject/",
+    "TrendsLink": "https://trends.builtwith.com/javascript/SWFObject",
+    "Coverage": {
+      "TenK": 1205,
+      "HundredK": 6831,
+      "Mil": 34292,
+      "Live": 1189356,
+      "Historical": 6727050
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://deo39crpw7zzn.cloudfront.net/thumb/5z-6j-53-j0-c4-77/n",
+    "Categories": [],
+    "Tag": "widgets",
+    "IsPremium": "No",
+    "Name": "Google Plus One Platform",
+    "Description": "Google+ API functionality.",
+    "Link": "https://developers.google.com/+/",
+    "TrendsLink": "https://trends.builtwith.com/widgets/Google-Plus-One-Platform",
+    "Coverage": {
+      "TenK": 1040,
+      "HundredK": 6553,
+      "Mil": 41380,
+      "Live": 1462676,
+      "Historical": 6112135
+    }
+  }
+}

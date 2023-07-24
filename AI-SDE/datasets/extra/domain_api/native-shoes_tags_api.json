@@ -1,0 +1,15 @@
+{
+  "Identifers": [
+    {
+      "Value": "IP-104.16.131.84",
+      "Matches": [
+        {
+          "Domain": "nativeshoes.com",
+          "First": 1611561600000,
+          "Last": 1618815600000
+        }
+      ]
+    }
+  ],
+  "Errors": null
+}

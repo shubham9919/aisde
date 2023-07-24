@@ -1,0 +1,4396 @@
+{
+  "NextOffset": "END",
+  "Results": [
+    {
+      "D": "buzzfeed.com",
+      "LOS": [
+        "buzzfeed.com"
+      ],
+      "Q": 12,
+      "A": 179,
+      "U": 2348,
+      "M": 217,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1032559200,
+      "LI": 1635231600,
+      "S": 15704,
+      "META": null
+    },
+    {
+      "D": "cnbc.com",
+      "LOS": [
+        "cnbc.com"
+      ],
+      "Q": 27,
+      "A": 114,
+      "U": 2951,
+      "M": 108,
+      "Country": null,
+      "FD": 1446073200,
+      "LD": 1635145200,
+      "FI": 979772400,
+      "LI": 1635145200,
+      "S": 25149,
+      "META": null
+    },
+    {
+      "D": "netflix.com",
+      "LOS": [
+        "netflix.com"
+      ],
+      "Q": 37,
+      "A": 594,
+      "U": 1,
+      "M": 227,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1128117600,
+      "LI": 1635231600,
+      "S": 15157,
+      "META": null
+    },
+    {
+      "D": "thekrazycouponlady.com",
+      "LOS": [
+        "sli.thekrazycouponlady.com"
+      ],
+      "Q": 54,
+      "A": 13631,
+      "U": 16355,
+      "M": 34480,
+      "Country": null,
+      "FD": 1621321200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5537,
+      "META": null
+    },
+    {
+      "D": "comicbook.com",
+      "LOS": [
+        "liveintnt.comicbook.com"
+      ],
+      "Q": 75,
+      "A": 4857,
+      "U": 8166,
+      "M": 3164,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1007074800,
+      "LI": 1635145200,
+      "S": 6126,
+      "META": null
+    },
+    {
+      "D": "businessinsider.com",
+      "LOS": [
+        "businessinsider.com"
+      ],
+      "Q": 78,
+      "A": 81,
+      "U": 3052,
+      "M": 83,
+      "Country": null,
+      "FD": 1471215600,
+      "LD": 1635058800,
+      "FI": 1234306800,
+      "LI": 1635145200,
+      "S": 24671,
+      "META": null
+    },
+    {
+      "D": "thechive.com",
+      "LOS": [
+        "thechive.com"
+      ],
+      "Q": 84,
+      "A": 10538,
+      "U": 12224,
+      "M": 8635,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 19003,
+      "META": null
+    },
+    {
+      "D": "kohls.com",
+      "LOS": [
+        "kohls.com"
+      ],
+      "Q": 87,
+      "A": 10063,
+      "U": 2542,
+      "M": 4184,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 971042400,
+      "LI": 1635145200,
+      "S": 27973,
+      "META": null
+    },
+    {
+      "D": "cafemom.com",
+      "LOS": [
+        "li.cafemom.com"
+      ],
+      "Q": 92,
+      "A": 299252,
+      "U": 18195,
+      "M": 5181,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 971733600,
+      "LI": 1635145200,
+      "S": 6027,
+      "META": null
+    },
+    {
+      "D": "newyorker.com",
+      "LOS": [
+        "newyorker.com"
+      ],
+      "Q": 93,
+      "A": 178,
+      "U": 1533,
+      "M": 278,
+      "Country": null,
+      "FD": 1414018800,
+      "LD": 1635058800,
+      "FI": 951951600,
+      "LI": 1635145200,
+      "S": 25742,
+      "META": null
+    },
+    {
+      "D": "belk.com",
+      "LOS": [
+        "api.belk.com",
+        "static2.belk.com",
+        "static4.belk.com",
+        "static3.belk.com",
+        "static1.belk.com",
+        "static5.belk.com"
+      ],
+      "Q": 95,
+      "A": 17134,
+      "U": 9271,
+      "M": 22681,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 55808,
+      "META": null
+    },
+    {
+      "D": "bizrate.com",
+      "LOS": [
+        "bizrate.com"
+      ],
+      "Q": 117,
+      "A": 299382,
+      "U": 2107,
+      "M": 10506,
+      "Country": null,
+      "FD": 1378422000,
+      "LD": 1635058800,
+      "FI": 971560800,
+      "LI": 1635145200,
+      "S": 11510,
+      "META": null
+    },
+    {
+      "D": "cars.com",
+      "LOS": [
+        "cars.com"
+      ],
+      "Q": 120,
+      "A": 9167,
+      "U": 6351,
+      "M": 3820,
+      "Country": null,
+      "FD": 1452726000,
+      "LD": 1635058800,
+      "FI": 1285884000,
+      "LI": 1635231600,
+      "S": 26550,
+      "META": null
+    },
+    {
+      "D": "bonappetit.com",
+      "LOS": [
+        "bonappetit.com"
+      ],
+      "Q": 121,
+      "A": 3304,
+      "U": 7762,
+      "M": 2232,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1007074800,
+      "LI": 1635145200,
+      "S": 25790,
+      "META": null
+    },
+    {
+      "D": "tesla.com",
+      "LOS": [
+        "tesla.com"
+      ],
+      "Q": 122,
+      "A": 2584,
+      "U": 6398,
+      "M": 920,
+      "Country": null,
+      "FD": 1469055600,
+      "LD": 1635145200,
+      "FI": 1200438000,
+      "LI": 1635231600,
+      "S": 10472,
+      "META": null
+    },
+    {
+      "D": "cvs.com",
+      "LOS": [
+        "cvs.com"
+      ],
+      "Q": 127,
+      "A": 6468,
+      "U": 2273,
+      "M": 3771,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635231600,
+      "S": 50445,
+      "META": null
+    },
+    {
+      "D": "bhphotovideo.com",
+      "LOS": [
+        "bhphotovideo.com"
+      ],
+      "Q": 141,
+      "A": 3528,
+      "U": 5572,
+      "M": 1845,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1634540400,
+      "FI": 1096581600,
+      "LI": 1635145200,
+      "S": 12332,
+      "META": null
+    },
+    {
+      "D": "consumerreports.org",
+      "LOS": [
+        "i.e.consumerreports.org"
+      ],
+      "Q": 155,
+      "A": 2362,
+      "U": 12641,
+      "M": 689,
+      "Country": null,
+      "FD": 1603177200,
+      "LD": 1635058800,
+      "FI": 1307282400,
+      "LI": 1635231600,
+      "S": 35596,
+      "META": null
+    },
+    {
+      "D": "tractorsupply.com",
+      "LOS": [
+        "tractorsupply.com"
+      ],
+      "Q": 166,
+      "A": 16602,
+      "U": 10133,
+      "M": 13950,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 11576,
+      "META": null
+    },
+    {
+      "D": "thegrio.com",
+      "LOS": [
+        "thegrio.com"
+      ],
+      "Q": 169,
+      "A": 302691,
+      "U": 27614,
+      "M": 9314,
+      "Country": null,
+      "FD": 1577401200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 11525,
+      "META": null
+    },
+    {
+      "D": "nbcsports.com",
+      "LOS": [
+        "nbcsports.com"
+      ],
+      "Q": 170,
+      "A": 2367,
+      "U": 3509,
+      "M": 1781,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1191189600,
+      "LI": 1635058800,
+      "S": 24342,
+      "META": null
+    },
+    {
+      "D": "bestblackfriday.com",
+      "LOS": [
+        "sli.bestblackfriday.com"
+      ],
+      "Q": 178,
+      "A": 352639,
+      "U": 154250,
+      "M": 101323,
+      "Country": null,
+      "FD": 1605600000,
+      "LD": 1633244400,
+      "FI": 1264892400,
+      "LI": 1635058800,
+      "S": 3870,
+      "META": null
+    },
+    {
+      "D": "overstock.com",
+      "LOS": [
+        "overstock.com"
+      ],
+      "Q": 198,
+      "A": 4642,
+      "U": 4166,
+      "M": 2925,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635231600,
+      "FI": 985989600,
+      "LI": 1635231600,
+      "S": 19700,
+      "META": null
+    },
+    {
+      "D": "britannica.com",
+      "LOS": [
+        "image.email.britannica.com",
+        "l1.britannica.com",
+        "sli.britannica.com"
+      ],
+      "Q": 208,
+      "A": 455,
+      "U": 4363,
+      "M": 248,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 970783200,
+      "LI": 1635058800,
+      "S": 13130,
+      "META": null
+    },
+    {
+      "D": "cdc.gov",
+      "LOS": [
+        "cdc.gov"
+      ],
+      "Q": 232,
+      "A": 73,
+      "U": 2496,
+      "M": 59,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1634540400,
+      "FI": 1033596000,
+      "LI": 1635145200,
+      "S": 22430,
+      "META": null
+    },
+    {
+      "D": "bathandbodyworks.com",
+      "LOS": [
+        "bathandbodyworks.com"
+      ],
+      "Q": 250,
+      "A": 12940,
+      "U": 3676,
+      "M": 11479,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 54218,
+      "META": null
+    },
+    {
+      "D": "tmz.com",
+      "LOS": [
+        "tmz.com"
+      ],
+      "Q": 260,
+      "A": 3594,
+      "U": 5885,
+      "M": 1034,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1635058800,
+      "FI": 1017612000,
+      "LI": 1635145200,
+      "S": 15334,
+      "META": null
+    },
+    {
+      "D": "kroger.com",
+      "LOS": [
+        "kroger.com"
+      ],
+      "Q": 283,
+      "A": 8030,
+      "U": 3372,
+      "M": 3526,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1065391200,
+      "LI": 1635145200,
+      "S": 22592,
+      "META": null
+    },
+    {
+      "D": "blackfriday.com",
+      "LOS": [
+        "blackfriday.com"
+      ],
+      "Q": 309,
+      "A": 320706,
+      "U": 32793,
+      "M": 27300,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1635058800,
+      "FI": 1301839200,
+      "LI": 1635145200,
+      "S": 3993,
+      "META": null
+    },
+    {
+      "D": "cabelas.com",
+      "LOS": [
+        "cabelas.com"
+      ],
+      "Q": 312,
+      "A": 12276,
+      "U": 9821,
+      "M": 5713,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1035237600,
+      "LI": 1635145200,
+      "S": 27903,
+      "META": null
+    },
+    {
+      "D": "thedrive.com",
+      "LOS": [
+        "sli.thedrive.com"
+      ],
+      "Q": 315,
+      "A": 298016,
+      "U": 17963,
+      "M": 3084,
+      "Country": null,
+      "FD": 1621321200,
+      "LD": 1634626800,
+      "FI": 1369922400,
+      "LI": 1635145200,
+      "S": 4754,
+      "META": null
+    },
+    {
+      "D": "nike.com",
+      "LOS": [
+        "nike.com"
+      ],
+      "Q": 318,
+      "A": 1263,
+      "U": 1828,
+      "M": 557,
+      "Country": null,
+      "FD": 1498604400,
+      "LD": 1635058800,
+      "FI": 951778800,
+      "LI": 1635231600,
+      "S": 29132,
+      "META": null
+    },
+    {
+      "D": "biglots.com",
+      "LOS": [
+        "biglots.com"
+      ],
+      "Q": 330,
+      "A": 306766,
+      "U": 11115,
+      "M": 27408,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 19980,
+      "META": null
+    },
+    {
+      "D": "offers.com",
+      "LOS": [
+        "dsar.offers.com",
+        "zdbb.offers.com",
+        "zdstatic.offers.com",
+        "a.zd-outbox.offers.com",
+        "sli.offers.com"
+      ],
+      "Q": 334,
+      "A": 34373,
+      "U": 11944,
+      "M": 27451,
+      "Country": null,
+      "FD": 1538694000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 6178,
+      "META": null
+    },
+    {
+      "D": "beliefnet.com",
+      "LOS": [
+        "beliefnet.com"
+      ],
+      "Q": 338,
+      "A": 6593,
+      "U": 33906,
+      "M": 4457,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 7218,
+      "META": null
+    },
+    {
+      "D": "trend-chaser.com",
+      "LOS": [
+        "trend-chaser.com"
+      ],
+      "Q": 342,
+      "A": 590829,
+      "U": 41954,
+      "M": 274914,
+      "Country": null,
+      "FD": 1447282800,
+      "LD": 1635058800,
+      "FI": 1447196400,
+      "LI": 1635058800,
+      "S": 4013,
+      "META": null
+    },
+    {
+      "D": "nordstromrack.com",
+      "LOS": [
+        "nordstromrack.com"
+      ],
+      "Q": 362,
+      "A": 299136,
+      "U": 4405,
+      "M": 19826,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1381446000,
+      "LI": 1635145200,
+      "S": 5878,
+      "META": null
+    },
+    {
+      "D": "neimanmarcus.com",
+      "LOS": [
+        "video.beta.neimanmarcus.com",
+        "video.armanicollezioni.neimanmarcus.com"
+      ],
+      "Q": 367,
+      "A": 298098,
+      "U": 4964,
+      "M": 4492,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 951778800,
+      "LI": 1635145200,
+      "S": 35027,
+      "META": null
+    },
+    {
+      "D": "thebalance.com",
+      "LOS": [
+        "li.thebalance.com"
+      ],
+      "Q": 372,
+      "A": 650,
+      "U": 24444,
+      "M": 855,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1628060400,
+      "FI": 951778800,
+      "LI": 1635058800,
+      "S": 4972,
+      "META": null
+    },
+    {
+      "D": "cnsnews.com",
+      "LOS": [
+        "sli.cnsnews.com"
+      ],
+      "Q": 373,
+      "A": 1134,
+      "U": 80027,
+      "M": 3974,
+      "Country": null,
+      "FD": 1613462400,
+      "LD": 1633244400,
+      "FI": 970783200,
+      "LI": 1635058800,
+      "S": 4154,
+      "META": null
+    },
+    {
+      "D": "cheapoair.com",
+      "LOS": [
+        "cheapoair.com"
+      ],
+      "Q": 395,
+      "A": 13046,
+      "U": 17688,
+      "M": 30268,
+      "Country": null,
+      "FD": 1433372400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635231600,
+      "S": 6557,
+      "META": null
+    },
+    {
+      "D": "chicagotribune.com",
+      "LOS": [
+        "chicagotribune.com"
+      ],
+      "Q": 402,
+      "A": 332,
+      "U": 8344,
+      "M": 343,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 966290400,
+      "LI": 1635145200,
+      "S": 15225,
+      "META": null
+    },
+    {
+      "D": "cricketwireless.com",
+      "LOS": [
+        "cricketwireless.com"
+      ],
+      "Q": 403,
+      "A": 307330,
+      "U": 12447,
+      "M": 28673,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1397689200,
+      "LI": 1635058800,
+      "S": 14789,
+      "META": null
+    },
+    {
+      "D": "nationalgeographic.com",
+      "LOS": [
+        "nationalgeographic.com"
+      ],
+      "Q": 405,
+      "A": 151,
+      "U": 6733,
+      "M": 151,
+      "Country": null,
+      "FD": 1372806000,
+      "LD": 1635058800,
+      "FI": 971301600,
+      "LI": 1635231600,
+      "S": 33382,
+      "META": null
+    },
+    {
+      "D": "teenvogue.com",
+      "LOS": [
+        "teenvogue.com"
+      ],
+      "Q": 409,
+      "A": 2139,
+      "U": 8394,
+      "M": 2376,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 971820000,
+      "LI": 1635231600,
+      "S": 25703,
+      "META": null
+    },
+    {
+      "D": "chevrolet.com",
+      "LOS": [
+        "chevrolet.com"
+      ],
+      "Q": 412,
+      "A": 3784,
+      "U": 10367,
+      "M": 3942,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 1097272800,
+      "LI": 1635145200,
+      "S": 19254,
+      "META": null
+    },
+    {
+      "D": "bankofamerica.com",
+      "LOS": [
+        "images.merchant.bankofamerica.com"
+      ],
+      "Q": 413,
+      "A": 438,
+      "U": 1693,
+      "M": 1631,
+      "Country": null,
+      "FD": 1538694000,
+      "LD": 1633244400,
+      "FI": 1065477600,
+      "LI": 1635231600,
+      "S": 36141,
+      "META": null
+    },
+    {
+      "D": "cnet.com",
+      "LOS": [
+        "cnet.com"
+      ],
+      "Q": 419,
+      "A": 253,
+      "U": 3375,
+      "M": 113,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1073948400,
+      "LI": 1635231600,
+      "S": 24270,
+      "META": null
+    },
+    {
+      "D": "ny.gov",
+      "LOS": [
+        "ny.gov"
+      ],
+      "Q": 422,
+      "A": 1680,
+      "U": 4709,
+      "M": 541,
+      "Country": null,
+      "FD": 1458169200,
+      "LD": 1634799600,
+      "FI": 1191189600,
+      "LI": 1635145200,
+      "S": 44711,
+      "META": null
+    },
+    {
+      "D": "tacobell.com",
+      "LOS": [
+        "tacobell.com"
+      ],
+      "Q": 429,
+      "A": 10655,
+      "U": 12063,
+      "M": 8692,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635231600,
+      "S": 11558,
+      "META": null
+    },
+    {
+      "D": "costco.com",
+      "LOS": [
+        "costco.com"
+      ],
+      "Q": 432,
+      "A": 4629,
+      "U": 2695,
+      "M": 2515,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1096581600,
+      "LI": 1635145200,
+      "S": 27045,
+      "META": null
+    },
+    {
+      "D": "bhg.com",
+      "LOS": [
+        "bhg.com"
+      ],
+      "Q": 441,
+      "A": 297109,
+      "U": 8246,
+      "M": 1903,
+      "Country": null,
+      "FD": 1433977200,
+      "LD": 1633244400,
+      "FI": 951778800,
+      "LI": 1635145200,
+      "S": 29606,
+      "META": null
+    },
+    {
+      "D": "battle.net",
+      "LOS": [
+        "image.em.battle.net",
+        "media.battle.net"
+      ],
+      "Q": 444,
+      "A": 2232,
+      "U": 1637,
+      "M": 1898,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1005778800,
+      "LI": 1635231600,
+      "S": 6713,
+      "META": null
+    },
+    {
+      "D": "king.com",
+      "LOS": [
+        "king.com"
+      ],
+      "Q": 452,
+      "A": 12325,
+      "U": 743,
+      "M": 14919,
+      "Country": null,
+      "FD": 1592262000,
+      "LD": 1635058800,
+      "FI": 1136070000,
+      "LI": 1635145200,
+      "S": 6128,
+      "META": null
+    },
+    {
+      "D": "oreillyauto.com",
+      "LOS": [
+        "oreillyauto.com"
+      ],
+      "Q": 453,
+      "A": 310801,
+      "U": 11644,
+      "M": 19861,
+      "Country": null,
+      "FD": 1491865200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 10426,
+      "META": null
+    },
+    {
+      "D": "carid.com",
+      "LOS": [
+        "carid.com"
+      ],
+      "Q": 472,
+      "A": 303394,
+      "U": 6036,
+      "M": 22433,
+      "Country": null,
+      "FD": 1499382000,
+      "LD": 1635058800,
+      "FI": 1296478800,
+      "LI": 1635145200,
+      "S": 5037,
+      "META": null
+    },
+    {
+      "D": "teespring.com",
+      "LOS": [
+        "team.teespring.com",
+        "app-team.teespring.com"
+      ],
+      "Q": 489,
+      "A": 1913,
+      "U": 16196,
+      "M": 2296,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1318456800,
+      "LI": 1635231600,
+      "S": 9645,
+      "META": null
+    },
+    {
+      "D": "bloomingdales.com",
+      "LOS": [
+        "bloomingdales.com"
+      ],
+      "Q": 498,
+      "A": 10898,
+      "U": 7782,
+      "M": 6840,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 978822000,
+      "LI": 1635058800,
+      "S": 18026,
+      "META": null
+    },
+    {
+      "D": "kktv.com",
+      "LOS": [
+        "kktv.com"
+      ],
+      "Q": 504,
+      "A": 342099,
+      "U": 62183,
+      "M": 15206,
+      "Country": null,
+      "FD": 1459378800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4167,
+      "META": null
+    },
+    {
+      "D": "kbb.com",
+      "LOS": [
+        "kbb.com"
+      ],
+      "Q": 507,
+      "A": 12521,
+      "U": 4661,
+      "M": 3643,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 978562800,
+      "LI": 1635058800,
+      "S": 17408,
+      "META": null
+    },
+    {
+      "D": "travelocity.com",
+      "LOS": [
+        "travelocity.com"
+      ],
+      "Q": 516,
+      "A": 13784,
+      "U": 5180,
+      "M": 6631,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 948150000,
+      "LI": 1635058800,
+      "S": 5925,
+      "META": null
+    },
+    {
+      "D": "nba.com",
+      "LOS": [
+        "nba.com"
+      ],
+      "Q": 519,
+      "A": 1890,
+      "U": 4282,
+      "M": 709,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1043881200,
+      "LI": 1635231600,
+      "S": 48383,
+      "META": null
+    },
+    {
+      "D": "npr.org",
+      "LOS": [
+        "npr.org"
+      ],
+      "Q": 525,
+      "A": 133,
+      "U": 2263,
+      "M": 116,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1011826800,
+      "LI": 1635231600,
+      "S": 11859,
+      "META": null
+    },
+    {
+      "D": "coupons.com",
+      "LOS": [
+        "coupons.com"
+      ],
+      "Q": 527,
+      "A": 12633,
+      "U": 10202,
+      "M": 10737,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1635058800,
+      "FI": 951778800,
+      "LI": 1635058800,
+      "S": 11591,
+      "META": null
+    },
+    {
+      "D": "ncaa.com",
+      "LOS": [
+        "ncaa.com"
+      ],
+      "Q": 541,
+      "A": 3615,
+      "U": 10886,
+      "M": 4619,
+      "Country": null,
+      "FD": 1375398000,
+      "LD": 1635145200,
+      "FI": 1230937200,
+      "LI": 1635145200,
+      "S": 12215,
+      "META": null
+    },
+    {
+      "D": "nintendo.com",
+      "LOS": [
+        "nintendo.com"
+      ],
+      "Q": 547,
+      "A": 1778,
+      "U": 1279,
+      "M": 1290,
+      "Country": null,
+      "FD": 1554850800,
+      "LD": 1633244400,
+      "FI": 1199142000,
+      "LI": 1635231600,
+      "S": 33771,
+      "META": null
+    },
+    {
+      "D": "blizzard.com",
+      "LOS": [
+        "us.media.blizzard.com",
+        "media.blizzard.com",
+        "dist.blizzard.com",
+        "eu.media.blizzard.com",
+        "sea.media.blizzard.com",
+        "tw.media.blizzard.com"
+      ],
+      "Q": 556,
+      "A": 2229,
+      "U": 2261,
+      "M": 2251,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1634540400,
+      "FI": 1104534000,
+      "LI": 1635145200,
+      "S": 8383,
+      "META": null
+    },
+    {
+      "D": "carmax.com",
+      "LOS": [
+        "carmax.com"
+      ],
+      "Q": 559,
+      "A": 24246,
+      "U": 5249,
+      "M": 19875,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 949964400,
+      "LI": 1635058800,
+      "S": 19143,
+      "META": null
+    },
+    {
+      "D": "outlook.com",
+      "LOS": [
+        "help.outlook.com",
+        "r3.res.outlook.com"
+      ],
+      "Q": 570,
+      "A": 137,
+      "U": 65,
+      "M": 126,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1635058800,
+      "FI": 971474400,
+      "LI": 1635145200,
+      "S": 11600,
+      "META": null
+    },
+    {
+      "D": "today.com",
+      "LOS": [
+        "today.com"
+      ],
+      "Q": 582,
+      "A": 796,
+      "U": 6607,
+      "M": 559,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 971820000,
+      "LI": 1635145200,
+      "S": 21865,
+      "META": null
+    },
+    {
+      "D": "kirklands.com",
+      "LOS": [
+        "kirklands.com"
+      ],
+      "Q": 584,
+      "A": 337185,
+      "U": 10572,
+      "M": 54099,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 10586,
+      "META": null
+    },
+    {
+      "D": "texas.gov",
+      "LOS": [
+        "hhs.texas.gov/*"
+      ],
+      "Q": 586,
+      "A": 2392,
+      "U": 3380,
+      "M": 853,
+      "Country": null,
+      "FD": 1631516400,
+      "LD": 1631516400,
+      "FI": 951951600,
+      "LI": 1635145200,
+      "S": 27725,
+      "META": null
+    },
+    {
+      "D": "cbs.com",
+      "LOS": [
+        "cbsandyou.cbs.com",
+        "ams.cbs.com",
+        "azure.ams.cbs.com",
+        "eai.cbs.com",
+        "uat-eai.cbs.com",
+        "keeper.cbs.com"
+      ],
+      "Q": 589,
+      "A": 1738,
+      "U": 3978,
+      "M": 1447,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1635058800,
+      "FI": 962834400,
+      "LI": 1635231600,
+      "S": 8086,
+      "META": null
+    },
+    {
+      "D": "basspro.com",
+      "LOS": [
+        "basspro.com"
+      ],
+      "Q": 591,
+      "A": 297586,
+      "U": 8837,
+      "M": 8110,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 25229,
+      "META": null
+    },
+    {
+      "D": "boostmobile.com",
+      "LOS": [
+        "boostmobile.com"
+      ],
+      "Q": 592,
+      "A": 17542,
+      "U": 14236,
+      "M": 21908,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 22167,
+      "META": null
+    },
+    {
+      "D": "nbcnews.com",
+      "LOS": [
+        "nbcnews.com"
+      ],
+      "Q": 615,
+      "A": 277,
+      "U": 3211,
+      "M": 196,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635145200,
+      "FI": 1191880800,
+      "LI": 1635145200,
+      "S": 14955,
+      "META": null
+    },
+    {
+      "D": "creditonebank.com",
+      "LOS": [
+        "creditonebank.com"
+      ],
+      "Q": 620,
+      "A": 2956076,
+      "U": 10961,
+      "M": 207639,
+      "Country": null,
+      "FD": 1620975600,
+      "LD": 1633244400,
+      "FI": 1138921200,
+      "LI": 1635231600,
+      "S": 15380,
+      "META": null
+    },
+    {
+      "D": "10news.com",
+      "LOS": [
+        "10news.com"
+      ],
+      "Q": 629,
+      "A": 13224,
+      "U": 64168,
+      "M": 6539,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 11001,
+      "META": null
+    },
+    {
+      "D": "kaiserpermanente.org",
+      "LOS": [
+        "kaiserpermanente.org"
+      ],
+      "Q": 633,
+      "A": 7139,
+      "U": 9069,
+      "M": 4503,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1635231600,
+      "FI": 951865200,
+      "LI": 1635231600,
+      "S": 43004,
+      "META": null
+    },
+    {
+      "D": "creditkarma.com",
+      "LOS": [
+        "creditkarma.com"
+      ],
+      "Q": 639,
+      "A": 296790,
+      "U": 2760,
+      "M": 6758,
+      "Country": null,
+      "FD": 1491865200,
+      "LD": 1635058800,
+      "FI": 1222984800,
+      "LI": 1635145200,
+      "S": 8540,
+      "META": null
+    },
+    {
+      "D": "olivegarden.com",
+      "LOS": [
+        "m.olivegarden.com",
+        "media.olivegarden.com",
+        "www-dr.olivegarden.com",
+        "stage-2.olivegarden.com",
+        "stage-3.olivegarden.com",
+        "m-beta.olivegarden.com",
+        "m-stage-all.olivegarden.com",
+        "m-dev.olivegarden.com",
+        "beta.olivegarden.com",
+        "stage-all.olivegarden.com",
+        "dev.olivegarden.com",
+        "m-stage1.olivegarden.com",
+        "test.olivegarden.com",
+        "m-stage2.olivegarden.com",
+        "m.beta.olivegarden.com",
+        "m.test.olivegarden.com",
+        "m.dev.olivegarden.com",
+        "m.dev3.olivegarden.com",
+        "m.stage1.olivegarden.com",
+        "m.test1.olivegarden.com"
+      ],
+      "Q": 640,
+      "A": 23813,
+      "U": 26557,
+      "M": 15632,
+      "Country": null,
+      "FD": 1528671600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 18882,
+      "META": null
+    },
+    {
+      "D": "citi.com",
+      "LOS": [
+        "citi.com"
+      ],
+      "Q": 645,
+      "A": 6697,
+      "U": 2851,
+      "M": 4217,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 52810,
+      "META": null
+    },
+    {
+      "D": "teacherspayteachers.com",
+      "LOS": [
+        "teacherspayteachers.com"
+      ],
+      "Q": 653,
+      "A": 7603,
+      "U": 5359,
+      "M": 6566,
+      "Country": null,
+      "FD": 1511218800,
+      "LD": 1635145200,
+      "FI": 1222812000,
+      "LI": 1635145200,
+      "S": 13818,
+      "META": null
+    },
+    {
+      "D": "caranddriver.com",
+      "LOS": [
+        "caranddriver.com"
+      ],
+      "Q": 655,
+      "A": 5712,
+      "U": 10286,
+      "M": 2221,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1065132000,
+      "LI": 1635058800,
+      "S": 13508,
+      "META": null
+    },
+    {
+      "D": "nflshop.com",
+      "LOS": [
+        "nflshop.com"
+      ],
+      "Q": 662,
+      "A": 332461,
+      "U": 10911,
+      "M": 38247,
+      "Country": null,
+      "FD": 1493074800,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 6991,
+      "META": null
+    },
+    {
+      "D": "tvguide.com",
+      "LOS": [
+        "tvguide.com"
+      ],
+      "Q": 672,
+      "A": 3047,
+      "U": 11067,
+      "M": 3226,
+      "Country": null,
+      "FD": 1370559600,
+      "LD": 1633244400,
+      "FI": 1033423200,
+      "LI": 1635145200,
+      "S": 21990,
+      "META": null
+    },
+    {
+      "D": "bodybuilding.com",
+      "LOS": [
+        "bodybuilding.com"
+      ],
+      "Q": 682,
+      "A": 7647,
+      "U": 13956,
+      "M": 2905,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635145200,
+      "FI": 1167865200,
+      "LI": 1635231600,
+      "S": 19964,
+      "META": null
+    },
+    {
+      "D": "cntraveler.com",
+      "LOS": [
+        "cntraveler.com"
+      ],
+      "Q": 690,
+      "A": 6727,
+      "U": 8061,
+      "M": 2026,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 970869600,
+      "LI": 1635058800,
+      "S": 26181,
+      "META": null
+    },
+    {
+      "D": "tripadvisor.com",
+      "LOS": [
+        "tripadvisor.com"
+      ],
+      "Q": 693,
+      "A": 283,
+      "U": 1470,
+      "M": 181,
+      "Country": null,
+      "FD": 1371250800,
+      "LD": 1635058800,
+      "FI": 1096581600,
+      "LI": 1635145200,
+      "S": 21380,
+      "META": null
+    },
+    {
+      "D": "bestbuy.com",
+      "LOS": [
+        "bestbuy.com"
+      ],
+      "Q": 704,
+      "A": 2775,
+      "U": 1504,
+      "M": 843,
+      "Country": null,
+      "FD": 1371250800,
+      "LD": 1635058800,
+      "FI": 1096581600,
+      "LI": 1635145200,
+      "S": 20440,
+      "META": null
+    },
+    {
+      "D": "orbitz.com",
+      "LOS": [
+        "orbitz.com"
+      ],
+      "Q": 705,
+      "A": 10782,
+      "U": 5114,
+      "M": 7599,
+      "Country": null,
+      "FD": 1447282800,
+      "LD": 1635058800,
+      "FI": 1128117600,
+      "LI": 1635058800,
+      "S": 7178,
+      "META": null
+    },
+    {
+      "D": "newegg.com",
+      "LOS": [
+        "newegg.com"
+      ],
+      "Q": 718,
+      "A": 3982,
+      "U": 4593,
+      "M": 1684,
+      "Country": null,
+      "FD": 1449097200,
+      "LD": 1635145200,
+      "FI": 1007334000,
+      "LI": 1635145200,
+      "S": 25035,
+      "META": null
+    },
+    {
+      "D": "tomshardware.com",
+      "LOS": [
+        "tomshardware.com"
+      ],
+      "Q": 719,
+      "A": 2818,
+      "U": 10696,
+      "M": 1480,
+      "Country": null,
+      "FD": 1401318000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 9919,
+      "META": null
+    },
+    {
+      "D": "nps.gov",
+      "LOS": [
+        "nps.gov"
+      ],
+      "Q": 726,
+      "A": 440,
+      "U": 11980,
+      "M": 335,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1631948400,
+      "FI": 971820000,
+      "LI": 1635145200,
+      "S": 18043,
+      "META": null
+    },
+    {
+      "D": "trulia.com",
+      "LOS": [
+        "trulia.com"
+      ],
+      "Q": 728,
+      "A": 3271,
+      "U": 3000,
+      "M": 3447,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1129154400,
+      "LI": 1635145200,
+      "S": 13252,
+      "META": null
+    },
+    {
+      "D": "observer.com",
+      "LOS": [
+        "sli.observer.com"
+      ],
+      "Q": 730,
+      "A": 2226,
+      "U": 34301,
+      "M": 655,
+      "Country": null,
+      "FD": 1597734000,
+      "LD": 1634626800,
+      "FI": 971820000,
+      "LI": 1635058800,
+      "S": 13927,
+      "META": null
+    },
+    {
+      "D": "box.com",
+      "LOS": [
+        "fupload1.app.box.com"
+      ],
+      "Q": 734,
+      "A": 751,
+      "U": 826,
+      "M": 358,
+      "Country": null,
+      "FD": 1584140400,
+      "LD": 1635058800,
+      "FI": 1022882400,
+      "LI": 1635231600,
+      "S": 27004,
+      "META": null
+    },
+    {
+      "D": "cinemark.com",
+      "LOS": [
+        "image.theatreinfo.cinemark.com"
+      ],
+      "Q": 739,
+      "A": 17432,
+      "U": 18035,
+      "M": 18393,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 10009,
+      "META": null
+    },
+    {
+      "D": "choicehotels.com",
+      "LOS": [
+        "choicehotels.com"
+      ],
+      "Q": 748,
+      "A": 10801,
+      "U": 10237,
+      "M": 2952,
+      "Country": null,
+      "FD": 1507590000,
+      "LD": 1635058800,
+      "FI": 1034373600,
+      "LI": 1635145200,
+      "S": 18977,
+      "META": null
+    },
+    {
+      "D": "boscovs.com",
+      "LOS": [
+        "boscovs.com"
+      ],
+      "Q": 751,
+      "A": 35247,
+      "U": 25691,
+      "M": 66438,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 21745,
+      "META": null
+    },
+    {
+      "D": "barclaycardus.com",
+      "LOS": [
+        "barclaycardus.com"
+      ],
+      "Q": 753,
+      "A": 79894,
+      "U": 14339,
+      "M": 71328,
+      "Country": null,
+      "FD": 1542063600,
+      "LD": 1635145200,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 18748,
+      "META": null
+    },
+    {
+      "D": "office.com",
+      "LOS": [
+        "office.com"
+      ],
+      "Q": 761,
+      "A": 427,
+      "U": 14,
+      "M": 92,
+      "Country": null,
+      "FD": 1462402800,
+      "LD": 1635058800,
+      "FI": 970956000,
+      "LI": 1635231600,
+      "S": 12993,
+      "META": null
+    },
+    {
+      "D": "newsmax.com",
+      "LOS": [
+        "newsmax.com"
+      ],
+      "Q": 767,
+      "A": 7289,
+      "U": 9025,
+      "M": 2127,
+      "Country": null,
+      "FD": 1504566000,
+      "LD": 1635058800,
+      "FI": 951865200,
+      "LI": 1635145200,
+      "S": 28806,
+      "META": null
+    },
+    {
+      "D": "trivago.com",
+      "LOS": [
+        "trivago.com"
+      ],
+      "Q": 775,
+      "A": 14468,
+      "U": 5317,
+      "M": 12980,
+      "Country": null,
+      "FD": 1579647600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 8495,
+      "META": null
+    },
+    {
+      "D": "kay.com",
+      "LOS": [
+        "kay.com"
+      ],
+      "Q": 781,
+      "A": 318231,
+      "U": 18728,
+      "M": 44551,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 17557,
+      "META": null
+    },
+    {
+      "D": "tasteofhome.com",
+      "LOS": [
+        "sli.tasteofhome.com"
+      ],
+      "Q": 791,
+      "A": 300875,
+      "U": 7434,
+      "M": 3358,
+      "Country": null,
+      "FD": 1595314800,
+      "LD": 1632207600,
+      "FI": 951951600,
+      "LI": 1635145200,
+      "S": 14902,
+      "META": null
+    },
+    {
+      "D": "crackerbarrel.com",
+      "LOS": [
+        "image.email.crackerbarrel.com"
+      ],
+      "Q": 796,
+      "A": 23073,
+      "U": 70673,
+      "M": 19062,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1309701600,
+      "LI": 1635145200,
+      "S": 29486,
+      "META": null
+    },
+    {
+      "D": "office365.com",
+      "LOS": [
+        "r1.res.office365.com",
+        "r4.res.office365.com",
+        "r3.res.office365.com"
+      ],
+      "Q": 816,
+      "A": 4098,
+      "U": 29,
+      "M": 642,
+      "Country": null,
+      "FD": 1557874800,
+      "LD": 1635058800,
+      "FI": 1080342000,
+      "LI": 1635231600,
+      "S": 4056,
+      "META": null
+    },
+    {
+      "D": "canon.com",
+      "LOS": [
+        "canon.com"
+      ],
+      "Q": 818,
+      "A": 5907,
+      "U": 23495,
+      "M": 1789,
+      "Country": null,
+      "FD": 1437606000,
+      "LD": 1635058800,
+      "FI": 1199142000,
+      "LI": 1635145200,
+      "S": 42205,
+      "META": null
+    },
+    {
+      "D": "nycgo.com",
+      "LOS": [
+        "nycgo.com"
+      ],
+      "Q": 821,
+      "A": 306666,
+      "U": 130709,
+      "M": 6753,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 13261,
+      "META": null
+    },
+    {
+      "D": "nj.com",
+      "LOS": [
+        "nj.com"
+      ],
+      "Q": 823,
+      "A": 6301,
+      "U": 9959,
+      "M": 991,
+      "Country": null,
+      "FD": 1628060400,
+      "LD": 1635058800,
+      "FI": 951778800,
+      "LI": 1635058800,
+      "S": 18394,
+      "META": null
+    },
+    {
+      "D": "tjx.com",
+      "LOS": [
+        "tjx.com"
+      ],
+      "Q": 826,
+      "A": 305064,
+      "U": 6216,
+      "M": 14121,
+      "Country": null,
+      "FD": 1567119600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 24058,
+      "META": null
+    },
+    {
+      "D": "biblestudytools.com",
+      "LOS": [
+        "sli.biblestudytools.com"
+      ],
+      "Q": 830,
+      "A": 17337,
+      "U": 16572,
+      "M": 6078,
+      "Country": null,
+      "FD": 1618902000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4777,
+      "META": null
+    },
+    {
+      "D": "cbsnews.com",
+      "LOS": [
+        "cbsnews.com"
+      ],
+      "Q": 845,
+      "A": 226,
+      "U": 3968,
+      "M": 170,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 971733600,
+      "LI": 1635058800,
+      "S": 8984,
+      "META": null
+    },
+    {
+      "D": "nvidia.com",
+      "LOS": [
+        "nvidia.com"
+      ],
+      "Q": 849,
+      "A": 1473,
+      "U": 438,
+      "M": 481,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635231600,
+      "FI": 951865200,
+      "LI": 1635231600,
+      "S": 36289,
+      "META": null
+    },
+    {
+      "D": "bjs.com",
+      "LOS": [
+        "bjs.com"
+      ],
+      "Q": 855,
+      "A": 11883,
+      "U": 14988,
+      "M": 23774,
+      "Country": null,
+      "FD": 1577401200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 18014,
+      "META": null
+    },
+    {
+      "D": "officedepot.com",
+      "LOS": [
+        "officedepot.com"
+      ],
+      "Q": 865,
+      "A": 6187,
+      "U": 5318,
+      "M": 4265,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 947286000,
+      "LI": 1635231600,
+      "S": 37835,
+      "META": null
+    },
+    {
+      "D": "bigthink.com",
+      "LOS": [
+        "li.bigthink.com"
+      ],
+      "Q": 872,
+      "A": 2732,
+      "U": 59210,
+      "M": 2030,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 990136800,
+      "LI": 1635145200,
+      "S": 18011,
+      "META": null
+    },
+    {
+      "D": "oyster.com",
+      "LOS": [
+        "oyster.com"
+      ],
+      "Q": 877,
+      "A": 300285,
+      "U": 21309,
+      "M": 28920,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 16871,
+      "META": null
+    },
+    {
+      "D": "bookingbuddy.com",
+      "LOS": [
+        "bookingbuddy.com"
+      ],
+      "Q": 919,
+      "A": 316461,
+      "U": 66891,
+      "M": 103071,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1104793200,
+      "LI": 1635145200,
+      "S": 15071,
+      "META": null
+    },
+    {
+      "D": "boston.com",
+      "LOS": [
+        "sli.boston.com"
+      ],
+      "Q": 922,
+      "A": 2314,
+      "U": 9992,
+      "M": 580,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 951778800,
+      "LI": 1635231600,
+      "S": 19324,
+      "META": null
+    },
+    {
+      "D": "thenorthface.com",
+      "LOS": [
+        "thenorthface.com"
+      ],
+      "Q": 926,
+      "A": 299172,
+      "U": 12826,
+      "M": 6764,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 45701,
+      "META": null
+    },
+    {
+      "D": "crutchfield.com",
+      "LOS": [
+        "li.crutchfield.com"
+      ],
+      "Q": 941,
+      "A": 16880,
+      "U": 12861,
+      "M": 11523,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 12083,
+      "META": null
+    },
+    {
+      "D": "babycenter.com",
+      "LOS": [
+        "babycenter.com"
+      ],
+      "Q": 942,
+      "A": 6748,
+      "U": 9401,
+      "M": 2300,
+      "Country": null,
+      "FD": 1370559600,
+      "LD": 1635145200,
+      "FI": 951778800,
+      "LI": 1635145200,
+      "S": 8318,
+      "META": null
+    },
+    {
+      "D": "nyc.gov",
+      "LOS": [
+        "nyc.gov"
+      ],
+      "Q": 951,
+      "A": 447,
+      "U": 8810,
+      "M": 826,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 22705,
+      "META": null
+    },
+    {
+      "D": "orientaltrading.com",
+      "LOS": [
+        "orientaltrading.com"
+      ],
+      "Q": 952,
+      "A": 15670,
+      "U": 18240,
+      "M": 12435,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 30583,
+      "META": null
+    },
+    {
+      "D": "businesswire.com",
+      "LOS": [
+        "businesswire.com"
+      ],
+      "Q": 953,
+      "A": 978,
+      "U": 14709,
+      "M": 223,
+      "Country": null,
+      "FD": 1518217200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 8273,
+      "META": null
+    },
+    {
+      "D": "townhall.com",
+      "LOS": [
+        "li.townhall.com",
+        "sli.townhall.com"
+      ],
+      "Q": 956,
+      "A": 7293,
+      "U": 9076,
+      "M": 3038,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634626800,
+      "FI": 971820000,
+      "LI": 1635058800,
+      "S": 9551,
+      "META": null
+    },
+    {
+      "D": "columbia.com",
+      "LOS": [
+        "image.newsletter.columbia.com"
+      ],
+      "Q": 985,
+      "A": 12787,
+      "U": 15236,
+      "M": 12218,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 51510,
+      "META": null
+    },
+    {
+      "D": "oup.com",
+      "LOS": [
+        "oup.com"
+      ],
+      "Q": 987,
+      "A": 356,
+      "U": 9806,
+      "M": 192,
+      "Country": null,
+      "FD": 1618642800,
+      "LD": 1635058800,
+      "FI": 1044054000,
+      "LI": 1635231600,
+      "S": 12569,
+      "META": null
+    },
+    {
+      "D": "timberland.com",
+      "LOS": [
+        "timberland.com"
+      ],
+      "Q": 995,
+      "A": 13500,
+      "U": 26277,
+      "M": 15623,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 45792,
+      "META": null
+    },
+    {
+      "D": "23andme.com",
+      "LOS": [
+        "image.mail.23andme.com"
+      ],
+      "Q": 996,
+      "A": 10326,
+      "U": 9803,
+      "M": 6547,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1628060400,
+      "FI": 1192053600,
+      "LI": 1635145200,
+      "S": 19875,
+      "META": null
+    },
+    {
+      "D": "navyfederal.org",
+      "LOS": [
+        "navyfederal.org"
+      ],
+      "Q": 1013,
+      "A": 39532,
+      "U": 6401,
+      "M": 42929,
+      "Country": null,
+      "FD": 1498604400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 16874,
+      "META": null
+    },
+    {
+      "D": "kingarthurflour.com",
+      "LOS": [
+        "kingarthurflour.com"
+      ],
+      "Q": 1019,
+      "A": 300108,
+      "U": 105232,
+      "M": 11257,
+      "Country": null,
+      "FD": 1553209200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 3907,
+      "META": null
+    },
+    {
+      "D": "komonews.com",
+      "LOS": [
+        "sli.komonews.com"
+      ],
+      "Q": 1020,
+      "A": 9420,
+      "U": 25265,
+      "M": 3432,
+      "Country": null,
+      "FD": 1578006000,
+      "LD": 1634626800,
+      "FI": 1100214000,
+      "LI": 1635058800,
+      "S": 5697,
+      "META": null
+    },
+    {
+      "D": "cookinglight.com",
+      "LOS": [
+        "cookinglight.com"
+      ],
+      "Q": 1022,
+      "A": 11830,
+      "U": 21507,
+      "M": 6799,
+      "Country": null,
+      "FD": 1505170800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 19892,
+      "META": null
+    },
+    {
+      "D": "talbots.com",
+      "LOS": [
+        "talbots.com"
+      ],
+      "Q": 1036,
+      "A": 307729,
+      "U": 27810,
+      "M": 50564,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 47180,
+      "META": null
+    },
+    {
+      "D": "ndtv.com",
+      "LOS": [
+        "ndtv.com"
+      ],
+      "Q": 1054,
+      "A": 2722,
+      "U": 5875,
+      "M": 771,
+      "Country": null,
+      "FD": 1381446000,
+      "LD": 1635145200,
+      "FI": 1231196400,
+      "LI": 1635231600,
+      "S": 4967,
+      "META": null
+    },
+    {
+      "D": "bradsdeals.com",
+      "LOS": [
+        "nl.bradsdeals.com"
+      ],
+      "Q": 1055,
+      "A": 306670,
+      "U": 13798,
+      "M": 58564,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 7035,
+      "META": null
+    },
+    {
+      "D": "cybersource.com",
+      "LOS": [
+        "images.demand.cybersource.com"
+      ],
+      "Q": 1065,
+      "A": 16766,
+      "U": 8448,
+      "M": 38982,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1629270000,
+      "FI": 951778800,
+      "LI": 1635145200,
+      "S": 15632,
+      "META": null
+    },
+    {
+      "D": "backcountry.com",
+      "LOS": [
+        "backcountry.com"
+      ],
+      "Q": 1066,
+      "A": 8472,
+      "U": 11497,
+      "M": 12254,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 17708,
+      "META": null
+    },
+    {
+      "D": "crocs.com",
+      "LOS": [
+        "crocs.com"
+      ],
+      "Q": 1074,
+      "A": 307138,
+      "U": 12617,
+      "M": 13667,
+      "Country": null,
+      "FD": 1385074800,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635231600,
+      "S": 27325,
+      "META": null
+    },
+    {
+      "D": "newsbusters.org",
+      "LOS": [
+        "sli.newsbusters.org"
+      ],
+      "Q": 1089,
+      "A": 305270,
+      "U": 60972,
+      "M": 7294,
+      "Country": null,
+      "FD": 1613462400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 6364,
+      "META": null
+    },
+    {
+      "D": "kmart.com",
+      "LOS": [
+        "kmart.com"
+      ],
+      "Q": 1102,
+      "A": 297531,
+      "U": 8223,
+      "M": 11035,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5377,
+      "META": null
+    },
+    {
+      "D": "chipotle.com",
+      "LOS": [
+        "image.email.chipotle.com"
+      ],
+      "Q": 1109,
+      "A": 7284,
+      "U": 8029,
+      "M": 5716,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 983401200,
+      "LI": 1635145200,
+      "S": 15817,
+      "META": null
+    },
+    {
+      "D": "carnival.com",
+      "LOS": [
+        "carnival.com"
+      ],
+      "Q": 1110,
+      "A": 5310,
+      "U": 19708,
+      "M": 8984,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 49816,
+      "META": null
+    },
+    {
+      "D": "callofduty.com",
+      "LOS": [
+        "callofduty.com"
+      ],
+      "Q": 1173,
+      "A": 4557,
+      "U": 2452,
+      "M": 4401,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1065564000,
+      "LI": 1635058800,
+      "S": 17096,
+      "META": null
+    },
+    {
+      "D": "nbc15.com",
+      "LOS": [
+        "nbc15.com"
+      ],
+      "Q": 1195,
+      "A": 23392,
+      "U": 69807,
+      "M": 17951,
+      "Country": null,
+      "FD": 1459378800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4167,
+      "META": null
+    },
+    {
+      "D": "childrensplace.com",
+      "LOS": [
+        "childrensplace.com"
+      ],
+      "Q": 1216,
+      "A": 305468,
+      "U": 15319,
+      "M": 23534,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 36641,
+      "META": null
+    },
+    {
+      "D": "cbc.ca",
+      "LOS": [
+        "cbc.ca"
+      ],
+      "Q": 1219,
+      "A": 334,
+      "U": 6583,
+      "M": 251,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635145200,
+      "FI": 1001887200,
+      "LI": 1635145200,
+      "S": 14318,
+      "META": null
+    },
+    {
+      "D": "navient.com",
+      "LOS": [
+        "navient.com"
+      ],
+      "Q": 1224,
+      "A": 329447,
+      "U": 30205,
+      "M": 108659,
+      "Country": null,
+      "FD": 1438815600,
+      "LD": 1635058800,
+      "FI": 1400108400,
+      "LI": 1635058800,
+      "S": 15566,
+      "META": null
+    },
+    {
+      "D": "cengage.com",
+      "LOS": [
+        "sam.cengage.com"
+      ],
+      "Q": 1228,
+      "A": 5270,
+      "U": 5720,
+      "M": 5618,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1635058800,
+      "FI": 1192053600,
+      "LI": 1635145200,
+      "S": 24886,
+      "META": null
+    },
+    {
+      "D": "torrid.com",
+      "LOS": [
+        "torrid.com"
+      ],
+      "Q": 1253,
+      "A": 17546,
+      "U": 18622,
+      "M": 42260,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1635058800,
+      "FI": 1296478800,
+      "LI": 1635145200,
+      "S": 48843,
+      "META": null
+    },
+    {
+      "D": "tdbank.com",
+      "LOS": [
+        "tdbank.com"
+      ],
+      "Q": 1256,
+      "A": 17710,
+      "U": 7284,
+      "M": 23274,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 951778800,
+      "LI": 1635058800,
+      "S": 17830,
+      "META": null
+    },
+    {
+      "D": "bbt.com",
+      "LOS": [
+        "bbt.com"
+      ],
+      "Q": 1262,
+      "A": 20213,
+      "U": 11828,
+      "M": 20216,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1159826400,
+      "LI": 1635058800,
+      "S": 27239,
+      "META": null
+    },
+    {
+      "D": "crateandbarrel.com",
+      "LOS": [
+        "crateandbarrel.com"
+      ],
+      "Q": 1274,
+      "A": 6422,
+      "U": 4803,
+      "M": 5616,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1128117600,
+      "LI": 1635145200,
+      "S": 19209,
+      "META": null
+    },
+    {
+      "D": "christianbook.com",
+      "LOS": [
+        "g.christianbook.com",
+        "domains.christianbook.com",
+        "cbdreader.christianbook.com",
+        "dlm.christianbook.com",
+        "blog.christianbook.com",
+        "eventstaging.christianbook.com",
+        "offer.christianbook.com",
+        "feeds.christianbook.com",
+        "dlmstaging.christianbook.com"
+      ],
+      "Q": 1277,
+      "A": 7688,
+      "U": 9770,
+      "M": 8437,
+      "Country": null,
+      "FD": 1518786000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 4848,
+      "META": null
+    },
+    {
+      "D": "kp.org",
+      "LOS": [
+        "kp.org"
+      ],
+      "Q": 1283,
+      "A": 16965,
+      "U": 10901,
+      "M": 23050,
+      "Country": null,
+      "FD": 1505775600,
+      "LD": 1635058800,
+      "FI": 1458169200,
+      "LI": 1635145200,
+      "S": 25594,
+      "META": null
+    },
+    {
+      "D": "tdameritrade.com",
+      "LOS": [
+        "tdameritrade.com"
+      ],
+      "Q": 1291,
+      "A": 16402,
+      "U": 5295,
+      "M": 9024,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1144533600,
+      "LI": 1635145200,
+      "S": 27458,
+      "META": null
+    },
+    {
+      "D": "carters.com",
+      "LOS": [
+        "carters.com"
+      ],
+      "Q": 1299,
+      "A": 306496,
+      "U": 6437,
+      "M": 15362,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 78564,
+      "META": null
+    },
+    {
+      "D": "colehaan.com",
+      "LOS": [
+        "image.e.colehaan.com"
+      ],
+      "Q": 1302,
+      "A": 319384,
+      "U": 19741,
+      "M": 33685,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 59977,
+      "META": null
+    },
+    {
+      "D": "travelandleisure.com",
+      "LOS": [
+        "travelandleisure.com"
+      ],
+      "Q": 1314,
+      "A": 3195,
+      "U": 15062,
+      "M": 1296,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1011826800,
+      "LI": 1635058800,
+      "S": 8768,
+      "META": null
+    },
+    {
+      "D": "barnesandnoble.com",
+      "LOS": [
+        "barnesandnoble.com"
+      ],
+      "Q": 1320,
+      "A": 1779,
+      "U": 5741,
+      "M": 431,
+      "Country": null,
+      "FD": 1371250800,
+      "LD": 1635145200,
+      "FI": 1011654000,
+      "LI": 1635145200,
+      "S": 28845,
+      "META": null
+    },
+    {
+      "D": "bloglovin.com",
+      "LOS": [
+        "li.bloglovin.com"
+      ],
+      "Q": 1339,
+      "A": 2487,
+      "U": 21896,
+      "M": 1049,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1170370800,
+      "LI": 1635145200,
+      "S": 5322,
+      "META": null
+    },
+    {
+      "D": "chilis.com",
+      "LOS": [
+        "image.email.chilis.com"
+      ],
+      "Q": 1348,
+      "A": 28232,
+      "U": 34437,
+      "M": 18448,
+      "Country": null,
+      "FD": 1554246000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 6399,
+      "META": null
+    },
+    {
+      "D": "clarksusa.com",
+      "LOS": [
+        "clarksusa.com"
+      ],
+      "Q": 1349,
+      "A": 360655,
+      "U": 40834,
+      "M": 46781,
+      "Country": null,
+      "FD": 1448409600,
+      "LD": 1635058800,
+      "FI": 1315749600,
+      "LI": 1635231600,
+      "S": 29358,
+      "META": null
+    },
+    {
+      "D": "carecredit.com",
+      "LOS": [
+        "carecredit.com"
+      ],
+      "Q": 1385,
+      "A": 16035,
+      "U": 37643,
+      "M": 5375,
+      "Country": null,
+      "FD": 1471215600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 34940,
+      "META": null
+    },
+    {
+      "D": "oregonlive.com",
+      "LOS": [
+        "oregonlive.com"
+      ],
+      "Q": 1386,
+      "A": 752,
+      "U": 11883,
+      "M": 1109,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 951778800,
+      "LI": 1635058800,
+      "S": 29210,
+      "META": null
+    },
+    {
+      "D": "cc.com",
+      "LOS": [
+        "cc.com"
+      ],
+      "Q": 1388,
+      "A": 2989,
+      "U": 43042,
+      "M": 1401,
+      "Country": null,
+      "FD": 1458169200,
+      "LD": 1635145200,
+      "FI": 951865200,
+      "LI": 1635145200,
+      "S": 14760,
+      "META": null
+    },
+    {
+      "D": "nascar.com",
+      "LOS": [
+        "nascar.com"
+      ],
+      "Q": 1390,
+      "A": 4262,
+      "U": 12557,
+      "M": 4768,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 21418,
+      "META": null
+    },
+    {
+      "D": "nissanusa.com",
+      "LOS": [
+        "nissanusa.com"
+      ],
+      "Q": 1397,
+      "A": 10215,
+      "U": 13501,
+      "M": 8609,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 25423,
+      "META": null
+    },
+    {
+      "D": "napaonline.com",
+      "LOS": [
+        "napaonline.com"
+      ],
+      "Q": 1403,
+      "A": 340033,
+      "U": 8458,
+      "M": 17214,
+      "Country": null,
+      "FD": 1519167600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 15179,
+      "META": null
+    },
+    {
+      "D": "okmagazine.com",
+      "LOS": [
+        "sli.okmagazine.com"
+      ],
+      "Q": 1431,
+      "A": 303168,
+      "U": 13753,
+      "M": 16698,
+      "Country": null,
+      "FD": 1600239600,
+      "LD": 1634626800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5349,
+      "META": null
+    },
+    {
+      "D": "budget.com",
+      "LOS": [
+        "budget.com"
+      ],
+      "Q": 1435,
+      "A": 300539,
+      "U": 28220,
+      "M": 13505,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 19947,
+      "META": null
+    },
+    {
+      "D": "cisco.com",
+      "LOS": [
+        "cisco.com"
+      ],
+      "Q": 1443,
+      "A": 825,
+      "U": 265,
+      "M": 242,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1635058800,
+      "FI": 1073948400,
+      "LI": 1635231600,
+      "S": 43770,
+      "META": null
+    },
+    {
+      "D": "birchlane.com",
+      "LOS": [
+        "birchlane.com"
+      ],
+      "Q": 1457,
+      "A": 33646,
+      "U": 18034,
+      "M": 141318,
+      "Country": null,
+      "FD": 1518786000,
+      "LD": 1635058800,
+      "FI": 1389481200,
+      "LI": 1635058800,
+      "S": 5423,
+      "META": null
+    },
+    {
+      "D": "topix.com",
+      "LOS": [
+        "topix.com"
+      ],
+      "Q": 1458,
+      "A": 301035,
+      "U": 33526,
+      "M": 8174,
+      "Country": null,
+      "FD": 1622098800,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 4068,
+      "META": null
+    },
+    {
+      "D": "cruisecritic.com",
+      "LOS": [
+        "cruisecritic.com"
+      ],
+      "Q": 1464,
+      "A": 14028,
+      "U": 19098,
+      "M": 10958,
+      "Country": null,
+      "FD": 1395874800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 15156,
+      "META": null
+    },
+    {
+      "D": "oldnavy.com",
+      "LOS": [
+        "oldnavy.com"
+      ],
+      "Q": 1467,
+      "A": 304057,
+      "U": 6982,
+      "M": 21874,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5006,
+      "META": null
+    },
+    {
+      "D": "bestproducts.com",
+      "LOS": [
+        "sli.bestproducts.com"
+      ],
+      "Q": 1472,
+      "A": 304958,
+      "U": 25497,
+      "M": 21510,
+      "Country": null,
+      "FD": 1605600000,
+      "LD": 1633244400,
+      "FI": 1447196400,
+      "LI": 1635058800,
+      "S": 9611,
+      "META": null
+    },
+    {
+      "D": "boundingintocomics.com",
+      "LOS": [
+        "sli.boundingintocomics.com"
+      ],
+      "Q": 1479,
+      "A": 383290,
+      "U": 71749,
+      "M": 54012,
+      "Country": null,
+      "FD": 1613462400,
+      "LD": 1633244400,
+      "FI": 1427151600,
+      "LI": 1635058800,
+      "S": 3957,
+      "META": null
+    },
+    {
+      "D": "clipcentric.com",
+      "LOS": [
+        "aka.clipcentric.com"
+      ],
+      "Q": 1482,
+      "A": 146508,
+      "U": 2657,
+      "M": 378560,
+      "Country": null,
+      "FD": 1583190000,
+      "LD": 1633244400,
+      "FI": 1369922400,
+      "LI": 1635231600,
+      "S": 4067,
+      "META": null
+    },
+    {
+      "D": "bose.com",
+      "LOS": [
+        "bose.com"
+      ],
+      "Q": 1487,
+      "A": 8674,
+      "U": 9038,
+      "M": 4755,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1104620400,
+      "LI": 1635145200,
+      "S": 26784,
+      "META": null
+    },
+    {
+      "D": "netgear.com",
+      "LOS": [
+        "acupdatesdl.netgear.com",
+        "acupdatesdl2.netgear.com",
+        "acdownload.netgear.com",
+        "http.fw.updates1.netgear.com",
+        "updates.netgear.com"
+      ],
+      "Q": 1494,
+      "A": 7896,
+      "U": 581,
+      "M": 3192,
+      "Country": null,
+      "FD": 1518786000,
+      "LD": 1635058800,
+      "FI": 951778800,
+      "LI": 1635145200,
+      "S": 36643,
+      "META": null
+    },
+    {
+      "D": "carhartt.com",
+      "LOS": [
+        "carhartt.com"
+      ],
+      "Q": 1498,
+      "A": 13214,
+      "U": 22021,
+      "M": 30680,
+      "Country": null,
+      "FD": 1447887600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 15916,
+      "META": null
+    },
+    {
+      "D": "origin.com",
+      "LOS": [
+        "origin.com"
+      ],
+      "Q": 1504,
+      "A": 297463,
+      "U": 678,
+      "M": 4878,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1315144800,
+      "LI": 1635145200,
+      "S": 4417,
+      "META": null
+    },
+    {
+      "D": "bostonglobe.com",
+      "LOS": [
+        "bostonglobe.com"
+      ],
+      "Q": 1506,
+      "A": 2102,
+      "U": 8522,
+      "M": 647,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 18524,
+      "META": null
+    },
+    {
+      "D": "krogermail.com",
+      "LOS": [
+        "image.e.krogermail.com"
+      ],
+      "Q": 1515,
+      "A": 8405821,
+      "U": 14930,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1344520800,
+      "LI": 1635058800,
+      "S": 5644,
+      "META": null
+    },
+    {
+      "D": "bedbathandbeyond.com",
+      "LOS": [
+        "bedbathandbeyond.com"
+      ],
+      "Q": 1522,
+      "A": 10895,
+      "U": 5929,
+      "M": 3806,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1017183600,
+      "LI": 1635058800,
+      "S": 31617,
+      "META": null
+    },
+    {
+      "D": "chewy.com",
+      "LOS": [
+        "chewy.com"
+      ],
+      "Q": 1545,
+      "A": 12347,
+      "U": 4302,
+      "M": 6622,
+      "Country": null,
+      "FD": 1499122800,
+      "LD": 1635145200,
+      "FI": 1278367200,
+      "LI": 1635145200,
+      "S": 10553,
+      "META": null
+    },
+    {
+      "D": "thepioneerwoman.com",
+      "LOS": [
+        "sli.thepioneerwoman.com"
+      ],
+      "Q": 1553,
+      "A": 12380,
+      "U": 16262,
+      "M": 7329,
+      "Country": null,
+      "FD": 1618902000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 10275,
+      "META": null
+    },
+    {
+      "D": "therealreal.com",
+      "LOS": [
+        "image.e.therealreal.com"
+      ],
+      "Q": 1562,
+      "A": 15906,
+      "U": 5744,
+      "M": 20265,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1635058800,
+      "S": 17327,
+      "META": null
+    },
+    {
+      "D": "bmwusa.com",
+      "LOS": [
+        "bmwusa.com"
+      ],
+      "Q": 1583,
+      "A": 10700,
+      "U": 15151,
+      "M": 12221,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 22610,
+      "META": null
+    },
+    {
+      "D": "balsamhill.com",
+      "LOS": [
+        "balsamhill.com"
+      ],
+      "Q": 1604,
+      "A": 345769,
+      "U": 56173,
+      "M": 108780,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1160517600,
+      "LI": 1635145200,
+      "S": 20583,
+      "META": null
+    },
+    {
+      "D": "citibankonline.com",
+      "LOS": [
+        "citiretailservices.citibankonline.com",
+        "citiretailservices.load.citibankonline.com",
+        "citiretailservicesmobile.citibankonline.com",
+        "preview.mobile.citibankonline.com",
+        "citimobile.citibankonline.com",
+        "mobile.citibankonline.com",
+        "tablet.citibankonline.com"
+      ],
+      "Q": 1605,
+      "A": 141356,
+      "U": 8051,
+      "M": 157439,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1635058800,
+      "FI": 1320584400,
+      "LI": 1635058800,
+      "S": 6073,
+      "META": null
+    },
+    {
+      "D": "car.com",
+      "LOS": [
+        "car.com"
+      ],
+      "Q": 1627,
+      "A": 431250,
+      "U": 61226,
+      "M": 202813,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1037919600,
+      "LI": 1635058800,
+      "S": 8856,
+      "META": null
+    },
+    {
+      "D": "care.com",
+      "LOS": [
+        "care.com"
+      ],
+      "Q": 1685,
+      "A": 9959,
+      "U": 17297,
+      "M": 4652,
+      "Country": null,
+      "FD": 1518786000,
+      "LD": 1635145200,
+      "FI": 971733600,
+      "LI": 1635145200,
+      "S": 28000,
+      "META": null
+    },
+    {
+      "D": "khou.com",
+      "LOS": [
+        "khou.com"
+      ],
+      "Q": 1690,
+      "A": 302191,
+      "U": 28311,
+      "M": 4306,
+      "Country": null,
+      "FD": 1406761200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5284,
+      "META": null
+    },
+    {
+      "D": "ncl.com",
+      "LOS": [
+        "ncl.com"
+      ],
+      "Q": 1691,
+      "A": 19918,
+      "U": 27162,
+      "M": 8992,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 20091,
+      "META": null
+    },
+    {
+      "D": "osd.mil",
+      "LOS": [
+        "myafn.dodmedia.osd.mil",
+        "v3.myafn.dodmedia.osd.mil",
+        "ogc.osd.mil",
+        "media.myafn.dodmedia.osd.mil",
+        "imp.myafn.dodmedia.osd.mil",
+        "tasa.dodmedia.osd.mil",
+        "dodsoco.ogc.osd.mil"
+      ],
+      "Q": 1703,
+      "A": 8942,
+      "U": 27898,
+      "M": 4720,
+      "Country": null,
+      "FD": 1581030000,
+      "LD": 1635058800,
+      "FI": 1387148400,
+      "LI": 1635145200,
+      "S": 12075,
+      "META": null
+    },
+    {
+      "D": "optum.com",
+      "LOS": [
+        "optum.com"
+      ],
+      "Q": 1734,
+      "A": 309370,
+      "U": 7306,
+      "M": 27335,
+      "Country": null,
+      "FD": 1417651200,
+      "LD": 1635058800,
+      "FI": 1315144800,
+      "LI": 1635145200,
+      "S": 32895,
+      "META": null
+    },
+    {
+      "D": "kfc.com",
+      "LOS": [
+        "kfc.com"
+      ],
+      "Q": 1743,
+      "A": 19977,
+      "U": 27630,
+      "M": 10684,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5289,
+      "META": null
+    },
+    {
+      "D": "tsa.gov",
+      "LOS": [
+        "tsa.gov"
+      ],
+      "Q": 1747,
+      "A": 6581,
+      "U": 34646,
+      "M": 2048,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1014159600,
+      "LI": 1635058800,
+      "S": 3916,
+      "META": null
+    },
+    {
+      "D": "katu.com",
+      "LOS": [
+        "wn.katu.com",
+        "sli.katu.com"
+      ],
+      "Q": 1748,
+      "A": 18335,
+      "U": 35184,
+      "M": 6008,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 8726,
+      "META": null
+    },
+    {
+      "D": "newsday.com",
+      "LOS": [
+        "limail.newsday.com"
+      ],
+      "Q": 1753,
+      "A": 9318,
+      "U": 22488,
+      "M": 1456,
+      "Country": null,
+      "FD": 1530054000,
+      "LD": 1628060400,
+      "FI": 949964400,
+      "LI": 1635058800,
+      "S": 16611,
+      "META": null
+    },
+    {
+      "D": "chron.com",
+      "LOS": [
+        "chron.com"
+      ],
+      "Q": 1758,
+      "A": 1771,
+      "U": 9618,
+      "M": 530,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 951865200,
+      "LI": 1635145200,
+      "S": 19106,
+      "META": null
+    },
+    {
+      "D": "timesofindia.com",
+      "LOS": [
+        "timesofindia.com"
+      ],
+      "Q": 1781,
+      "A": 14934,
+      "U": 8039,
+      "M": 7657,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4875,
+      "META": null
+    },
+    {
+      "D": "blinds.com",
+      "LOS": [
+        "blinds.com"
+      ],
+      "Q": 1810,
+      "A": 318519,
+      "U": 8089,
+      "M": 103013,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 8533,
+      "META": null
+    },
+    {
+      "D": "comcast.com",
+      "LOS": [
+        "comcast.com"
+      ],
+      "Q": 1819,
+      "A": 2282,
+      "U": 3217,
+      "M": 3530,
+      "Country": null,
+      "FD": 1518786000,
+      "LD": 1635058800,
+      "FI": 970783200,
+      "LI": 1635145200,
+      "S": 53766,
+      "META": null
+    },
+    {
+      "D": "crosswalk.com",
+      "LOS": [
+        "sli.crosswalk.com"
+      ],
+      "Q": 1832,
+      "A": 16101,
+      "U": 30010,
+      "M": 7525,
+      "Country": null,
+      "FD": 1623740400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5010,
+      "META": null
+    },
+    {
+      "D": "kohler.com",
+      "LOS": [
+        "africa.kohler.com",
+        "la.kohler.com",
+        "ecom.qa2.us.kohler.com",
+        "sharepoint.kohler.com",
+        "preprod.us.kohler.com"
+      ],
+      "Q": 1853,
+      "A": 9864,
+      "U": 26757,
+      "M": 8376,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 38901,
+      "META": null
+    },
+    {
+      "D": "census.gov",
+      "LOS": [
+        "census.gov"
+      ],
+      "Q": 1863,
+      "A": 1709,
+      "U": 16793,
+      "M": 399,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 1128117600,
+      "LI": 1635145200,
+      "S": 16245,
+      "META": null
+    },
+    {
+      "D": "thepoliticalinsider.com",
+      "LOS": [
+        "sli.thepoliticalinsider.com"
+      ],
+      "Q": 1869,
+      "A": 350174,
+      "U": 79413,
+      "M": 43956,
+      "Country": null,
+      "FD": 1613462400,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5961,
+      "META": null
+    },
+    {
+      "D": "carparts.com",
+      "LOS": [
+        "carparts.com"
+      ],
+      "Q": 1874,
+      "A": 400101,
+      "U": 11146,
+      "M": 27787,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635145200,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 12402,
+      "META": null
+    },
+    {
+      "D": "cheaptickets.com",
+      "LOS": [
+        "cheaptickets.com"
+      ],
+      "Q": 1878,
+      "A": 20385,
+      "U": 38846,
+      "M": 27659,
+      "Country": null,
+      "FD": 1447282800,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5248,
+      "META": null
+    },
+    {
+      "D": "office.net",
+      "LOS": [
+        "omextemplates.osi.office.net",
+        "templatesmetadata.office.net",
+        "ea-contentstorage.osi.office.net",
+        "c2-onenote-15.cdn.office.net",
+        "c2-powerpoint-15.cdn.office.net",
+        "c2-officeapps-15.cdn.office.net",
+        "c2-excel-15.cdn.office.net",
+        "c5h-word-view-15.cdn.office.net",
+        "c5h-word-edit-15.cdn.office.net",
+        "c1-odc-df.cdn.office.net",
+        "c1-odc-15.cdn.office.net",
+        "c1-officeapps-df.cdn.office.net",
+        "c1-word-view-df.cdn.office.net",
+        "c1-view-15.cdn.office.net",
+        "c1-word-edit-df.cdn.office.net",
+        "c1-visio-15.cdn.office.net",
+        "c1-word-edit-15.cdn.office.net",
+        "clienttemplates.content.office.net",
+        "c5-officeapps-15.cdn.office.net",
+        "c5-visio-15.cdn.office.net",
+        "c5-excel-15.cdn.office.net",
+        "c5-powerpoint-15.cdn.office.net",
+        "c5-word-view-15.cdn.office.net",
+        "c5-broadcast-15.cdn.office.net",
+        "c5-onenote-15.cdn.office.net",
+        "c5-word-edit-15.cdn.office.net",
+        "eus2-contentstorage.osi.office.net",
+        "eus2-retailercdn.osi.office.net",
+        "c2-word-view-15.cdn.office.net",
+        "c2-word-edit-15.cdn.office.net",
+        "c3-excel-15.cdn.office.net",
+        "c3-onenote-15.cdn.office.net",
+        "c3-powerpoint-15.cdn.office.net",
+        "c3-officeapps-15.cdn.office.net",
+        "ea-retailercdn.osi.office.net",
+        "cus-contentstorage.osi.office.net",
+        "cus-retailercdn.osi.office.net",
+        "cus-cosubretailercdn.osi.office.net",
+        "cdn.entity.osi.office.net",
+        "cdn.scus-000.kms.osi.office.net",
+        "contentstorage.onenote.office.net",
+        "contentstorage.osi.office.net",
+        "c1-broadcast-15.cdn.office.net",
+        "c3-word-view-15.cdn.office.net",
+        "c3-visio-15.cdn.office.net",
+        "c3-word-edit-15.cdn.office.net",
+        "aue-contentstorage.osi.office.net",
+        "aue-retailercdn.osi.office.net",
+        "cusc-contentstorage.osi.office.net",
+        "c4-excel-15.cdn.office.net",
+        "c4-officeapps-15.cdn.office.net",
+        "c4-powerpoint-15.cdn.office.net",
+        "c4-onenote-15.cdn.office.net",
+        "c4-visio-15.cdn.office.net",
+        "ause-contentstorage.osi.office.net",
+        "ause-retailercdn.osi.office.net",
+        "omextemplates.content.office.net",
+        "support.content.office.net",
+        "videocontent.osi.office.net"
+      ],
+      "Q": 1889,
+      "A": 302849,
+      "U": 50,
+      "M": 83986,
+      "Country": null,
+      "FD": 1541199600,
+      "LD": 1635058800,
+      "FI": 1426114800,
+      "LI": 1635145200,
+      "S": 11367,
+      "META": null
+    },
+    {
+      "D": "opm.gov",
+      "LOS": [
+        "opm.gov"
+      ],
+      "Q": 1894,
+      "A": 4304,
+      "U": 51891,
+      "M": 4520,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4494,
+      "META": null
+    },
+    {
+      "D": "bet.com",
+      "LOS": [
+        "bet.com"
+      ],
+      "Q": 1907,
+      "A": 5336,
+      "U": 32953,
+      "M": 5309,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635231600,
+      "S": 25118,
+      "META": null
+    },
+    {
+      "D": "courier-journal.com",
+      "LOS": [
+        "courier-journal.com"
+      ],
+      "Q": 1925,
+      "A": 11237,
+      "U": 32229,
+      "M": 3166,
+      "Country": null,
+      "FD": 1395270000,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 18526,
+      "META": null
+    },
+    {
+      "D": "kolotv.com",
+      "LOS": [
+        "kolotv.com"
+      ],
+      "Q": 1928,
+      "A": 352117,
+      "U": 96707,
+      "M": 23118,
+      "Country": null,
+      "FD": 1459378800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 4167,
+      "META": null
+    },
+    {
+      "D": "buyfordnow.com",
+      "LOS": [
+        "buyfordnow.com"
+      ],
+      "Q": 1933,
+      "A": 1631737,
+      "U": 33658,
+      "M": 494348,
+      "Country": null,
+      "FD": 1471215600,
+      "LD": 1635058800,
+      "FI": 1470870000,
+      "LI": 1635058800,
+      "S": 6588,
+      "META": null
+    },
+    {
+      "D": "news3lv.com",
+      "LOS": [
+        "sli.news3lv.com"
+      ],
+      "Q": 1963,
+      "A": 316662,
+      "U": 51265,
+      "M": 12890,
+      "Country": null,
+      "FD": 1585868400,
+      "LD": 1633244400,
+      "FI": 1429697461,
+      "LI": 1635058800,
+      "S": 5601,
+      "META": null
+    },
+    {
+      "D": "tennessean.com",
+      "LOS": [
+        "tennessean.com"
+      ],
+      "Q": 1968,
+      "A": 5081,
+      "U": 21756,
+      "M": 2319,
+      "Country": null,
+      "FD": 1395270000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 23890,
+      "META": null
+    },
+    {
+      "D": "news12.com",
+      "LOS": [
+        "sli.news12.com"
+      ],
+      "Q": 1969,
+      "A": 14944,
+      "U": 36879,
+      "M": 6004,
+      "Country": null,
+      "FD": 1595314800,
+      "LD": 1633244400,
+      "FI": 1309701600,
+      "LI": 1635058800,
+      "S": 8350,
+      "META": null
+    },
+    {
+      "D": "buffalowildwings.com",
+      "LOS": [
+        "image.emailinfo.buffalowildwings.com"
+      ],
+      "Q": 1976,
+      "A": 15558,
+      "U": 17056,
+      "M": 14879,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 6702,
+      "META": null
+    },
+    {
+      "D": "ollies.us",
+      "LOS": [
+        "i.armyemail.ollies.us"
+      ],
+      "Q": 1982,
+      "A": 73791,
+      "U": 89903,
+      "M": 197448,
+      "Country": null,
+      "FD": 1603177200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 12704,
+      "META": null
+    },
+    {
+      "D": "kjrh.com",
+      "LOS": [
+        "kjrh.com"
+      ],
+      "Q": 1983,
+      "A": 37565,
+      "U": 74512,
+      "M": 24230,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1630047600,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 11007,
+      "META": null
+    },
+    {
+      "D": "ninjakitchen.com",
+      "LOS": [
+        "ninjakitchen.com"
+      ],
+      "Q": 2026,
+      "A": 370381,
+      "U": 51171,
+      "M": 78904,
+      "Country": null,
+      "FD": 1443049200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 66121,
+      "META": null
+    },
+    {
+      "D": "costcotravel.com",
+      "LOS": [
+        "costcotravel.com"
+      ],
+      "Q": 2028,
+      "A": 453974,
+      "U": 22195,
+      "M": 136395,
+      "Country": null,
+      "FD": 1512601200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 12237,
+      "META": null
+    },
+    {
+      "D": "key.com",
+      "LOS": [
+        "homelending-uat.key.com",
+        "homelending-qa.key.com",
+        "homelending.key.com",
+        "video.key.com",
+        "amp-gcp-dev-np.key.com",
+        "amp-gcp-qa-np.key.com",
+        "homelending-stage.key.com"
+      ],
+      "Q": 2031,
+      "A": 14711,
+      "U": 16855,
+      "M": 17089,
+      "Country": null,
+      "FD": 1591138800,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 20898,
+      "META": null
+    },
+    {
+      "D": "kutv.com",
+      "LOS": [
+        "sli.kutv.com"
+      ],
+      "Q": 2037,
+      "A": 16065,
+      "U": 38441,
+      "M": 8027,
+      "Country": null,
+      "FD": 1578006000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5475,
+      "META": null
+    },
+    {
+      "D": "cancer.gov",
+      "LOS": [
+        "cancer.gov"
+      ],
+      "Q": 2040,
+      "A": 6634,
+      "U": 28107,
+      "M": 759,
+      "Country": null,
+      "FD": 1563231600,
+      "LD": 1635058800,
+      "FI": 1011826800,
+      "LI": 1635058800,
+      "S": 12584,
+      "META": null
+    },
+    {
+      "D": "bradfordexchange.com",
+      "LOS": [
+        "bradfordexchange.com"
+      ],
+      "Q": 2045,
+      "A": 309143,
+      "U": 74251,
+      "M": 118991,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1301839200,
+      "LI": 1635058800,
+      "S": 26670,
+      "META": null
+    },
+    {
+      "D": "bestwestern.com",
+      "LOS": [
+        "bestwestern.com"
+      ],
+      "Q": 2047,
+      "A": 8396,
+      "U": 7671,
+      "M": 2853,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1073862000,
+      "LI": 1635145200,
+      "S": 11602,
+      "META": null
+    },
+    {
+      "D": "techrepublic.com",
+      "LOS": [
+        "techrepublic.com"
+      ],
+      "Q": 2057,
+      "A": 1436,
+      "U": 32943,
+      "M": 891,
+      "Country": null,
+      "FD": 1413414000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 15462,
+      "META": null
+    },
+    {
+      "D": "cwtv.com",
+      "LOS": [
+        "cwtv-mrss-akamai.cwtv.com"
+      ],
+      "Q": 2059,
+      "A": 10706,
+      "U": 17059,
+      "M": 9477,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 6418,
+      "META": null
+    },
+    {
+      "D": "capitalone.com",
+      "LOS": [
+        "capitalone.com"
+      ],
+      "Q": 2060,
+      "A": 8700,
+      "U": 1541,
+      "M": 5031,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1128117600,
+      "LI": 1635231600,
+      "S": 27579,
+      "META": null
+    },
+    {
+      "D": "outback.com",
+      "LOS": [
+        "outback.com"
+      ],
+      "Q": 2075,
+      "A": 30811,
+      "U": 43815,
+      "M": 19315,
+      "Country": null,
+      "FD": 1529622000,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5229,
+      "META": null
+    },
+    {
+      "D": "nationalgridus.com",
+      "LOS": [
+        "image.solutions.nationalgridus.com",
+        "image.emails.nationalgridus.com"
+      ],
+      "Q": 2103,
+      "A": 30230,
+      "U": 55603,
+      "M": 32012,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 50380,
+      "META": null
+    },
+    {
+      "D": "citypages.com",
+      "LOS": [
+        "li.citypages.com"
+      ],
+      "Q": 2115,
+      "A": 296181,
+      "U": 1000001,
+      "M": 9690,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 12185,
+      "META": null
+    },
+    {
+      "D": "thepennyhoarder.com",
+      "LOS": [
+        "sli.thepennyhoarder.com"
+      ],
+      "Q": 2126,
+      "A": 301226,
+      "U": 23640,
+      "M": 13703,
+      "Country": null,
+      "FD": 1610611200,
+      "LD": 1629183600,
+      "FI": 1315144800,
+      "LI": 1635058800,
+      "S": 6902,
+      "META": null
+    },
+    {
+      "D": "buffalonews.com",
+      "LOS": [
+        "sli.buffalonews.com"
+      ],
+      "Q": 2129,
+      "A": 13745,
+      "U": 23414,
+      "M": 2959,
+      "Country": null,
+      "FD": 1597734000,
+      "LD": 1634626800,
+      "FI": 1080943200,
+      "LI": 1635058800,
+      "S": 15641,
+      "META": null
+    },
+    {
+      "D": "news.com.au",
+      "LOS": [
+        "news.com.au"
+      ],
+      "Q": 2145,
+      "A": 449,
+      "U": 6412,
+      "M": 528,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 971820000,
+      "LI": 1635231600,
+      "S": 31387,
+      "META": null
+    },
+    {
+      "D": "travelzoo.com",
+      "LOS": [
+        "travelzoo.com"
+      ],
+      "Q": 2147,
+      "A": 300689,
+      "U": 15675,
+      "M": 12837,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 17459,
+      "META": null
+    },
+    {
+      "D": "nationwide.com",
+      "LOS": [
+        "nationwide.com"
+      ],
+      "Q": 2172,
+      "A": 8812,
+      "U": 23062,
+      "M": 5219,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635145200,
+      "S": 31785,
+      "META": null
+    },
+    {
+      "D": "cms.gov",
+      "LOS": [
+        "cms.gov"
+      ],
+      "Q": 2189,
+      "A": 5746,
+      "U": 10853,
+      "M": 1405,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1635145200,
+      "FI": 1034028000,
+      "LI": 1635145200,
+      "S": 22866,
+      "META": null
+    },
+    {
+      "D": "travelclick.com",
+      "LOS": [
+        "travelclick.com"
+      ],
+      "Q": 2197,
+      "A": 14734,
+      "U": 12442,
+      "M": 13787,
+      "Country": null,
+      "FD": 1426719600,
+      "LD": 1635058800,
+      "FI": 1315144800,
+      "LI": 1635145200,
+      "S": 10192,
+      "META": null
+    },
+    {
+      "D": "12up.com",
+      "LOS": [
+        "12up.com"
+      ],
+      "Q": 2198,
+      "A": 317024,
+      "U": 14509,
+      "M": 52872,
+      "Country": null,
+      "FD": 1558566000,
+      "LD": 1635058800,
+      "FI": 1434841200,
+      "LI": 1635058800,
+      "S": 4067,
+      "META": null
+    },
+    {
+      "D": "big5sportinggoods.com",
+      "LOS": [
+        "big5sportinggoods.com"
+      ],
+      "Q": 2205,
+      "A": 333906,
+      "U": 25707,
+      "M": 92659,
+      "Country": null,
+      "FD": 1524524400,
+      "LD": 1635058800,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 14350,
+      "META": null
+    },
+    {
+      "D": "traderjoes.com",
+      "LOS": [
+        "traderjoes.com"
+      ],
+      "Q": 2208,
+      "A": 12314,
+      "U": 48213,
+      "M": 6341,
+      "Country": null,
+      "FD": 1412809200,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1635058800,
+      "S": 5153,
+      "META": null
+    }
+  ]
+}

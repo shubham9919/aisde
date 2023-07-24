@@ -1,0 +1,22 @@
+{
+  "Tech": {
+    "Icon": "https://d3c1mi4ekssrlm.cloudfront.net/thumb/35-05-35-q5-56-q5/n",
+    "Categories": [
+      "Ad Network",
+      "Data Management Platform"
+    ],
+    "Tag": "ads",
+    "IsPremium": "No",
+    "Name": "Bizo",
+    "Description": "Advertising platform spun off from zoominfo.com now owned by LinkedIn.",
+    "Link": "http://www.bizo.com",
+    "TrendsLink": "https://trends.builtwith.com/ads/Bizo",
+    "Coverage": {
+      "TenK": 64,
+      "HundredK": 254,
+      "Mil": 708,
+      "Live": 2510,
+      "Historical": 452165
+    }
+  }
+}

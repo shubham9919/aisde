@@ -1,0 +1,24 @@
+{
+  "Tech": {
+    "Icon": "https://d363qos3mhnap4.cloudfront.net/thumb/9c-67-qq-j6-eq-cj/n",
+    "Categories": [
+      "Enterprise",
+      "Online Video Platform",
+      "Video Analytics",
+      "Video Players"
+    ],
+    "Tag": "media",
+    "IsPremium": "Yes",
+    "Name": "Wistia",
+    "Description": "Wistia is a video marketing, sales, and collaboration application.",
+    "Link": "http://wistia.com",
+    "TrendsLink": "https://trends.builtwith.com/media/Wistia",
+    "Coverage": {
+      "TenK": 435,
+      "HundredK": 2443,
+      "Mil": 10071,
+      "Live": 160750,
+      "Historical": 453126
+    }
+  }
+}

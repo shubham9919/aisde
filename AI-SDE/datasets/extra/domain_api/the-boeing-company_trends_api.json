@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d1nywwyphm5jsu.cloudfront.net/thumb/c0-e6-2d-48-3z-ed/n",
+    "Categories": [],
+    "Tag": "javascript",
+    "IsPremium": "No",
+    "Name": "jQuery 1.6.2",
+    "Description": "jQuery version 1.6.2",
+    "Link": "http://blog.jquery.com/2011/06/30/jquery-162-released/",
+    "TrendsLink": "https://trends.builtwith.com/javascript/jQuery-1.6.2",
+    "Coverage": {
+      "TenK": 201,
+      "HundredK": 1028,
+      "Mil": 4721,
+      "Live": 157960,
+      "Historical": 682996
+    }
+  }
+}

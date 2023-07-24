@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<!--suppress ALL -->
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <title>WISR.AI</title>
+
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+
+    <script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+    <link href="{{ url_for('static', filename='stylesheets/style.css') }}" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</head>
+
+<body>
+
+
+    <div class="wrapper">
+
+        <nav id="sidebar">
+
+            <div class="sidebar-header">
+                <a href={{url_for("index") }}>
+                    <h2>WISR.AI</h2>
+                </a>
+            </div>
+            <ul class="list-unstyled components">
+
+
+                <li>
+                    <a href={{url_for("index") }}>Cyber Breach Probability</a>
+                </li>
+
+                <li>
+                    <a href="#">Trending Exploits</a>
+                </li>
+
+                <li>
+                    <a href="#">Base Org Risk</a>
+                </li>
+
+                <li>
+                    <a href="#">Master Risk Score</a>
+                </li>
+
+                <li>
+                    <a href="#">Dark Web Risk</a>
+                </li>
+                <li>
+                    <a href="/scorehistory"> Vendor Risk Scores</a>
+                </li>
+                <li>
+                    <a href="/all_company_scores">All Company Scores</a>
+                </li>
+
+            </ul>
+        </nav>
+
+
+        <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+                <div class="container-fluid">
+
+                    <h2>CYBER BREACH INSIGHTS ENGINE</h2>
+                    <button class="btn  btn-info " id="sidebarCollapse" type="button">
+
+                        <span>Toggle Sidebar</span>
+
+                    </button>
+                </div>
+            </nav>
+
+
+            <br>
+            <br>
+
+            <div class="container-fluid allDiv ">
+
+                <h3>Cyber Breach Insights</h3>
+                <br>
+
+                <h4>Predicted Breach Risk Overview</h4>
+                <br>
+
+                <p>
+                    The Wisr Cyber Risk Analysis system uses our artificial intelligence platform to predict the overall
+                    cyber risk faced by an organization.
+                </p>
+                <br>
+                <form action="/" method="POST">
+                    <div class="form-group">
+
+                        <div class="row g-3 align-items-center">
+
+                            <div class="col-auto">
+                                <label class="col-form-label" for="hostname">Enter your Domain:</label>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <input aria-describedby="passwordHelpInline" class="form-control" id="hostname"
+                                    name="hostname" type="text" required>
+                            </div>
+
+                            <div class="col-auto">
+                                <label class="col-form-label" for="company">Enter your Company Name:</label>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <input aria-describedby="passwordHelpInline" class="form-control" id="company"
+                                    name="company" type="text" required>
+                            </div>
+
+
+
+                            <div class="col-auto">
+                                <button class="btn btn-primary" type="submit">Go!</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                {% if data and not data['success'] %}
+                {% if data['status'] == 404 %}
+                <h5 class="card-header alert alert-danger">Hostname '{{data['features']['hostname']}}' not found!</h5>
+                {% elif data['status'] == 403 %}
+                <h5 class="card-header alert alert-danger">Subscription limit reached!</h5>
+                {% endif %}
+                {% endif %}
+
+            </div>
+
+            <br>
+
+            {% if data and data['success'] %}
+            <div class="container-fluid allDiv">
+                <h4>Cyber Breach Probability: <b>{{data['features']['hostname']}} </b></h4>
+                <br>
+                <div class="row d-flex align-items-center justify-content-center">
+                    <div class="col-md-2 col-sm-6">
+                        <h5 class="scoreHeaderText">Predicted Breach Risk</h5>
+                        <br>
+                        <p>This represents the similarity between your organization and our AI-based model of previously
+                            breached companies.</p>
+                    </div>
+                    <div class="col-md-2 col-sm-6">
+
+                        <div class="skill">
+                            <div class="outer">
+                                <div class="inner">
+                                    <div id="number">
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <svg height="160px" width="160px" xmlns="http://www.w3.org/2000/svg">
+                                <defs>
+                                    <linearGradient id="GradientColor">
+                                        <stop offset="0%" stop-color="#e91e63" />
+                                        <stop offset="100%" stop-color="#673ab7" />
+                                    </linearGradient>
+                                </defs>
+                                <circle cx="80" cy="80" id="riskwheel" r="70" stroke-linecap="round" />
+                            </svg>
+
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-2 col-sm-6 ">
+                        <h5 class="scoreHeaderText">Trust Score</h5>
+                        <p class="scoreText ">{{data['features']['trustscore']}}</p>
+
+                    </div>
+                    <div class="col-md-2 col-sm-6">
+                        <h5 class="scoreHeaderText">Trust Grade</h5>
+                        <p class="scoreText ">{{data['features']['grade']}}</p>
+                    </div>
+                    <div class="col-md-2 col-sm-6">
+                        <h5 class="scoreHeaderText">Security Score</h5>
+                        <p class="scoreText ">{{data['features']['securityscore']}}</p>
+                    </div>
+                    <div class="col-md-2 col-sm-6">
+                        <h5 class="scoreHeaderText">Cloud Score</h5>
+                        <p class="scoreText ">{{data['features']['cloudscore']}}</p>
+
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+            <br>
+
+            <div class="container-fluid allDiv">
+
+
+                <h4> Sample Organizational Data</h4>
+                <br>
+                {% for key, val in data['features'].items() %}
+                <p class="sampleOrganizational" style="font-weight:bold">{{key.capitalize() if key|length()>3 else
+                    key.upper()}}: &nbsp</p>
+                <p>{{val}}</p>
+
+                {%endfor%}
+
+
+            </div>
+
+            <br>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+    {% if data and data['success']%}
+
+    <script>
+
+
+        let number = document.getElementById("number");
+        let counter = 0;
+        let val = Math.round("{{ data['predictions']['probability']}}" * 100)
+        let stroke_val = Math.round(472 - (472 * val / 100))
+        console.log(stroke_val)
+        document.documentElement.style.setProperty('--my-stroke-value', stroke_val);
+
+        console.log(val)
+        setInterval(() => {
+            if (counter === val) {
+                clearInterval();
+            } else {
+                counter += 1;
+                number.innerHTML = counter + "%";
+            }
+
+        }, 30);
+    </script>
+
+    {% endif %}
+
+    <script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+
+    </script>
+
+
+</body>
+
+</html>

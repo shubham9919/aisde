@@ -1,0 +1,18 @@
+{
+  "Domain": "innovage.com",
+  "DBRecord": {
+    "EarliestRecord": 1301839200,
+    "LatestUpdate": 1635058800,
+    "PremiumTechs": 15,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 21124,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

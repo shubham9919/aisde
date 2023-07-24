@@ -1,0 +1,35 @@
+{
+  "Identifers": [
+    {
+      "Value": "IP-216.54.215.30",
+      "Matches": [
+        {
+          "Domain": "broward.edu",
+          "First": 1590087438044,
+          "Last": 1614931200000
+        },
+        {
+          "Domain": "calendar.broward.edu",
+          "First": 1599656427880,
+          "Last": 1628096093729
+        },
+        {
+          "Domain": "students.broward.edu",
+          "First": 1599656427880,
+          "Last": 1614585600000
+        },
+        {
+          "Domain": "test.broward.edu",
+          "First": 1599656427880,
+          "Last": 1599656427880
+        },
+        {
+          "Domain": "news.broward.edu",
+          "First": 1599656427880,
+          "Last": 1628096093729
+        }
+      ]
+    }
+  ],
+  "Errors": null
+}

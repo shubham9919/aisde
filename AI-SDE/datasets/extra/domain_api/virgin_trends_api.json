@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d1nywwyphm5jsu.cloudfront.net/thumb/z1-dq-6z-d5-dd-20/n",
+    "Categories": [],
+    "Tag": "ads",
+    "IsPremium": "No",
+    "Name": "Resonate Insights",
+    "Description": "Resonate Insights drives media plans that ensure messages reach the right people at the right time",
+    "Link": "http://www.resonateinsights.com/",
+    "TrendsLink": "https://trends.builtwith.com/ads/Resonate-Insights",
+    "Coverage": {
+      "TenK": 29,
+      "HundredK": 92,
+      "Mil": 321,
+      "Live": 1256,
+      "Historical": 621331
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Tech": {
+    "Icon": "https://d3c1mi4ekssrlm.cloudfront.net/thumb/31-dz-98-69-3q-dc/n",
+    "Categories": [
+      "Cloud Hosting",
+      "US hosting"
+    ],
+    "Tag": "hosting",
+    "IsPremium": "No",
+    "Name": "OpSource",
+    "Description": "OpSource provides managed hosting, enterprise and cloud services.",
+    "Link": "http://opsource.net",
+    "TrendsLink": "https://trends.builtwith.com/hosting/OpSource",
+    "Coverage": {
+      "TenK": 2,
+      "HundredK": 23,
+      "Mil": 75,
+      "Live": 835,
+      "Historical": 21131
+    }
+  }
+}

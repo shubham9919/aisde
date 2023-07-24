@@ -1,0 +1,263 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GeoTrust SSL",
+                "Description": "Certificate provided by GeoTrust.",
+                "Link": "http://geotrust.com",
+                "Tag": "ssl",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1442876400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RapidSSL",
+                "Description": "RapidSSL certificate provider.",
+                "Link": "http://rapidssl.com",
+                "Tag": "ssl",
+                "FirstDetected": 1379286000000,
+                "LastDetected": 1442876400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Namesco DNS",
+                "Description": "DNS services provided by Namesco.",
+                "Link": "http://namesco.com",
+                "Tag": "ns",
+                "FirstDetected": 1371942000000,
+                "LastDetected": 1627714800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Zeus",
+                "Description": "Zeus Web Server is the most scalable, high-performance web server software available, underpinning business-critical solutions for the world's leading web sites.",
+                "Link": "http://www.zeus.com/products/zws",
+                "Tag": "Web Server",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1442876400000
+              },
+              {
+                "Categories": [
+                  "Dedicated Hosting",
+                  "UK hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Namesco",
+                "Description": "UK based web hosting and dedicated services, also known as Hosts.co.uk.",
+                "Link": "http://names.co.uk",
+                "Tag": "hosting",
+                "FirstDetected": 1362056400000,
+                "LastDetected": 1627714800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1418079600000,
+                "LastDetected": 1627714800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BIG-IP",
+                "Description": "High availability, improved performance, application security, and access control, all in one unit.",
+                "Link": "http://www.f5.com/products/big-ip/",
+                "Tag": "Web Server",
+                "FirstDetected": 1447196400000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Hosted Libraries",
+                "Description": "Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.8.2",
+                "Description": "jQuery version 1.8.2",
+                "Link": "http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web Clips Icon",
+                "Description": "This page contains an icon for iPhone, iPad and iTouch devices.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Modernizr",
+                "Description": "Modernizr allows you to target specific browser functionality in your stylesheet.",
+                "Link": "http://www.modernizr.com",
+                "Tag": "javascript",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted jQuery",
+                "Description": "jQuery hoted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AJAX Libraries API",
+                "Description": "The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",
+                "Link": "http://code.google.com/apis/ajaxlibs/documentation/",
+                "Tag": "cdn",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CDN JS",
+                "Description": "CloudFlare's CDN with popular javascript frameworks available.",
+                "Link": "http://cdnjs.com",
+                "Tag": "cdn",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Namesco Parked",
+                "Description": "Parked or for sale at Names.co.uk.",
+                "Link": "https://names.co.uk",
+                "Tag": "parked",
+                "FirstDetected": 1589842800000,
+                "LastDetected": 1627714800000
+              }
+            ],
+            "FirstIndexed": 1362056400000,
+            "LastIndexed": 1627714800000,
+            "Domain": "teck.co.uk",
+            "Url": "",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "Unknown",
+        "Social": null,
+        "CompanyName": null,
+        "Telephones": [
+          "+44-844-5352100",
+          "+44-870-1624950"
+        ],
+        "Emails": [],
+        "City": "",
+        "State": "",
+        "Postcode": "",
+        "Country": "",
+        "Names": null,
+        "ARank": 100000001,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1362056400000,
+      "LastIndexed": 1627714800000,
+      "Lookup": "teck.co.uk",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

@@ -1,0 +1,76 @@
+training:
+  model_path: 'models'
+  model_name: 'xgb_model2.pkl'
+  labeled_datasets_path_dir: 'datasets' # MUST CONTAIN 2 FOLDERS: 0 and 1 -> 0 for Non Breached and 1 for Breached
+
+datasets:
+  path_to_datasets: 'datasets/'
+  built_with_data: 'BuiltWithData.json'
+  external_ids: 'ExternalIDs.json'
+  extracted_nvd_data: 'Extracted_NVD_Data.json'
+  grouped_technologies: 'grouped_technologies.json'
+  web_technologies: 'web-technologies.json'
+
+extra_datasets:
+  path_to_datasets: 'datasets/extra/'
+  domain_api_json_location: 'domain_api/'
+  bundle_api_json_location: 'bundle_api/'
+
+outputs:
+  path_to_outputs: 'output/'
+  output_company_score: 'company_scores.json'
+
+prediction:
+  prediction_reports_path_dir: 'predicted_reports'
+
+paths:
+  path_to_Output: 'output/'
+  path_to_Css_data: 'CSS_Data/'
+  #path_to_key: './Key/brand-sentiment-score-361100-ddf3d8f4325f.json' - not currently in use
+  path_to_key: './Key/brandsentimentscore-151e17f3cb8e.json' # currently using this
+
+mongodb:
+  uri: 'mongodb+srv://rohit:Prodapt123%23%23@cluster0.x99kn.mongodb.net/?retryWrites=true&w=majority'
+  db_name: 'Cyber'
+
+batch:
+  batch_past_days: 7
+  batch_recurrent_run_days: 7
+
+credentials:
+  bw_api_key: b2392476-b529-4c02-8144-1ae167d3b983
+
+endpoints:
+  domain: https://api.builtwith.com/v19/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  trust: https://api.builtwith.com/trustv1/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  tags: https://api.builtwith.com/tag1/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  relationships: https://api.builtwith.com/rv1/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  free: https://api.builtwith.com/free1/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  redirects: https://api.builtwith.com/redirect1/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+  keywords: https://api.builtwith.com/kw2/api.json?KEY=b2392476-b529-4c02-8144-1ae167d3b983&LOOKUP=
+
+
+sql_database:
+    uri: 'localhost'
+    port: '5432'
+    database_type: 'postgresql'
+    database_name: 'postgres'
+    schema_name: 'test'
+    username: 'postgres'
+    password: 'password'
+    tables:
+      specific_company_data_tablename: 'specific_company_data'
+      vendor_and_client_tablename: 'vendor_and_client'
+      registered_client_data_tablename: 'registered_client_data'
+      client_vendors_relationship_for_ui_tablename: 'client_vendors_relationship_for_ui'
+      top_cve_data_tablename: 'top_cve_data'
+      nvd_data_tablename: 'nvd_data'
+      result_data_tablename: 'result_data'
+      vendor_risk_data_tablename: 'vendor_risk_data'
+      model_predicted_website_features_data_tablename: 'model_predicted_website_features_data'
+      website_api_metadata_tablename: 'website_api_metadata'
+      bundle_api_metadata_tablename: 'bundle_api_metadata'
+      domain_api_metadata_tablename: 'domain_api_metadata'
+      client_login_tablename: 'client_login'
+      general_company_data_tablename: 'general_company_data'
+      company_domain_data_tablename: 'company_domain_data'

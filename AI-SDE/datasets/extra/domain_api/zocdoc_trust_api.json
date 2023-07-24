@@ -1,0 +1,18 @@
+{
+  "Domain": "zocdoc.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635231600,
+    "PremiumTechs": 23,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": false,
+    "Spend": 11772,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

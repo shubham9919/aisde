@@ -1,0 +1,31 @@
+{
+  "Relationships": [
+    {
+      "Domain": "intuit.org",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "216.21.224.199",
+          "First": 1434895200000,
+          "Last": 1449752400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "205.178.189.131",
+          "First": 1589209052965,
+          "Last": 1615431830819,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "205.178.189.129",
+          "First": 1621135705251,
+          "Last": 1631761991053,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

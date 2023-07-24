@@ -1,0 +1,18 @@
+{
+  "Domain": "rbcroyalbank.com",
+  "DBRecord": {
+    "EarliestRecord": 1167692400,
+    "LatestUpdate": 1634799600,
+    "PremiumTechs": 8,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": false,
+    "Spend": 9781,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

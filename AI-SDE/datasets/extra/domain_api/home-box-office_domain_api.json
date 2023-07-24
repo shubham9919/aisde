@@ -1,0 +1,1750 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "Comodo SSL",
+                "Description": "Certificate provided by Comodo.",
+                "Link": "http://comodo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1372806000000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Savvis DNS",
+                "Description": "DNS services provided by Savvis. Now owned by Century Link.",
+                "Link": "http://savvis.com",
+                "Tag": "ns",
+                "FirstDetected": 1347577200000,
+                "LastDetected": 1479855600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "Animation",
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Easing",
+                "Description": "A jQuery extension that provides functionality to \"ease\" things onto or off of the screen.",
+                "Link": "http://gsgd.co.uk/sandbox/jquery/easing/",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1569884400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Colorbox",
+                "Description": "A light-weight, customizable lightbox plugin for jQuery.",
+                "Link": "http://colorpowered.com/colorbox/",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1458601200000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "Nivo Slider",
+                "Description": "A polished JQuery Slider plugin.",
+                "Link": "http://nivo.dev7studios.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1497135600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fancybox",
+                "Description": "FancyBox is a tool for displaying images, html content and multi-media in a Mac-style \"lightbox\" that floats overtop of web page. ",
+                "Link": "http://fancybox.net/",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Java EE",
+                "Description": "Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",
+                "Link": "http://java.sun.com/javaee/",
+                "Tag": "framework",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Mousewheel",
+                "Description": "Adds mouse wheel support to the web site.",
+                "Link": "http://plugins.jquery.com/project/mousewheel",
+                "Tag": "javascript",
+                "FirstDetected": 1369922400000,
+                "LastDetected": 1458601200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1294059600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1417042800000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Turner Broadcasting",
+                "Description": "Network infrastructure from Turner Broadcasting based in the US.",
+                "Link": "http://turner.com",
+                "Tag": "hosting",
+                "FirstDetected": 1427238000000,
+                "LastDetected": 1519686000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.4.3",
+                "Description": "jQuery version 1.4.3",
+                "Link": "http://blog.jquery.com/2010/10/16/jquery-143-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1468191600000,
+                "LastDetected": 1497135600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1472425200000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare DNS",
+                "Description": "DNS services provided by Cloudflare.",
+                "Link": "http://cloudflare.com",
+                "Tag": "ns",
+                "FirstDetected": 1478732400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "DMARC"
+                ],
+                "IsPremium": "no",
+                "Name": "DMARC",
+                "Description": "A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse",
+                "Link": "http://www.dmarc.org",
+                "Tag": "mx",
+                "FirstDetected": 1484694000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2016",
+                "Description": "Webpage has a copyright year of 2016 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1488582000000,
+                "LastDetected": 1488582000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Comodo PositiveSSL",
+                "Description": "Comodo Positive SSL certificate.",
+                "Link": "http://www.positivessl.com/ssl-certificate-positivessl.php",
+                "Tag": "ssl",
+                "FirstDetected": 1505170800000,
+                "LastDetected": 1585782000000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Cloudflare Hosting",
+                "Description": "Supercharged web hosting service.",
+                "Link": "http://cloudflare.com",
+                "Tag": "hosting",
+                "FirstDetected": 1505170800000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare SSL",
+                "Description": "SSL solutions from Cloudflare",
+                "Link": "http://cloudflare.com",
+                "Tag": "ssl",
+                "FirstDetected": 1505170800000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Global Site Tag",
+                "Description": "Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",
+                "Link": "https://support.google.com/adwords/answer/7548399",
+                "Tag": "analytics",
+                "FirstDetected": 1525474800000,
+                "LastDetected": 1569884400000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1525474800000,
+                "LastDetected": 1569884400000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1525647600000,
+                "LastDetected": 1569884400000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1525647600000,
+                "LastDetected": 1569884400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1526338800000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare",
+                "Description": "Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.",
+                "Link": "http://www.cloudflare.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1527462000000,
+                "LastDetected": 1569193200000
+              },
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Valimail",
+                "Description": "Cybersecurity solution for blocking phishing emails.",
+                "Link": "https://valimail.com",
+                "Tag": "mx",
+                "FirstDetected": 1566169200000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GlobalSign Domain Verification",
+                "Description": "Domain verification for SSL certificate validation.",
+                "Link": "https://support.globalsign.com/customer/portal/articles/2167245-performing-domain-verification---dns-txt-record",
+                "Tag": "framework",
+                "FirstDetected": 1577142000000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1294059600000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Adobe Dreamweaver",
+                "Description": "Based on the use of certain javascript functions, this page contains code generated, at least initially, by Dreamweaver.",
+                "Link": "http://www.adobe.com/products/dreamweaver",
+                "Tag": "framework",
+                "FirstDetected": 1386204565274,
+                "LastDetected": 1394409954078
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.7.1",
+                "Description": "jQuery version 1.7.1",
+                "Link": "http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1387148400000,
+                "LastDetected": 1458601200000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "zepto.js",
+                "Description": "Zepto.js is a minimalist JavaScript framework for mobile WebKit browsers, with a jQuery-compatible syntax.",
+                "Link": "http://zeptojs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1568415600000,
+                "LastDetected": 1568415600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Polyglot.js",
+                "Description": "A tiny I18n helper library from airbnb.",
+                "Link": "http://airbnb.io/polyglot.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1568415600000,
+                "LastDetected": 1568415600000
+              }
+            ],
+            "FirstIndexed": 1386204565274,
+            "LastIndexed": 1568415600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Amazon Elastic Load Balancing Sticky Session",
+                "Description": "Enables the load balancer to bind a user's session to a specific instance",
+                "Link": "http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/elb-sticky-sessions.html",
+                "Tag": "widgets",
+                "FirstDetected": 1498604400000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache Tomcat Coyote",
+                "Description": "Coyote HTTP/1.1 Connector element represents a Connector component that supports the HTTP/1.1 protocol. It enables Catalina to function as a stand-alone web server, in addition to its ability to execute servlets and JSP pages.",
+                "Link": "http://tomcat.apache.org/tomcat-4.1-doc/config/coyote.html",
+                "Tag": "Web Server",
+                "FirstDetected": 1498604400000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Categories": [
+                  "Enterprise DNS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Route 53",
+                "Description": "Amazon's scalable DNS web service system.",
+                "Link": "http://aws.amazon.com/route53/",
+                "Tag": "ns",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1629270000000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon",
+                "Description": "This site is hosted on Amazon AWS EC2 Infrastructure.",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1629270000000
+              },
+              {
+                "Parent": "Amazon",
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Virginia Region",
+                "Description": "Amazon Hosted EC2 Instances in Virginia",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1629270000000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Amazon S3 CDN",
+                "Description": "Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.",
+                "Link": "http://aws.amazon.com/s3/",
+                "Tag": "cdns",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1616828400000
+              }
+            ],
+            "FirstIndexed": 1498604400000,
+            "LastIndexed": 1629270000000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "b2bpmd"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery NoConflict",
+                "Description": "Return control of $ back to the other libraries with a call to $.noConflict().",
+                "Link": "http://api.jquery.com/jQuery.noConflict/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.8.2",
+                "Description": "jQuery version 1.8.2",
+                "Link": "http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SWFObject",
+                "Description": "SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.",
+                "Link": "http://blog.deconcept.com/swfobject/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails Token",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1609574400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Placeholder",
+                "Description": "The jQuery placeholder easily allows you to emulate the placeholder attribute on input fields for all browsers.",
+                "Link": "https://github.com/mathiasbynens/jquery-placeholder",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "script.aculo.us",
+                "Description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
+                "Link": "http://script.aculo.us/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Prototype",
+                "Description": "Prototype is a javascript framework which aims to ease development of dynamic web applications.",
+                "Link": "http://www.prototypejs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sectigo SSL",
+                "Description": "SSL from Sectigo formerly Comodo.",
+                "Link": "https://sectigo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1564354800000,
+                "LastDetected": 1613430000000
+              },
+              {
+                "Parent": "Sectigo SSL",
+                "IsPremium": "yes",
+                "Name": "Sectigo Organization SSL",
+                "Description": "Organization validation SSL certificates from Sectigo (formerly Comodo).",
+                "Link": "https://sectigo.com/products/ssl-certificates-tls/ov-organization-validation",
+                "Tag": "ssl",
+                "FirstDetected": 1564354800000,
+                "LastDetected": 1613430000000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "Mustache",
+                "Description": "Logic-less Templates.",
+                "Link": "http://mustache.github.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1612857600000
+              },
+              {
+                "Categories": [
+                  "Live Chat"
+                ],
+                "IsPremium": "yes",
+                "Name": "Ruby",
+                "Description": "Live virtual receptionists and chat specialists.",
+                "Link": "https://www.ruby.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1609574400000,
+                "LastDetected": 1609574400000
+              }
+            ],
+            "FirstIndexed": 1517612400000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "dropbox"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.4",
+                "Description": "Apache version 2.4.*",
+                "Link": "http://httpd.apache.org/docs/2.4",
+                "Tag": "Web Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Red Hat Enterprise Linux",
+                "Description": "Red Hat Enterprise Linux (often abbreviated to RHEL) is a Linux distribution produced by Red Hat and targeted toward the commercial market, including mainframes.",
+                "Link": "http://www.redhat.com",
+                "Tag": "Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "OpenSSL",
+                "Description": "The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library.",
+                "Link": "http://openssl.org",
+                "Tag": "Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.3.1",
+                "Description": "jQuery version 3.3.1",
+                "Link": "https://blog.jquery.com/2018/01/20/jquery-3-3-1-fixed-dependencies-in-release-tag/",
+                "Tag": "javascript",
+                "FirstDetected": 1587078000000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1621148400000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1563231600000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "dropbox"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Prototype",
+                "Description": "Prototype is a javascript framework which aims to ease development of dynamic web applications.",
+                "Link": "http://www.prototypejs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.8.2",
+                "Description": "jQuery version 1.8.2",
+                "Link": "http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SWFObject",
+                "Description": "SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.",
+                "Link": "http://blog.deconcept.com/swfobject/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Placeholder",
+                "Description": "The jQuery placeholder easily allows you to emulate the placeholder attribute on input fields for all browsers.",
+                "Link": "https://github.com/mathiasbynens/jquery-placeholder",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery NoConflict",
+                "Description": "Return control of $ back to the other libraries with a call to $.noConflict().",
+                "Link": "http://api.jquery.com/jQuery.noConflict/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "script.aculo.us",
+                "Description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
+                "Link": "http://script.aculo.us/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails Token",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1573340400000
+              }
+            ],
+            "FirstIndexed": 1554246000000,
+            "LastIndexed": 1573340400000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "dropbox2"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Prototype",
+                "Description": "Prototype is a javascript framework which aims to ease development of dynamic web applications.",
+                "Link": "http://www.prototypejs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.8.2",
+                "Description": "jQuery version 1.8.2",
+                "Link": "http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SWFObject",
+                "Description": "SWFObject is a small Javascript file used for embedding Adobe Flash content. The script can detect the Flash plug-in in all major web browsers (on Mac and PC) and is designed to make embedding Flash movies as easy as possible.",
+                "Link": "http://blog.deconcept.com/swfobject/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Placeholder",
+                "Description": "The jQuery placeholder easily allows you to emulate the placeholder attribute on input fields for all browsers.",
+                "Link": "https://github.com/mathiasbynens/jquery-placeholder",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery NoConflict",
+                "Description": "Return control of $ back to the other libraries with a call to $.noConflict().",
+                "Link": "http://api.jquery.com/jQuery.noConflict/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "script.aculo.us",
+                "Description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
+                "Link": "http://script.aculo.us/",
+                "Tag": "javascript",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails Token",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1554246000000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.4",
+                "Description": "Apache version 2.4.*",
+                "Link": "http://httpd.apache.org/docs/2.4",
+                "Tag": "Web Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Red Hat Enterprise Linux",
+                "Description": "Red Hat Enterprise Linux (often abbreviated to RHEL) is a Linux distribution produced by Red Hat and targeted toward the commercial market, including mainframes.",
+                "Link": "http://www.redhat.com",
+                "Tag": "Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "OpenSSL",
+                "Description": "The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1) protocols as well as a full-strength general purpose cryptography library.",
+                "Link": "http://openssl.org",
+                "Tag": "Server",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1584140400000
+              }
+            ],
+            "FirstIndexed": 1554246000000,
+            "LastIndexed": 1584140400000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "dropbox3"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Corner",
+                "Description": "Corner is a simple plugin for creating rounded  corners on elements.",
+                "Link": "http://github.com/malsup/corner",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Parent": "nginx",
+                "IsPremium": "no",
+                "Name": "nginx 1.4",
+                "Description": "nginx version 1.4.*",
+                "Link": "http://nginx.org/en/CHANGES-1.4",
+                "Tag": "Web Server",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1518735600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery Dimensions",
+                "Description": "Extends jQuery to provide dimension-centric methods for getting widths, heights, offsets and more.",
+                "Link": "http://plugins.jquery.com/project/dimensions",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "nginx",
+                "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                "Link": "http://nginx.net/",
+                "Tag": "Web Server",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery livequery",
+                "Description": "Live Query utilizes the power of jQuery selectors by binding events or firing callbacks for matched elements.",
+                "Link": "http://docs.jquery.com/Plugins/livequery",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery Tooltip",
+                "Description": "jQuery Tooltip plugin let's you transform native tooltips into customizable overlays.",
+                "Link": "http://bassistance.de/jquery-plugins/jquery-plugin-tooltip/",
+                "Tag": "javascript",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1517612400000,
+                "LastDetected": 1610751600000
+              },
+              {
+                "Parent": "nginx",
+                "IsPremium": "no",
+                "Name": "nginx 1.10",
+                "Description": "nginx version 1.10.*",
+                "Link": "http://nginx.org/en/CHANGES-1.10",
+                "Tag": "Web Server",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Invalid Certificate Dates",
+                "Description": "The SSL certificate for this site has expired or is not active yet.",
+                "Link": "https://www.globalsign.com/en/ssl-information-center/dangers-expired-ssl-certificates/",
+                "Tag": "ssl",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1588287600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Robots Disallow",
+                "Description": "A robots disallow all directive with no other options.",
+                "Link": "https://robotstxt.org",
+                "Tag": "robots",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1615071600000
+              }
+            ],
+            "FirstIndexed": 1517612400000,
+            "LastIndexed": 1615071600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "hv"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Amazon Elastic Load Balancing Sticky Session",
+                "Description": "Enables the load balancer to bind a user's session to a specific instance",
+                "Link": "http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/elb-sticky-sessions.html",
+                "Tag": "widgets",
+                "FirstDetected": 1488841200000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache Tomcat Coyote",
+                "Description": "Coyote HTTP/1.1 Connector element represents a Connector component that supports the HTTP/1.1 protocol. It enables Catalina to function as a stand-alone web server, in addition to its ability to execute servlets and JSP pages.",
+                "Link": "http://tomcat.apache.org/tomcat-4.1-doc/config/coyote.html",
+                "Tag": "Web Server",
+                "FirstDetected": 1488841200000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "Categories": [
+                  "Enterprise DNS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Route 53",
+                "Description": "Amazon's scalable DNS web service system.",
+                "Link": "http://aws.amazon.com/route53/",
+                "Tag": "ns",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon",
+                "Description": "This site is hosted on Amazon AWS EC2 Infrastructure.",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "Parent": "Amazon",
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Virginia Region",
+                "Description": "Amazon Hosted EC2 Instances in Virginia",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1531436400000,
+                "LastDetected": 1577142000000
+              }
+            ],
+            "FirstIndexed": 1488841200000,
+            "LastIndexed": 1583276400000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "pmd"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Apache Tomcat Coyote",
+                "Description": "Coyote HTTP/1.1 Connector element represents a Connector component that supports the HTTP/1.1 protocol. It enables Catalina to function as a stand-alone web server, in addition to its ability to execute servlets and JSP pages.",
+                "Link": "http://tomcat.apache.org/tomcat-4.1-doc/config/coyote.html",
+                "Tag": "Web Server",
+                "FirstDetected": 1556838000000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1556838000000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "Categories": [
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon Elastic Load Balancing",
+                "Description": "Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances in the cloud.",
+                "Link": "http://aws.amazon.com/elasticloadbalancing/",
+                "Tag": "hosting",
+                "FirstDetected": 1556838000000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon",
+                "Description": "This site is hosted on Amazon AWS EC2 Infrastructure.",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1583276400000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "Amazon",
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Virginia Region",
+                "Description": "Amazon Hosted EC2 Instances in Virginia",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1583276400000,
+                "LastDetected": 1628060400000
+              }
+            ],
+            "FirstIndexed": 1556838000000,
+            "LastIndexed": 1628060400000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "qa.b2bpmd"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Amazon Elastic Load Balancing Sticky Session",
+                "Description": "Enables the load balancer to bind a user's session to a specific instance",
+                "Link": "http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/elb-sticky-sessions.html",
+                "Tag": "widgets",
+                "FirstDetected": 1530572400000,
+                "LastDetected": 1530572400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache Tomcat Coyote",
+                "Description": "Coyote HTTP/1.1 Connector element represents a Connector component that supports the HTTP/1.1 protocol. It enables Catalina to function as a stand-alone web server, in addition to its ability to execute servlets and JSP pages.",
+                "Link": "http://tomcat.apache.org/tomcat-4.1-doc/config/coyote.html",
+                "Tag": "Web Server",
+                "FirstDetected": 1530572400000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "Categories": [
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon Elastic Load Balancing",
+                "Description": "Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances in the cloud.",
+                "Link": "http://aws.amazon.com/elasticloadbalancing/",
+                "Tag": "hosting",
+                "FirstDetected": 1538694000000,
+                "LastDetected": 1577142000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Domain Not Resolving",
+                "Description": "This domain or subdomain is not resolving to an IP.",
+                "Link": "https://builtwith.com",
+                "Tag": "hosting",
+                "FirstDetected": 1612857600000,
+                "LastDetected": 1612857600000
+              }
+            ],
+            "FirstIndexed": 1530572400000,
+            "LastIndexed": 1612857600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "qa.pmd"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.7.2",
+                "Description": "jQuery version 1.7.2",
+                "Link": "http://blog.jquery.com/2012/03/21/jquery-1-7-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1551567600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sectigo SSL",
+                "Description": "SSL from Sectigo formerly Comodo.",
+                "Link": "https://sectigo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "Sectigo SSL",
+                "IsPremium": "yes",
+                "Name": "Sectigo Organization SSL",
+                "Description": "Organization validation SSL certificates from Sectigo (formerly Comodo).",
+                "Link": "https://sectigo.com/products/ssl-certificates-tls/ov-organization-validation",
+                "Tag": "ssl",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Capable",
+                "Description": "Launches a web application for Safari on iOS in full-screen mode to look like a native application. ",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Status Bar Style",
+                "Description": "Minimizes the status bar that is displayed at the top of the screen on iOS.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1628665200000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1533510000000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "vdesktop"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Angular JS",
+                "Description": "Angular is what HTML would have been if it had been designed for building web applications.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              }
+            ],
+            "FirstIndexed": 1588114800000,
+            "LastIndexed": 1612857600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "vdesktop"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Capable",
+                "Description": "Launches a web application for Safari on iOS in full-screen mode to look like a native application. ",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Status Bar Style",
+                "Description": "Minimizes the status bar that is displayed at the top of the screen on iOS.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1613430000000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1595631600000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "vdesktopdev"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1595631600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Angular JS",
+                "Description": "Angular is what HTML would have been if it had been designed for building web applications.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1595631600000
+              }
+            ],
+            "FirstIndexed": 1594335600000,
+            "LastIndexed": 1595631600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "vdesktopdev"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.12.4",
+                "Description": "jQuery version 1.12.4",
+                "Link": "https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1538521200000,
+                "LastDetected": 1563231600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1538521200000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sectigo SSL",
+                "Description": "SSL from Sectigo formerly Comodo.",
+                "Link": "https://sectigo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "Sectigo SSL",
+                "IsPremium": "yes",
+                "Name": "Sectigo Organization SSL",
+                "Description": "Organization validation SSL certificates from Sectigo (formerly Comodo).",
+                "Link": "https://sectigo.com/products/ssl-certificates-tls/ov-organization-validation",
+                "Tag": "ssl",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Capable",
+                "Description": "Launches a web application for Safari on iOS in full-screen mode to look like a native application. ",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Status Bar Style",
+                "Description": "Minimizes the status bar that is displayed at the top of the screen on iOS.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1595631600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1628665200000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1538521200000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "vdesktopeast"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Angular JS",
+                "Description": "Angular is what HTML would have been if it had been designed for building web applications.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              }
+            ],
+            "FirstIndexed": 1588114800000,
+            "LastIndexed": 1612857600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "vdesktopeast"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.12.4",
+                "Description": "jQuery version 1.12.4",
+                "Link": "https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1538521200000,
+                "LastDetected": 1565478000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1538521200000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sectigo SSL",
+                "Description": "SSL from Sectigo formerly Comodo.",
+                "Link": "https://sectigo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1566514800000,
+                "LastDetected": 1628665200000
+              },
+              {
+                "Parent": "Sectigo SSL",
+                "IsPremium": "yes",
+                "Name": "Sectigo Organization SSL",
+                "Description": "Organization validation SSL certificates from Sectigo (formerly Comodo).",
+                "Link": "https://sectigo.com/products/ssl-certificates-tls/ov-organization-validation",
+                "Tag": "ssl",
+                "FirstDetected": 1566514800000,
+                "LastDetected": 1628665200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Capable",
+                "Description": "Launches a web application for Safari on iOS in full-screen mode to look like a native application. ",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1596927600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Status Bar Style",
+                "Description": "Minimizes the status bar that is displayed at the top of the screen on iOS.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1596927600000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1629183600000,
+                "LastDetected": 1635145200000
+              }
+            ],
+            "FirstIndexed": 1538521200000,
+            "LastIndexed": 1635145200000,
+            "Domain": "homeboxoffice.com",
+            "Url": "",
+            "SubDomain": "vdesktopla"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Angular JS",
+                "Description": "Angular is what HTML would have been if it had been designed for building web applications.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1588114800000,
+                "LastDetected": 1612857600000
+              }
+            ],
+            "FirstIndexed": 1588114800000,
+            "LastIndexed": 1612857600000,
+            "Domain": "homeboxoffice.com",
+            "Url": "dd",
+            "SubDomain": "vdesktopla"
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 95895,
+        "Vertical": "Technology And Computing",
+        "Social": null,
+        "CompanyName": "HOME BOX OFFICE Inc",
+        "Telephones": [],
+        "Emails": [],
+        "City": "New York City",
+        "State": "NY",
+        "Postcode": "10036",
+        "Country": "US",
+        "Names": null,
+        "ARank": 525707,
+        "QRank": 358040
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 8,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1294059600000,
+      "LastIndexed": 1635145200000,
+      "Lookup": "homeboxoffice.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

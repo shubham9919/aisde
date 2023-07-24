@@ -1,0 +1,4449 @@
+{
+  "NextOffset": "END",
+  "Results": [
+    {
+      "D": "bizrate.com",
+      "LOS": [
+        "rd2lwus.bizrate.com",
+        "rdbeus.bizrate.com"
+      ],
+      "Q": 117,
+      "A": 299382,
+      "U": 1659,
+      "M": 10465,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 971560800,
+      "LI": 1634799600,
+      "S": 11510,
+      "META": null
+    },
+    {
+      "D": "teamunify.com",
+      "LOS": [
+        "teamunify.com"
+      ],
+      "Q": 978,
+      "A": 19590,
+      "U": 20608,
+      "M": 15089,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634367600,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 6456,
+      "META": null
+    },
+    {
+      "D": "ndtv.com",
+      "LOS": [
+        "ndtv.com"
+      ],
+      "Q": 1054,
+      "A": 2722,
+      "U": 7057,
+      "M": 772,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1231196400,
+      "LI": 1634799600,
+      "S": 6574,
+      "META": null
+    },
+    {
+      "D": "barnesandnoble.com",
+      "LOS": [
+        "mpreview.barnesandnoble.com",
+        "valsec.barnesandnoble.com"
+      ],
+      "Q": 1320,
+      "A": 1779,
+      "U": 5321,
+      "M": 428,
+      "Country": null,
+      "FD": 1612857600,
+      "LD": 1624518000,
+      "FI": 1011654000,
+      "LI": 1634799600,
+      "S": 31856,
+      "META": null
+    },
+    {
+      "D": "colorado.gov",
+      "LOS": [
+        "apps.colorado.gov/*"
+      ],
+      "Q": 2562,
+      "A": 2527,
+      "U": 25161,
+      "M": 1809,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1628406000,
+      "FI": 1001368800,
+      "LI": 1634886000,
+      "S": 3791,
+      "META": null
+    },
+    {
+      "D": "nc.gov",
+      "LOS": [
+        "fris.nc.gov/*"
+      ],
+      "Q": 2949,
+      "A": 11229,
+      "U": 9579,
+      "M": 4312,
+      "Country": null,
+      "FD": 1531954800,
+      "LD": 1634540400,
+      "FI": 1033250400,
+      "LI": 1634886000,
+      "S": 12943,
+      "META": null
+    },
+    {
+      "D": "chrysler.com",
+      "LOS": [
+        "international.fleet.chrysler.com"
+      ],
+      "Q": 3008,
+      "A": 12304,
+      "U": 10721,
+      "M": 12163,
+      "Country": null,
+      "FD": 1530572400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 32826,
+      "META": null
+    },
+    {
+      "D": "ontrac.com",
+      "LOS": [
+        "ontrac.com"
+      ],
+      "Q": 3453,
+      "A": 1072219,
+      "U": 19218,
+      "M": 274088,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2858,
+      "META": null
+    },
+    {
+      "D": "brown.edu",
+      "LOS": [
+        "gvi.cs.brown.edu"
+      ],
+      "Q": 3849,
+      "A": 1806,
+      "U": 25478,
+      "M": 845,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1073948400,
+      "LI": 1634886000,
+      "S": 14147,
+      "META": null
+    },
+    {
+      "D": "calstate.edu",
+      "LOS": [
+        "dspace.calstate.edu",
+        "csub-dspace.calstate.edu",
+        "csufullerton-dspace.calstate.edu",
+        "csulb-dspace.calstate.edu",
+        "csus-dspace.calstate.edu",
+        "csupomona-dspace.calstate.edu",
+        "csum-dspace.calstate.edu",
+        "csumb-dspace.calstate.edu",
+        "csufresno-dspace.calstate.edu",
+        "csuci-dspace.calstate.edu",
+        "sdsu-dspace.calstate.edu",
+        "sfsu-dspace.calstate.edu",
+        "sonoma-dspace.calstate.edu",
+        "stanislaus-scholarworks.calstate.edu",
+        "csueastbay-dspace.calstate.edu",
+        "csuchico-dspace.calstate.edu",
+        "csusm-dspace.calstate.edu",
+        "csula-dspace.calstate.edu",
+        "visualcollective.calstate.edu",
+        "cool4ed.calstate.edu"
+      ],
+      "Q": 3891,
+      "A": 8088,
+      "U": 36863,
+      "M": 10130,
+      "Country": null,
+      "FD": 1533510000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 10216,
+      "META": null
+    },
+    {
+      "D": "cirquedusoleil.com",
+      "LOS": [
+        "cirquedusoleil.com"
+      ],
+      "Q": 4075,
+      "A": 9868,
+      "U": 89798,
+      "M": 3892,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1230764400,
+      "LI": 1634799600,
+      "S": 34435,
+      "META": null
+    },
+    {
+      "D": "kaptest.com",
+      "LOS": [
+        "goldmine.kaptest.com/*"
+      ],
+      "Q": 4784,
+      "A": 10430,
+      "U": 35401,
+      "M": 18482,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1623826800,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 20360,
+      "META": null
+    },
+    {
+      "D": "creativecommons.org",
+      "LOS": [
+        "creativecommons.org"
+      ],
+      "Q": 4807,
+      "A": 55,
+      "U": 3250,
+      "M": 47,
+      "Country": null,
+      "FD": 1386889200,
+      "LD": 1633244400,
+      "FI": 1065736800,
+      "LI": 1634799600,
+      "S": 2375,
+      "META": null
+    },
+    {
+      "D": "billtrust.com",
+      "LOS": [
+        "secure.billtrust.com/*"
+      ],
+      "Q": 4846,
+      "A": 565175,
+      "U": 7945,
+      "M": 146322,
+      "Country": null,
+      "FD": 1595026800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 17556,
+      "META": null
+    },
+    {
+      "D": "ks.gov",
+      "LOS": [
+        "grants.ks.gov"
+      ],
+      "Q": 5802,
+      "A": 300958,
+      "U": 23076,
+      "M": 7123,
+      "Country": null,
+      "FD": 1458601200,
+      "LD": 1634540400,
+      "FI": 1458169200,
+      "LI": 1634799600,
+      "S": 15237,
+      "META": null
+    },
+    {
+      "D": "csun.edu",
+      "LOS": [
+        "scholarworks.csun.edu"
+      ],
+      "Q": 6674,
+      "A": 3877,
+      "U": 34033,
+      "M": 3330,
+      "Country": null,
+      "FD": 1479855600,
+      "LD": 1633244400,
+      "FI": 974761200,
+      "LI": 1634799600,
+      "S": 14110,
+      "META": null
+    },
+    {
+      "D": "thisiscolossal.com",
+      "LOS": [
+        "links.thisiscolossal.com"
+      ],
+      "Q": 7293,
+      "A": 6277,
+      "U": 35218,
+      "M": 4716,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1634540400,
+      "S": 2941,
+      "META": null
+    },
+    {
+      "D": "noredink.com",
+      "LOS": [
+        "apply.noredink.com"
+      ],
+      "Q": 7719,
+      "A": 34630,
+      "U": 4248,
+      "M": 97677,
+      "Country": null,
+      "FD": 1603177200,
+      "LD": 1634626800,
+      "FI": 1333634400,
+      "LI": 1634799600,
+      "S": 4898,
+      "META": null
+    },
+    {
+      "D": "ovid.com",
+      "LOS": [
+        "chinese.ovid.com"
+      ],
+      "Q": 7805,
+      "A": 300476,
+      "U": 37903,
+      "M": 5370,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 28626,
+      "META": null
+    },
+    {
+      "D": "crossfit.com",
+      "LOS": [
+        "sme.crossfit.com"
+      ],
+      "Q": 8021,
+      "A": 297532,
+      "U": 52102,
+      "M": 6222,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 6071,
+      "META": null
+    },
+    {
+      "D": "northshore.org",
+      "LOS": [
+        "northshore.org"
+      ],
+      "Q": 8911,
+      "A": 31178,
+      "U": 55792,
+      "M": 58491,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 5962,
+      "META": null
+    },
+    {
+      "D": "theday.com",
+      "LOS": [
+        "rewards.theday.com"
+      ],
+      "Q": 9207,
+      "A": 20842,
+      "U": 66863,
+      "M": 10146,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 969,
+      "META": null
+    },
+    {
+      "D": "cpp.edu",
+      "LOS": [
+        "broncoscholar.library.cpp.edu"
+      ],
+      "Q": 9644,
+      "A": 20528,
+      "U": 53550,
+      "M": 22042,
+      "Country": null,
+      "FD": 1525302000,
+      "LD": 1627887600,
+      "FI": 1413154800,
+      "LI": 1634799600,
+      "S": 11554,
+      "META": null
+    },
+    {
+      "D": "oecd.org",
+      "LOS": [
+        "stats.oecd.org"
+      ],
+      "Q": 9865,
+      "A": 411,
+      "U": 21624,
+      "M": 312,
+      "Country": null,
+      "FD": 1408320000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1832,
+      "META": null
+    },
+    {
+      "D": "tate.org.uk",
+      "LOS": [
+        "tate.org.uk"
+      ],
+      "Q": 10764,
+      "A": 2287,
+      "U": 31525,
+      "M": 1537,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1634540400,
+      "FI": 1136070000,
+      "LI": 1634799600,
+      "S": 40653,
+      "META": null
+    },
+    {
+      "D": "blr.com",
+      "LOS": [
+        "safety.blr.com"
+      ],
+      "Q": 10800,
+      "A": 17878,
+      "U": 18341,
+      "M": 12248,
+      "Country": null,
+      "FD": 1588287600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 17839,
+      "META": null
+    },
+    {
+      "D": "onrealm.org",
+      "LOS": [
+        "datashare.onrealm.org"
+      ],
+      "Q": 11597,
+      "A": 37308,
+      "U": 33935,
+      "M": 66268,
+      "Country": null,
+      "FD": 1565478000,
+      "LD": 1634022000,
+      "FI": 1359637200,
+      "LI": 1634886000,
+      "S": 353,
+      "META": null
+    },
+    {
+      "D": "c-sharpcorner.com",
+      "LOS": [
+        "c-sharpcorner.com/*"
+      ],
+      "Q": 12120,
+      "A": 304854,
+      "U": 24670,
+      "M": 13666,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1629961200,
+      "FI": 1037142000,
+      "LI": 1634799600,
+      "S": 1303,
+      "META": null
+    },
+    {
+      "D": "brandeis.edu",
+      "LOS": [
+        "bir.brandeis.edu"
+      ],
+      "Q": 12656,
+      "A": 5787,
+      "U": 76405,
+      "M": 3374,
+      "Country": null,
+      "FD": 1403046000,
+      "LD": 1634540400,
+      "FI": 951865200,
+      "LI": 1634799600,
+      "S": 18168,
+      "META": null
+    },
+    {
+      "D": "kindercare.com",
+      "LOS": [
+        "parentportal.kindercare.com"
+      ],
+      "Q": 12908,
+      "A": 307252,
+      "U": 27606,
+      "M": 44997,
+      "Country": null,
+      "FD": 1501110000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 27759,
+      "META": null
+    },
+    {
+      "D": "creighton.edu",
+      "LOS": [
+        "m.creighton.edu"
+      ],
+      "Q": 12935,
+      "A": 12920,
+      "U": 80508,
+      "M": 6396,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 14251,
+      "META": null
+    },
+    {
+      "D": "treas.gov",
+      "LOS": [
+        "fcrs.treas.gov/*"
+      ],
+      "Q": 13627,
+      "A": 11836,
+      "U": 11498,
+      "M": 4068,
+      "Country": null,
+      "FD": 1590015600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 8252,
+      "META": null
+    },
+    {
+      "D": "nmu.edu",
+      "LOS": [
+        "mobile.nmu.edu"
+      ],
+      "Q": 14790,
+      "A": 15828,
+      "U": 103172,
+      "M": 18719,
+      "Country": null,
+      "FD": 1533510000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 15702,
+      "META": null
+    },
+    {
+      "D": "brother.co.jp",
+      "LOS": [
+        "direct.brother.co.jp"
+      ],
+      "Q": 15397,
+      "A": 29094,
+      "U": 9217,
+      "M": 36053,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 29885,
+      "META": null
+    },
+    {
+      "D": "transloc.com",
+      "LOS": [
+        "ju.transloc.com",
+        "uchicago.transloc.com",
+        "emory.transloc.com",
+        "easternct.transloc.com",
+        "memphis.transloc.com",
+        "ncsu.transloc.com",
+        "scadatl.transloc.com",
+        "rts.transloc.com",
+        "asfreeride.transloc.com",
+        "wave.transloc.com",
+        "tcu.transloc.com",
+        "triangle.transloc.com",
+        "uwyo.transloc.com",
+        "umbc.transloc.com",
+        "umb.transloc.com",
+        "uky.transloc.com",
+        "mercer.transloc.com",
+        "harvard.transloc.com",
+        "masco.transloc.com",
+        "duke.transloc.com",
+        "bna.transloc.com",
+        "arizona.transloc.com",
+        "brownshuttle.transloc.com",
+        "uic.transloc.com",
+        "uri.transloc.com",
+        "bc.transloc.com",
+        "huskygo.transloc.com",
+        "casewestern.transloc.com",
+        "coe.transloc.com",
+        "american.transloc.com",
+        "bucknell.transloc.com",
+        "aamubts.transloc.com",
+        "airdrietransit.transloc.com",
+        "davenportcitibus.transloc.com"
+      ],
+      "Q": 15577,
+      "A": 63752,
+      "U": 28856,
+      "M": 187431,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 6454,
+      "META": null
+    },
+    {
+      "D": "brighthorizons.com",
+      "LOS": [
+        "enroll.brighthorizons.com"
+      ],
+      "Q": 15951,
+      "A": 12762,
+      "U": 17557,
+      "M": 20755,
+      "Country": null,
+      "FD": 1403046000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 40647,
+      "META": null
+    },
+    {
+      "D": "tech.co",
+      "LOS": [
+        "tech.co/*"
+      ],
+      "Q": 16905,
+      "A": 2533,
+      "U": 124004,
+      "M": 9475,
+      "Country": null,
+      "FD": 1588114800,
+      "LD": 1633935600,
+      "FI": 1345730400,
+      "LI": 1634799600,
+      "S": 2474,
+      "META": null
+    },
+    {
+      "D": "chapman.edu",
+      "LOS": [
+        "mathcs.chapman.edu"
+      ],
+      "Q": 16994,
+      "A": 1117,
+      "U": 61052,
+      "M": 6687,
+      "Country": null,
+      "FD": 1522710000,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 17382,
+      "META": null
+    },
+    {
+      "D": "c9w.net",
+      "LOS": [
+        "my-aws.c9w.net"
+      ],
+      "Q": 17080,
+      "A": 788629,
+      "U": 1000001,
+      "M": 57542,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1633935600,
+      "FI": 1171062000,
+      "LI": 1633935600,
+      "S": 98,
+      "META": null
+    },
+    {
+      "D": "correios.com.br",
+      "LOS": [
+        "correios.com.br"
+      ],
+      "Q": 17098,
+      "A": 6756,
+      "U": 31636,
+      "M": 6545,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1033509600,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "cenlar.com",
+      "LOS": [
+        "cenlar.com"
+      ],
+      "Q": 17168,
+      "A": 2953882,
+      "U": 222509,
+      "M": 581868,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1624258800,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1057,
+      "META": null
+    },
+    {
+      "D": "bsu.edu",
+      "LOS": [
+        "cardinalscholar.bsu.edu"
+      ],
+      "Q": 17429,
+      "A": 6997,
+      "U": 73986,
+      "M": 7256,
+      "Country": null,
+      "FD": 1546470000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2591,
+      "META": null
+    },
+    {
+      "D": "cortland.edu",
+      "LOS": [
+        "cortland.edu"
+      ],
+      "Q": 18250,
+      "A": 18028,
+      "U": 129994,
+      "M": 18221,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 17615,
+      "META": null
+    },
+    {
+      "D": "nixle.com",
+      "LOS": [
+        "agency.nixle.com",
+        "a.nixle.com/*"
+      ],
+      "Q": 18338,
+      "A": 20607,
+      "U": 32712,
+      "M": 20305,
+      "Country": null,
+      "FD": 1428883200,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 3169,
+      "META": null
+    },
+    {
+      "D": "norta.com",
+      "LOS": [
+        "norta.com"
+      ],
+      "Q": 18632,
+      "A": 58633,
+      "U": 1000001,
+      "M": 157969,
+      "Country": null,
+      "FD": 1481756400,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 12599,
+      "META": null
+    },
+    {
+      "D": "newsflare.com",
+      "LOS": [
+        "newsflare.com"
+      ],
+      "Q": 18804,
+      "A": 321500,
+      "U": 235560,
+      "M": 66638,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1625814000,
+      "FI": 1346335200,
+      "LI": 1634540400,
+      "S": 3612,
+      "META": null
+    },
+    {
+      "D": "clarivate.com",
+      "LOS": [
+        "institutionalprofilesproject.clarivate.com"
+      ],
+      "Q": 18834,
+      "A": 11168,
+      "U": 22728,
+      "M": 3062,
+      "Country": null,
+      "FD": 1530572400,
+      "LD": 1634540400,
+      "FI": 1297033200,
+      "LI": 1634886000,
+      "S": 26663,
+      "META": null
+    },
+    {
+      "D": "nmroads.com",
+      "LOS": [
+        "usermanual.nmroads.com"
+      ],
+      "Q": 19182,
+      "A": 1277169,
+      "U": 1000001,
+      "M": 539756,
+      "Country": null,
+      "FD": 1461798000,
+      "LD": 1634540400,
+      "FI": 1193090400,
+      "LI": 1634540400,
+      "S": 600,
+      "META": null
+    },
+    {
+      "D": "charmtracker.com",
+      "LOS": [
+        "cpps.charmtracker.com/*"
+      ],
+      "Q": 19464,
+      "A": 1294217,
+      "U": 51179,
+      "M": 292378,
+      "Country": null,
+      "FD": 1535929200,
+      "LD": 1633244400,
+      "FI": 1374793200,
+      "LI": 1634886000,
+      "S": 3274,
+      "META": null
+    },
+    {
+      "D": "tsdates.com",
+      "LOS": [
+        "tsdates.com"
+      ],
+      "Q": 19531,
+      "A": 18783269,
+      "U": 280647,
+      "M": 632277,
+      "Country": null,
+      "FD": 1481410800,
+      "LD": 1634799600,
+      "FI": 1341496800,
+      "LI": 1634799600,
+      "S": 977,
+      "META": null
+    },
+    {
+      "D": "originalwheels.com",
+      "LOS": [
+        "originalwheels.com/*"
+      ],
+      "Q": 19762,
+      "A": 3262070,
+      "U": 1000001,
+      "M": 611489,
+      "Country": null,
+      "FD": 1388957967,
+      "LD": 1633503600,
+      "FI": 1199833200,
+      "LI": 1633503600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "csuci.edu",
+      "LOS": [
+        "repository.library.csuci.edu"
+      ],
+      "Q": 19962,
+      "A": 17734,
+      "U": 152093,
+      "M": 43768,
+      "Country": null,
+      "FD": 1484607600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 6436,
+      "META": null
+    },
+    {
+      "D": "nsc.org",
+      "LOS": [
+        "dynamicbenchmarking.nsc.org/*"
+      ],
+      "Q": 20002,
+      "A": 10059,
+      "U": 48936,
+      "M": 3000,
+      "Country": null,
+      "FD": 1567465200,
+      "LD": 1633244400,
+      "FI": 1064959200,
+      "LI": 1634799600,
+      "S": 5806,
+      "META": null
+    },
+    {
+      "D": "bosch.com",
+      "LOS": [
+        "audit.bosch.com"
+      ],
+      "Q": 20331,
+      "A": 4884,
+      "U": 23338,
+      "M": 5490,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 23556,
+      "META": null
+    },
+    {
+      "D": "tesu.edu",
+      "LOS": [
+        "vault.tesu.edu"
+      ],
+      "Q": 22120,
+      "A": 578512,
+      "U": 170492,
+      "M": 131211,
+      "Country": null,
+      "FD": 1588374000,
+      "LD": 1634540400,
+      "FI": 1452466800,
+      "LI": 1634799600,
+      "S": 3055,
+      "META": null
+    },
+    {
+      "D": "boingo.com",
+      "LOS": [
+        "offers.boingo.com"
+      ],
+      "Q": 23211,
+      "A": 12906,
+      "U": 22304,
+      "M": 43775,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 8564,
+      "META": null
+    },
+    {
+      "D": "navsource.org",
+      "LOS": [
+        "navsource.org"
+      ],
+      "Q": 23333,
+      "A": 30043,
+      "U": 1000001,
+      "M": 43624,
+      "Country": null,
+      "FD": 1514242800,
+      "LD": 1633935600,
+      "FI": 1364302800,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "tgh.org",
+      "LOS": [
+        "meeting.tgh.org"
+      ],
+      "Q": 23447,
+      "A": 391392,
+      "U": 110217,
+      "M": 126689,
+      "Country": null,
+      "FD": 1605081600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 30889,
+      "META": null
+    },
+    {
+      "D": "brandnewengines.com",
+      "LOS": [
+        "brandnewengines.com"
+      ],
+      "Q": 24628,
+      "A": 6722742,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1552431600,
+      "LD": 1630998000,
+      "FI": 1294059600,
+      "LI": 1632466800,
+      "S": 77,
+      "META": null
+    },
+    {
+      "D": "brynmawr.edu",
+      "LOS": [
+        "scholarship.tricolib.brynmawr.edu"
+      ],
+      "Q": 24746,
+      "A": 10738,
+      "U": 103574,
+      "M": 5092,
+      "Country": null,
+      "FD": 1522710000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 18054,
+      "META": null
+    },
+    {
+      "D": "claremont.edu",
+      "LOS": [
+        "claremont.edu"
+      ],
+      "Q": 25189,
+      "A": 20709,
+      "U": 24643,
+      "M": 24942,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1628665200,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 20495,
+      "META": null
+    },
+    {
+      "D": "kde.org",
+      "LOS": [
+        "lakademy.kde.org"
+      ],
+      "Q": 25556,
+      "A": 1653,
+      "U": 33954,
+      "M": 635,
+      "Country": null,
+      "FD": 1588114800,
+      "LD": 1633935600,
+      "FI": 1128117600,
+      "LI": 1634799600,
+      "S": 1770,
+      "META": null
+    },
+    {
+      "D": "nikkansports.com",
+      "LOS": [
+        "uw-smp.nikkansports.com/*",
+        "nankan-smp.nikkansports.com/*",
+        "boat-smp.nikkansports.com/*"
+      ],
+      "Q": 26774,
+      "A": 299604,
+      "U": 29653,
+      "M": 9468,
+      "Country": null,
+      "FD": 1595026800,
+      "LD": 1628060400,
+      "FI": 951778800,
+      "LI": 1633935600,
+      "S": 1117,
+      "META": null
+    },
+    {
+      "D": "kichler.com",
+      "LOS": [
+        "info.kichler.com/*"
+      ],
+      "Q": 29018,
+      "A": 340631,
+      "U": 89430,
+      "M": 85632,
+      "Country": null,
+      "FD": 1628060400,
+      "LD": 1628060400,
+      "FI": 952038000,
+      "LI": 1634799600,
+      "S": 6453,
+      "META": null
+    },
+    {
+      "D": "khan.co.kr",
+      "LOS": [
+        "content.khan.co.kr"
+      ],
+      "Q": 29230,
+      "A": 19194,
+      "U": 83039,
+      "M": 14986,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 4222,
+      "META": null
+    },
+    {
+      "D": "tyndale.com",
+      "LOS": [
+        "tyndale.com/*"
+      ],
+      "Q": 29557,
+      "A": 19057,
+      "U": 50471,
+      "M": 54500,
+      "Country": null,
+      "FD": 1573340400,
+      "LD": 1634886000,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 6193,
+      "META": null
+    },
+    {
+      "D": "on-camera-audiences.com",
+      "LOS": [
+        "on-camera-audiences.com"
+      ],
+      "Q": 29860,
+      "A": 369481,
+      "U": 1000001,
+      "M": 234872,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "niagara.edu",
+      "LOS": [
+        "policies.niagara.edu"
+      ],
+      "Q": 29888,
+      "A": 42608,
+      "U": 266277,
+      "M": 33303,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1663,
+      "META": null
+    },
+    {
+      "D": "korg.com",
+      "LOS": [
+        "shop.korg.com/*"
+      ],
+      "Q": 29905,
+      "A": 11454,
+      "U": 1000001,
+      "M": 12461,
+      "Country": null,
+      "FD": 1388957967,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 999,
+      "META": null
+    },
+    {
+      "D": "tradingcharts.com",
+      "LOS": [
+        "futures.tradingcharts.com"
+      ],
+      "Q": 29936,
+      "A": 303855,
+      "U": 106485,
+      "M": 61590,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1628060400,
+      "FI": 1296478800,
+      "LI": 1634886000,
+      "S": 533,
+      "META": null
+    },
+    {
+      "D": "taylorandmartin.com",
+      "LOS": [
+        "especstest.taylorandmartin.com"
+      ],
+      "Q": 30091,
+      "A": 6863002,
+      "U": 1000001,
+      "M": 718715,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 359,
+      "META": null
+    },
+    {
+      "D": "orhp.com",
+      "LOS": [
+        "homeowner.orhp.com"
+      ],
+      "Q": 30247,
+      "A": 1432438,
+      "U": 98210,
+      "M": 275603,
+      "Country": null,
+      "FD": 1408320000,
+      "LD": 1634540400,
+      "FI": 973724400,
+      "LI": 1634886000,
+      "S": 8375,
+      "META": null
+    },
+    {
+      "D": "bunnings.com.au",
+      "LOS": [
+        "wholeofhouse.bunnings.com.au/*"
+      ],
+      "Q": 31252,
+      "A": 302401,
+      "U": 60533,
+      "M": 21319,
+      "Country": null,
+      "FD": 1588287600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 31248,
+      "META": null
+    },
+    {
+      "D": "cuteorder.com",
+      "LOS": [
+        "auth.cuteorder.com",
+        "m.cuteorder.com",
+        "ssl.cuteorder.com",
+        "login.cuteorder.com",
+        "news.cuteorder.com",
+        "help.cuteorder.com",
+        "reviews.cuteorder.com",
+        "shop.cuteorder.com",
+        "cafeaulee.cuteorder.com",
+        "fpdpizza.cuteorder.com/*",
+        "mrpizza.cuteorder.com",
+        "romandelight.cuteorder.com",
+        "diginos.cuteorder.com",
+        "pekingwok.cuteorder.com",
+        "thinhankitchentofu.cuteorder.com",
+        "mikesplacepizza.cuteorder.com",
+        "bellisimospizza.cuteorder.com",
+        "picnicbasket.cuteorder.com",
+        "ekkamai.cuteorder.com",
+        "romanspizzahouse2.cuteorder.com",
+        "lucillesbbq4.cuteorder.com",
+        "lucillesbbq8.cuteorder.com",
+        "vasiliospizza.cuteorder.com",
+        "annaspizzabuckroe.cuteorder.com",
+        "lucillesbbq6.cuteorder.com",
+        "fastpizzawillow.cuteorder.com",
+        "davidosconyers.cuteorder.com",
+        "kapellispizzeria.cuteorder.com",
+        "lucillesbbq10.cuteorder.com",
+        "anthonystewksbury.cuteorder.com",
+        "thaicuisine.cuteorder.com",
+        "lisaspizzeriadracut.cuteorder.com",
+        "luigispizzawi.cuteorder.com",
+        "lucillesbbq18.cuteorder.com",
+        "lucillesbbq9.cuteorder.com",
+        "lucillesbbq7.cuteorder.com",
+        "lucillesbbq15.cuteorder.com",
+        "lucillesbbq13.cuteorder.com",
+        "lucillesbbq2.cuteorder.com",
+        "haohaotx.cuteorder.com",
+        "lucillesbbq14.cuteorder.com",
+        "lucillesbbq5.cuteorder.com",
+        "lucillesbbq12.cuteorder.com",
+        "asianking.cuteorder.com",
+        "subculture.cuteorder.com",
+        "villapizzadurango.cuteorder.com",
+        "bigtonyspizzari.cuteorder.com",
+        "georgewebb-3rdst.cuteorder.com",
+        "homebasepizza.cuteorder.com",
+        "lucillesbbq17.cuteorder.com",
+        "lucillesbbq16.cuteorder.com",
+        "lucillesbbq20.cuteorder.com",
+        "pdubz.cuteorder.com",
+        "pizzamanlibertyroad.cuteorder.com",
+        "ichigoichiefranklin.cuteorder.com",
+        "churchillsflint.cuteorder.com",
+        "chrispizzapub.cuteorder.com"
+      ],
+      "Q": 31428,
+      "A": 12587188,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1394409954,
+      "LD": 1633330800,
+      "FI": 1341496800,
+      "LI": 1633935600,
+      "S": 363,
+      "META": null
+    },
+    {
+      "D": "boombah.com",
+      "LOS": [
+        "boombah.com"
+      ],
+      "Q": 31604,
+      "A": 6944312,
+      "U": 205779,
+      "M": 631809,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 8870,
+      "META": null
+    },
+    {
+      "D": "torodealer.com",
+      "LOS": [
+        "torodealer.com"
+      ],
+      "Q": 32491,
+      "A": 6639655,
+      "U": 1000001,
+      "M": 920898,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 1341496800,
+      "LI": 1634799600,
+      "S": 5298,
+      "META": null
+    },
+    {
+      "D": "brakeperformance.com",
+      "LOS": [
+        "brakeperformance.com"
+      ],
+      "Q": 33893,
+      "A": 11868093,
+      "U": 1000001,
+      "M": 682980,
+      "Country": null,
+      "FD": 1623826800,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "charleston-sc.gov",
+      "LOS": [
+        "fsd.charleston-sc.gov"
+      ],
+      "Q": 34686,
+      "A": 360748,
+      "U": 257169,
+      "M": 84142,
+      "Country": null,
+      "FD": 1530572400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1498,
+      "META": null
+    },
+    {
+      "D": "ninjaflex.com",
+      "LOS": [
+        "ninjaflex.com"
+      ],
+      "Q": 34715,
+      "A": 3648342,
+      "U": 131439,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1353589200,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "csair.com",
+      "LOS": [
+        "csair.com/*",
+        "3g.csair.com",
+        "3g.gtm.csair.com",
+        "coc.csair.com"
+      ],
+      "Q": 34987,
+      "A": 9647,
+      "U": 69640,
+      "M": 10326,
+      "Country": null,
+      "FD": 1400454000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 3561,
+      "META": null
+    },
+    {
+      "D": "crs.org",
+      "LOS": [
+        "my.crs.org"
+      ],
+      "Q": 35433,
+      "A": 12852,
+      "U": 55233,
+      "M": 16129,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634713200,
+      "S": 5268,
+      "META": null
+    },
+    {
+      "D": "nhvweb.net",
+      "LOS": [
+        "csiweb.nhvweb.net"
+      ],
+      "Q": 35524,
+      "A": 469601,
+      "U": 1000001,
+      "M": 599480,
+      "Country": null,
+      "FD": 1480978800,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 572,
+      "META": null
+    },
+    {
+      "D": "bris.ac.uk",
+      "LOS": [
+        "nematode.bio.bris.ac.uk"
+      ],
+      "Q": 37009,
+      "A": 5003,
+      "U": 92798,
+      "M": 3200,
+      "Country": null,
+      "FD": 1499122800,
+      "LD": 1633244400,
+      "FI": 1136070000,
+      "LI": 1634799600,
+      "S": 17186,
+      "META": null
+    },
+    {
+      "D": "nazarene.org",
+      "LOS": [
+        "apr.nazarene.org/*"
+      ],
+      "Q": 37110,
+      "A": 22776,
+      "U": 295495,
+      "M": 86420,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 951778800,
+      "LI": 1634799600,
+      "S": 2714,
+      "META": null
+    },
+    {
+      "D": "koodomobile.com",
+      "LOS": [
+        "activateprepaid.koodomobile.com",
+        "prepaidselfserve.koodomobile.com",
+        "myaccount.koodomobile.com",
+        "activeleprepaye.koodomobile.com",
+        "activerleprepaye.koodomobile.com",
+        "libreserviceprepaye.koodomobile.com",
+        "activezleprepaye.koodomobile.com",
+        "moncompte.koodomobile.com"
+      ],
+      "Q": 38290,
+      "A": 296563,
+      "U": 119204,
+      "M": 129250,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 13036,
+      "META": null
+    },
+    {
+      "D": "oakton.edu",
+      "LOS": [
+        "oakton.edu/*"
+      ],
+      "Q": 38633,
+      "A": 356281,
+      "U": 196356,
+      "M": 29401,
+      "Country": null,
+      "FD": 1411344000,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 1122,
+      "META": null
+    },
+    {
+      "D": "csmc.edu",
+      "LOS": [
+        "biostatistics.csmc.edu/*"
+      ],
+      "Q": 39547,
+      "A": 401498,
+      "U": 57035,
+      "M": 107323,
+      "Country": null,
+      "FD": 1541199600,
+      "LD": 1634540400,
+      "FI": 1022364000,
+      "LI": 1634540400,
+      "S": 18246,
+      "META": null
+    },
+    {
+      "D": "chiff.com",
+      "LOS": [
+        "chiff.com"
+      ],
+      "Q": 41457,
+      "A": 340639,
+      "U": 255212,
+      "M": 80924,
+      "Country": null,
+      "FD": 1406156400,
+      "LD": 1633935600,
+      "FI": 951951600,
+      "LI": 1633935600,
+      "S": 23,
+      "META": null
+    },
+    {
+      "D": "codeguru.com",
+      "LOS": [
+        "codeguru.com"
+      ],
+      "Q": 41676,
+      "A": 334744,
+      "U": 179615,
+      "M": 13282,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1629183600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 10282,
+      "META": null
+    },
+    {
+      "D": "crossref.org",
+      "LOS": [
+        "chronograph.labs.crossref.org/*"
+      ],
+      "Q": 41701,
+      "A": 7700,
+      "U": 4490,
+      "M": 6276,
+      "Country": null,
+      "FD": 1623481200,
+      "LD": 1628060400,
+      "FI": 1301839200,
+      "LI": 1634540400,
+      "S": 5061,
+      "META": null
+    },
+    {
+      "D": "telenet.be",
+      "LOS": [
+        "users.telenet.be/*"
+      ],
+      "Q": 42353,
+      "A": 3916,
+      "U": 12056,
+      "M": 3006,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1629183600,
+      "FI": 1167865200,
+      "LI": 1634886000,
+      "S": 30600,
+      "META": null
+    },
+    {
+      "D": "4399.com",
+      "LOS": [
+        "lds.4399.com",
+        "sjsj.4399.com",
+        "ssjj.4399.com",
+        "hero.4399.com"
+      ],
+      "Q": 42524,
+      "A": 311520,
+      "U": 48411,
+      "M": 6444,
+      "Country": null,
+      "FD": 1422658800,
+      "LD": 1633935600,
+      "FI": 1096581600,
+      "LI": 1634713200,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "bodyvisualizer.com",
+      "LOS": [
+        "bodyvisualizer.com"
+      ],
+      "Q": 42863,
+      "A": 1946113,
+      "U": 105281,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633935600,
+      "FI": 1333634400,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "cna.com.tw",
+      "LOS": [
+        "cna.com.tw"
+      ],
+      "Q": 43081,
+      "A": 1326,
+      "U": 39247,
+      "M": 10716,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 951865200,
+      "LI": 1634799600,
+      "S": 116,
+      "META": null
+    },
+    {
+      "D": "chasingthefrog.com",
+      "LOS": [
+        "chasingthefrog.com"
+      ],
+      "Q": 43319,
+      "A": 383112,
+      "U": 1000001,
+      "M": 195536,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "bridgeport.edu",
+      "LOS": [
+        "scholarworks.bridgeport.edu/*"
+      ],
+      "Q": 44518,
+      "A": 57705,
+      "U": 189222,
+      "M": 31532,
+      "Country": null,
+      "FD": 1595631600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 5891,
+      "META": null
+    },
+    {
+      "D": "courtswv.gov",
+      "LOS": [
+        "courtswv.gov"
+      ],
+      "Q": 44885,
+      "A": 329466,
+      "U": 204547,
+      "M": 136021,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1323003600,
+      "LI": 1634540400,
+      "S": 432,
+      "META": null
+    },
+    {
+      "D": "baxter.com",
+      "LOS": [
+        "dem-reg1-newhorizons.baxter.com",
+        "hcw.baxter.com/*"
+      ],
+      "Q": 46111,
+      "A": 16413,
+      "U": 22243,
+      "M": 22306,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 18149,
+      "META": null
+    },
+    {
+      "D": "ntnu.no",
+      "LOS": [
+        "hippocampus.medisin.ntnu.no/*"
+      ],
+      "Q": 46180,
+      "A": 4802,
+      "U": 88916,
+      "M": 3784,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1633244400,
+      "FI": 1022104800,
+      "LI": 1634886000,
+      "S": 9447,
+      "META": null
+    },
+    {
+      "D": "telestaff.net",
+      "LOS": [
+        "telestaff.net"
+      ],
+      "Q": 47292,
+      "A": 6845705,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1630220400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "naeir.org",
+      "LOS": [
+        "naeir.org"
+      ],
+      "Q": 47552,
+      "A": 970806,
+      "U": 285134,
+      "M": 656306,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 380,
+      "META": null
+    },
+    {
+      "D": "coachtube.com",
+      "LOS": [
+        "coachtube.com"
+      ],
+      "Q": 48198,
+      "A": 985914,
+      "U": 184322,
+      "M": 290638,
+      "Country": null,
+      "FD": 1632553200,
+      "LD": 1633935600,
+      "FI": 1213221600,
+      "LI": 1634713200,
+      "S": 253,
+      "META": null
+    },
+    {
+      "D": "northallegheny.org",
+      "LOS": [
+        "athletics.northallegheny.org",
+        "athletics2.northallegheny.org"
+      ],
+      "Q": 48596,
+      "A": 49247,
+      "U": 157394,
+      "M": 372008,
+      "Country": null,
+      "FD": 1399186286,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 647,
+      "META": null
+    },
+    {
+      "D": "bulletinhealthcare.com",
+      "LOS": [
+        "clevelandclinic.acutecoronarysyndrome.bulletinhealthcare.com"
+      ],
+      "Q": 48826,
+      "A": 1328445,
+      "U": 43763,
+      "M": 374110,
+      "Country": null,
+      "FD": 1611216000,
+      "LD": 1633244400,
+      "FI": 1315144800,
+      "LI": 1634799600,
+      "S": 4967,
+      "META": null
+    },
+    {
+      "D": "creativemornings.com",
+      "LOS": [
+        "happybirthday.creativemornings.com"
+      ],
+      "Q": 49009,
+      "A": 6870,
+      "U": 1000001,
+      "M": 14549,
+      "Country": null,
+      "FD": 1562108400,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1634281200,
+      "S": 1745,
+      "META": null
+    },
+    {
+      "D": "newsen.com",
+      "LOS": [
+        "newsen.com"
+      ],
+      "Q": 51501,
+      "A": 349674,
+      "U": 1000001,
+      "M": 71129,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "csu.edu",
+      "LOS": [
+        "csu.edu"
+      ],
+      "Q": 51574,
+      "A": 23162,
+      "U": 204558,
+      "M": 43645,
+      "Country": null,
+      "FD": 1518735600,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 12309,
+      "META": null
+    },
+    {
+      "D": "ncai.org",
+      "LOS": [
+        "ncai.org"
+      ],
+      "Q": 51854,
+      "A": 306787,
+      "U": 287751,
+      "M": 27049,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634022000,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 471,
+      "META": null
+    },
+    {
+      "D": "kidreports.com",
+      "LOS": [
+        "secure.kidreports.com"
+      ],
+      "Q": 52942,
+      "A": 103269,
+      "U": 50607,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1634540400,
+      "FI": 1362056400,
+      "LI": 1634540400,
+      "S": 1170,
+      "META": null
+    },
+    {
+      "D": "ovarian.org",
+      "LOS": [
+        "ovarian.org"
+      ],
+      "Q": 53022,
+      "A": 410945,
+      "U": 1000001,
+      "M": 89411,
+      "Country": null,
+      "FD": 1496530800,
+      "LD": 1623826800,
+      "FI": 1006988400,
+      "LI": 1634799600,
+      "S": 5894,
+      "META": null
+    },
+    {
+      "D": "csc.com",
+      "LOS": [
+        "rskm.csc.com"
+      ],
+      "Q": 53253,
+      "A": 298294,
+      "U": 46286,
+      "M": 22019,
+      "Country": null,
+      "FD": 1594335600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 23371,
+      "META": null
+    },
+    {
+      "D": "bham.ac.uk",
+      "LOS": [
+        "biosciences-labs.bham.ac.uk/*"
+      ],
+      "Q": 53825,
+      "A": 8521,
+      "U": 76539,
+      "M": 4367,
+      "Country": null,
+      "FD": 1434927600,
+      "LD": 1630393200,
+      "FI": 1294059600,
+      "LI": 1634713200,
+      "S": 8565,
+      "META": null
+    },
+    {
+      "D": "cooper.edu",
+      "LOS": [
+        "cooper.edu"
+      ],
+      "Q": 54638,
+      "A": 23216,
+      "U": 243606,
+      "M": 25068,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1631775600,
+      "FI": 1294059600,
+      "LI": 1634626800,
+      "S": 11297,
+      "META": null
+    },
+    {
+      "D": "nma-fallout.com",
+      "LOS": [
+        "nma-fallout.com"
+      ],
+      "Q": 55124,
+      "A": 403513,
+      "U": 1000001,
+      "M": 126291,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634626800,
+      "FI": 1006902000,
+      "LI": 1634626800,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "bdimg.com",
+      "LOS": [
+        "fe.bdimg.com"
+      ],
+      "Q": 58343,
+      "A": 300290,
+      "U": 3590,
+      "M": 4973,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1480460400,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "camara.leg.br",
+      "LOS": [
+        "ce.camara.leg.br"
+      ],
+      "Q": 59504,
+      "A": 16001,
+      "U": 165247,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1562108400,
+      "LD": 1633244400,
+      "FI": 1351375200,
+      "LI": 1634540400,
+      "S": 3189,
+      "META": null
+    },
+    {
+      "D": "kmmo.com",
+      "LOS": [
+        "dtn.kmmo.com"
+      ],
+      "Q": 59808,
+      "A": 1616154,
+      "U": 1000001,
+      "M": 417328,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 259,
+      "META": null
+    },
+    {
+      "D": "kennametal.com",
+      "LOS": [
+        "chronicle.kennametal.com"
+      ],
+      "Q": 60829,
+      "A": 36537,
+      "U": 60985,
+      "M": 59219,
+      "Country": null,
+      "FD": 1427238000,
+      "LD": 1634540400,
+      "FI": 1364302800,
+      "LI": 1634799600,
+      "S": 19470,
+      "META": null
+    },
+    {
+      "D": "cplretailenergy.com",
+      "LOS": [
+        "portal.cplretailenergy.com"
+      ],
+      "Q": 62568,
+      "A": 3622530,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1408320000,
+      "LD": 1626764400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 10428,
+      "META": null
+    },
+    {
+      "D": "nwoca.org",
+      "LOS": [
+        "webs5.nwoca.org"
+      ],
+      "Q": 63242,
+      "A": 90637,
+      "U": 227540,
+      "M": 921399,
+      "Country": null,
+      "FD": 1599346800,
+      "LD": 1634022000,
+      "FI": 1286661600,
+      "LI": 1634540400,
+      "S": 373,
+      "META": null
+    },
+    {
+      "D": "caionline.org",
+      "LOS": [
+        "survey.caionline.org/*"
+      ],
+      "Q": 63661,
+      "A": 27729,
+      "U": 180519,
+      "M": 55668,
+      "Country": null,
+      "FD": 1588460400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634626800,
+      "S": 3564,
+      "META": null
+    },
+    {
+      "D": "theiia.org",
+      "LOS": [
+        "na.theiia.org/*",
+        "global.theiia.org/*"
+      ],
+      "Q": 64359,
+      "A": 307818,
+      "U": 66056,
+      "M": 21828,
+      "Country": null,
+      "FD": 1499382000,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 5022,
+      "META": null
+    },
+    {
+      "D": "comporium.net",
+      "LOS": [
+        "webmail.comporium.net"
+      ],
+      "Q": 64491,
+      "A": 496997,
+      "U": 68625,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1407970800,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 8584,
+      "META": null
+    },
+    {
+      "D": "collegeinsider.com",
+      "LOS": [
+        "tournament18.collegeinsider.com",
+        "2013cit.collegeinsider.com",
+        "tournament.collegeinsider.com",
+        "tournament21.collegeinsider.com",
+        "tournament24.collegeinsider.com",
+        "tournament25.collegeinsider.com",
+        "tournament22.collegeinsider.com",
+        "tournament19.collegeinsider.com",
+        "tournament20.collegeinsider.com",
+        "tournament16.collegeinsider.com",
+        "tournament15.collegeinsider.com",
+        "tournament23.collegeinsider.com",
+        "tournament17.collegeinsider.com",
+        "tournament14.collegeinsider.com",
+        "2012.collegeinsider.com"
+      ],
+      "Q": 65104,
+      "A": 509773,
+      "U": 1000001,
+      "M": 351143,
+      "Country": null,
+      "FD": 1394409954,
+      "LD": 1633244400,
+      "FI": 1301839200,
+      "LI": 1633244400,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "correio24horas.com.br",
+      "LOS": [
+        "impresso-login.correio24horas.com.br/*"
+      ],
+      "Q": 66029,
+      "A": 33275,
+      "U": 87080,
+      "M": 28107,
+      "Country": null,
+      "FD": 1626764400,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1634626800,
+      "S": 1425,
+      "META": null
+    },
+    {
+      "D": "okgazette.com",
+      "LOS": [
+        "vote.okgazette.com"
+      ],
+      "Q": 67281,
+      "A": 414512,
+      "U": 1000001,
+      "M": 140834,
+      "Country": null,
+      "FD": 1472425200,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 317,
+      "META": null
+    },
+    {
+      "D": "cambridgesoft.com",
+      "LOS": [
+        "insideinformatics.cambridgesoft.com",
+        "cbn.cambridgesoft.com"
+      ],
+      "Q": 69524,
+      "A": 35798,
+      "U": 284269,
+      "M": 46641,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2652,
+      "META": null
+    },
+    {
+      "D": "toolkitcma.com",
+      "LOS": [
+        "tkcma.toolkitcma.com",
+        "classic2.toolkitcma.com/*",
+        "classic.toolkitcma.com/*"
+      ],
+      "Q": 70052,
+      "A": 3648751,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1518735600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1633244400,
+      "S": 37,
+      "META": null
+    },
+    {
+      "D": "cityofsugarhill.com",
+      "LOS": [
+        "app.cityofsugarhill.com"
+      ],
+      "Q": 70597,
+      "A": 3237458,
+      "U": 1000001,
+      "M": 289612,
+      "Country": null,
+      "FD": 1632207600,
+      "LD": 1633244400,
+      "FI": 1065132000,
+      "LI": 1634540400,
+      "S": 226,
+      "META": null
+    },
+    {
+      "D": "travelingmailbox.com",
+      "LOS": [
+        "travelingmailbox.com"
+      ],
+      "Q": 70780,
+      "A": 98344,
+      "U": 1000001,
+      "M": 339233,
+      "Country": null,
+      "FD": 1317852000,
+      "LD": 1634626800,
+      "FI": 1317852000,
+      "LI": 1634626800,
+      "S": 2076,
+      "META": null
+    },
+    {
+      "D": "canadiangeographic.ca",
+      "LOS": [
+        "weathercontest.canadiangeographic.ca",
+        "concoursphoto18.canadiangeographic.ca",
+        "annual18.canadiangeographic.ca",
+        "tourism.canadiangeographic.ca"
+      ],
+      "Q": 71275,
+      "A": 15774,
+      "U": 171769,
+      "M": 21627,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 7429,
+      "META": null
+    },
+    {
+      "D": "currieenterprises.com",
+      "LOS": [
+        "currieenterprises.com"
+      ],
+      "Q": 73453,
+      "A": 1320768,
+      "U": 1000001,
+      "M": 342394,
+      "Country": null,
+      "FD": 1601103600,
+      "LD": 1623135600,
+      "FI": 951865200,
+      "LI": 1634799600,
+      "S": 77,
+      "META": null
+    },
+    {
+      "D": "crumplifeinsurance.com",
+      "LOS": [
+        "crumplifeinsurance.com"
+      ],
+      "Q": 73853,
+      "A": 15282199,
+      "U": 253253,
+      "M": 982199,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1301839200,
+      "LI": 1634799600,
+      "S": 3929,
+      "META": null
+    },
+    {
+      "D": "netbraintech.com",
+      "LOS": [
+        "netbraintech.com"
+      ],
+      "Q": 75159,
+      "A": 1230343,
+      "U": 127176,
+      "M": 521026,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1631170800,
+      "FI": 1323003600,
+      "LI": 1634799600,
+      "S": 10143,
+      "META": null
+    },
+    {
+      "D": "brandnewmowers.com",
+      "LOS": [
+        "brandnewmowers.com"
+      ],
+      "Q": 76640,
+      "A": 35019295,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1553209200,
+      "LD": 1623481200,
+      "FI": 1294059600,
+      "LI": 1632466800,
+      "S": 544,
+      "META": null
+    },
+    {
+      "D": "nodakangler.com",
+      "LOS": [
+        "nodakangler.com"
+      ],
+      "Q": 77012,
+      "A": 20029013,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1458687600,
+      "LD": 1633071600,
+      "FI": 1434927600,
+      "LI": 1633071600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "beautyencounter.com",
+      "LOS": [
+        "beautyencounter.com"
+      ],
+      "Q": 77074,
+      "A": 1619790,
+      "U": 189188,
+      "M": 224827,
+      "Country": null,
+      "FD": 1555455600,
+      "LD": 1623135600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 517,
+      "META": null
+    },
+    {
+      "D": "tevapharm.com",
+      "LOS": [
+        "tevapharm.com"
+      ],
+      "Q": 77734,
+      "A": 320759,
+      "U": 24595,
+      "M": 38322,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 5169,
+      "META": null
+    },
+    {
+      "D": "newrezume.org",
+      "LOS": [
+        "newrezume.org"
+      ],
+      "Q": 78093,
+      "A": 726754,
+      "U": 1000001,
+      "M": 380509,
+      "Country": null,
+      "FD": 1386284400,
+      "LD": 1628060400,
+      "FI": 1382400750,
+      "LI": 1633935600,
+      "S": 642,
+      "META": null
+    },
+    {
+      "D": "tiscali.cz",
+      "LOS": [
+        "doklubu.tiscali.cz",
+        "atlasaut.tiscali.cz"
+      ],
+      "Q": 78176,
+      "A": 13632,
+      "U": 56653,
+      "M": 11562,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634713200,
+      "S": 8782,
+      "META": null
+    },
+    {
+      "D": "ki.se",
+      "LOS": [
+        "karolinskainnovations.ki.se"
+      ],
+      "Q": 78468,
+      "A": 14580,
+      "U": 156687,
+      "M": 4898,
+      "Country": null,
+      "FD": 1529276400,
+      "LD": 1634799600,
+      "FI": 1458169200,
+      "LI": 1634799600,
+      "S": 9908,
+      "META": null
+    },
+    {
+      "D": "navajocountyaz.gov",
+      "LOS": [
+        "webmap.navajocountyaz.gov/*"
+      ],
+      "Q": 78503,
+      "A": 46404,
+      "U": 1000001,
+      "M": 281150,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 591,
+      "META": null
+    },
+    {
+      "D": "bfrb.org",
+      "LOS": [
+        "bfrb.org"
+      ],
+      "Q": 79272,
+      "A": 363381,
+      "U": 1000001,
+      "M": 210147,
+      "Country": null,
+      "FD": 1460502000,
+      "LD": 1633935600,
+      "FI": 1460502000,
+      "LI": 1633935600,
+      "S": 296,
+      "META": null
+    },
+    {
+      "D": "basiconline.com",
+      "LOS": [
+        "mobilesupport.basiconline.com"
+      ],
+      "Q": 80697,
+      "A": 3410743,
+      "U": 67065,
+      "M": 545274,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1174,
+      "META": null
+    },
+    {
+      "D": "navitime.co.jp",
+      "LOS": [
+        "fleet.navitime.co.jp",
+        "connect.navitime.co.jp"
+      ],
+      "Q": 80886,
+      "A": 15590,
+      "U": 25344,
+      "M": 17344,
+      "Country": null,
+      "FD": 1462834800,
+      "LD": 1634540400,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 5815,
+      "META": null
+    },
+    {
+      "D": "oklegislature.gov",
+      "LOS": [
+        "ddcapp.oklegislature.gov"
+      ],
+      "Q": 80902,
+      "A": 316028,
+      "U": 287808,
+      "M": 53855,
+      "Country": null,
+      "FD": 1499382000,
+      "LD": 1634540400,
+      "FI": 1315144800,
+      "LI": 1634540400,
+      "S": 233,
+      "META": null
+    },
+    {
+      "D": "taketheinterview.com",
+      "LOS": [
+        "playground.taketheinterview.com"
+      ],
+      "Q": 80972,
+      "A": 1385707,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1562108400,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1634540400,
+      "S": 4703,
+      "META": null
+    },
+    {
+      "D": "transer.com",
+      "LOS": [
+        "kogetu.com.c.eg.hp.transer.com",
+        "kogetu.com.t.eg.hp.transer.com"
+      ],
+      "Q": 80987,
+      "A": 303093,
+      "U": 1000001,
+      "M": 17467,
+      "Country": null,
+      "FD": 1581030000,
+      "LD": 1628060400,
+      "FI": 1320584400,
+      "LI": 1634540400,
+      "S": 15098,
+      "META": null
+    },
+    {
+      "D": "bellmedia.ca",
+      "LOS": [
+        "tvlistings.bellmedia.ca",
+        "tvlistings-origin.bellmedia.ca"
+      ],
+      "Q": 81688,
+      "A": 20629,
+      "U": 19648,
+      "M": 61762,
+      "Country": null,
+      "FD": 1531436400,
+      "LD": 1628060400,
+      "FI": 1320584400,
+      "LI": 1634886000,
+      "S": 16067,
+      "META": null
+    },
+    {
+      "D": "c-sgroup.com",
+      "LOS": [
+        "transparency.c-sgroup.com"
+      ],
+      "Q": 82652,
+      "A": 1394240,
+      "U": 88124,
+      "M": 237343,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1634540400,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 39486,
+      "META": null
+    },
+    {
+      "D": "brownbunnies.com",
+      "LOS": [
+        "brownbunnies.com"
+      ],
+      "Q": 83040,
+      "A": 19906408,
+      "U": 1000001,
+      "M": 483524,
+      "Country": null,
+      "FD": 1424300400,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "thejadednetwork.com",
+      "LOS": [
+        "thejadednetwork.com"
+      ],
+      "Q": 83547,
+      "A": 763949,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1301839200,
+      "LI": 1633244400,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "collegerules.com",
+      "LOS": [
+        "collegerules.com"
+      ],
+      "Q": 84723,
+      "A": 7295358,
+      "U": 1000001,
+      "M": 475552,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634886000,
+      "S": 127,
+      "META": null
+    },
+    {
+      "D": "cwmalls.com",
+      "LOS": [
+        "sports.cwmalls.com"
+      ],
+      "Q": 85175,
+      "A": 3187245,
+      "U": 1000001,
+      "M": 338685,
+      "Country": null,
+      "FD": 1608364800,
+      "LD": 1633244400,
+      "FI": 1338472800,
+      "LI": 1633244400,
+      "S": 1398,
+      "META": null
+    },
+    {
+      "D": "tcl.com",
+      "LOS": [
+        "jr.tcl.com/*"
+      ],
+      "Q": 86734,
+      "A": 305250,
+      "U": 35187,
+      "M": 10378,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 6959,
+      "META": null
+    },
+    {
+      "D": "calgary.ca",
+      "LOS": [
+        "eappointment.calgary.ca"
+      ],
+      "Q": 86811,
+      "A": 14800,
+      "U": 111865,
+      "M": 16042,
+      "Country": null,
+      "FD": 1588374000,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 16925,
+      "META": null
+    },
+    {
+      "D": "naplesgarden.org",
+      "LOS": [
+        "naplesgarden.org/*"
+      ],
+      "Q": 87745,
+      "A": 483759,
+      "U": 1000001,
+      "M": 220172,
+      "Country": null,
+      "FD": 1499382000,
+      "LD": 1633935600,
+      "FI": 1356008400,
+      "LI": 1633935600,
+      "S": 567,
+      "META": null
+    },
+    {
+      "D": "compraymudate.com",
+      "LOS": [
+        "compraymudate.com"
+      ],
+      "Q": 88484,
+      "A": 235736,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633503600,
+      "FI": 1341496800,
+      "LI": 1633503600,
+      "S": 221,
+      "META": null
+    },
+    {
+      "D": "cbd.int",
+      "LOS": [
+        "cbd.int"
+      ],
+      "Q": 88625,
+      "A": 9407,
+      "U": 106609,
+      "M": 4443,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1628060400,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 787,
+      "META": null
+    },
+    {
+      "D": "buybluesteel.com",
+      "LOS": [
+        "buybluesteel.com/*"
+      ],
+      "Q": 90268,
+      "A": 1030900,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1522882800,
+      "LD": 1631257200,
+      "FI": 1343570400,
+      "LI": 1633244400,
+      "S": 6722,
+      "META": null
+    },
+    {
+      "D": "cityofmiddletown.org",
+      "LOS": [
+        "ams.cityofmiddletown.org"
+      ],
+      "Q": 90433,
+      "A": 1021535,
+      "U": 1000001,
+      "M": 383706,
+      "Country": null,
+      "FD": 1538434800,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 818,
+      "META": null
+    },
+    {
+      "D": "ncsy.org",
+      "LOS": [
+        "marketing.ncsy.org"
+      ],
+      "Q": 90632,
+      "A": 52938,
+      "U": 1000001,
+      "M": 433857,
+      "Country": null,
+      "FD": 1514934000,
+      "LD": 1633244400,
+      "FI": 952124400,
+      "LI": 1634713200,
+      "S": 3486,
+      "META": null
+    },
+    {
+      "D": "njstatelib.org",
+      "LOS": [
+        "bb62.njstatelib.org"
+      ],
+      "Q": 91307,
+      "A": 312113,
+      "U": 202344,
+      "M": 101958,
+      "Country": null,
+      "FD": 1514934000,
+      "LD": 1634540400,
+      "FI": 1097272800,
+      "LI": 1634540400,
+      "S": 276,
+      "META": null
+    },
+    {
+      "D": "chicaandjo.com",
+      "LOS": [
+        "chicaandjo.com"
+      ],
+      "Q": 92329,
+      "A": 326984,
+      "U": 191417,
+      "M": 148730,
+      "Country": null,
+      "FD": 1434507917,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "ttc.ca",
+      "LOS": [
+        "ttc.ca/*"
+      ],
+      "Q": 94085,
+      "A": 21792,
+      "U": 129773,
+      "M": 28241,
+      "Country": null,
+      "FD": 1511996400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1329,
+      "META": null
+    },
+    {
+      "D": "caster.fm",
+      "LOS": [
+        "radiosoundfm.caster.fm",
+        "rebelmusic.caster.fm",
+        "radioolanueva.caster.fm",
+        "leahlee.caster.fm",
+        "adyradio.caster.fm",
+        "nusantararadio.caster.fm",
+        "djskalfas.caster.fm",
+        "demo.caster.fm",
+        "djredz.caster.fm",
+        "powerlinefm.caster.fm",
+        "lavozdelinterior.caster.fm",
+        "fatbeats.caster.fm",
+        "radiokallisti.caster.fm",
+        "talkradio1620ktfl.caster.fm",
+        "tripingtoad.caster.fm",
+        "wfoi1005.caster.fm",
+        "euforicaradio.caster.fm",
+        "mavibidonradyo.caster.fm",
+        "equaleyesradio.caster.fm",
+        "hitechwireless.caster.fm",
+        "illusions.caster.fm"
+      ],
+      "Q": 94362,
+      "A": 14424,
+      "U": 253159,
+      "M": 97950,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1633503600,
+      "FI": 1320584400,
+      "LI": 1633935600,
+      "S": 268,
+      "META": null
+    },
+    {
+      "D": "cablevisionfibertel.com.ar",
+      "LOS": [
+        "cablevisionfibertel.com.ar"
+      ],
+      "Q": 95123,
+      "A": 50022,
+      "U": 241804,
+      "M": 362974,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1356958800,
+      "LI": 1634799600,
+      "S": 12280,
+      "META": null
+    },
+    {
+      "D": "nonprofitsoapbox.com",
+      "LOS": [
+        "wbr.secure.nonprofitsoapbox.com",
+        "tls12.nonprofitsoapbox.com"
+      ],
+      "Q": 97470,
+      "A": 316393,
+      "U": 141575,
+      "M": 106918,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634626800,
+      "S": 2038,
+      "META": null
+    },
+    {
+      "D": "thumbpress.com",
+      "LOS": [
+        "thumbpress.com/*"
+      ],
+      "Q": 97618,
+      "A": 329509,
+      "U": 254231,
+      "M": 185129,
+      "Country": null,
+      "FD": 1388957967,
+      "LD": 1633935600,
+      "FI": 1301839200,
+      "LI": 1633935600,
+      "S": 31,
+      "META": null
+    },
+    {
+      "D": "onecallcm.com",
+      "LOS": [
+        "provider.onecallcm.com/*"
+      ],
+      "Q": 98234,
+      "A": 11382151,
+      "U": 75081,
+      "M": 525066,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1634540400,
+      "FI": 1379286000,
+      "LI": 1634799600,
+      "S": 4665,
+      "META": null
+    },
+    {
+      "D": "tradekey.com",
+      "LOS": [
+        "trademate.tradekey.com"
+      ],
+      "Q": 98384,
+      "A": 15285,
+      "U": 242721,
+      "M": 36780,
+      "Country": null,
+      "FD": 1388957967,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 851,
+      "META": null
+    },
+    {
+      "D": "brushresearch.com",
+      "LOS": [
+        "brushresearch.com"
+      ],
+      "Q": 98709,
+      "A": 1766475,
+      "U": 1000001,
+      "M": 533959,
+      "Country": null,
+      "FD": 1429182187,
+      "LD": 1633244400,
+      "FI": 1296478800,
+      "LI": 1634540400,
+      "S": 3119,
+      "META": null
+    },
+    {
+      "D": "cjcu.edu.tw",
+      "LOS": [
+        "erm.lib.cjcu.edu.tw/*"
+      ],
+      "Q": 101054,
+      "A": 1043260,
+      "U": 1000001,
+      "M": 238530,
+      "Country": null,
+      "FD": 1603494000,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1633935600,
+      "S": 7667,
+      "META": null
+    },
+    {
+      "D": "thebrokernetwork.com",
+      "LOS": [
+        "thebrokernetwork.com"
+      ],
+      "Q": 101453,
+      "A": 21127368,
+      "U": 21166,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 806,
+      "META": null
+    },
+    {
+      "D": "taxbot.com",
+      "LOS": [
+        "tutorials.taxbot.com"
+      ],
+      "Q": 102197,
+      "A": 2959347,
+      "U": 1000001,
+      "M": 934309,
+      "Country": null,
+      "FD": 1597734000,
+      "LD": 1623740400,
+      "FI": 1331989200,
+      "LI": 1634540400,
+      "S": 4245,
+      "META": null
+    },
+    {
+      "D": "crozer.org",
+      "LOS": [
+        "myckhealth.crozer.org/*"
+      ],
+      "Q": 102386,
+      "A": 3178860,
+      "U": 1000001,
+      "M": 841815,
+      "Country": null,
+      "FD": 1626505200,
+      "LD": 1634540400,
+      "FI": 1296478800,
+      "LI": 1634799600,
+      "S": 4367,
+      "META": null
+    },
+    {
+      "D": "cnhi.com",
+      "LOS": [
+        "cnhi.com"
+      ],
+      "Q": 102636,
+      "A": 71112,
+      "U": 194813,
+      "M": 172862,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 617,
+      "META": null
+    },
+    {
+      "D": "nigelfrank.com",
+      "LOS": [
+        "candidate-search.nigelfrank.com"
+      ],
+      "Q": 102886,
+      "A": 659264,
+      "U": 80424,
+      "M": 165351,
+      "Country": null,
+      "FD": 1530572400,
+      "LD": 1634540400,
+      "FI": 1227049200,
+      "LI": 1634799600,
+      "S": 10091,
+      "META": null
+    },
+    {
+      "D": "boun.edu.tr",
+      "LOS": [
+        "sanayi.boun.edu.tr"
+      ],
+      "Q": 103366,
+      "A": 7298,
+      "U": 44167,
+      "M": 13354,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2292,
+      "META": null
+    },
+    {
+      "D": "oilpaintings.com",
+      "LOS": [
+        "oilpaintings.com"
+      ],
+      "Q": 106632,
+      "A": 23353334,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1437436800,
+      "LD": 1633158000,
+      "FI": 1354798800,
+      "LI": 1633244400,
+      "S": 86,
+      "META": null
+    },
+    {
+      "D": "correiodopovo.com.br",
+      "LOS": [
+        "cpconhecimento.correiodopovo.com.br/*",
+        "aplicacoes.correiodopovo.com.br/*"
+      ],
+      "Q": 106920,
+      "A": 325661,
+      "U": 157889,
+      "M": 49165,
+      "Country": null,
+      "FD": 1595026800,
+      "LD": 1634540400,
+      "FI": 1320584400,
+      "LI": 1634540400,
+      "S": 1065,
+      "META": null
+    },
+    {
+      "D": "tcia.org",
+      "LOS": [
+        "wageandbenefit.tcia.org/*"
+      ],
+      "Q": 107331,
+      "A": 428940,
+      "U": 1000001,
+      "M": 106272,
+      "Country": null,
+      "FD": 1546470000,
+      "LD": 1633935600,
+      "FI": 1101596400,
+      "LI": 1634626800,
+      "S": 1697,
+      "META": null
+    },
+    {
+      "D": "tms.org",
+      "LOS": [
+        "tms.org"
+      ],
+      "Q": 109244,
+      "A": 28570,
+      "U": 1000001,
+      "M": 40899,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1629788400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1208,
+      "META": null
+    },
+    {
+      "D": "childlife.org",
+      "LOS": [
+        "datacenter.childlife.org/*"
+      ],
+      "Q": 109717,
+      "A": 382147,
+      "U": 213859,
+      "M": 215743,
+      "Country": null,
+      "FD": 1533510000,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 541,
+      "META": null
+    },
+    {
+      "D": "councilforeconed.org",
+      "LOS": [
+        "councilforeconed.org"
+      ],
+      "Q": 109744,
+      "A": 356963,
+      "U": 1000001,
+      "M": 61609,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634281200,
+      "S": 450,
+      "META": null
+    },
+    {
+      "D": "kyotoanimation.co.jp",
+      "LOS": [
+        "kyotoanimation.co.jp"
+      ],
+      "Q": 109941,
+      "A": 314906,
+      "U": 1000001,
+      "M": 101211,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 980290800,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "cine21.com",
+      "LOS": [
+        "cine21.com"
+      ],
+      "Q": 113690,
+      "A": 447284,
+      "U": 1000001,
+      "M": 106017,
+      "Country": null,
+      "FD": 1481756400,
+      "LD": 1623826800,
+      "FI": 1301839200,
+      "LI": 1634540400,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "northernag.net",
+      "LOS": [
+        "livestock.northernag.net",
+        "grains.northernag.net"
+      ],
+      "Q": 114044,
+      "A": 1655100,
+      "U": 1000001,
+      "M": 680234,
+      "Country": null,
+      "FD": 1393196400,
+      "LD": 1633244400,
+      "FI": 1315144800,
+      "LI": 1634540400,
+      "S": 47,
+      "META": null
+    },
+    {
+      "D": "osa.org",
+      "LOS": [
+        "imagebank.osa.org"
+      ],
+      "Q": 114070,
+      "A": 18460,
+      "U": 186591,
+      "M": 17913,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 14089,
+      "META": null
+    },
+    {
+      "D": "nagoya-u.ac.jp",
+      "LOS": [
+        "mail.leading.nagoya-u.ac.jp",
+        "nul.nagoya-u.ac.jp/*"
+      ],
+      "Q": 115037,
+      "A": 8546,
+      "U": 170339,
+      "M": 5763,
+      "Country": null,
+      "FD": 1514934000,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 7767,
+      "META": null
+    },
+    {
+      "D": "nchu.edu.tw",
+      "LOS": [
+        "cdtl.nchu.edu.tw"
+      ],
+      "Q": 116087,
+      "A": 21847,
+      "U": 1000001,
+      "M": 26508,
+      "Country": null,
+      "FD": 1538694000,
+      "LD": 1628060400,
+      "FI": 1320584400,
+      "LI": 1634626800,
+      "S": 8001,
+      "META": null
+    },
+    {
+      "D": "ocali.org",
+      "LOS": [
+        "conference.ocali.org"
+      ],
+      "Q": 117199,
+      "A": 75733,
+      "U": 1000001,
+      "M": 298004,
+      "Country": null,
+      "FD": 1514242800,
+      "LD": 1628060400,
+      "FI": 1102892400,
+      "LI": 1633935600,
+      "S": 685,
+      "META": null
+    },
+    {
+      "D": "bigresource.com",
+      "LOS": [
+        "javascript.bigresource.com"
+      ],
+      "Q": 120255,
+      "A": 564916,
+      "U": 1000001,
+      "M": 336902,
+      "Country": null,
+      "FD": 1633244400,
+      "LD": 1633244400,
+      "FI": 1017529200,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "cerritos.us",
+      "LOS": [
+        "cerritos.us"
+      ],
+      "Q": 120301,
+      "A": 621272,
+      "U": 1000001,
+      "M": 326440,
+      "Country": null,
+      "FD": 1463612400,
+      "LD": 1634540400,
+      "FI": 1072911600,
+      "LI": 1634540400,
+      "S": 733,
+      "META": null
+    },
+    {
+      "D": "clevelandymca.org",
+      "LOS": [
+        "clevelandymca.org"
+      ],
+      "Q": 120324,
+      "A": 6747753,
+      "U": 1000001,
+      "M": 621496,
+      "Country": null,
+      "FD": 1506380400,
+      "LD": 1623135600,
+      "FI": 947977200,
+      "LI": 1634540400,
+      "S": 3596,
+      "META": null
+    },
+    {
+      "D": "orange.ro",
+      "LOS": [
+        "orange.ro"
+      ],
+      "Q": 121892,
+      "A": 44776,
+      "U": 67021,
+      "M": 81003,
+      "Country": null,
+      "FD": 1410476400,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 13696,
+      "META": null
+    },
+    {
+      "D": "cloudlogin.co",
+      "LOS": [
+        "topmarks.us.cloudlogin.co",
+        "download.au.cloudlogin.co",
+        "download.bg.cloudlogin.co",
+        "download.uk.cloudlogin.co",
+        "download.fi.cloudlogin.co",
+        "download.us.cloudlogin.co",
+        "carluz.uk.cloudlogin.co"
+      ],
+      "Q": 123901,
+      "A": 1514050,
+      "U": 1000001,
+      "M": 349423,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1634713200,
+      "S": 159,
+      "META": null
+    },
+    {
+      "D": "kitchentuneup.com",
+      "LOS": [
+        "free-consultation.kitchentuneup.com"
+      ],
+      "Q": 124214,
+      "A": 6718465,
+      "U": 1000001,
+      "M": 339132,
+      "Country": null,
+      "FD": 1623740400,
+      "LD": 1623740400,
+      "FI": 1101423600,
+      "LI": 1634540400,
+      "S": 2037,
+      "META": null
+    },
+    {
+      "D": "theadvocatesforhumanrights.org",
+      "LOS": [
+        "theadvocatesforhumanrights.org"
+      ],
+      "Q": 124575,
+      "A": 383556,
+      "U": 1000001,
+      "M": 302269,
+      "Country": null,
+      "FD": 1424044800,
+      "LD": 1626159600,
+      "FI": 1359032400,
+      "LI": 1633935600,
+      "S": 203,
+      "META": null
+    },
+    {
+      "D": "1sudoku.com",
+      "LOS": [
+        "m.1sudoku.com"
+      ],
+      "Q": 125046,
+      "A": 8024320,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1454972400,
+      "LD": 1633244400,
+      "FI": 1454972400,
+      "LI": 1633244400,
+      "S": 47,
+      "META": null
+    },
+    {
+      "D": "collabedit.com",
+      "LOS": [
+        "collabedit.com"
+      ],
+      "Q": 125207,
+      "A": 526173,
+      "U": 300186,
+      "M": 269433,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634799600,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "originalresorts.com",
+      "LOS": [
+        "pueblitoluxury.originalresorts.com"
+      ],
+      "Q": 125670,
+      "A": 487624,
+      "U": 1000001,
+      "M": 264077,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1628060400,
+      "FI": 1320584400,
+      "LI": 1633935600,
+      "S": 688,
+      "META": null
+    },
+    {
+      "D": "choctawnation.com",
+      "LOS": [
+        "techapplication.choctawnation.com"
+      ],
+      "Q": 126133,
+      "A": 311896,
+      "U": 86697,
+      "M": 103289,
+      "Country": null,
+      "FD": 1572735600,
+      "LD": 1633244400,
+      "FI": 955058400,
+      "LI": 1634799600,
+      "S": 350,
+      "META": null
+    },
+    {
+      "D": "budgetbicyclectr.com",
+      "LOS": [
+        "budgetbicyclectr.com"
+      ],
+      "Q": 126216,
+      "A": 1997674,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1415574000,
+      "LD": 1630998000,
+      "FI": 1296478800,
+      "LI": 1633244400,
+      "S": 10,
+      "META": null
+    },
+    {
+      "D": "novate.ru",
+      "LOS": [
+        "novate.ru"
+      ],
+      "Q": 126827,
+      "A": 11613,
+      "U": 244188,
+      "M": 35684,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "therapysites.com",
+      "LOS": [
+        "my.therapysites.com/*"
+      ],
+      "Q": 128496,
+      "A": 1214328,
+      "U": 229361,
+      "M": 389783,
+      "Country": null,
+      "FD": 1409443200,
+      "LD": 1633244400,
+      "FI": 1315749600,
+      "LI": 1634713200,
+      "S": 6496,
+      "META": null
+    },
+    {
+      "D": "buffed.de",
+      "LOS": [
+        "forum.buffed.de"
+      ],
+      "Q": 129033,
+      "A": 463390,
+      "U": 101530,
+      "M": 54794,
+      "Country": null,
+      "FD": 1412121600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 484,
+      "META": null
+    },
+    {
+      "D": "cranfield.ac.uk",
+      "LOS": [
+        "dspace.lib.cranfield.ac.uk",
+        "cclibthink-1.dmz.cranfield.ac.uk",
+        "reports.aerade.cranfield.ac.uk"
+      ],
+      "Q": 129105,
+      "A": 11804,
+      "U": 114706,
+      "M": 9990,
+      "Country": null,
+      "FD": 1554246000,
+      "LD": 1634540400,
+      "FI": 1315144800,
+      "LI": 1634799600,
+      "S": 35172,
+      "META": null
+    },
+    {
+      "D": "titanhq.com",
+      "LOS": [
+        "arctitan-us1.titanhq.com",
+        "arctitan-us2.titanhq.com/*",
+        "archive-us.titanhq.com/*",
+        "archive-eu.titanhq.com/*",
+        "arctitan-au1.titanhq.com",
+        "archive-uk.titanhq.com/*"
+      ],
+      "Q": 130230,
+      "A": 10899863,
+      "U": 101947,
+      "M": 411227,
+      "Country": null,
+      "FD": 1572735600,
+      "LD": 1634626800,
+      "FI": 1440608683,
+      "LI": 1634799600,
+      "S": 5162,
+      "META": null
+    },
+    {
+      "D": "clevelandstatecc.edu",
+      "LOS": [
+        "clevelandstatecc.edu"
+      ],
+      "Q": 130522,
+      "A": 616288,
+      "U": 1000001,
+      "M": 358836,
+      "Country": null,
+      "FD": 1426719600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2082,
+      "META": null
+    },
+    {
+      "D": "kerala.gov.in",
+      "LOS": [
+        "hpwc.kerala.gov.in"
+      ],
+      "Q": 130814,
+      "A": 17002,
+      "U": 81559,
+      "M": 14719,
+      "Country": null,
+      "FD": 1514934000,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 8030,
+      "META": null
+    },
+    {
+      "D": "networkats.com",
+      "LOS": [
+        "asbo.dev.networkats.com"
+      ],
+      "Q": 130953,
+      "A": 434554,
+      "U": 1000001,
+      "M": 544459,
+      "Country": null,
+      "FD": 1565478000,
+      "LD": 1629529200,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 16141,
+      "META": null
+    },
+    {
+      "D": "techinvestornews.com",
+      "LOS": [
+        "techinvestornews.com"
+      ],
+      "Q": 131209,
+      "A": 388695,
+      "U": 1000001,
+      "M": 338261,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1633935600,
+      "S": 299,
+      "META": null
+    },
+    {
+      "D": "tabletennis11.com",
+      "LOS": [
+        "tabletennis11.com"
+      ],
+      "Q": 132612,
+      "A": 913895,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1389567600,
+      "LD": 1634713200,
+      "FI": 1336744800,
+      "LI": 1634713200,
+      "S": 1075,
+      "META": null
+    },
+    {
+      "D": "testwizard.com",
+      "LOS": [
+        "testwizard.com"
+      ],
+      "Q": 132625,
+      "A": 10732540,
+      "U": 128892,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1417042800,
+      "LD": 1633935600,
+      "FI": 1325854800,
+      "LI": 1633935600,
+      "S": 367,
+      "META": null
+    },
+    {
+      "D": "cmo.com.au",
+      "LOS": [
+        "cmo.com.au"
+      ],
+      "Q": 133114,
+      "A": 296269,
+      "U": 1000001,
+      "M": 35058,
+      "Country": null,
+      "FD": 1526511600,
+      "LD": 1623135600,
+      "FI": 1367676000,
+      "LI": 1634799600,
+      "S": 8331,
+      "META": null
+    },
+    {
+      "D": "csiweb.com",
+      "LOS": [
+        "boardportal.csiweb.com/*",
+        "firstneighbor.csiweb.com/*",
+        "ksbankers.csiweb.com/*",
+        "libertybankal.csiweb.com/*",
+        "mcmsecure.csiweb.com/*"
+      ],
+      "Q": 133406,
+      "A": 128725,
+      "U": 21010,
+      "M": 327818,
+      "Country": null,
+      "FD": 1467068400,
+      "LD": 1633935600,
+      "FI": 1315144800,
+      "LI": 1634799600,
+      "S": 3328,
+      "META": null
+    },
+    {
+      "D": "kcsm.org",
+      "LOS": [
+        "kcsm.org"
+      ],
+      "Q": 133702,
+      "A": 38106,
+      "U": 1000001,
+      "M": 305478,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1631862000,
+      "FI": 952038000,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "tse.go.cr",
+      "LOS": [
+        "ride.tse.go.cr"
+      ],
+      "Q": 134177,
+      "A": 397953,
+      "U": 110522,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1554159600,
+      "LD": 1633935600,
+      "FI": 1129154400,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "triketalk.com",
+      "LOS": [
+        "triketalk.com/*"
+      ],
+      "Q": 135598,
+      "A": 13419380,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1621062000,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "tdx.cat",
+      "LOS": [
+        "tdx.cat"
+      ],
+      "Q": 136992,
+      "A": 38450,
+      "U": 171344,
+      "M": 61659,
+      "Country": null,
+      "FD": 1469574000,
+      "LD": 1634540400,
+      "FI": 1315144800,
+      "LI": 1634540400,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "telangana.gov.in",
+      "LOS": [
+        "magazine.telangana.gov.in"
+      ],
+      "Q": 138638,
+      "A": 32842,
+      "U": 224746,
+      "M": 34180,
+      "Country": null,
+      "FD": 1485298800,
+      "LD": 1633417200,
+      "FI": 1402527600,
+      "LI": 1634713200,
+      "S": 8226,
+      "META": null
+    },
+    {
+      "D": "tristarproductions.com",
+      "LOS": [
+        "tristarproductions.com"
+      ],
+      "Q": 138701,
+      "A": 653860,
+      "U": 1000001,
+      "M": 599916,
+      "Country": null,
+      "FD": 1435791600,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 217,
+      "META": null
+    },
+    {
+      "D": "bestfarmbuys.com",
+      "LOS": [
+        "bestfarmbuys.com"
+      ],
+      "Q": 139316,
+      "A": 13618116,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 207,
+      "META": null
+    },
+    {
+      "D": "campingroadtrip.com",
+      "LOS": [
+        "campingroadtrip.com"
+      ],
+      "Q": 140658,
+      "A": 56283,
+      "U": 1000001,
+      "M": 483541,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1633935600,
+      "S": 125,
+      "META": null
+    },
+    {
+      "D": "cetconnect.org",
+      "LOS": [
+        "events.cetconnect.org"
+      ],
+      "Q": 141019,
+      "A": 739137,
+      "U": 1000001,
+      "M": 479984,
+      "Country": null,
+      "FD": 1515625200,
+      "LD": 1634540400,
+      "FI": 1100127600,
+      "LI": 1634799600,
+      "S": 1029,
+      "META": null
+    },
+    {
+      "D": "tuscco.com",
+      "LOS": [
+        "tuscco.com"
+      ],
+      "Q": 143712,
+      "A": 1425765,
+      "U": 1000001,
+      "M": 578169,
+      "Country": null,
+      "FD": 1430872052,
+      "LD": 1634799600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 950,
+      "META": null
+    },
+    {
+      "D": "bioped.com",
+      "LOS": [
+        "am.bioped.com/*"
+      ],
+      "Q": 144412,
+      "A": 11891125,
+      "U": 1000001,
+      "M": 666486,
+      "Country": null,
+      "FD": 1632207600,
+      "LD": 1633244400,
+      "FI": 1320584400,
+      "LI": 1633935600,
+      "S": 2029,
+      "META": null
+    },
+    {
+      "D": "koramgame.com",
+      "LOS": [
+        "sf.koramgame.com"
+      ],
+      "Q": 145639,
+      "A": 30209,
+      "U": 128767,
+      "M": 170135,
+      "Country": null,
+      "FD": 1391565887,
+      "LD": 1628060400,
+      "FI": 1262386800,
+      "LI": 1634799600,
+      "S": 7667,
+      "META": null
+    },
+    {
+      "D": "b2rmusic.com",
+      "LOS": [
+        "training.b2rmusic.com/*"
+      ],
+      "Q": 146056,
+      "A": 1228534,
+      "U": 1000001,
+      "M": 333521,
+      "Country": null,
+      "FD": 1485990000,
+      "LD": 1633244400,
+      "FI": 1367676000,
+      "LI": 1633935600,
+      "S": 686,
+      "META": null
+    },
+    {
+      "D": "beanstalkapp.com",
+      "LOS": [
+        "status.beanstalkapp.com"
+      ],
+      "Q": 146076,
+      "A": 332030,
+      "U": 199374,
+      "M": 116053,
+      "Country": null,
+      "FD": 1386204565,
+      "LD": 1634540400,
+      "FI": 1315749600,
+      "LI": 1634799600,
+      "S": 956,
+      "META": null
+    },
+    {
+      "D": "trophies2go.com",
+      "LOS": [
+        "trophies2go.com/*"
+      ],
+      "Q": 147178,
+      "A": 1333830,
+      "U": 1000001,
+      "M": 978278,
+      "Country": null,
+      "FD": 1510009200,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634713200,
+      "S": 616,
+      "META": null
+    },
+    {
+      "D": "charlestonrealtors.com",
+      "LOS": [
+        "charlestonrealtors.com"
+      ],
+      "Q": 149885,
+      "A": 883435,
+      "U": 1000001,
+      "M": 902084,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1301839200,
+      "LI": 1633935600,
+      "S": 153,
+      "META": null
+    },
+    {
+      "D": "circuitmaker.com",
+      "LOS": [
+        "circuitmaker.com"
+      ],
+      "Q": 149904,
+      "A": 323928,
+      "U": 1000001,
+      "M": 81997,
+      "Country": null,
+      "FD": 1507244400,
+      "LD": 1633244400,
+      "FI": 957909600,
+      "LI": 1634799600,
+      "S": 5954,
+      "META": null
+    },
+    {
+      "D": "nextthreedays.com",
+      "LOS": [
+        "nextthreedays.com"
+      ],
+      "Q": 150512,
+      "A": 7004232,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1630998000,
+      "FI": 1254607200,
+      "LI": 1632466800,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "telecom.com.ar",
+      "LOS": [
+        "telecom.com.ar"
+      ],
+      "Q": 150881,
+      "A": 309303,
+      "U": 90244,
+      "M": 182246,
+      "Country": null,
+      "FD": 1519686000,
+      "LD": 1632898800,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 15573,
+      "META": null
+    },
+    {
+      "D": "oregonexplorer.info",
+      "LOS": [
+        "imagery.oregonexplorer.info"
+      ],
+      "Q": 152517,
+      "A": 417651,
+      "U": 1000001,
+      "M": 452796,
+      "Country": null,
+      "FD": 1541199600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 57,
+      "META": null
+    },
+    {
+      "D": "themoviebox.net",
+      "LOS": [
+        "themoviebox.net"
+      ],
+      "Q": 153414,
+      "A": 386830,
+      "U": 1000001,
+      "M": 132046,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633935600,
+      "FI": 1054591200,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "2folie.com",
+      "LOS": [
+        "videos.2folie.com"
+      ],
+      "Q": 153474,
+      "A": 16323002,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1633244400,
+      "FI": 1309816800,
+      "LI": 1633935600,
+      "S": 564,
+      "META": null
+    },
+    {
+      "D": "bebitalia.com",
+      "LOS": [
+        "meetdesign.bebitalia.com"
+      ],
+      "Q": 153614,
+      "A": 312399,
+      "U": 1000001,
+      "M": 52879,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1633244400,
+      "FI": 1317560400,
+      "LI": 1634799600,
+      "S": 5717,
+      "META": null
+    },
+    {
+      "D": "bni.co.id",
+      "LOS": [
+        "divisiopr.bni.co.id/*"
+      ],
+      "Q": 153651,
+      "A": 13840,
+      "U": 35372,
+      "M": 56169,
+      "Country": null,
+      "FD": 1555023600,
+      "LD": 1634540400,
+      "FI": 1320584400,
+      "LI": 1634799600,
+      "S": 4138,
+      "META": null
+    },
+    {
+      "D": "kualumni.org",
+      "LOS": [
+        "kualumni.org"
+      ],
+      "Q": 154210,
+      "A": 60178,
+      "U": 170275,
+      "M": 702769,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1629183600,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 1421,
+      "META": null
+    },
+    {
+      "D": "1000chistes.com",
+      "LOS": [
+        "1000chistes.com/*"
+      ],
+      "Q": 155579,
+      "A": 2296438,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1592780400,
+      "LD": 1626159600,
+      "FI": 1349960400,
+      "LI": 1632466800,
+      "S": 0,
+      "META": null
+    },
+    {
+      "D": "brainerd.net",
+      "LOS": [
+        "userportal.brainerd.net"
+      ],
+      "Q": 155760,
+      "A": 1662056,
+      "U": 121168,
+      "M": 873524,
+      "Country": null,
+      "FD": 1527894000,
+      "LD": 1633935600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 7935,
+      "META": null
+    },
+    {
+      "D": "cityofpigeonforge.com",
+      "LOS": [
+        "cityofpigeonforge.com"
+      ],
+      "Q": 155833,
+      "A": 701892,
+      "U": 1000001,
+      "M": 584433,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1634540400,
+      "FI": 1294059600,
+      "LI": 1634540400,
+      "S": 3333,
+      "META": null
+    },
+    {
+      "D": "cvli.com",
+      "LOS": [
+        "cvli.com"
+      ],
+      "Q": 155907,
+      "A": 2115788,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 2459,
+      "META": null
+    },
+    {
+      "D": "kentfeeds.com",
+      "LOS": [
+        "test.kentfeeds.com"
+      ],
+      "Q": 156380,
+      "A": 990966,
+      "U": 1000001,
+      "M": 611257,
+      "Country": null,
+      "FD": 1387148400,
+      "LD": 1629183600,
+      "FI": 1294059600,
+      "LI": 1634799600,
+      "S": 1924,
+      "META": null
+    },
+    {
+      "D": "newlifenursery1.net",
+      "LOS": [
+        "newlifenursery1.net"
+      ],
+      "Q": 157425,
+      "A": 24696130,
+      "U": 1000001,
+      "M": 1000001,
+      "Country": null,
+      "FD": 1385679600,
+      "LD": 1633244400,
+      "FI": 1364302800,
+      "LI": 1633244400,
+      "S": 386,
+      "META": null
+    },
+    {
+      "D": "caate.net",
+      "LOS": [
+        "e-accred.caate.net/*"
+      ],
+      "Q": 157449,
+      "A": 141813,
+      "U": 1000001,
+      "M": 295822,
+      "Country": null,
+      "FD": 1588719600,
+      "LD": 1633935600,
+      "FI": 1152741600,
+      "LI": 1633935600,
+      "S": 205,
+      "META": null
+    },
+    {
+      "D": "cgmh.org.tw",
+      "LOS": [
+        "lib3.cgmh.org.tw/*"
+      ],
+      "Q": 157928,
+      "A": 54646,
+      "U": 284311,
+      "M": 132323,
+      "Country": null,
+      "FD": 1603494000,
+      "LD": 1633244400,
+      "FI": 1541199600,
+      "LI": 1633935600,
+      "S": 0,
+      "META": null
+    }
+  ]
+}

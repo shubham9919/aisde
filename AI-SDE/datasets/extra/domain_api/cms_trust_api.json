@@ -1,0 +1,18 @@
+{
+  "Domain": "cms.gov",
+  "DBRecord": {
+    "EarliestRecord": 1034028000,
+    "LatestUpdate": 1635145200,
+    "PremiumTechs": 37,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 22865,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

@@ -1,0 +1,18 @@
+{
+  "Domain": "virgin.com",
+  "DBRecord": {
+    "EarliestRecord": 951778800,
+    "LatestUpdate": 1635231600,
+    "PremiumTechs": 24,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": true,
+    "Parked": false,
+    "Spend": 3463,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

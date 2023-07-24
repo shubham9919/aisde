@@ -1,0 +1,1001 @@
+,company,hostname,Breach_Possibility,Breach_Possibility_Probability
+0,the bristal assisted living,https://thebristal.com/,0,0.27568308
+1,abeo,http://abeo.com,0,0.06107923
+2,the broussard group,https://thebroussardgroup.com/,0,0.09351568
+3,abode healthcare,http://abodehealthcare.com/,0,0.030057538
+4,access nurses,http://accessnursing.com,0,0.066261925
+5,the goodman group,https://thegoodmangroup.com/,0,0.027021056
+6,acon laboratories,http://aconlabs.com,0,0.088674486
+7,thomas health,https://thomashealth.org,0,0.04968567
+8,american clinical solutions,http://acslabtest.com/,0,0.062693775
+9,trimedx,https://trimedx.com/,0,0.0050620395
+10,adeptus health,http://adhc.com/,0,0.1582127
+11,truecore behavioral solutions,https://truecorebehavioral.com/,0,0.022834554
+12,upper allegheny health system,https://uahs.org/,0,0.20299968
+13,virence,https://virencehealth.com/,0,0.17866729
+14,advanced care staffing,http://advancedcarestaffing.com,0,0.046883583
+15,ahmc healthcare,http://ahmchealth.com,0,0.09493643
+16,wesley family services,https://wfspa.org/,0,0.02318926
+17,adapthealth,https://www.adapthealth.com/,0,0.272407
+18,advanced healthcare solutions,http://ahstexas.com,0,0.04595659
+19,adelante healthcare,https://www.adelantehealthcare.com,0,0.42300376
+20,advanced correctional healthcare,https://www.advancedch.com/,0,0.059576
+21,alpha systems,http://alpha-sys.com,0,0.19580449
+22,advantmed,https://www.advantmed.com/,0,0.005335155
+23,american enterprise group,http://americanenterprise.com,0,0.0633723
+24,advantum health,https://www.advantumhealth.com,0,0.00048605175
+25,adventist healthcare,https://www.adventisthealthcare.com/,0,0.012599855
+26,american family care,http://americanfamilycare.com,0,0.09613417
+27,american health connection,http://americanhealthconnection.com,0,0.40463954
+28,aft,https://www.aft.org,0,0.04056662
+29,american maintenance,http://americanmaint.net,0,0.008202902
+30,tunstall americas,http://americas.tunstall.com/,0,0.009514816
+31,access,https://www.ahcpllc.com/,0,0.46753937
+32,alteon health,https://www.alteonhealth.com/,0,0.029559478
+33,angel staffing,http://angelstaffing.net/,0,0.13727826
+34,altru health system,https://www.altru.org/,0,0.0056592934
+35,alvarez & marsal healthcare ventures,https://www.alvarezandmarsal.com/industries/healthcare,High Possibility,0.50982815
+36,advanced pain management,http://apmhealth.com,High Possibility,0.97208226
+37,anderson regional medical center,https://www.andersonregional.org/,0,0.0015650324
+38,apollomed,http://apollomed.net,0,0.03066035
+39,apothecary products,https://www.apothecaryproducts.com/,0,0.0100690285
+40,arkansas children's hospital,http://archildrens.org,High Possibility,0.970192
+41,ascom,https://www.ascom.com/north-america/,High Possibility,0.9479799
+42,aureus group,http://aureusgroup.com,0,0.025183477
+43,avalere health,http://avalere.com,0,0.006674727
+44,aspen medical,https://www.aspenmedical.com/,0,0.007978629
+45,"avanti hospitals, llc",http://avantihospitals.com,0,0.11550168
+46,baymark health services,http://baymark.com/,0,0.23562923
+47,principal senior living group,http://bentonhouse.com,0,0.01980756
+48,atlanta va medical center,https://www.atlanta.va.gov/,High Possibility,0.86214614
+49,blue shield of california foundation,http://blueshieldcafoundation.org,High Possibility,0.5841527
+50,atrius health,https://www.atriushealth.org/,0,0.007863932
+51,bswift,http://bswift.com,0,0.021122387
+52,uab comprehensive cancer center,http://cancercenter.uab.edu/,High Possibility,0.86214614
+53,aureus medical,https://www.aureusmedical.com,0,0.00064097735
+54,cano health,http://canohealth.com/,0,0.03635947
+55,capital health care network,http://capitalhealthservices.com,0,0.17505556
+56,avera medical group,https://www.avera.org/doctors/avera-medical-group/,High Possibility,0.87129855
+57,care finders total care,http://carefinders.org/,0,0.018762795
+58,carespring healthcare management,http://carespring.com,High Possibility,0.9169945
+59,blue cross blue shield of arizona,https://www.azblue.com/,0,0.10351818
+60,barton associates,https://www.bartonassociates.com/,0,0.0040199957
+61,"caring professionals, inc.",http://caringprofessionals.com,0,0.046592265
+62,caris healthcare,http://carishealthcare.com,0,0.16209221
+63,bassett healthcare network,https://www.bassett.org/,0,0.03559094
+64,carolinas hospital system,http://carolinashospital.com,0,0.038408943
+65,bay cove human services,https://www.baycovehumanservices.org/,0,0.0017104856
+66,bayhealth,https://www.bayhealth.org/,0,0.002151468
+67,international center for clinical excellence,http://centerforclinicalexcellence.com/,0,0.045058906
+68,christel house international,http://christelhouse.org,0,0.04444492
+69,blue cross and blue shield of alabama,https://www.bcbsal.org,0,0.18531105
+70,citiustech,http://citiustech.com,0,0.039446305
+71,foothills hospital,https://www.bch.org,0,0.03555865
+72,clearview regional medical center,http://clearviewregionalmedicalcenter.com,0,0.19296496
+73,berkshire health systems,https://www.berkshirehealthsystems.org,0,0.0015296603
+74,care options for kids,http://cofk.com,High Possibility,0.85362613
+75,bestcare,https://www.bestcare.org,High Possibility,0.7341499
+76,bingham memorial hospital,https://www.binghammemorial.org,0,0.0031641228
+77,collective health,http://collectivehealth.com,0,0.016683538
+78,comforcehealth,http://comforcehealth.acsicorp.com/,High Possibility,0.86214614
+79,mississippi valley regional blood center,https://www.bloodcenter.org,0,0.12323947
+80,"bluespire, a glynndevins company",https://www.bluespiremarketing.com/,0,0.07581851
+81,concentric healthcare staffing,http://concentrichealthcare.com,0,0.016828535
+82,bozeman health,https://www.bozemanhealth.org/,0,0.00027300103
+83,coordinated health,http://coordinatedhealth.com,0,0.003775098
+84,bridges health,https://www.bridgesok.com/,0,0.04807439
+85,craneware,http://craneware.com,0,0.14127107
+86,bronson healthcare,https://www.bronsonhealth.com/,0,0.017857593
+87,citrus valley health partners,http://cvhp.org/careers,High Possibility,0.508608
+88,boca raton regional hospital,https://www.brrh.com/,0,0.019259488
+89,decision resources group,http://decisionresourcesgroup.com,0,0.042672575
+90,bon secours charity health system,https://www.bschs.org/,0,0.06011231
+91,"dependable health services, inc.",http://dependablehealth.com,0,0.048263684
+92,bull communications inc,https://www.bullcommunicationsinc.com,0,0.07341935
+93,detect lab,http://detectlab.com,0,0.068770856
+94,burke rehabilitation hospital,https://www.burke.org/,0,0.019330762
+95,butler health system,https://www.butlerhealthsystem.org/,0,0.0005962012
+96,djo global,http://djoglobal.com,0,0.11708658
+97,dogwood forest,http://dogwoodforest.com,High Possibility,0.54006433
+98,byrne,https://www.byrne.com/,0,0.0071443957
+99,c3i solutions,https://www.c3isolutions.com/,0,0.0025683579
+100,dove healthcare,http://dovehealthcare.com,0,0.08405382
+101,call4health,https://www.call4health.com/,0,0.014764612
+102,dude solutions,http://dudesolutions.com,High Possibility,0.84370995
+103,ehealth africa,http://ehealthafrica.org/,0,0.031898655
+104,cancer treatment centers of america,https://www.cancercenter.com/,0,0.07623453
+105,elite medical scribes,http://elitemedicalscribes.com,0,0.022897447
+106,canyon vista medical center,https://www.canyonvistamedicalcenter.com/,0,0.036605965
+107,erbe usa,http://erbe-usa.com,0,0.15893796
+108,etransmedia technology,http://etransmedia.com,0,0.3712533
+109,cap global consulting,https://www.capglobal.net/,0,0.14720188
+110,evicore healthcare,http://evicore.com/,0,0.04692551
+111,"carecloud, inc.",https://www.carecloud.com/,0,0.044431493
+112,careerstaff unlimited,https://www.careerstaff.com/,0,0.020997973
+113,eye care leaders,http://eyecareleaders.com/,0,0.01573951
+114,carolinas healthcare system blue ridge,https://www.carolinashealthcareblueridge.org/,0,0.020869479
+115,faultless healthcare linen,http://faultlesslinen.com,0,0.091793016
+116,carson tahoe health,https://www.carsontahoe.com,0,0.1730492
+117,fdr services corp.,http://fdrcorp.com,High Possibility,0.8554927
+118,carter bloodcare,https://www.carterbloodcare.org/,0,0.024518298
+119,cleveland fes center,http://fescenter.org,0,0.020935608
+120,family healthcare network,http://fhcn.org,0,0.0641995
+121,casa colina hospital,https://www.casacolina.org,0,0.058439553
+122,figmd,http://figmd.com,0,0.008349909
+123,catawba valley medical center,https://www.catawbavalleyhealth.org/,0,0.012009936
+124,frensenius vascular care,http://freseniusvascularcare.com,0,0.079618596
+125,geneva woods pharmacy and health care services,http://genevawoods.com,0,0.077729195
+126,cmc,https://www.catholicmedicalcenter.org/,0,0.028292935
+127,getix,http://getixhealth.com,0,0.077686846
+128,centerlight health system,https://www.centerlight.org/,0,0.045051407
+129,grace healthcare services,http://gracehcs.com,0,0.061233163
+130,cfg health systems,https://www.cfghealthsystems.com,0,0.074760295
+131,greenfield rehabilitation agency,http://grawi.com,0,0.0918418
+132,child & family support services,https://www.cfss.com/,0,0.023859723
+133,guardian healthcare providers,http://guardianhealthcare.com,0,0.01559687
+134,chelsea jewish lifecare,https://www.chelseajewish.org,0,0.013432463
+135,guardian healthcare,http://guardmyhealth.com,0,0.14221907
+136,children's specialized hospital,https://www.childrens-specialized.org/,0,0.010035661
+137,hbcs,http://hbcs.org,0,0.110479794
+138,childserve,https://www.childserve.org/,0,0.0061772214
+139,chkd,https://www.chkd.org/,0,0.015590196
+140,hca,http://hcahealthcare.com,High Possibility,0.9925103
+141,community hospital of monterey,https://www.chomp.org,0,0.082495674
+142,ciox health,https://www.cioxhealth.com,0,0.0053844783
+143,clinica sierra vista,https://www.clinicasierravista.org,0,0.0013006118
+144,the health care management group,http://hcmg.com,0,0.06051109
+145,healix,http://healix.net/,0,0.2430138
+146,nursing home quality,https://www.cms.gov,0,0.123752214
+147,health4brands,http://health4brands.com,0,0.13489401
+148,the coding institute,https://www.codinginstitute.com/,0,0.0018414494
+149,health advocate,http://healthadvocate.com,0,0.11961042
+150,colorado coalition,https://www.coloradocoalition.org,0,0.06595694
+151,healthcare mn,http://healthcare.mn/,0,0.022676386
+152,healthfirst,http://healthfirst.org/,High Possibility,0.9823131
+153,community partners,https://www.communitypartnersinc.org/$1,0,0.019819964
+154,compass health,https://www.compasshealth.org/,0,0.0011663468
+155,healthcare information services,http://healthinfoservice.com,0,0.009735042
+156,healthsmart holdings,http://healthsmart.com,0,0.09670325
+157,confluence health,https://www.confluencehealth.org/,0,0.10215893
+158,heska,http://heska.com,0,0.02760116
+159,connexion point,https://www.connexionpoint.com/,0,0.012864511
+160,continuum health alliance,https://www.continuumhealth.net,0,0.17517188
+161,continucare corp,https://www.convivacarecenters.com/,0,0.0027252198
+162,home care assistance,http://homecareassistance.com,0,0.07755865
+163,cottage health,https://www.cottagehealthsystem.org,0,0.023123173
+164,independent living systems,http://ilshealthservices.com,0,0.23471954
+165,canton potsdam hospital,https://www.cphospital.org/,0,0.02163933
+166,bracco diagnostics,http://imaging.bracco.com,0,0.0050903047
+167,crisp regional hospital,https://www.crispregional.org,0,0.03792354
+168,innovacare health,http://innovacarehealth.com/,0,0.029284652
+169,invitae,http://invitae.com,High Possibility,0.9658352
+170,cross country staffing,https://www.crosscountrystaffing.com/,0,0.0027422116
+171,john theurer cancer center,http://jtcancercenter.org,0,0.49538302
+172,dameron hospital,https://www.dameronhospital.org/,0,0.027922498
+173,daviess community hospital,https://www.dchosp.org/,0,0.05013434
+174,key rehabilitation,http://keyrehab.com,0,0.18101133
+175,diversified healthcare trust,https://www.dhcreit.com/home/default.aspx,0,0.0154626025
+176,lakeview regional medical center,http://lakeviewregional.com,High Possibility,0.6185781
+177,district council 9,https://www.districtcouncil9.net,0,0.022367142
+178,lancaster general health,http://lancastergeneralhealth.org/,0,0.02542784
+179,lefleur transportation,http://lefleur.net,High Possibility,0.6112977
+180,legend healthcare,http://legendhealth.com,0,0.21747497
+181,dmg,https://www.dmgaz.org/,High Possibility,0.86214614
+182,liberty healthcare management,http://libertyhomecare.com,0,0.08507936
+183,lifeline vascular access,http://lifelinevascularaccess.com/,0,0.08890073
+184,doctor on demand,https://www.doctorondemand.com,0,0.07027418
+185,lifematters,http://lifemattersusa.com,0,0.04319901
+186,doctors hospital of manteca,https://www.doctorsmanteca.com,0,0.027071973
+187,liquidagents healthcare,http://liquidagents.com,0,0.24222063
+188,edifecs,https://www.edifecs.com,0,0.0005725095
+189,empres healthcare,https://www.empres.com/,0,0.012730983
+190,englewood health,https://www.englewoodhealth.org,0,0.0014176193
+191,living innovations,http://livinginnovations.com,0,0.02725913
+192,episource,https://www.episource.com/,0,0.020930635
+193,loyal source government services,http://loyalsource.com,0,0.06203221
+194,erie family health centers,https://www.eriefamilyhealth.org/,0,0.045702606
+195,medical associates clinic & health plans,http://mahealthcare.com,0,0.06814144
+196,mankato clinic,http://mankatoclinic.com,0,0.33609197
+197,eso,https://www.eso.com/,0,0.017514423
+198,medical edge,http://med-edge.com,0,0.4202735
+199,family health centers of san diego,https://www.fhcsd.org/,0,0.024129676
+200,medfirst consulting healthcare staffing,http://medfirst-consulting.com,0,0.115770034
+201,"medical center clinic, p.a",http://medicalcenterclinic.com,0,0.059115976
+202,firsthealth of the carolinas,https://www.firsthealth.org/,0,0.029271543
+203,medicalodges,http://medicalodges.com,High Possibility,0.5920874
+204,fort healthcare,https://www.forthealthcare.com/,0,0.061986975
+205,medimpact healthcare systems,http://medimpact.com,0,0.087723926
+206,frederick health,https://www.frederickhealth.org/,0,0.00681949
+207,medtrust,http://medtruststaffing.com,0,0.09676448
+208,fundamental longterm care holdings,https://www.fundltc.com/,0,0.012476949
+209,merritt hawkins,http://merritthawkins.com,0,0.0634625
+210,garfield medical center,https://www.garfieldmedicalcenter.com/,0,0.002576447
+211,methodist family health,http://methodistfamily.org,0,0.06250725
+212,garden city hospital,https://www.gch.org/,0,8.23216e-05
+213,metropolitan healthcare services,http://metropolitanhealthcareservices.com,High Possibility,0.9447983
+214,genova diagnostics,https://www.gdx.net,High Possibility,0.99131083
+215,mimedx group,http://mimedx.com/,0,0.05418276
+216,monarch healthcare management,http://monarchmn.com,0,0.047482476
+217,genesis healthcare system,https://www.genesishcs.org/,0,0.022648908
+218,morehead hospital,http://morehead.org,0,0.43600836
+219,genomics institute of the novartis research foundation,https://www.gnf.nibr.com,High Possibility,0.86214614
+220,management recruiters inc ‰ûò the boston group,http://mri-boston.com,0,0.07869065
+221,biotelemetry,https://www.gobio.com,0,0.010456818
+222,great plains health alliance,https://www.gpha.com,0,0.0057236487
+223,cleveland clinic,http://my.clevelandclinic.org,0,0.018853327
+224,national healthcare associates (nhca),http://nathealthcare.com/,0,0.038123272
+225,grand view health,https://www.gvh.org/,0,0.0043460284
+226,golden valley memorial healthcare,https://www.gvmh.org/,0,0.018803706
+227,national staffing solutions,http://nationalstaff.com,0,0.044900224
+228,halyard health inc,https://www.halyardhealth.com/,0,0.25286016
+229,newsok,http://newsok.com/,0,0.43687314
+230,northeast health system,http://nhs-ok.org,0,0.18792641
+231,hamilton center,https://www.hamiltoncenter.org/,0,0.005421788
+232,hancock regional hospital,https://www.hancockregionalhospital.org/,0,0.0055392473
+233,northwestern memorial healthcare,http://nm.org,0,0.11190192
+234,harris healthcare,https://www.harrishealthcare.com,0,0.24141149
+235,new york health care inc.,http://nyhc.com,0,0.11694123
+236,hennepin healthcare,https://www.hennepinhealthcare.org,0,0.11629944
+237,ogden tomotherapy,http://ogdenregional.com,0,0.041555677
+238,heritage valley health system,https://www.heritagevalley.org/,0,0.060113735
+239,o'neill healthcare,http://oneillhc.com,0,0.0066290097
+240,openmrs,http://openmrs.org,0,0.0027532447
+241,houston healthcare,https://www.hhc.org/home,0,0.07062109
+242,optim healthcare,http://optimhealth.com,0,0.047437076
+243,highlands medical center,https://www.highlandsmedcenter.com/www,0,0.0006573936
+244,paris companies,http://parisco.com,0,0.11681759
+245,hill physicians medical group,https://www.hillphysicians.com/,0,0.023515156
+246,pharmscript llc,http://pharmscript.com,0,0.025283441
+247,pinehurst medical clinic,http://pinehurstmedical.com,High Possibility,0.5071173
+248,holland hospital,https://www.hollandhospital.org/,0,0.0019671256
+249,pipestone system/pipestone veterinary services,http://pipestonesystem.com,0,0.18864377
+250,portsmouth regional ambulatory surgery center,http://prasc.com,0,0.30096245
+251,hollister,https://www.hollister.com/,0,0.03953091
+252,preferred home care of ny,http://preferredhcny.com,High Possibility,0.612373
+253,holy redeemer health system,https://www.holyredeemer.com/,0,0.09081291
+254,primary care associates,http://primarycareak.com,High Possibility,0.9481682
+255,homebridge,https://www.homebridgeca.org/,0,0.03500238
+256,lamplight communities,http://prioritylc.com,0,0.13562526
+257,hospicomm,https://www.hospicomm.com/,0,0.040736448
+258,hrhcare,https://www.hrhcare.org/,0,0.014001967
+259,nurses prn,http://prnhealthservices.com,0,0.48079476
+260,hshs st. joseph's hospital,https://www.hshs.org/stjosephschippewafalls/,0,0.047964636
+261,publicis healthcare communications,http://publicishealthcare.com/,0,0.3307454
+262,hutchinson regional healthcare system,https://www.hutchregional.com/,0,0.013997248
+263,randolph hospital,http://randolphhospital.org,0,0.2510367
+264,touchpoint support services,https://www.iamtouchpoint.com/,0,0.030711688
+265,recco home care service inc.,http://reccohomecare.com,0,0.072456956
+266,icare health network,https://www.icarehn.com/,0,0.14485988
+267,receivables management partners,http://receivemorermp.com,High Possibility,0.9216525
+268,infirmary health,https://www.infirmaryhealth.org,0,0.0011366425
+269,renaissance home health care and adult day services,http://renaissancehomehc.com,0,0.13162197
+270,inform diagnostics,https://www.informdx.com/,0,0.029710528
+271,rotech healthcare,http://rotech.com,0,0.040901955
+272,innovaccer,https://www.innovaccer.com,0,0.0006665902
+273,saint anne‰ûªs hospital,http://saintanneshospital.org,0,0.09757698
+274,innovage,https://www.innovage.com/,0,0.036753435
+275,saratoga hospital,http://saratogahospital.org/,0,0.05533433
+276,satellite healthcare,http://satellitehealth.com/,0,0.2273254
+277,integris,https://www.integrisok.com,0,0.05837853
+278,sheehan health group,http://sheehanhealthgroup.com,High Possibility,0.986339
+279,interfaith medical center,https://www.interfaithmedical.com/,High Possibility,0.8667854
+280,simbionix,http://simbionix.com,0,0.015213419
+281,the iowa clinic,https://www.iowaclinic.com,0,0.03161561
+282,spartanburg regional hospital,http://spartanburgregional.com,High Possibility,0.9989225
+283,iowa specialty hospital,https://www.iowaspecialtyhospital.com,0,0.023534883
+284,spectrum healthcare resources,http://spectrumhealth.com,0,0.01206147
+285,iredell health system,https://www.iredellhealth.org/,0,0.0037571518
+286,stanley beaman & sears,http://stanleybeamansears.com,0,0.13851534
+287,st. mary's regional medical center,http://stmarysregional.com,0,0.06139569
+288,strategic behavioral health,http://strategicbh.com,0,0.017890867
+289,island hospital,https://www.islandhospital.org/,0,0.008931419
+290,summit bhc,http://summitbhc.com/,0,0.006758561
+291,jackson county memorial hospital,https://www.jcmh.com/,0,0.016734282
+292,"catalis, inc.",http://thecatalis.com/,0,0.10473277
+293,jefferson healthcare,https://www.jeffersonhealthcare.org,0,0.0015963484
+294,the grand healthcare system,http://thegrandhealthcare.com,0,0.025393942
+295,jennie stuart health,https://www.jenniestuarthealth.org/,0,0.05972463
+296,jsumc,https://www.jerseyshoreuniversitymedicalcenter.com/,0,0.20798452
+297,the stepping stones group,http://thesteppingstonesgroup.com/,0,0.042204026
+298,kaweah delta dialysis facility,https://www.kaweahdelta.org/,0,0.0054711034
+299,trinity healthcare,http://trinityhealthcare.com,0,0.12865868
+300,kern health systems,https://www.kernfamilyhealthcare.com,0,0.012172899
+301,knack global,https://www.knackglobal.com,0,0.025553951
+302,triwest healthcare alliance,http://triwest.com,High Possibility,0.5560301
+303,kvc health systems,https://www.kvc.org,High Possibility,0.7647277
+304,kittitas valley healthcare,https://www.kvhealthcare.org/,0,0.03874804
+305,truven health analytics,http://truvenhealth.com,0,0.1355989
+306,home healthcare laboratory of america,https://www.labcorp.com/wps/portal/services/homehealthcare,High Possibility,0.989817
+307,uasi,http://uasisolutions.com,0,0.1570365
+308,landis homes,https://www.landishomes.org,0,0.002904845
+309,united health centers,http://uhcofsjv.org,0,0.30898845
+310,lcmc health,https://www.lcmchealth.org/,0,0.013846299
+311,eisai us,http://us.eisai.com/,0,0.0073658847
+312,legacy community health services,https://www.legacycommunityhealth.org/,High Possibility,0.9806558
+313,u.s. nursing corporation,http://usnursing.com,0,0.045312557
+314,liberty healthcare corporation,https://www.libertyhealthcare.com/,0,0.0063053328
+315,generations healthcare,https://www.lifegen.net,0,0.018149067
+316,u.s. renal care,http://usrenalcare.com,0,0.046467155
+317,vericare management,http://vericare.com,High Possibility,0.6534262
+318,lifenet health,https://www.lifenethealth.org/,0,0.0003541003
+319,victory healthcare,http://victory-healthcare.com/,0,0.07961642
+320,villa healthcare,http://villahc.com/,0,0.06841105
+321,"white glove placement, inc",http://whiteglovecare.com,0,0.09062076
+322,lifestyle options,https://www.lifestyleoptions.com/,0,0.007447647
+323,novarad,http://ww1.novarad.net,0,0.033320088
+324,logisticare,https://www.logisticare.com,0,0.014114065
+325,magellan complete care,https://www.magellancompletecare.com/,0,0.3013388
+326,abbott,http://www.abbott.com/,0,0.04526717
+327,marianjoy rehabilitation hospital,https://www.marianjoy.org/,0,0.121689975
+328,mather hospital,https://www.matherhospital.org/,0,0.0075207325
+329,abbott diabetes care,http://www.abbottdiabetescare.com/,0,0.0037841776
+330,meridian behavioral healthcare,https://www.mbhci.org,0,0.06613266
+331,accolade,http://www.accolade.com,0,0.03654556
+332,adherehealth,http://www.adherehealth.com,0,0.03287075
+333,stanford school of medicine,https://www.med.stanford.edu,High Possibility,0.99986243
+334,advantage rn,http://www.advantagern.com,0,0.0010817307
+335,medical professionals,https://www.medicalprofessionals.com,0,0.009177328
+336,meduit,https://www.meduitrcm.com/,High Possibility,0.6183692
+337,aegis sciences,http://www.aegislabs.com/,0,0.01089731
+338,medxcel,https://www.medxcel.com/home,0,0.014871493
+339,agape home healthcare,http://www.agapehomehealth.com/,0,0.014688424
+340,"nautilus healthcare management group, llc",https://www.memorialcare.org/,0,0.034338024
+341,agnesian healthcare,http://www.agnesian.com/,0,0.07322668
+342,meritain health servicing,https://www.meritain.com,0,0.021501048
+343,midland memorial hospital,https://www.midlandhealth.org,0,0.012002645
+344,mitchell martin,https://www.mitchellmartin.com/,0,0.022792608
+345,american hospital association,http://www.aha.org/,0,0.02197164
+346,moda health,https://www.modahealth.com/index.shtml,0,0.013039316
+347,accountable healthcare staffing,http://www.ahcstaff.com/,0,0.0041594445
+348,modernizing medicine,https://www.modmed.com,0,0.0775593
+349,advantedge healthcare solutions,http://www.ahsrcm.com,0,0.18676509
+350,the mosaic foundation,https://www.mosaicinfo.org,0,0.015531301
+351,mount graham regional medical center,https://www.mtgraham.org,0,0.0068548056
+352,aids healthcare foundation,http://www.aidshealth.org/,0,0.036445938
+353,multiplan,https://www.multiplan.us/,0,0.019634182
+354,allscripts,http://www.allscripts.com,0,0.2502906
+355,munson healthcare,https://www.munsonhealthcare.org,0,0.47536734
+356,rayus radiology,https://www.mycdi.com,0,0.00882759
+357,american specialties inc.,http://www.americanspecialties.com/,0,0.05214776
+358,amn healthcare,http://www.amnhealthcare.com/home/,0,0.024626782
+359,christian care,https://www.mychristiancare.org,0,0.04150686
+360,horizon health,https://www.myhorizonhealth.org/,0,0.008223698
+361,angelica corp,http://www.angelica.com,0,0.007147366
+362,healthcare solutions team,https://www.myhst.com,0,0.009820285
+363,applied medical resources,http://www.appliedmedical.com,0,0.19653301
+364,aptus health,http://www.aptushealth.com/,0,0.044782635
+365,mosaic life care,https://www.mymlc.com/,0,0.03337903
+366,argus health,http://www.argushealth.com,0,0.0027233295
+367,natividad medical center,https://www.natividad.com/,0,0.042848274
+368,new directions behavioral health,https://www.ndbh.com/,0,0.008598191
+369,appalachian regional healthcare,http://www.arh.org,0,0.12950489
+370,norman regional hospital,https://www.normanregional.com,0,0.0023273749
+371,atrium medical,http://www.atriummed.com,0,0.081325404
+372,northbay healthcare,https://www.northbay.org/,0,0.023455683
+373,natchitoches regional medical center,https://www.nrmchospital.org,0,0.005285797
+374,north shore healthcare,https://www.nshorehc.com/,0,0.002309796
+375,availity,http://www.availity.com,0,0.050912853
+376,nursing personnel homecare,https://www.nursingpersonnelhomecare.com/,0,0.010573217
+377,avantha business solution,http://www.avanthabsl.com,0,0.03787701
+378,uhs hospitals,https://www.nyuhs.org/,0,0.04485054
+379,aveanna healthcare,http://www.aveannahealthcare.com,0,0.004715021
+380,ohio's hospice,https://www.ohioshospice.org/,0,0.035972185
+381,aviacode,http://www.aviacode.com,0,0.043792173
+382,ball healthcare services,http://www.ballhealth.com,0,0.038641166
+383,baptist healthcare system,http://www.baptisthealthsystem.com/,0,0.02890352
+384,olive,https://www.oliveai.com,0,0.055339735
+385,beaver dam community hospitals,http://www.bdch.com,0,0.048423454
+386,optimum healthcare it,https://www.optimumhit.com,0,0.07888142
+387,ottumwa regional health center,https://www.ottumwaregionalhealth.com/,High Possibility,0.89271754
+388,bestpractices,http://www.best-practices.com,0,0.0014712295
+389,ozarks healthcare,https://www.ozarkshealthcare.com/,0,0.039103933
+390,parker jewish institute for health care and rehabilitation,https://www.parkerinstitute.org,High Possibility,0.9929864
+391,penn highlands healthcare,https://www.phhealthcare.org/,0,0.00047395777
+392,best doctors,http://www.bestdoctors.com,0,0.014824976
+393,phoebe putney health system,https://www.phoebehealth.com,0,0.03210244
+394,brown & toland,http://www.brownandtoland.com/,0,0.003937189
+395,perry johnson & associates,https://www.pjats.com/,High Possibility,0.8072436
+396,buckeye health plan,http://www.buckeyehealthplan.com/,0,0.007592805
+397,c3i healthcare connections,http://www.c3ihc.com,0,0.04608557
+398,cae healthcare,http://www.caehealthcare.com/,High Possibility,0.60105443
+399,preferred,https://www.preferredcares.com/,0,0.048826866
+400,carenet healthcare services,http://www.callcarenet.com,0,0.010124035
+401,project renewal,https://www.projectrenewal.org/,0,0.0005548648
+402,cantel medical,http://www.cantelmedical.com,0,0.24952371
+403,protransport-1,https://www.protransport-1.com/,0,0.047016412
+404,cape cod healthcare,http://www.capecodhealth.org/,0,0.04035901
+405,providence healthcare network,https://www.providence.net,0,0.024056604
+406,q-centrix,https://www.q-centrix.com/,0,0.004111021
+407,quadax,https://www.quadax.com,0,0.0015558227
+408,cardiac science,http://www.cardiacscience.com/,0,0.15972373
+409,raintree healthcare,https://www.raintree-healthcare.com,0,0.034030598
+410,carecentrix,http://www.carecentrix.com,0,0.0050541805
+411,pacific retirement services,https://www.retirement.org,0,0.003667106
+412,carepoint health,http://www.carepointhealth.org/,0,0.050080504
+413,robins & morton,https://www.robinsmorton.com/,0,0.017552026
+414,carespot,http://www.carespot.com,0,0.007362755
+415,samaritan healthcare,https://www.samaritanhealthcare.com,0,0.006867276
+416,carestream,http://www.carestream.com,0,0.021779839
+417,san luis valley health,https://www.sanluisvalleyhealth.org/,0,0.0030388609
+418,cenpatico,http://www.cenpatico.com,0,0.012050701
+419,sante health system,https://www.santehealth.net/default.asp,0,0.010534379
+420,centrastate healthcare system,http://www.centrastate.com,0,0.011128056
+421,san carlos apache healthcare,https://www.scahealth.org/,0,0.028292513
+422,centria healthcare,http://www.centriahealth.com,0,0.004023342
+423,schumacher clinical partners,https://www.scp-health.com/,0,0.115016125
+424,southeast health plan,https://www.sehealth.org,0,0.0012358604
+425,cepheid,http://www.cepheid.com,0,0.05382814
+426,seniorcorp,https://www.seniorcorp.com,0,0.03144032
+427,ferguson medical group,https://www.sfmc.net/fmg/,0,0.040687427
+428,cambridge health alliance,http://www.challiance.org,0,0.028897718
+429,southeast georgia health system,https://www.sghs.org/,0,0.0022107216
+430,chenmed,http://www.chenmed.com/,0,0.0029435472
+431,sierra view medical center,https://www.sierra-view.com,0,0.013549397
+432,chg healthcare,http://www.chghealthcare.com,0,0.03178124
+433,chi st. joseph health,http://www.chistjoseph.org,0,0.021708084
+434,silver cross hospital,https://www.silvercross.org,0,0.0062919054
+435,skagit regional clinics,https://www.skagitregionalhealth.org/,0,0.03799155
+436,soliant health,https://www.soliant.com/,0,0.019329939
+437,chn,http://www.chnnyc.org,0,0.055216458
+438,st. mary's medical center,https://www.st-marys.org,High Possibility,0.50744736
+439,children's healthcare of atlanta,http://www.choa.org,High Possibility,0.85963494
+440,st. anthony regional hospital & nursing home,https://www.stanthonyhospital.org,0,0.027821096
+441,columbus regional healthcare system,http://www.columbusregional.com,0,0.0018493623
+442,st. john's health,https://www.stjohns.health/,0,0.025321372
+443,st john's lutheran home,https://www.stjohnsunited.org/,0,0.09840456
+444,commonwealth care alliance,http://www.commonwealthcarealliance.org/,0,0.003134176
+445,hshs st. mary's hospital medical center,https://www.stmgb.org/,0,0.030419296
+446,comphealth,http://www.comphealth.com,0,0.04194861
+447,concordance healthcare solutions,http://www.concordancehealthcare.com,0,0.018422455
+448,televox software,https://www.televox.com,0,0.05816917
+449,convergint technologies,http://www.convergint.com,0,0.029749673
+450,cotiviti,http://www.cotiviti.com,0,0.0008668916
+451,tempus,https://www.tempus.com,0,0.026850784
+452,computer programs and systems,http://www.cpsi.com,0,0.028054707
+453,texana,https://www.texanacenter.com/,0,0.027574489
+454,"texas senior healthcare, ltd.",https://www.texashealth.org/thpg,0,0.0778641
+455,comprehensive pharmacy services,http://www.cpspharm.com,0,0.004772875
+456,crossland construction company,http://www.crossland.com,0,0.049284052
+457,the christ hospital health network,https://www.thechristhospital.com/,0,0.041978266
+458,crystal run health,http://www.crystalrunhealthcare.com,0,0.01346305
+459,curemd healthcare,http://www.curemd.com/,0,0.054735746
+460,capital women's care,http://www.cwcare.net/,0,0.0037760271
+461,the core institute,https://www.thecoreinstitute.com/,0,0.058013793
+462,the hci group,https://www.thehcigroup.com/,0,0.021052504
+463,danbury health systems,http://www.danburyhospital.org,0,0.12920949
+464,little clinic,https://www.thelittleclinic.com/,0,0.0057475837
+465,deroyal,http://www.deroyal.com,0,0.0014849826
+466,detar hospital,http://www.detar.com,0,0.3192945
+467,digitas health lifebrands,http://www.digitashealth.com,0,0.25674355
+468,dispatchhealth,http://www.dispatchhealth.com/,0,0.0034869716
+469,thurston county,https://www.thurstoncountywa.gov/tchome/pages/default.aspx,0,0.0014914222
+470,dohmen life science service,http://www.dlss.com/,0,0.0057937335
+471,totalwellness,https://www.totalwellnesshealth.com/,0,0.18244848
+472,divine savior healthcare,http://www.dshealthcare.com/,0,0.10637652
+473,dupage medical group,http://www.dupagemedicalgroup.com/,0,0.18539526
+474,the regional medical center,https://www.trmchealth.org/,0,0.0010605848
+475,echo health,http://www.echohealthinc.com/,0,0.049629163
+476,uintah basin healthcare,https://www.ubh.org,0,0.0673084
+477,einstein healthcare network,http://www.einstein.edu,0,0.017542655
+478,ucsf medical center,https://www.ucsfhealth.org,0,0.020023992
+479,ultracare of manhattan ltd,https://www.ultracareofmanhattan.com/,High Possibility,0.661452
+480,elements behavioral health,http://www.elementsbehavioralhealth.com,0,0.0040853606
+481,unitek learning,https://www.uniteklearning.com/,0,0.026497098
+482,emids,http://www.emids.com,0,0.008276872
+483,vail health,https://www.vailhealth.org,0,0.0073517263
+484,envision healthcare,http://www.envisionhealthcare.com,0,0.057979405
+485,valley health system,https://www.valleyhealth.com/,0,0.03883737
+486,valley presbyterian hospital,https://www.valleypres.org/,0,0.003793288
+487,epic systems corporation,http://www.epic.com/,0,0.008739901
+488,versiti,https://www.versiti.org/,0,0.0042398395
+489,emergency physicians medical,http://www.epmgpc.com/,High Possibility,0.95280176
+490,esaote north america,http://www.esaote.com,0,0.01869516
+491,veyo,https://www.veyo.com/,0,0.02973751
+492,ascension via christi,https://www.viachristi.org/,0,0.05587384
+493,eskenazi health,http://www.eskenazihealth.edu/,0,0.016812496
+494,vi-jon,https://www.vijon.com,0,0.008486311
+495,eyecare services partners,http://www.espmgmt.com,0,0.2967623
+496,vision infonet,https://www.vinfonet.com/,0,0.17128208
+497,"essence healthcare, inc.",http://www.essencehealthcare.com,0,0.0030725994
+498,"ezdi, inc.",http://www.ezdi.com,0,0.030645013
+499,tsehootsooi medical center,http://www.fdihb.org/,High Possibility,0.6292224
+500,virginia mason medical center,https://www.virginiamason.org,High Possibility,0.74342245
+501,flad architects,http://www.flad.com/,0,0.014246534
+502,war memorial hospital,https://www.warmemorialhospital.org,0,0.00030500736
+503,fmc corporation,http://www.fmc.com,0,0.0107850665
+504,wellington regional medical center,https://www.wellingtonregional.com/,0,0.0006918599
+505,fonkoze,http://www.fonkoze.org/,0,0.030972531
+506,westbrook health services,https://www.westbrookhealth.org,High Possibility,0.82406723
+507,f&s healthcare services,http://www.franklin-seidelmann.com,0,0.0024323007
+508,fresenius kabi usa,http://www.fresenius-kabi.us,0,0.0039270907
+509,wilson health,https://www.wilsonhealth.org/,0,0.010992685
+510,futurenet technologies,http://www.futurenet-tech.com/,0,0.006404738
+511,winona health,https://www.winonahealth.org/,0,0.0015691187
+512,gebbs healthcare solutions,http://www.gebbs.com/,0,0.3873784
+513,wood county hospital,https://www.woodcountyhospital.org/,0,0.0013563837
+514,genesis health,http://www.genesishealth.com,0,0.0006255583
+515,zelis,https://www.zelis.com,0,0.003238139
+516,genomic health,http://www.genomichealth.com,0,0.001306819
+517,global healthcare resource,http://www.globalhealthcareresource.com/,0,0.034801684
+518,gohealth urgent care,http://www.gohealthuc.com,0,0.047254823
+519,grand rounds health,http://www.grandrounds.com,0,0.123076215
+520,greenway health,http://www.greenwayhealth.com,0,0.009085132
+521,global resources international,http://www.gri-usa.com/,0,0.018329415
+522,gsw advertising,http://www.gsw-w.com,0,0.020408854
+523,memorial hospital at gulfport,http://www.gulfportmemorial.com/,0,0.04347694
+524,"3. hattiesburg clinic, pc, hattiesburg, missippi",http://www.hattiesburgclinic.com,0,0.2630984
+525,haven behavioral,http://www.havenbehavioral.com,0,0.009584349
+526,hctec,http://www.hctec.com,High Possibility,0.7491905
+527,hdt global,http://www.hdtglobal.com/,0,0.009719797
+528,healthcare partners,http://www.healthcarepartners.com,0,0.068733595
+529,health dialog,http://www.healthdialog.com,0,0.007935685
+530,health quest,http://www.healthquest.org/,0,0.00500382
+531,health scope benefits,http://www.healthscopebenefits.com,0,0.35823295
+532,healthways communlcations,http://www.healthways.com/,0,0.095872514
+533,hammerman & gainer,http://www.hgi-global.com/,0,0.008729394
+534,hawaii health systems corporation,http://www.hhsc.org/,0,0.038821038
+535,hillcrest healthcare system,http://www.hillcrest.com,0,0.07284301
+536,himagine solutions,http://www.himaginesolutions.com,0,0.020519692
+537,human arc,http://www.humanarc.com/,0,0.004899869
+538,huntsman cancer institute (hci),http://www.huntsmancancer.org/,0,0.015557511
+539,icon health and fitness,http://www.iconfitness.com,0,0.26786134
+540,icu medical,http://www.icumed.com/,High Possibility,0.86214614
+541,idexx laboratories,http://www.idexx.com,0,0.084008716
+542,imedx,http://www.imedx.com,High Possibility,0.51240283
+543,immediate clinic,http://www.immediateclinic.com/,0,0.0027470028
+544,immunogen,http://www.immunogen.com,High Possibility,0.7177386
+545,indegene lifesystems,http://www.indegene.com/,High Possibility,0.8012271
+546,ingenious med,http://www.ingeniousmed.com,0,0.03486573
+547,inovalon,http://www.inovalon.com,0,0.0021983655
+548,intersystems,http://www.intersystems.com/,0,0.033212427
+549,isabella geriatric center,http://www.isabella.org/,0,0.0045962343
+550,jackson healthcare llc,http://www.jacksonhealthcare.com,0,0.050288565
+551,jewish home lifecare,http://www.jewishhome.org/?1,High Possibility,0.6148203
+552,joerns healthcare,http://www.joerns.com,0,0.064070195
+553,kareo,http://www.kareo.com,0,0.008377038
+554,key benefit administrators,http://www.keybenefit.com/,0,0.041381106
+555,ki,http://www.ki.com,High Possibility,0.990733
+556,laerdal medical,http://www.laerdal.com,0,0.0724617
+557,laser spine institute,http://www.laserspineinstitute.com,0,0.0013297304
+558,leidos health,http://www.leidoshealth.com/,0,0.0036739628
+559,life line screening,http://www.lifelinescreening.com,0,0.02159931
+560,lighthouse guild,http://www.lighthouseguild.org,0,0.009846774
+561,licking memorial health systems,http://www.lmhealth.org,0,0.007449067
+562,meridian medical management,http://www.m3meridian.com/,0,0.0059628855
+563,miami children's hospital,http://www.mch.com/,0,0.0027440183
+564,mcleod health,http://www.mcleodhealth.org/,0,0.009707248
+565,mcneil consumer healthcare,http://www.mcneil-consumer.com/,0,0.019605601
+566,mdlinx,http://www.mdlinx.com,0,0.4343955
+567,medac.com,http://www.medac.com,0,0.02285341
+568,medspeed,http://www.medspeed.com,0,0.0008234003
+569,medstaff alternatives,http://www.medstaffalternatives.com,0,0.04135076
+570,mercy fitzgerald hospital,http://www.mercyhealth.org,0,0.005323664
+571,merit medical systems,http://www.merit.com/,0,0.046385333
+572,metrex,http://www.metrex.com/,0,0.0009732206
+573,mhs indiana,http://www.mhsindiana.com/,0,0.0024942637
+574,midmark corporation,http://www.midmark.com/,0,0.01739638
+575,mjhs,http://www.mjhs.org,0,0.0033720117
+576,monroe hospital,http://www.monroehospital.com,0,0.06477874
+577,insulet,http://www.myomnipod.com/,High Possibility,0.60972774
+578,union hospital district,http://www.myunionhospital.org,0,0.0065142084
+579,namsa,http://www.namsa.com/,0,0.008597711
+580,nasco,http://www.nasco.com/,0,0.016781721
+581,natus medical incorporated,http://www.natus.com,0,0.09780332
+582,nch healthcare system,http://www.nchmd.org/,High Possibility,0.8854671
+583,nextgen healthcare,http://www.nextgen.com,0,0.05266994
+584,national healthcareer association,http://www.nhanow.com,0,0.3159755
+585,neighborhood healthcare,http://www.nhcare.org,0,0.04281434
+586,national healthcare decisions day,http://www.nhdd.org,0,0.003887611
+587,north ottawa community health system,http://www.noch.org/,0,0.0059555476
+588,ogilvy commonhealth worldwide,http://www.ochww.com/,0,0.04608557
+589,oliver-tolas healthcare packaging,http://www.oliver-tolas.com,0,0.011114977
+590,omega healthcare,http://www.omegahms.com,0,0.04771077
+591,omnicell,http://www.omnicell.com,0,0.14359596
+592,omnicom health group,http://www.omnicomhealthgroup.com/,0,0.008012926
+593,one call care management,http://www.onecallcm.com/pages/home.aspx,0,0.009384758
+594,one medical,http://www.onemedical.com,0,0.040456526
+595,onward healthcare,http://www.onwardhealthcare.com/,0,0.021462133
+596,option care,http://www.optioncare.com/,0,0.0010582503
+597,origin healthcare solutions,http://www.originhs.com,0,0.020916201
+598,orion healthcorp,http://www.orionhealthcorp.com/,0,0.005387758
+599,orthonet,http://www.orthonet-online.com/,0,0.16473472
+600,outreach services,http://www.outreachservices.com,0,0.03300606
+601,park nicollet medical center,http://www.parknicollet.com,0,0.018996129
+602,parrish medical center,http://www.parrishmed.com,0,0.024056604
+603,"payflex systems, usa",http://www.payflex.com,0,0.03729047
+604,pci pharma services,http://www.pciservices.com,0,0.020633541
+605,phymed healthcare group,http://www.phymed.com/,0,0.08818038
+606,planned parenthood,http://www.plannedparenthood.org/,0,0.029882856
+607,up health system - portage,http://www.portagehealth.org/,0,0.0980287
+608,portneuf medical center,http://www.portneuf.org,0,0.0011046571
+609,post acute medical,http://www.postacutemedical.com,0,0.047409084
+610,premier,http://www.premierinc.com,0,0.011002015
+611,prezio health,http://www.preziohealth.com,0,0.014517483
+612,primecare medical,http://www.primecaremedical.com/,0,0.00619081
+613,privia health,http://www.priviahealth.com,High Possibility,0.84092045
+614,psa healthcare,http://www.psahealthcare.com/,0,0.0011911098
+615,purdue pharma,http://www.purduepharma.com,0,0.0067903856
+616,pyramid healthcare,http://www.pyramidhealthcarepa.com/,0,0.013095868
+617,quality systems,http://www.qsii.com,0,0.0070082173
+618,qtc management inc.,http://www.qtcm.com,0,0.053487495
+619,quadramed,http://www.quadramed.com,0,0.0056282445
+620,quadrant healthcare ltd.,http://www.quadrantinc.com,0,0.2869672
+621,reachout healthcare america,http://www.reachouthealthcare.com/,0,0.013830285
+622,roivant sciences,http://www.roivant.com/,0,0.044717927
+623,roper st. francis,http://www.rsfh.com/,0,0.0064919777
+624,shannon,http://www.sacmc.com,0,0.0906298
+625,sagitec solutions llc,http://www.sagitec.com/,0,0.0075740144
+626,salix pharmaceuticals,http://www.salix.com,0,0.07100129
+627,santa rosa consulting,http://www.santarosaconsulting.com,0,0.0093143545
+628,self regional healthcare,http://www.selfregional.org/,0,0.0027610194
+629,shriners hospital for children,http://www.shrinershospitalsforchildren.org/,0,0.018217957
+630,southern maine health care,http://www.smhc.org/,0,0.0070082173
+631,scc soft computer,http://www.softcomputer.com,0,0.00836064
+632,softserve,http://www.softserveinc.com,0,0.111243226
+633,spaulding rehabilitation network,http://www.spauldingrehab.org,0,0.0032693911
+634,presbyterian seniorcare,http://www.srcare.org,0,0.027126936
+635,saint agnes healthcare,http://www.stagnes.org,0,0.020101193
+636,st. elizabeth healthcare,http://www.stelizabeth.com/,High Possibility,0.59096175
+637,sterling medical corporation,http://www.sterlingmedcorp.com/,0,0.10847246
+638,sulder & hennessey,http://www.sudler.com,0,0.01756132
+639,sunbeam,http://www.sunbeam.com,0,0.005201237
+640,salinas valley memorial healthcare system,http://www.svmh.com,0,0.0015130853
+641,swedish medical center,http://www.swedish.org/,0,0.095353946
+642,telecare corporation,http://www.telecarecorp.com,0,0.0039686547
+643,telehealth services,http://www.telehealth.com,0,0.011505285
+644,theracare,http://www.theracare.com,0,0.007515658
+645,tivity health,http://www.tivityhealth.com/,0,0.01037541
+646,publicis touchpoint solutions,http://www.touchpointsolutions.com,0,0.004789027
+647,triage consulting group,http://www.triageconsulting.com,0,0.004357216
+648,trinity health,http://www.trinityhealth.org/,0,0.0021123616
+649,triumvirate environmental,http://www.triumvirate.com,0,0.02454675
+650,trizetto provider solutions,http://www.trizettoprovider.com/,0,0.24620612
+651,truman medical centers,http://www.trumed.org,0,0.0058712997
+652,trusthcs,http://www.trusthcs.com,0,0.0008971406
+653,united medical corporation,http://www.unitedmedical.com,0,0.04212913
+654,university health system,http://www.universityhealthsystem.com/,0,0.010530915
+655,upson regional medical center,http://www.urmc.org/,0,0.07298895
+656,us anesthesia partners,http://www.usap.com,0,0.47499526
+657,us healthvest,http://www.ushealthvest.com,0,0.02311824
+658,valley medical center,http://www.valleymed.org,0,0.20529531
+659,vanguard healthcare services,http://www.vanguardhc.com/,High Possibility,0.70478296
+660,verisk,http://www.verisk.com,0,0.38088578
+661,vista community clinic,http://www.vistacommunityclinic.org/,0,0.0009310366
+662,vocera communications,http://www.vocera.com,0,0.07547953
+663,waystar,http://www.waystar.com/,0,0.009523452
+664,welch senior living,http://www.welchhrg.com/,0,0.043724835
+665,wellmont health system,http://www.wellmont.org,0,0.020754779
+666,westmed medical group,http://www.westmedgroup.com,0,0.062292084
+667,wexford health sources,http://www.wexfordhealth.com,0,0.28645477
+668,wex health,http://www.wexhealthinc.com/,0,0.004250498
+669,wilson medical center,http://www.wilsonmedical.com,0,0.04161003
+670,windsor health group,http://www.windsorhealthgroup.com,0,0.002160403
+671,wingate healthcare,http://www.wingatehealthcare.com,High Possibility,0.7332414
+672,woman's hospital,http://www.womans.org/,0,0.0067544132
+673,west tennessee healthcare,http://www.wth.org,0,0.0033087109
+674,zocdoc,http://www.zocdoc.com,High Possibility,0.9826948
+675,zoom+care,http://www.zoomcare.com,0,0.010562427
+676,xymogen,http://xymogen.com,High Possibility,0.9979512
+677,zirmed,http://zirmed.com,0,0.095291734
+678,adams memorial hospital,https://adamshospital.org/,0,0.0576063
+679,advantasure,https://advantasure.com/,0,0.08653123
+680,alta hospitals system,https://altacorp.jobs.net/,High Possibility,0.86214614
+681,american addiction centers,https://americanaddictioncenters.org/,High Possibility,0.9989542
+682,anaheim regional medical center,https://anaheimregionalmc.com,0,0.092542596
+683,appletree answers,https://appletreeanswers.com/,0,0.025283474
+684,athena health care systems,https://athenahealthcare.com/,0,0.01637165
+685,axispoint health,https://axispointhealth.com,0,0.08266572
+686,basin home health & hospice,https://basin.health/,High Possibility,0.94647706
+687,beebe healthcare,https://beebehealthcare.org,High Possibility,0.8741572
+688,beloit health system,https://beloithealthsystem.org/,0,0.15506858
+689,bright healthcare,https://brighthealthcare.com/,0,0.022883618
+690,amwell,https://business.amwell.com/,0,0.006750528
+691,carenet health,https://carenethealthcare.com/,0,0.004955053
+692,care wisconsin,https://carewisc.org,High Possibility,0.9775145
+693,cenegenics,https://cenegenics.com,0,0.020404845
+694,center for discovery,https://centerfordiscovery.com/,0,0.01748209
+695,community health center of southeast kansas,https://chcsek.org/,0,0.20945899
+696,chesapeake regional healthcare,https://chesapeakeregional.com/,0,0.016763784
+697,vha southwest community health corporation,https://communityhospitalcorp.com/,0,0.030999033
+698,comprehensive healthcare,https://comphc.org/,0,0.03489875
+699,continuing healthcare solutions,https://continuinghc.com/,0,0.015250733
+700,corrohealth,https://corrohealth.com,0,0.030164383
+701,center for family guidance,https://ctrfamilyguidance.com,0,0.0121901585
+702,cure staffing,https://curehealthcarestaffing.com,0,0.0143468715
+703,georgia community health,https://dch.georgia.gov/,High Possibility,0.86214614
+704,ebs healthcare,https://ebshealthcare.com,0,0.021893125
+705,ehe,https://eheintl.com,High Possibility,0.86214614
+706,meditech,https://ehr.meditech.com,0,0.03055436
+707,eliza jennings,https://elizajennings.org/,0,0.0040064137
+708,embassy healthcare,https://embassyhealthcare.net/,0,0.15056944
+709,flatiron health,https://flatiron.com,0,0.15380333
+710,functional pathways,https://fprehab.com/,0,0.0055986415
+711,frankfort regional medical center,https://frankfortregional.com,0,0.10135138
+712,gamma healthcare,https://gammahealthcare.com/,0,0.050810993
+713,gaylord,https://gaylord.org,High Possibility,0.6859208
+714,group health cooperative,https://ghc.org,0,0.15086968
+715,greater ny nursing services,https://gnyservices.com/,High Possibility,0.6665739
+716,gritman medical center,https://gritman.org,High Possibility,0.9132787
+717,harrison senior living,https://harrisonseniorliving.com/,0,0.10563138
+718,hca houston healthcare north cypress,https://hcahoustonhealthcare.com/locations/north-cypress/,0,0.28652775
+719,health carousel,https://healthcarousel.com/,High Possibility,0.82952565
+720,healthtrust workforce solutions,https://healthtrustjobs.com/,0,0.09211944
+721,hospital for special care,https://hfsc.org/,0,0.010404794
+722,hms,https://hms.com/,0,0.03549978
+723,hopco,https://hopco.com,0,0.060709987
+724,horizon nj health,https://horizonnjhealth.com,0,0.3988076
+725,integrated healthcare staffing,https://integratedhealthcarestaffing.com/,0,0.08987424
+726,kings service solutions,https://kingsservicesolutions.com,0,0.07004247
+727,los robles regional medical center,https://losrobleshospital.com/,High Possibility,0.54393554
+728,our lady of lourdes regional medical center,https://lourdesrmc.com/,0,0.28314167
+729,medulla,https://medullallc.com,0,0.0036084673
+730,creative testing solutions,https://mycts.org,0,0.02942853
+731,myers and stauffer,https://myersandstauffer.com/,0,0.010911685
+732,team care,https://myteamcare.org/?utm_source=www.centralstatesfunds.org&utm_medium=permenant_redirect&utm_campaign=domain_redirect,0,0.16853061
+733,national lutheran communities & services,https://nationallutheran.org,0,0.0576862
+734,nexus health systems,https://nexuscontinuum.com/,0,0.12401364
+735,nms healthcare,https://nmshealthcare.com/,0,0.031636767
+736,north memorial health,https://northmemorial.com/,0,0.015537892
+737,nassau university medical center,https://numc.edu,0,0.01911854
+738,oak valley hospital,https://oakvalleyhospital.com,0,0.04359851
+739,oceans healthcare,https://oceanshealthcare.com/,0,0.03089782
+740,orange city area health system,https://ochealthsystem.org/,0,0.0346784
+741,o'connor hospital,https://oconnorhospital.org,High Possibility,0.66729856
+742,orlando senior health network,https://orlandoseniorhealth.org/,0,0.11513264
+743,phc,https://partnershiphp.org,0,0.093086325
+744,pediatric home healthcare,https://pediatrichomehealthcare.com/,0,0.077472165
+745,the primary health network,https://primary-health.net/,0,0.06311261
+746,procare pain solutions,https://procarepain.com/,High Possibility,0.7465059
+747,salus,https://salushomecare.com,0,0.05796382
+748,saint agnes medical center,https://samc.com,High Possibility,0.50074875
+749,south bay health & insurance services,https://sbhis.net/,High Possibility,0.9755647
+750,sheridan memorial hospital,https://sheridanhospital.org,0,0.025956977
+751,sotera health,https://soterahealth.com,0,0.008966142
+752,st. davidâ€™s healthcare,https://stdavids.com/,0,0.19746529
+753,summit healthcare,https://summithealthcare.net/,0,0.037707333
+754,shearwater health,https://swhealth.com/,0,0.26017034
+755,symphony care network,https://symphonynetwork.com/,0,0.016262349
+756,teladoc health,https://teladochealth.com,0,0.09456996
+757,the bristal assisted living,https://thebristal.com/,0,0.27568308
+758,abeo,http://abeo.com,0,0.06107923
+759,the broussard group,https://thebroussardgroup.com/,0,0.09351568
+760,abode healthcare,http://abodehealthcare.com/,0,0.030057538
+761,access nurses,http://accessnursing.com,0,0.066261925
+762,the goodman group,https://thegoodmangroup.com/,0,0.027021056
+763,acon laboratories,http://aconlabs.com,0,0.088674486
+764,thomas health,https://thomashealth.org,0,0.04968567
+765,american clinical solutions,http://acslabtest.com/,0,0.062693775
+766,trimedx,https://trimedx.com/,0,0.0050620395
+767,adeptus health,http://adhc.com/,0,0.1582127
+768,truecore behavioral solutions,https://truecorebehavioral.com/,0,0.022834554
+769,upper allegheny health system,https://uahs.org/,0,0.20299968
+770,virence,https://virencehealth.com/,0,0.17866729
+771,advanced care staffing,http://advancedcarestaffing.com,0,0.046883583
+772,ahmc healthcare,http://ahmchealth.com,0,0.09493643
+773,wesley family services,https://wfspa.org/,0,0.02318926
+774,adapthealth,https://www.adapthealth.com/,0,0.272407
+775,advanced healthcare solutions,http://ahstexas.com,0,0.04595659
+776,adelante healthcare,https://www.adelantehealthcare.com,0,0.42300376
+777,advanced correctional healthcare,https://www.advancedch.com/,0,0.059576
+778,alpha systems,http://alpha-sys.com,0,0.19580449
+779,advantmed,https://www.advantmed.com/,0,0.005335155
+780,american enterprise group,http://americanenterprise.com,0,0.0633723
+781,advantum health,https://www.advantumhealth.com,0,0.00048605175
+782,adventist healthcare,https://www.adventisthealthcare.com/,0,0.012599855
+783,american family care,http://americanfamilycare.com,0,0.09613417
+784,american health connection,http://americanhealthconnection.com,0,0.40463954
+785,aft,https://www.aft.org,0,0.04056662
+786,american maintenance,http://americanmaint.net,0,0.008202902
+787,tunstall americas,http://americas.tunstall.com/,0,0.009514816
+788,access,https://www.ahcpllc.com/,0,0.46753937
+789,alteon health,https://www.alteonhealth.com/,0,0.029559478
+790,angel staffing,http://angelstaffing.net/,0,0.13727826
+791,altru health system,https://www.altru.org/,0,0.0056592934
+792,alvarez & marsal healthcare ventures,https://www.alvarezandmarsal.com/industries/healthcare,High Possibility,0.50982815
+793,advanced pain management,http://apmhealth.com,High Possibility,0.97208226
+794,anderson regional medical center,https://www.andersonregional.org/,0,0.0015650324
+795,apollomed,http://apollomed.net,0,0.03066035
+796,apothecary products,https://www.apothecaryproducts.com/,0,0.0100690285
+797,arkansas children's hospital,http://archildrens.org,High Possibility,0.970192
+798,ascom,https://www.ascom.com/north-america/,High Possibility,0.9479799
+799,aureus group,http://aureusgroup.com,0,0.025183477
+800,avalere health,http://avalere.com,0,0.006674727
+801,aspen medical,https://www.aspenmedical.com/,0,0.007978629
+802,"avanti hospitals, llc",http://avantihospitals.com,0,0.11550168
+803,baymark health services,http://baymark.com/,0,0.23562923
+804,principal senior living group,http://bentonhouse.com,0,0.01980756
+805,atlanta va medical center,https://www.atlanta.va.gov/,High Possibility,0.86214614
+806,blue shield of california foundation,http://blueshieldcafoundation.org,High Possibility,0.5841527
+807,atrius health,https://www.atriushealth.org/,0,0.007863932
+808,bswift,http://bswift.com,0,0.021122387
+809,uab comprehensive cancer center,http://cancercenter.uab.edu/,High Possibility,0.86214614
+810,aureus medical,https://www.aureusmedical.com,0,0.00064097735
+811,cano health,http://canohealth.com/,0,0.03635947
+812,capital health care network,http://capitalhealthservices.com,0,0.17505556
+813,avera medical group,https://www.avera.org/doctors/avera-medical-group/,High Possibility,0.87129855
+814,care finders total care,http://carefinders.org/,0,0.018762795
+815,carespring healthcare management,http://carespring.com,High Possibility,0.9169945
+816,blue cross blue shield of arizona,https://www.azblue.com/,0,0.10351818
+817,barton associates,https://www.bartonassociates.com/,0,0.0040199957
+818,"caring professionals, inc.",http://caringprofessionals.com,0,0.046592265
+819,caris healthcare,http://carishealthcare.com,0,0.16209221
+820,bassett healthcare network,https://www.bassett.org/,0,0.03559094
+821,carolinas hospital system,http://carolinashospital.com,0,0.038408943
+822,bay cove human services,https://www.baycovehumanservices.org/,0,0.0017104856
+823,bayhealth,https://www.bayhealth.org/,0,0.002151468
+824,international center for clinical excellence,http://centerforclinicalexcellence.com/,0,0.045058906
+825,christel house international,http://christelhouse.org,0,0.04444492
+826,blue cross and blue shield of alabama,https://www.bcbsal.org,0,0.18531105
+827,citiustech,http://citiustech.com,0,0.039446305
+828,foothills hospital,https://www.bch.org,0,0.03555865
+829,clearview regional medical center,http://clearviewregionalmedicalcenter.com,0,0.19296496
+830,berkshire health systems,https://www.berkshirehealthsystems.org,0,0.0015296603
+831,care options for kids,http://cofk.com,High Possibility,0.85362613
+832,bestcare,https://www.bestcare.org,High Possibility,0.7341499
+833,bingham memorial hospital,https://www.binghammemorial.org,0,0.0031641228
+834,collective health,http://collectivehealth.com,0,0.016683538
+835,comforcehealth,http://comforcehealth.acsicorp.com/,High Possibility,0.86214614
+836,mississippi valley regional blood center,https://www.bloodcenter.org,0,0.12323947
+837,"bluespire, a glynndevins company",https://www.bluespiremarketing.com/,0,0.07581851
+838,concentric healthcare staffing,http://concentrichealthcare.com,0,0.016828535
+839,bozeman health,https://www.bozemanhealth.org/,0,0.00027300103
+840,coordinated health,http://coordinatedhealth.com,0,0.003775098
+841,bridges health,https://www.bridgesok.com/,0,0.04807439
+842,craneware,http://craneware.com,0,0.14127107
+843,bronson healthcare,https://www.bronsonhealth.com/,0,0.017857593
+844,citrus valley health partners,http://cvhp.org/careers,High Possibility,0.508608
+845,boca raton regional hospital,https://www.brrh.com/,0,0.019259488
+846,decision resources group,http://decisionresourcesgroup.com,0,0.042672575
+847,bon secours charity health system,https://www.bschs.org/,0,0.06011231
+848,"dependable health services, inc.",http://dependablehealth.com,0,0.048263684
+849,bull communications inc,https://www.bullcommunicationsinc.com,0,0.07341935
+850,detect lab,http://detectlab.com,0,0.068770856
+851,burke rehabilitation hospital,https://www.burke.org/,0,0.019330762
+852,butler health system,https://www.butlerhealthsystem.org/,0,0.0005962012
+853,djo global,http://djoglobal.com,0,0.11708658
+854,dogwood forest,http://dogwoodforest.com,High Possibility,0.54006433
+855,byrne,https://www.byrne.com/,0,0.0071443957
+856,c3i solutions,https://www.c3isolutions.com/,0,0.0025683579
+857,dove healthcare,http://dovehealthcare.com,0,0.08405382
+858,call4health,https://www.call4health.com/,0,0.014764612
+859,dude solutions,http://dudesolutions.com,High Possibility,0.84370995
+860,ehealth africa,http://ehealthafrica.org/,0,0.031898655
+861,cancer treatment centers of america,https://www.cancercenter.com/,0,0.07623453
+862,elite medical scribes,http://elitemedicalscribes.com,0,0.022897447
+863,canyon vista medical center,https://www.canyonvistamedicalcenter.com/,0,0.036605965
+864,erbe usa,http://erbe-usa.com,0,0.15893796
+865,etransmedia technology,http://etransmedia.com,0,0.3712533
+866,cap global consulting,https://www.capglobal.net/,0,0.14720188
+867,evicore healthcare,http://evicore.com/,0,0.04692551
+868,"carecloud, inc.",https://www.carecloud.com/,0,0.044431493
+869,careerstaff unlimited,https://www.careerstaff.com/,0,0.020997973
+870,eye care leaders,http://eyecareleaders.com/,0,0.01573951
+871,carolinas healthcare system blue ridge,https://www.carolinashealthcareblueridge.org/,0,0.020869479
+872,faultless healthcare linen,http://faultlesslinen.com,0,0.091793016
+873,carson tahoe health,https://www.carsontahoe.com,0,0.1730492
+874,fdr services corp.,http://fdrcorp.com,High Possibility,0.8554927
+875,carter bloodcare,https://www.carterbloodcare.org/,0,0.024518298
+876,cleveland fes center,http://fescenter.org,0,0.020935608
+877,family healthcare network,http://fhcn.org,0,0.0641995
+878,casa colina hospital,https://www.casacolina.org,0,0.058439553
+879,figmd,http://figmd.com,0,0.008349909
+880,catawba valley medical center,https://www.catawbavalleyhealth.org/,0,0.012009936
+881,frensenius vascular care,http://freseniusvascularcare.com,0,0.079618596
+882,geneva woods pharmacy and health care services,http://genevawoods.com,0,0.077729195
+883,cmc,https://www.catholicmedicalcenter.org/,0,0.028292935
+884,getix,http://getixhealth.com,0,0.077686846
+885,centerlight health system,https://www.centerlight.org/,0,0.045051407
+886,grace healthcare services,http://gracehcs.com,0,0.061233163
+887,cfg health systems,https://www.cfghealthsystems.com,0,0.074760295
+888,greenfield rehabilitation agency,http://grawi.com,0,0.0918418
+889,child & family support services,https://www.cfss.com/,0,0.023859723
+890,guardian healthcare providers,http://guardianhealthcare.com,0,0.01559687
+891,chelsea jewish lifecare,https://www.chelseajewish.org,0,0.013432463
+892,guardian healthcare,http://guardmyhealth.com,0,0.14221907
+893,children's specialized hospital,https://www.childrens-specialized.org/,0,0.010035661
+894,hbcs,http://hbcs.org,0,0.110479794
+895,childserve,https://www.childserve.org/,0,0.0061772214
+896,chkd,https://www.chkd.org/,0,0.015590196
+897,hca,http://hcahealthcare.com,High Possibility,0.9925103
+898,community hospital of monterey,https://www.chomp.org,0,0.082495674
+899,ciox health,https://www.cioxhealth.com,0,0.0053844783
+900,clinica sierra vista,https://www.clinicasierravista.org,0,0.0013006118
+901,the health care management group,http://hcmg.com,0,0.06051109
+902,healix,http://healix.net/,0,0.2430138
+903,nursing home quality,https://www.cms.gov,0,0.123752214
+904,health4brands,http://health4brands.com,0,0.13489401
+905,the coding institute,https://www.codinginstitute.com/,0,0.0018414494
+906,health advocate,http://healthadvocate.com,0,0.11961042
+907,colorado coalition,https://www.coloradocoalition.org,0,0.06595694
+908,healthcare mn,http://healthcare.mn/,0,0.022676386
+909,healthfirst,http://healthfirst.org/,High Possibility,0.9823131
+910,community partners,https://www.communitypartnersinc.org/$1,0,0.019819964
+911,compass health,https://www.compasshealth.org/,0,0.0011663468
+912,healthcare information services,http://healthinfoservice.com,0,0.009735042
+913,healthsmart holdings,http://healthsmart.com,0,0.09670325
+914,confluence health,https://www.confluencehealth.org/,0,0.10215893
+915,heska,http://heska.com,0,0.02760116
+916,connexion point,https://www.connexionpoint.com/,0,0.012864511
+917,continuum health alliance,https://www.continuumhealth.net,0,0.17517188
+918,continucare corp,https://www.convivacarecenters.com/,0,0.0027252198
+919,home care assistance,http://homecareassistance.com,0,0.07755865
+920,cottage health,https://www.cottagehealthsystem.org,0,0.023123173
+921,independent living systems,http://ilshealthservices.com,0,0.23471954
+922,canton potsdam hospital,https://www.cphospital.org/,0,0.02163933
+923,bracco diagnostics,http://imaging.bracco.com,0,0.0050903047
+924,crisp regional hospital,https://www.crispregional.org,0,0.03792354
+925,innovacare health,http://innovacarehealth.com/,0,0.029284652
+926,invitae,http://invitae.com,High Possibility,0.9658352
+927,cross country staffing,https://www.crosscountrystaffing.com/,0,0.0027422116
+928,john theurer cancer center,http://jtcancercenter.org,0,0.49538302
+929,dameron hospital,https://www.dameronhospital.org/,0,0.027922498
+930,daviess community hospital,https://www.dchosp.org/,0,0.05013434
+931,key rehabilitation,http://keyrehab.com,0,0.18101133
+932,diversified healthcare trust,https://www.dhcreit.com/home/default.aspx,0,0.0154626025
+933,lakeview regional medical center,http://lakeviewregional.com,High Possibility,0.6185781
+934,district council 9,https://www.districtcouncil9.net,0,0.022367142
+935,lancaster general health,http://lancastergeneralhealth.org/,0,0.02542784
+936,lefleur transportation,http://lefleur.net,High Possibility,0.6112977
+937,legend healthcare,http://legendhealth.com,0,0.21747497
+938,dmg,https://www.dmgaz.org/,High Possibility,0.86214614
+939,liberty healthcare management,http://libertyhomecare.com,0,0.08507936
+940,lifeline vascular access,http://lifelinevascularaccess.com/,0,0.08890073
+941,doctor on demand,https://www.doctorondemand.com,0,0.07027418
+942,lifematters,http://lifemattersusa.com,0,0.04319901
+943,doctors hospital of manteca,https://www.doctorsmanteca.com,0,0.027071973
+944,liquidagents healthcare,http://liquidagents.com,0,0.24222063
+945,edifecs,https://www.edifecs.com,0,0.0005725095
+946,empres healthcare,https://www.empres.com/,0,0.012730983
+947,englewood health,https://www.englewoodhealth.org,0,0.0014176193
+948,living innovations,http://livinginnovations.com,0,0.02725913
+949,episource,https://www.episource.com/,0,0.020930635
+950,loyal source government services,http://loyalsource.com,0,0.06203221
+951,erie family health centers,https://www.eriefamilyhealth.org/,0,0.045702606
+952,medical associates clinic & health plans,http://mahealthcare.com,0,0.06814144
+953,mankato clinic,http://mankatoclinic.com,0,0.33609197
+954,eso,https://www.eso.com/,0,0.017514423
+955,medical edge,http://med-edge.com,0,0.4202735
+956,family health centers of san diego,https://www.fhcsd.org/,0,0.024129676
+957,medfirst consulting healthcare staffing,http://medfirst-consulting.com,0,0.115770034
+958,"medical center clinic, p.a",http://medicalcenterclinic.com,0,0.059115976
+959,firsthealth of the carolinas,https://www.firsthealth.org/,0,0.029271543
+960,medicalodges,http://medicalodges.com,High Possibility,0.5920874
+961,fort healthcare,https://www.forthealthcare.com/,0,0.061986975
+962,medimpact healthcare systems,http://medimpact.com,0,0.087723926
+963,frederick health,https://www.frederickhealth.org/,0,0.00681949
+964,medtrust,http://medtruststaffing.com,0,0.09676448
+965,fundamental longterm care holdings,https://www.fundltc.com/,0,0.012476949
+966,merritt hawkins,http://merritthawkins.com,0,0.0634625
+967,garfield medical center,https://www.garfieldmedicalcenter.com/,0,0.002576447
+968,methodist family health,http://methodistfamily.org,0,0.06250725
+969,garden city hospital,https://www.gch.org/,0,8.23216e-05
+970,metropolitan healthcare services,http://metropolitanhealthcareservices.com,High Possibility,0.9447983
+971,genova diagnostics,https://www.gdx.net,High Possibility,0.99131083
+972,mimedx group,http://mimedx.com/,0,0.05418276
+973,monarch healthcare management,http://monarchmn.com,0,0.047482476
+974,genesis healthcare system,https://www.genesishcs.org/,0,0.022648908
+975,morehead hospital,http://morehead.org,0,0.43600836
+976,genomics institute of the novartis research foundation,https://www.gnf.nibr.com,High Possibility,0.86214614
+977,management recruiters inc ‰ûò the boston group,http://mri-boston.com,0,0.07869065
+978,biotelemetry,https://www.gobio.com,0,0.010456818
+979,great plains health alliance,https://www.gpha.com,0,0.0057236487
+980,cleveland clinic,http://my.clevelandclinic.org,0,0.018853327
+981,national healthcare associates (nhca),http://nathealthcare.com/,0,0.038123272
+982,grand view health,https://www.gvh.org/,0,0.0043460284
+983,golden valley memorial healthcare,https://www.gvmh.org/,0,0.018803706
+984,national staffing solutions,http://nationalstaff.com,0,0.044900224
+985,halyard health inc,https://www.halyardhealth.com/,0,0.25286016
+986,newsok,http://newsok.com/,0,0.43687314
+987,northeast health system,http://nhs-ok.org,0,0.18792641
+988,hamilton center,https://www.hamiltoncenter.org/,0,0.005421788
+989,hancock regional hospital,https://www.hancockregionalhospital.org/,0,0.0055392473
+990,northwestern memorial healthcare,http://nm.org,0,0.11190192
+991,harris healthcare,https://www.harrishealthcare.com,0,0.24141149
+992,new york health care inc.,http://nyhc.com,0,0.11694123
+993,hennepin healthcare,https://www.hennepinhealthcare.org,0,0.11629944
+994,ogden tomotherapy,http://ogdenregional.com,0,0.041555677
+995,heritage valley health system,https://www.heritagevalley.org/,0,0.060113735
+996,o'neill healthcare,http://oneillhc.com,0,0.0066290097
+997,openmrs,http://openmrs.org,0,0.0027532447
+998,houston healthcare,https://www.hhc.org/home,0,0.07062109
+999,optim healthcare,http://optimhealth.com,0,0.047437076

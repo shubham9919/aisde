@@ -1,0 +1,3388 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 39660,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "MediaTemple DNS",
+                "Description": "DNS services provided by MediaTemple.",
+                "Link": "http://mediatemplate.net",
+                "Tag": "ns",
+                "FirstDetected": 1346972400000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "nginx",
+                "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                "Link": "http://nginx.net/",
+                "Tag": "Web Server",
+                "FirstDetected": 1367676000000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Parallels Plesk Panel",
+                "Description": "Host and manage websites and servers at any scale, includes virtualization software.",
+                "Link": "http://www.parallels.com/products/plesk/",
+                "Tag": "Server",
+                "FirstDetected": 1367676000000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Open Source"
+                ],
+                "IsPremium": "no",
+                "Name": "Drupal",
+                "Description": "An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.",
+                "Link": "http://www.drupal.org",
+                "Tag": "cms",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1407366000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Typekit",
+                "Description": "Typekit is the easiest way to use real fonts on the web. It's a subscription-based service for linking to high-quality Open Type fonts from some of the world's best type foundries.",
+                "Link": "http://typekit.com",
+                "Tag": "widgets",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1413154800000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1315144800000,
+                "LastDetected": 1429488000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CentOS",
+                "Description": "CentOS is an Enterprise-class Linux Distribution derived from sources freely provided to the public by a prominent North American Enterprise Linux vendor.  CentOS conforms fully with the upstream vendors redistribution policy and aims to be 100% binary compatible.",
+                "Link": "http://centos.org",
+                "Tag": "Server",
+                "FirstDetected": 1315144800000,
+                "LastDetected": 1365080400000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Apps for Business",
+                "Description": "Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud.",
+                "Link": "http://www.google.com/a",
+                "Tag": "mx",
+                "FirstDetected": 1321275600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Dedicated Hosting",
+                  "US hosting",
+                  "VPS Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Media Temple",
+                "Description": "Linux web hosting offering a variety of hosting solutions including virtual server, dedicated virtual and nitro VPS hosting. Media Temple also provide a CDN system called ProCDN and a website builder called virb.",
+                "Link": "http://mediatemple.net",
+                "Tag": "hosting",
+                "FirstDetected": 1345730400000,
+                "LastDetected": 1414623600000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GeoTrust SSL",
+                "Description": "Certificate provided by GeoTrust.",
+                "Link": "http://geotrust.com",
+                "Tag": "ssl",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1429824907502
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GeoTrust QuickSSL",
+                "Description": "QuickSSL has been replaced with QuickSSL Premium to give you more for the same low price.",
+                "Link": "http://www.geotrust.com/ssl/ssl-certificates-premium/",
+                "Tag": "ssl",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1429824907502
+              },
+              {
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "no",
+                "Name": "Yoast Plugins",
+                "Description": "SEO based plugins from Yoast.",
+                "Link": "http://yoast.com/wordpress/seo/",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "Hover Intent",
+                "Description": "hoverIntent is a plug-in that attempts to determine the user's intent. It works like (and was derived from) jQuery's built-in hover. However, instead of immediately calling the onMouseOver function, it waits until the user's mouse slows down enough before making the call.",
+                "Link": "http://cherne.net/brian/resources/jquery.hoverIntent.html",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "Yoast Plugins",
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "no",
+                "Name": "Yoast WordPress SEO Plugin",
+                "Description": "Functionality that helps you optimize your pages content, images titles, meta descriptions and more.",
+                "Link": "https://yoast.com/wordpress/plugins/seo/",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cookie",
+                "Description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+                "Link": "https://github.com/carhartl/jquery-cookie",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1603494000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "W3 Total Cache",
+                "Description": "The fastest and most complete WordPress performance optimization plugin.",
+                "Link": "http://www.w3-edge.com/wordpress-plugins/w3-total-cache/",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RSS",
+                "Description": "A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",
+                "Link": "http://en.wikipedia.org/wiki/RSS_(file_format)",
+                "Tag": "feeds",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1505430000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Typography",
+                "Description": "Font API program.",
+                "Link": "http://www.typography.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Modernizr",
+                "Description": "Modernizr allows you to target specific browser functionality in your stylesheet.",
+                "Link": "http://www.modernizr.com",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jQuery CDN",
+                "Description": "The jQuery Amazon S3 Content Delivery Network",
+                "Link": "http://blog.jquery.com/2008/11/19/cloudfront-cdn-for-jquery/",
+                "Tag": "cdn",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Wordpress Plugins",
+                "Description": "Plugins are tools to extend the functionality of WordPress. The website uses various plugins from WordPress to provide additional functionality. Some of them may be listed here.",
+                "Link": "http://codex.wordpress.org/Plugins",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Form",
+                "Description": "jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.",
+                "Link": "http://jquery.malsup.com/form/",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "Infinite Scroll",
+                "Description": "jQuery plugin for infinite scrolling.",
+                "Link": "https://github.com/paulirish/infinite-scroll",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery BlockUI",
+                "Description": "jQuery BlockUI Plugin lets you simulate synchronous behavior when using AJAX, without locking the browser.",
+                "Link": "http://jquery.malsup.com/block/",
+                "Tag": "javascript",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "Categories": [
+                  "Open Source",
+                  "Blog"
+                ],
+                "IsPremium": "no",
+                "Name": "WordPress",
+                "Description": "WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",
+                "Link": "http://wordpress.org",
+                "Tag": "cms",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "maybe",
+                "Name": "MailChimp",
+                "Description": "MailChimp is a widely used Mailng List delivery and support service.",
+                "Link": "http://www.mailchimp.com",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Pingback Support",
+                "Description": "A Pingback is one of three types of Linkbacks, methods for Web authors to request notification when somebody links to one of their documents.",
+                "Link": "http://en.wikipedia.org/wiki/Pingback",
+                "Tag": "feeds",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Categories": [
+                  "Non Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "WooCommerce",
+                "Description": "Transforms your WordPress website into an online store.",
+                "Link": "https://woocommerce.com",
+                "Tag": "shop",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AJAX Libraries API",
+                "Description": "The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",
+                "Link": "http://code.google.com/apis/ajaxlibs/documentation/",
+                "Tag": "cdn",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Parent": "WordPress",
+                "IsPremium": "no",
+                "Name": "Wordpress 3.9",
+                "Description": "WordPress Version 3.9.*",
+                "Link": "http://make.wordpress.org/core/version-3-9-project-schedule/",
+                "Tag": "cms",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1413154800000
+              },
+              {
+                "Categories": [
+                  "Social Sharing"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Like",
+                "Description": "Allows users to Like items they find on the web, similar to how you Like items within Facebook.",
+                "Link": "http://developers.facebook.com/docs/reference/plugins/like",
+                "Tag": "widgets",
+                "FirstDetected": 1407366000000,
+                "LastDetected": 1427760000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Masonry",
+                "Description": "Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.",
+                "Link": "http://desandro.com/resources/jquery-masonry/",
+                "Tag": "javascript",
+                "FirstDetected": 1407970800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "html5shiv",
+                "Description": "HTML5 IE enabling script shim.",
+                "Link": "https://github.com/afarkas/html5shiv",
+                "Tag": "javascript",
+                "FirstDetected": 1407970800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "no",
+                "Name": "Contact Form 7",
+                "Description": "Specifically designed for wordpress blogs. Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup.",
+                "Link": "http://wordpress.org/extend/plugins/contact-form-7/",
+                "Tag": "widgets",
+                "FirstDetected": 1407970800000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1407970800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Respond",
+                "Description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+                "Link": "https://github.com/scottjehl/Respond",
+                "Tag": "javascript",
+                "FirstDetected": 1408320000000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "matchMedia",
+                "Description": "matchMedia polyfill for testing media queries in JS.",
+                "Link": "http://github.com/paulirish/matchMedia.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1408320000000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Mousewheel",
+                "Description": "Adds mouse wheel support to the web site.",
+                "Link": "http://plugins.jquery.com/project/mousewheel",
+                "Tag": "javascript",
+                "FirstDetected": 1409180400000,
+                "LastDetected": 1414281600000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "FitVids.JS",
+                "Description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+                "Link": "http://fitvidsjs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1409180400000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "AdRoll",
+                "Description": "AdRoll is a retargeting platform with a mission to make display advertising simple for business of all sizes.",
+                "Link": "http://adroll.com",
+                "Tag": "ads",
+                "FirstDetected": 1409785200000,
+                "LastDetected": 1508281200000
+              },
+              {
+                "Parent": "WooCommerce",
+                "Categories": [
+                  "Non Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "WooCommerce 2.1",
+                "Description": "WooCommerce version 2.1.*",
+                "Link": "http://woocommerce.com",
+                "Tag": "shop",
+                "FirstDetected": 1411599600000,
+                "LastDetected": 1414018800000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "Freshdesk",
+                "Description": "An online help desk software that allows you to support customers over email",
+                "Link": "http://www.freshdesk.com/",
+                "Tag": "mx",
+                "FirstDetected": 1412809200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "Packery",
+                "Description": "Packery is a JavaScript layout library that uses a bin-packing algorithm.",
+                "Link": "http://packery.metafizzy.co/",
+                "Tag": "javascript",
+                "FirstDetected": 1412809200000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Classie",
+                "Description": "Class helper functions library.",
+                "Link": "https://github.com/desandro/classie",
+                "Tag": "javascript",
+                "FirstDetected": 1412809200000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web App Capable",
+                "Description": "Launches a web application for Safari on iOS in full-screen mode to look like a native application. ",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Swipe JS",
+                "Description": "Swipe is a lightweight mobile slider with 1:1 touch movement.",
+                "Link": "http://swipejs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cycle",
+                "Description": "A slideshow plugin for JQuery that supports many different types of transition effects.",
+                "Link": "http://jquery.malsup.com/cycle/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Open Source"
+                ],
+                "IsPremium": "yes",
+                "Name": "Magento",
+                "Description": "Hosted and self hosted eCommerce CMS system. Owned by Adobe.",
+                "Link": "http://www.magentocommerce.com/",
+                "Tag": "shop",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GoDaddy DNS",
+                "Description": "DNS services provided by GoDaddy.",
+                "Link": "http://godaddy.com",
+                "Tag": "ns",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1415833200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1613894400000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "AppNexus",
+                "Description": "Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",
+                "Link": "http://www.appnexus.com/",
+                "Tag": "ads",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Live Chat"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Freshdesk Chat",
+                "Description": "Chat with us tool from customer support management software provider Freshdesk.",
+                "Link": "http://freshdesk.com",
+                "Tag": "widgets",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1560898800000
+              },
+              {
+                "Parent": "AppNexus",
+                "IsPremium": "no",
+                "Name": "AppNexus Segment Pixel",
+                "Description": "An AppNexus Segment Pixel.",
+                "Link": "http://appnexus.com",
+                "Tag": "ads",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1465426800000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Dedicated Hosting",
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "eBoundHost.com",
+                "Description": "eBoundHost.com provides dedicated and web hosting services.",
+                "Link": "http://eboundhost.com",
+                "Tag": "hosting",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1429824907502
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SizzleJS",
+                "Description": "A pure-JavaScript CSS selector engine\r\ndesigned to be easily dropped in to a host library.",
+                "Link": "http://sizzlejs.com",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1519167600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "yepnope",
+                "Description": "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
+                "Link": "http://yepnopejs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "selectivizr",
+                "Description": "selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.",
+                "Link": "http://selectivizr.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 2.0.3",
+                "Description": "jQuery version 2.0.3",
+                "Link": "http://blog.jquery.com/2013/07/03/jquery-1-10-2-and-2-0-3-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1479337200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Enquire JS",
+                "Description": "enquire.js is a lightweight, pure JavaScript library for responding to CSS media queries.",
+                "Link": "http://wicky.nillia.ms/enquire.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "script.aculo.us",
+                "Description": "script.aculo.us provides you with easy-to-use, cross-browser user interface JavaScript libraries to make your web sites and web applications fly.",
+                "Link": "http://script.aculo.us/",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1529881200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Prototype",
+                "Description": "Prototype is a javascript framework which aims to ease development of dynamic web applications.",
+                "Link": "http://www.prototypejs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1414623600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Twitter Ads",
+                "Description": "Twitter advertising includes conversion tracking and re-marketing tools.",
+                "Link": "http://ads.twitter.com",
+                "Tag": "ads",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Exchange FBX",
+                "Description": "Facebook Exchange (FBX) is a real-time bidded ad serving protocol.",
+                "Link": "https://developers.facebook.com/docs/reference/ads-api/rtb/",
+                "Tag": "ads",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1485385200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Content Delivery Network",
+                "Description": "This page contains links that give the impression that some of the site contents are stored on a content delivery network.",
+                "Link": "http://en.wikipedia.org/wiki/Content_Delivery_Network",
+                "Tag": "CDN",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Yahoo Small Business",
+                "Description": "Yahoo advertising network and search engine marketing solutions.",
+                "Link": "http://sem.smallbusiness.yahoo.com/searchenginemarketing/",
+                "Tag": "ads",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Rapleaf",
+                "Description": "Marketing automation tools with the necessary data to help brands keep their customers engaged. Now TowerData.",
+                "Link": "http://www.rapleaf.com",
+                "Tag": "analytics",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Dynamic Creative Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Pubmatic",
+                "Description": "PubMatic Enables Ad Optimization Across Every Ad Network",
+                "Link": "http://pubmatic.com",
+                "Tag": "ads",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1491260400000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Twitter Analytics",
+                "Description": "A tool that helps website owners understand how much traffic they receive from Twitter and the effectiveness of Twitter integrations on their sites. Includes Twitter Conversion Tracking.",
+                "Link": "https://dev.twitter.com/blog/introducing-twitter-web-analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "geoPlugin",
+                "Description": "geoPlugin is a free webmaster resource to provide geolocation technology to your pages.",
+                "Link": "http://www.geoplugin.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1482361200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1591830000000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Fraud Prevention"
+                ],
+                "IsPremium": "no",
+                "Name": "IponWeb BidSwitch",
+                "Description": "BidSwitch facilitates both Supply and Demand technology partners to efficiently and transparently connect, trade and manage multiple RTB partners.",
+                "Link": "http://bidswitch.com",
+                "Tag": "ads",
+                "FirstDetected": 1414886400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GlobalSign",
+                "Description": "Certificate provided by GlobalSign.",
+                "Link": "http://globalsign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1415574000000,
+                "LastDetected": 1443654000000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Cloudflare Hosting",
+                "Description": "Supercharged web hosting service.",
+                "Link": "http://cloudflare.com",
+                "Tag": "hosting",
+                "FirstDetected": 1416096000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare",
+                "Description": "Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.",
+                "Link": "http://www.cloudflare.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1416096000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare DNS",
+                "Description": "DNS services provided by Cloudflare.",
+                "Link": "http://cloudflare.com",
+                "Tag": "ns",
+                "FirstDetected": 1416096000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare SSL",
+                "Description": "SSL solutions from Cloudflare",
+                "Link": "http://cloudflare.com",
+                "Tag": "ssl",
+                "FirstDetected": 1415574000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "no",
+                "Name": "New Relic",
+                "Description": "New Relic is a dashboard used to keep an eye on application health and availability while monitoring real user experience.",
+                "Link": "http://newrelic.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1416438000000,
+                "LastDetected": 1592002800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1417824000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.8.2",
+                "Description": "jQuery version 1.8.2",
+                "Link": "http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1418338800000,
+                "LastDetected": 1418338800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Azure DNS",
+                "Description": "This domain is verified with Microsoft Azure.",
+                "Link": "http://windowsazure.com",
+                "Tag": "mx",
+                "FirstDetected": 1421020800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Conversion Tracking",
+                "Description": "This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app).",
+                "Link": "https://support.google.com/adwords/answer/1722054",
+                "Tag": "analytics",
+                "FirstDetected": 1423695600000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Remarketing",
+                "Description": "Google code specifically for remarketing/retargeting based advertising.",
+                "Link": "http://www.google.com.au/ads/innovations/remarketing.html",
+                "Tag": "ads",
+                "FirstDetected": 1423695600000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Criteo",
+                "Description": "Behavioural targeting for e-commerce customers.",
+                "Link": "http://criteo.com",
+                "Tag": "ads",
+                "FirstDetected": 1423695600000,
+                "LastDetected": 1427929200000
+              },
+              {
+                "Categories": [
+                  "A/B Testing"
+                ],
+                "IsPremium": "yes",
+                "Name": "Visual Website Optimizer",
+                "Description": "VWO provides A/B, split and multivariate testing software.",
+                "Link": "http://visualwebsiteoptimizer.com",
+                "Tag": "analytics",
+                "FirstDetected": 1423695600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Ad Network"
+                ],
+                "IsPremium": "no",
+                "Name": "ContextWeb",
+                "Description": "ContextWeb, Inc. provides high-precision, real-time contextual advertising solutions guaranteed to maximize the results and impact of online advertising. Now known as PulsePoint.",
+                "Link": "http://contextweb.com",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Categories": [
+                  "Ad Server"
+                ],
+                "IsPremium": "no",
+                "Name": "Openads/OpenX",
+                "Description": "Openads offer ad serving software that is simple, reliable and totally independent. Best of all, it's free!",
+                "Link": "http://openads.org",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underdog Media",
+                "Description": "Real time ad delivery network.",
+                "Link": "http://www.underdogmedia.com/",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1424649600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rubicon Project",
+                "Description": "Advertising optimization service.",
+                "Link": "http://rubiconproject.com",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1508281200000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Custom Audiences",
+                "Description": "Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.",
+                "Link": "https://developers.facebook.com/docs/reference/ads-api/custom-audience-website",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Index Exchange",
+                "Description": "Index Exchange is the world's fastest growing provider of online media solutions. With a network reach of over half the US digital audience. Previously known as Casale Media.",
+                "Link": "http://casalemedia.com",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook for Websites",
+                "Description": "Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.",
+                "Link": "http://developers.facebook.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Lijit Widget",
+                "Description": "Contains widgets by lijit providing revolutionary search tools and stats for your blog.",
+                "Link": "http://lijit.com",
+                "Tag": "widgets",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Open AdStream",
+                "Description": "The website has links to systems using Open 247 RealMedia Open Adstream for hosting ads.",
+                "Link": "http://www.247realmedia.com/EN-US/us/advertising-management.html",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1424649600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick Floodlight",
+                "Description": "Floodlight is feature of DoubleClick ads that allows advertisers to capture and report on the actions of users who visit their website after viewing or clicking on one of the advertiser's ads.",
+                "Link": "http://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818",
+                "Tag": "analytics",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1424649600000
+              },
+              {
+                "Categories": [
+                  "Ad Server"
+                ],
+                "IsPremium": "no",
+                "Name": "Zedo",
+                "Description": "ZEDO ad server pays you money and optimizes your adnetworks to increase your overall bottom line.",
+                "Link": "http://zedo.com",
+                "Tag": "ads",
+                "FirstDetected": 1424300400000,
+                "LastDetected": 1424300400000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "Adify",
+                "Description": "Vertical Ad Network solutions. Adify networks include many sites that are completely out of reach from other networks.",
+                "Link": "http://www.adify.com",
+                "Tag": "ads",
+                "FirstDetected": 1424649600000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Categories": [
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "VINDICO",
+                "Description": "Video advertising specialist.",
+                "Link": "http://vindicogroup.com/",
+                "Tag": "ads",
+                "FirstDetected": 1424649600000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook SDK",
+                "Description": " JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",
+                "Link": "http://developers.facebook.com/docs/reference/javascript/",
+                "Tag": "javascript",
+                "FirstDetected": 1424649600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Tag API",
+                "Description": "The Javascript Tag API can be used to track custom audience and conversion events.",
+                "Link": "https://developers.facebook.com/docs/ads-for-websites/tag-api",
+                "Tag": "analytics",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1463007600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google JS Api",
+                "Description": "Use the Google Loader API. Also see Google API for more generic calls to Google.",
+                "Link": "https://developers.google.com/loader/",
+                "Tag": "javascript",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Maps API",
+                "Description": "Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.",
+                "Link": "https://developers.google.com/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1530313200000
+              },
+              {
+                "Categories": [
+                  "Site Optimization"
+                ],
+                "IsPremium": "maybe",
+                "Name": "CrazyEgg",
+                "Description": "Crazy Egg provides visualization of visits to your website.",
+                "Link": "http://crazyegg.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1427170681393,
+                "LastDetected": 1427929200000
+              },
+              {
+                "Categories": [
+                  "A/B Testing",
+                  "Conversion Optimization",
+                  "Site Optimization"
+                ],
+                "IsPremium": "yes",
+                "Name": "KISSmetrics",
+                "Description": "Helps measure results and improve them with analytics from KISSmetrics.",
+                "Link": "http://kissmetrics.com",
+                "Tag": "analytics",
+                "FirstDetected": 1427787714153,
+                "LastDetected": 1443585430267
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CloudFront",
+                "Description": "Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments.",
+                "Link": "http://aws.amazon.com/cloudfront/",
+                "Tag": "cdn",
+                "FirstDetected": 1427787714153,
+                "LastDetected": 1607846400000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Enhanced Ecommerce",
+                "Description": "Collect enhanced eCommerce data with Google Analytics.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/enhanced-ecommerce",
+                "Tag": "analytics",
+                "FirstDetected": 1427760000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "LABjs",
+                "Description": "An all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.",
+                "Link": "http://labjs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1431232993878,
+                "LastDetected": 1436486400000
+              },
+              {
+                "Categories": [
+                  "Cart Abandonment",
+                  "Personalization"
+                ],
+                "IsPremium": "yes",
+                "Name": "Triggered Messaging",
+                "Description": "Cart abandonment, email personalization, web personalization and real-time targeting.",
+                "Link": "http://www.triggeredmessaging.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1431232993878,
+                "LastDetected": 1498431600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Hosted Libraries",
+                "Description": "Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1430953200000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted jQuery UI",
+                "Description": "jQuery UI hosted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1430953200000,
+                "LastDetected": 1462143600000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted jQuery",
+                "Description": "jQuery hoted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1430953200000,
+                "LastDetected": 1479337200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CryptoJS",
+                "Description": "CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. ",
+                "Link": "https://code.google.com/p/crypto-js/",
+                "Tag": "javascript",
+                "FirstDetected": 1434582000000,
+                "LastDetected": 1470265200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1436396400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1436486400000,
+                "LastDetected": 1530313200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "FedEx",
+                "Description": "US based global courier services.",
+                "Link": "http://fedex.com",
+                "Tag": "shipping",
+                "FirstDetected": 1437606000000,
+                "LastDetected": 1592002800000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "JSON 3",
+                "Description": "JSON 3 is a modern JSON implementation compatible with a variety of JavaScript platforms.",
+                "Link": "https://bestiejs.github.io/json3/",
+                "Tag": "javascript",
+                "FirstDetected": 1443654000000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Comodo PositiveSSL",
+                "Description": "Comodo Positive SSL certificate.",
+                "Link": "http://www.positivessl.com/ssl-certificate-positivessl.php",
+                "Tag": "ssl",
+                "FirstDetected": 1444375936421,
+                "LastDetected": 1584140400000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "Comodo SSL",
+                "Description": "Certificate provided by Comodo.",
+                "Link": "http://comodo.com",
+                "Tag": "ssl",
+                "FirstDetected": 1444375936421,
+                "LastDetected": 1584140400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SoundCloud",
+                "Description": "SoundCloud is a platform that puts sound at the heart of communities and websites.",
+                "Link": "http://soundcloud.com/",
+                "Tag": "media",
+                "FirstDetected": 1445312205190,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Online Video Platform",
+                  "Video Players"
+                ],
+                "IsPremium": "no",
+                "Name": "Vimeo",
+                "Description": "Use Vimeo to exchange videos with only the people you want to. We have a bunch of different privacy options so you can choose exactly who can see your videos, and others can do the same. The website embeds vimeo.",
+                "Link": "http://vimeo.com",
+                "Tag": "media",
+                "FirstDetected": 1445312205190,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Personalization"
+                ],
+                "IsPremium": "yes",
+                "Name": "Unbxd",
+                "Description": "Site Search & Personalization Solutions for Ecommerce Companies.",
+                "Link": "http://unbxd.com",
+                "Tag": "analytics",
+                "FirstDetected": 1445468400000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking",
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Site Optimization",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "comScore",
+                "Description": "Market research company that studies internet trends and behavior.",
+                "Link": "http://www.comscore.com",
+                "Tag": "analytics",
+                "FirstDetected": 1445468400000,
+                "LastDetected": 1494630000000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Classic",
+                "Description": "Classic Google Analytics - sites that are using non-universal analytics code.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/gajs/",
+                "Tag": "analytics",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1506639600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Vimeo CDN",
+                "Description": "This page uses content from the Vimeo CDN.",
+                "Link": "http://vimeo.com",
+                "Tag": "cdn",
+                "FirstDetected": 1448409600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Hubspot",
+                "Description": "Hubspot provides marketing information and leads via inbounding marketing software.",
+                "Link": "http://www.hubspot.com",
+                "Tag": "analytics",
+                "FirstDetected": 1453876287085,
+                "LastDetected": 1454459057263
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Autopilot",
+                "Description": "Enterprise platform for marketers to drive top line revenue. Previously known as Bislr.",
+                "Link": "http://autopilothq.com",
+                "Tag": "analytics",
+                "FirstDetected": 1454459057263,
+                "LastDetected": 1457498033230
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Pixel",
+                "Description": "Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.",
+                "Link": "https://www.facebook.com/business/help/952192354843755",
+                "Tag": "analytics",
+                "FirstDetected": 1461106800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "DoubleClick Bid Manager",
+                "Description": "Programmatic buying platform.",
+                "Link": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/",
+                "Tag": "ads",
+                "FirstDetected": 1464303600000,
+                "LastDetected": 1491260400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "USPS",
+                "Description": "US government owned postal service for delivery within USA.",
+                "Link": "http://usps.com",
+                "Tag": "shipping",
+                "FirstDetected": 1467846000000,
+                "LastDetected": 1592002800000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "PubNub",
+                "Description": "API that allows you to build realtime apps in minutes.",
+                "Link": "http://www.pubnub.com/",
+                "Tag": "framework",
+                "FirstDetected": 1468450800000,
+                "LastDetected": 1470265200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fizzy UI Utils",
+                "Description": "UI utilities & helpers",
+                "Link": "https://github.com/metafizzy/fizzy-ui-utils",
+                "Tag": "javascript",
+                "FirstDetected": 1469055600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Freegeoip",
+                "Description": "Free GEO IP lookup. Also now known as ipstack.",
+                "Link": "http://freegeoip.io",
+                "Tag": "widgets",
+                "FirstDetected": 1474498800000,
+                "LastDetected": 1531263600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CDN JS",
+                "Description": "CloudFlare's CDN with popular javascript frameworks available.",
+                "Link": "http://cdnjs.com",
+                "Tag": "cdn",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "three js",
+                "Description": "3D Javascript framework three.js.",
+                "Link": "http://threejs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1481756400000,
+                "LastDetected": 1483052400000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "yes",
+                "Name": "Hotjar",
+                "Description": "A heatmap, survey, feedback and funnel application.",
+                "Link": "http://hotjar.com",
+                "Tag": "analytics",
+                "FirstDetected": 1484866800000,
+                "LastDetected": 1514329200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Workplace by Facebook",
+                "Description": "Group discussion, a personalised News Feed, and voice and video calling from Facebook.",
+                "Link": "https://workplace.fb.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1487199600000,
+                "LastDetected": 1494975600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Amazon S3",
+                "Description": "Amazon Simple Storage provides unlimited storage to developers and online businesses - saving costs and increase storage reliability.",
+                "Link": "http://aws.amazon.com/s3",
+                "Tag": "cdn",
+                "FirstDetected": 1498431600000,
+                "LastDetected": 1500591600000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "MyFonts",
+                "Description": "Add fronts my MyFonts to your website.",
+                "Link": "https://www.myfonts.com",
+                "Tag": "widgets",
+                "FirstDetected": 1498431600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Personalization"
+                ],
+                "IsPremium": "yes",
+                "Name": "Fresh Relevance",
+                "Description": "Conversion optimization and personalization service.",
+                "Link": "https://www.freshrelevance.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1498431600000,
+                "LastDetected": 1498431600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1499122800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1603494000000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "core-js",
+                "Description": "Modular standard library for JavaScript.",
+                "Link": "https://github.com/zloirock/core-js",
+                "Tag": "javascript",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Squarespace Hosted",
+                "Description": "Hosted website builder with professional pre-designed templates.",
+                "Link": "http://squarespace.com",
+                "Tag": "hosting",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1501196400000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Yahoo User Interface",
+                "Description": "The Yahoo! User Interface (YUI) Library is a set of utilities and controls, written in JavaScript, for building richly interactive web applications using techniques such as DOM scripting, DHTML and AJAX.",
+                "Link": "http://developer.yahoo.com/yui/",
+                "Tag": "javascript",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1505430000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Webpack",
+                "Description": "webpack takes modules with dependencies and generates static assets representing those modules.",
+                "Link": "http://webpack.github.io/",
+                "Tag": "javascript",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1502751600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Twitter CDN",
+                "Description": "This page contains content sourced from the Twitter CDN, either by the use of Widgets or linking to image content on twimg.com currently hosted by Akamai and Amazon.",
+                "Link": "http://twitter.com",
+                "Tag": "cdn",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1505430000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GStatic Google Static Content",
+                "Description": "Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.",
+                "Link": "https://google.com",
+                "Tag": "cdn",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1560898800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Graph API",
+                "Description": "This site has content that utilizes the Facebook Graph API",
+                "Link": "http://developers.facebook.com/docs/api",
+                "Tag": "javascript",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1505430000000
+              },
+              {
+                "Categories": [
+                  "Hosted Solution",
+                  "Simple Website Builder"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Squarespace",
+                "Description": "Hosted CMS solution from creating and maintaining a website, blog or portfolio.",
+                "Link": "http://squarespace.com",
+                "Tag": "cms",
+                "FirstDetected": 1501023600000,
+                "LastDetected": 1505430000000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "no",
+                "Name": "Cloudflare Rocket Loader",
+                "Description": "Automatically optimizes your pages to minimize the number of network connections and ensure even third party resources won't slow down page rendering.",
+                "Link": "https://www.cloudflare.com/features-optimizer",
+                "Tag": "analytics",
+                "FirstDetected": 1501801200000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Akamai Hosted",
+                "Description": "Data network CDN provider.",
+                "Link": "http://akamai.com",
+                "Tag": "hosting",
+                "FirstDetected": 1501801200000,
+                "LastDetected": 1503356400000
+              },
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Mandrill",
+                "Description": "Mandrill is an email infrastructure service. Detailed analytics offer insight to measure email performance.",
+                "Link": "http://mandrill.com/",
+                "Tag": "mx",
+                "FirstDetected": 1502751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Site Search"
+                ],
+                "IsPremium": "yes",
+                "Name": "Algolia",
+                "Description": "Algolia's Search API makes it possible to deliver a search experience in your apps & websites.",
+                "Link": "http://algolia.com",
+                "Tag": "widgets",
+                "FirstDetected": 1503356400000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "OWL Carousel",
+                "Description": "Touch enabled jQuery plugin that lets you create a carousel slider.",
+                "Link": "http://owlgraphic.com/owlcarousel/",
+                "Tag": "javascript",
+                "FirstDetected": 1503356400000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "HoganJS",
+                "Description": "Hogan.js is a 3.4k JS templating engine developed at Twitter.",
+                "Link": "http://twitter.github.io/hogan.js",
+                "Tag": "javascript",
+                "FirstDetected": 1503356400000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Polyfill IO",
+                "Description": "Hosted polyfill script.",
+                "Link": "http://polyfill.io",
+                "Tag": "javascript",
+                "FirstDetected": 1505775600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Signal",
+                "Description": "Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting.",
+                "Link": "https://www.facebook.com/facebookmedia/get-started/signal",
+                "Tag": "analytics",
+                "FirstDetected": 1509836400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "Dojo Toolkit",
+                "Description": "Dojo is an Open Source DHTML toolkit written in JavaScript. It builds on several contributed code bases (nWidgets, Burstlib, f(m)), which is why we refer to it sometimes as a \"unified\" toolkit. ",
+                "Link": "http://dojotoolkit.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1518217200000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys",
+                  "Social Sharing"
+                ],
+                "IsPremium": "no",
+                "Name": "Yotpo",
+                "Description": "A social widget for customers to read and write reviews.",
+                "Link": "http://www.yotpo.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "es6 promise",
+                "Description": "A polyfill for ES6-style Promises.",
+                "Link": "https://github.com/stefanpenner/es6-promise",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "lodash",
+                "Description": "Lo-dash is an alternative and a drop-in replacement for Underscore.js.",
+                "Link": "http://lodash.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "React",
+                "Description": "A JavaScript library for building user interfaces from Facebook.",
+                "Link": "https://reactjs.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1604304000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "imagesLoaded",
+                "Description": "jQuery plugin for seeing if the images are loaded.",
+                "Link": "https://github.com/desandro/imagesloaded",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "Tooltipster",
+                "Description": "Tooltipster is a jQuery tooltip plugin.",
+                "Link": "http://iamceege.github.io/tooltipster/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Socket.IO",
+                "Description": "Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.",
+                "Link": "http://socket.io",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jsTimezoneDetect",
+                "Description": "Automatic Timezone Detection Using JavaScript.",
+                "Link": "http://pellepim.bitbucket.org/jstz/",
+                "Tag": "javascript",
+                "FirstDetected": 1520982000000,
+                "LastDetected": 1560898800000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "yes",
+                "Name": "Pingdom RUM",
+                "Description": "Real User Monitoring gives insight into performance for actual users visiting the website.",
+                "Link": "https://www.pingdom.com/rum/",
+                "Tag": "analytics",
+                "FirstDetected": 1526943600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "Global-e",
+                "Description": "Global-e enables seamless cross-border e-commerce for retailers that want to sell internationally.",
+                "Link": "http://www.global-e.com/",
+                "Tag": "shop",
+                "FirstDetected": 1528758000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Device JS",
+                "Description": "Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system",
+                "Link": "http://matthewhudson.me/projects/device.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1528758000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Bing Universal Event Tracking",
+                "Description": "Universal Event Tracking (UET) is a simple and powerful campaign measurement solution that allows you to track key conversion goals important to your business.",
+                "Link": "http://advertise.bingads.microsoft.com/en-us/universal-event-tracking",
+                "Tag": "analytics",
+                "FirstDetected": 1529362800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Product Recommendations"
+                ],
+                "IsPremium": "yes",
+                "Name": "ScarabResearch",
+                "Description": "Personalized recommendations service from emarsys.",
+                "Link": "http://scarabresearch.com",
+                "Tag": "analytics",
+                "FirstDetected": 1533596400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Magento",
+                "Categories": [
+                  "Non Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "Magento 1.9",
+                "Description": "Magento version 1.9",
+                "Link": "http://www.magentocommerce.com/",
+                "Tag": "shop",
+                "FirstDetected": 1533596400000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "HTML5 History API",
+                "Description": "A standardized way to manipulate the browser history via script.",
+                "Link": "http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html",
+                "Tag": "javascript",
+                "FirstDetected": 1536793200000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Bookings"
+                ],
+                "IsPremium": "yes",
+                "Name": "Queue It",
+                "Description": "Virtual waiting room to control website traffic peaks.",
+                "Link": "https://queue-it.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1542927600000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Campaign Management"
+                ],
+                "IsPremium": "maybe",
+                "Name": "MailChimp SPF",
+                "Description": "This site has an SPF record for MailChimp managed email sending.",
+                "Link": "http://mailchimp.com",
+                "Tag": "mx",
+                "FirstDetected": 1544655600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Webmaster",
+                "Description": "Webmaster tools provide you with a free and easy way to make your site more Google-friendly.",
+                "Link": "http://www.google.com/webmasters/",
+                "Tag": "Web Master",
+                "FirstDetected": 1548025200000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Global Site Tag",
+                "Description": "Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",
+                "Link": "https://support.google.com/adwords/answer/7548399",
+                "Tag": "analytics",
+                "FirstDetected": 1553209200000,
+                "LastDetected": 1613894400000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Ecommerce",
+                "Description": "Collect eCommerce data with Google Analytics.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce",
+                "Tag": "analytics",
+                "FirstDetected": 1553209200000,
+                "LastDetected": 1554850800000
+              },
+              {
+                "Categories": [
+                  "Hosted Solution",
+                  "Enterprise"
+                ],
+                "IsPremium": "yes",
+                "Name": "Demandware",
+                "Description": "Tailored shopping experiences for consumers across all digital channels, including web, mobile and call center. Now known as Salesforce Commerce Cloud.",
+                "Link": "http://www.demandware.com",
+                "Tag": "shop",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Personalization"
+                ],
+                "IsPremium": "yes",
+                "Name": "CQuotient",
+                "Description": "Cross channel retail personalization - now part of Demandware/Salesforce.",
+                "Link": "http://cquotient.com",
+                "Tag": "analytics",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Conversion Tracking",
+                "Description": "Conversion tracking functionality from Facebook, allows a user to track advertisement clicks.",
+                "Link": "http://www.facebook.com/help/?page=994",
+                "Tag": "analytics",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1613894400000
+              },
+              {
+                "Categories": [
+                  "Animation"
+                ],
+                "IsPremium": "no",
+                "Name": "Slick JS",
+                "Description": "Fully responsive carousel library.",
+                "Link": "http://kenwheeler.github.io/slick",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Validate",
+                "Description": "JQuery Form Validation Plugin.",
+                "Link": "http://jqueryvalidation.org",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Mailgun",
+                "Description": "Mailgun is a set of APIs that allow you to send, receive, track and store email effortlessly.",
+                "Link": "http://www.mailgun.com/",
+                "Tag": "mx",
+                "FirstDetected": 1557874800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Enterprise",
+                  "Multi-Channel"
+                ],
+                "IsPremium": "yes",
+                "Name": "Salesforce Commerce Cloud",
+                "Description": "Salesforce commerce platform for enterprise eCommerce solutions. Previously DemandWare.",
+                "Link": "https://www.salesforce.com/in/products/commerce-cloud/overview/",
+                "Tag": "shop",
+                "FirstDetected": 1558047600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Mobile"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Amplitude",
+                "Description": "Mobile analytics platform.",
+                "Link": "https://amplitude.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1558566000000,
+                "LastDetected": 1601103600000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement"
+                ],
+                "IsPremium": "no",
+                "Name": "Snowplow",
+                "Description": "Open source analytics that you store yourself.",
+                "Link": "http://snowplowanalytics.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1559516400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "yes",
+                "Name": "Gladly",
+                "Description": "Customer service technology platform.",
+                "Link": "https://gladly.com",
+                "Tag": "analytics",
+                "FirstDetected": 1559516400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Live Chat"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Smooch",
+                "Description": "Visitor messaging via various platforms.",
+                "Link": "http://smooch.io",
+                "Tag": "widgets",
+                "FirstDetected": 1559516400000,
+                "LastDetected": 1602399600000
+              },
+              {
+                "Categories": [
+                  "Checkout Buttons",
+                  "Donation",
+                  "Payments Processor"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Payments",
+                "Description": "With Amazon FPS, developers can accept payments on their website for selling goods or services, raise donations, execute recurring payments, and send payments.",
+                "Link": "https://payments.amazon.com/developer",
+                "Tag": "payment",
+                "FirstDetected": 1563231600000,
+                "LastDetected": 1568156400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Pinterest",
+                "Description": "Content from the social image sharing website Pinterest.",
+                "Link": "http://pinterest.com",
+                "Tag": "widgets",
+                "FirstDetected": 1568934000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Office 365 Mail",
+                "Description": "Email sent from this domain has records showing Office 365 usage.",
+                "Link": "https://products.office.com/en-us/business/office",
+                "Tag": "mx",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft Exchange Online",
+                "Description": "A rich hosted Exchange environment for every user without having to manage a server.",
+                "Link": "http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1570575600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon SES",
+                "Description": "Amazon Simple Email Service (Amazon SES) is a  scalable, bulk, transactional email-sending service for businesses and developers.",
+                "Link": "http://aws.amazon.com/ses/",
+                "Tag": "mx",
+                "FirstDetected": 1582671600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Careers",
+                "Description": "The website contains a link to a careers / job opportunities / work with us style page.",
+                "Link": "https://kb.builtwith.com/special-reports/link-tracking/",
+                "Tag": "link",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Shipping",
+                "Description": "The website contains a link to a shipping page.",
+                "Link": "https://kb.builtwith.com/special-reports/link-tracking/",
+                "Tag": "link",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Find a Store",
+                "Description": "The website has a link to a Store Locator / Find a Store / Store Finder style page.",
+                "Link": "https://kb.builtwith.com",
+                "Tag": "link",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Payment Acceptance"
+                ],
+                "IsPremium": "no",
+                "Name": "PayPal",
+                "Description": "The website accepts payments with PayPal.",
+                "Link": "http://paypal.com",
+                "Tag": "payment",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "DMARC"
+                ],
+                "IsPremium": "no",
+                "Name": "DMARC",
+                "Description": "A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse",
+                "Link": "http://www.dmarc.org",
+                "Tag": "mx",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "DMARC"
+                ],
+                "IsPremium": "yes",
+                "Name": "Dmarcian",
+                "Description": "DMARC SaaS platform for compliance.",
+                "Link": "https://dmarcian.com",
+                "Tag": "mx",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "Fishtown Analytics",
+                "Description": "Analytics services at scale.",
+                "Link": "https://fishtownanalytics.com",
+                "Tag": "analytics",
+                "FirstDetected": 1589842800000,
+                "LastDetected": 1601103600000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "Sentry",
+                "Description": "JavaScript bug tracking software through Sentry's javascript client Raven.",
+                "Link": "http://getsentry.com",
+                "Tag": "javascript",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1604304000000
+              },
+              {
+                "Categories": [
+                  "TLD Redirects"
+                ],
+                "IsPremium": "yes",
+                "Name": "3 to 9 ccTLD Redirects",
+                "Description": "The domain has had between 3 and 9 redirects from other ccTLDs within the same root domain name.",
+                "Link": "https://kb.builtwith.com/special-reports/tld-redirects/",
+                "Tag": "ns",
+                "FirstDetected": 1601017200000,
+                "LastDetected": 1635145200000
+              },
+              {
+                "Categories": [
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Pinterest Conversion Tracking",
+                "Description": "Tag that allows you to track actions people take on your website after viewing your Promoted Pin.",
+                "Link": "https://developers.pinterest.com/docs/ad-tools/conversion-tag/",
+                "Tag": "analytics",
+                "FirstDetected": 1601103600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "cleave.js",
+                "Description": "JavaScript library for formatting input text content when you are typing.",
+                "Link": "https://github.com/nosir/cleave.js",
+                "Tag": "javascript",
+                "FirstDetected": 1606118400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare JS",
+                "Description": "Loads content from Cloudflare CDN.",
+                "Link": "https://cloudflare.com",
+                "Tag": "cdn",
+                "FirstDetected": 1606118400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Pound Sterling",
+                "Description": "The website uses the \u00a3 symbol on its website - meaning it may accept payment in this British currency.",
+                "Link": "https://en.wikipedia.org/wiki/Pound_sign",
+                "Tag": "payment",
+                "FirstDetected": 1607328000000,
+                "LastDetected": 1616540400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Domain Verification",
+                "Description": "Domain Verification provides a way for you to claim ownership of your domain in Facebook Business Manager.",
+                "Link": "https://developers.facebook.com/docs/sharing/domain-verification/",
+                "Tag": "framework",
+                "FirstDetected": 1609401600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Advertising",
+                "Description": "Microsoft Advertising delivers advertising impact through world-class partnership services, including innovative programs, knowledge sharing, and planning and service excellence.",
+                "Link": "http://advertising.microsoft.com/home/home",
+                "Tag": "ads",
+                "FirstDetected": 1612252800000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "CRM"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Salesforce",
+                "Description": "Salesforce is a leading platform for cloud based web apps.",
+                "Link": "http://salesforce.com",
+                "Tag": "analytics",
+                "FirstDetected": 1612252800000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "Privacy Compliance"
+                ],
+                "IsPremium": "maybe",
+                "Name": "OneTrust",
+                "Description": "Cookie compliance system.",
+                "Link": "http://onetrust.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "OneTrust",
+                "Categories": [
+                  "Privacy Compliance"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Optanon",
+                "Description": "Cookie consent transparency system from OneTrust.",
+                "Link": "https://www.cookielaw.org/",
+                "Tag": "widgets",
+                "FirstDetected": 1614844800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Adobe Dreamweaver",
+                "Description": "Based on the use of certain javascript functions, this page contains code generated, at least initially, by Dreamweaver.",
+                "Link": "http://www.adobe.com/products/dreamweaver",
+                "Tag": "framework",
+                "FirstDetected": 1252879200000,
+                "LastDetected": 1252879200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Shockwave Flash Embed",
+                "Description": "Adobe Flash Macromedia shockwave content. End of life product retiring in 2020.",
+                "Link": "http://www.macromedia.com/software/flash/about/",
+                "Tag": "framework",
+                "FirstDetected": 1252879200000,
+                "LastDetected": 1262905200000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Constant Contact",
+                "Description": "Email marketing solution software, provides email and survey solutions.",
+                "Link": "http://www.constantcontact.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1260226800000,
+                "LastDetected": 1286575200000
+              },
+              {
+                "Categories": [
+                  "Open Source"
+                ],
+                "IsPremium": "no",
+                "Name": "Ubercart",
+                "Description": "Open source e-commerce package that fully integrates an online store with Drupal.",
+                "Link": "http://ubercart.org",
+                "Tag": "shop",
+                "FirstDetected": 1286575200000,
+                "LastDetected": 1286575200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Adscale",
+                "Description": "German advertising network.",
+                "Link": "http://www.adscale.de",
+                "Tag": "ads",
+                "FirstDetected": 1627714800000,
+                "LastDetected": 1635058800000
+              }
+            ],
+            "FirstIndexed": 1252879200000,
+            "LastIndexed": 1635145200000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Sharer",
+                "Description": "Share this page on Facebook using a deprecated sharing syntax.",
+                "Link": "http://www.facebook.com/facebook-widgets/share.php",
+                "Tag": "widgets",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1589842800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Like Button",
+                "Description": "The code to implement a Facebook Like Button on the page.",
+                "Link": "http://developers.facebook.com/docs/reference/plugins/like/",
+                "Tag": "widgets",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1404086400000
+              },
+              {
+                "Categories": [
+                  "Live Stream / Webcast",
+                  "Online Video Platform",
+                  "Social Video Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "YouTube",
+                "Description": "Embedded videos from YouTube.",
+                "Link": "http://youtube.com",
+                "Tag": "media",
+                "FirstDetected": 1394409954078,
+                "LastDetected": 1404172800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Switch Ads",
+                "Description": "UK based advertising system.",
+                "Link": "http://switchads.com",
+                "Tag": "ads",
+                "FirstDetected": 1417824000000,
+                "LastDetected": 1417824000000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement"
+                ],
+                "IsPremium": "no",
+                "Name": "Yahoo Web Analytics",
+                "Description": "Yahoo! Web Analytics is an enterprise site analytics tool that provides real-time insight into visitor behavior on your website.",
+                "Link": "http://web.analytics.yahoo.com",
+                "Tag": "analytics",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Categories": [
+                  "Ad Network"
+                ],
+                "IsPremium": "no",
+                "Name": "Tribal Fusion",
+                "Description": "Tribal Fusion\u2310 is a Site Representation Company focused on high quality sites with targeted content and significant reach.",
+                "Link": "http://tribalfusion.com",
+                "Tag": "ads",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Categories": [
+                  "Ad Network"
+                ],
+                "IsPremium": "no",
+                "Name": "Burst Media",
+                "Description": "Internet advertising network representing specialty-content web sites.",
+                "Link": "http://burstmedia.com",
+                "Tag": "ads",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "Improve Digital",
+                "Description": "Private ad exchange network.",
+                "Link": "http://www.improvedigital.com",
+                "Tag": "ads",
+                "FirstDetected": 1425427200000,
+                "LastDetected": 1425427200000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted AngularJS",
+                "Description": "AngularJS hosted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Angular JS",
+                "Description": "Angular is what HTML would have been if it had been designed for building web applications.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1461798000000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CodePen",
+                "Description": "HTML/CSS/JavaScript widget to show code samples.",
+                "Link": "http://codepen.io",
+                "Tag": "widgets",
+                "FirstDetected": 1461798000000,
+                "LastDetected": 1468450800000
+              },
+              {
+                "Parent": "Angular JS",
+                "IsPremium": "no",
+                "Name": "Angular JS v1",
+                "Description": "Version 1 of Angular JS.",
+                "Link": "http://www.angularjs.org",
+                "Tag": "javascript",
+                "FirstDetected": 1461798000000,
+                "LastDetected": 1488841200000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Mapbox",
+                "Description": "Premium map provider.",
+                "Link": "http://www.mapbox.com",
+                "Tag": "mapping",
+                "FirstDetected": 1462143600000,
+                "LastDetected": 1484089200000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "Mobify",
+                "Description": "Mobify is a mobile shopping experience & engagement platform that helps enterprise retailers power shopping on every mobile touchpoint. Mobify's platform consists of an App Experience Framework, Web Experience Framework, Push notifications, Location Marketing Suite & Engagement Engine.",
+                "Link": "http://mobify.com",
+                "Tag": "framework",
+                "FirstDetected": 1484002800000,
+                "LastDetected": 1484089200000
+              },
+              {
+                "Categories": [
+                  "eCommerce"
+                ],
+                "IsPremium": "yes",
+                "Name": "StoreMapper",
+                "Description": "A Simple Store Locator App.",
+                "Link": "http://storemapper.co",
+                "Tag": "widgets",
+                "FirstDetected": 1499382000000,
+                "LastDetected": 1499382000000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "zepto.js",
+                "Description": "Zepto.js is a minimalist JavaScript framework for mobile WebKit browsers, with a jQuery-compatible syntax.",
+                "Link": "http://zeptojs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1499382000000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Bamboo HR",
+                "Description": "Job application software widget.",
+                "Link": "http://bamboohr.com",
+                "Tag": "widgets",
+                "FirstDetected": 1528498800000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "Categories": [
+                  "CAPTCHA"
+                ],
+                "IsPremium": "no",
+                "Name": "reCAPTCHA",
+                "Description": "Anti-bot CAPTCHA widget from Google.",
+                "Link": "https://www.google.com/recaptcha/intro/index.html",
+                "Tag": "widgets",
+                "FirstDetected": 1529881200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "eCommerce"
+                ],
+                "IsPremium": "no",
+                "Name": "Microdata for Google Shopping",
+                "Description": "Microdata for adding products to Google Shopping.",
+                "Link": "http://support.google.com/merchants/answer/6069143?hl=en-AU",
+                "Tag": "widgets",
+                "FirstDetected": 1560898800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Analytics Enchanced Ecommerce Product Impression",
+                "Description": "Enhanced eCommerce implementation with measure product impressions.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/enhanced-ecommerce",
+                "Tag": "analytics",
+                "FirstDetected": 1560898800000,
+                "LastDetected": 1633330800000
+              },
+              {
+                "Parent": "reCAPTCHA",
+                "IsPremium": "no",
+                "Name": "reCAPTCHA v2",
+                "Description": "v2 of the Google reCAPTCHA system.",
+                "Link": "https://developers.google.com/recaptcha/docs/display",
+                "Tag": "widgets",
+                "FirstDetected": 1560898800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Braintree",
+                "IsPremium": "no",
+                "Name": "Braintree Apple Pay",
+                "Description": "Provides Apple Pay functionality for Braintree.",
+                "Link": "https://www.braintreepayments.com/en-au/features/apple-pay",
+                "Tag": "payment",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1589842800000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "AggregateOffer Schema",
+                "Description": "A group of offerings together",
+                "Link": "https://schema.org/AggregateOffer",
+                "Tag": "framework",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "AggregateRating Schema",
+                "Description": "Average rating of somethings based on aggregate of reviews.",
+                "Link": "https://schema.org/AggregateRating",
+                "Tag": "framework",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1633330800000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "Product Schema",
+                "Description": "Any offered product or service.",
+                "Link": "https://schema.org/Product",
+                "Tag": "framework",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Payments Processor"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Braintree",
+                "Description": "Braintree is the easiest way to accept payments online and on a mobile app. Owned by PayPal.",
+                "Link": "https://www.braintreepayments.com/docs/javascript",
+                "Tag": "payment",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1589842800000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "Offer Schema",
+                "Description": "Offer to transfer an item or service like tickets, renting or bookings.",
+                "Link": "https://schema.org/Offer",
+                "Tag": "framework",
+                "FirstDetected": 1588978800000,
+                "LastDetected": 1633330800000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Euro",
+                "Description": "The website uses the \u20ac symbol on its website - meaning it may accept payment in Euros.",
+                "Link": "https://en.wikipedia.org/wiki/Euro",
+                "Tag": "payment",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Japanese Yen",
+                "Description": "The website uses the \u00a5 symbol on its website - meaning it may accept payment in this Japanese currency.",
+                "Link": "https://en.wikipedia.org/wiki/Japanese_yen",
+                "Tag": "payment",
+                "FirstDetected": 1591225200000,
+                "LastDetected": 1615104000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Adobe ColdFusion",
+                "Description": "ColdFusion is an application server and software development framework used for the development of computer software in general, and dynamic web sites in particular.",
+                "Link": "http://www.adobe.com/products/coldfusion/",
+                "Tag": "framework",
+                "FirstDetected": 1592694000000,
+                "LastDetected": 1592694000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Java EE",
+                "Description": "Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",
+                "Link": "http://java.sun.com/javaee/",
+                "Tag": "framework",
+                "FirstDetected": 1606809600000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "Categories": [
+                  "Pay Later"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Afterpay",
+                "Description": "Buy now pay later system from Australia. Owned by Square.",
+                "Link": "https://www.afterpay.com.au",
+                "Tag": "payment",
+                "FirstDetected": 1632553200000,
+                "LastDetected": 1635058800000
+              }
+            ],
+            "FirstIndexed": 1324213200000,
+            "LastIndexed": 1635058800000,
+            "Domain": "nativeshoes.com",
+            "Url": "dd",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "ECMAScript 5 Shim",
+                "Description": "ECMAScript 5 compatibility shims for legacy JavaScript engines.",
+                "Link": "https://github.com/kriskowal/es5-shim",
+                "Tag": "javascript",
+                "FirstDetected": 1383690638863,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GitHub Hosting",
+                "Description": "This site is hosted on Github infrastructure.",
+                "Link": "http://github.com",
+                "Tag": "Server",
+                "FirstDetected": 1383690638863,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1383690638863,
+                "LastDetected": 1405638000000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1389567600000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fastly SSL",
+                "Description": "Fastly real time analytics SSL certificate",
+                "Link": "http://fastly.com",
+                "Tag": "ssl",
+                "FirstDetected": 1393196400000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Varnish",
+                "Description": "Varnish is a web accelerator / reverse proxy caching server.",
+                "Link": "http://varnish-software.com/",
+                "Tag": "Web Server",
+                "FirstDetected": 1405638000000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Domain Not Resolving",
+                "Description": "This domain or subdomain is not resolving to an IP.",
+                "Link": "https://builtwith.com",
+                "Tag": "hosting",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1383690638863,
+            "LastIndexed": 1633244400000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": "dealers"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Enterprise DNS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Route 53",
+                "Description": "Amazon's scalable DNS web service system.",
+                "Link": "http://aws.amazon.com/route53/",
+                "Tag": "ns",
+                "FirstDetected": 1403046000000,
+                "LastDetected": 1403046000000
+              },
+              {
+                "Categories": [
+                  "Edge Delivery Network"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon CloudFront",
+                "Description": "Amazon CloudFront delivers your static and streaming content using a global network of edge locations.",
+                "Link": "http://aws.amazon.com/cloudfront/",
+                "Tag": "cdns",
+                "FirstDetected": 1538694000000,
+                "LastDetected": 1540767600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Domain Not Resolving",
+                "Description": "This domain or subdomain is not resolving to an IP.",
+                "Link": "https://builtwith.com",
+                "Tag": "hosting",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1403046000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": "gma"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Social Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Domain Insights",
+                "Description": "This website contains tracking information that allows admins to see Facebook Insights out of Facebook to this domain.",
+                "Link": "http://www.facebook.com/insights/",
+                "Tag": "analytics",
+                "FirstDetected": 1348668000000,
+                "LastDetected": 1413154800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Domain Not Resolving",
+                "Description": "This domain or subdomain is not resolving to an IP.",
+                "Link": "https://builtwith.com",
+                "Tag": "hosting",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1348668000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": "nativision"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Enterprise"
+                ],
+                "IsPremium": "yes",
+                "Name": "Magento Enterprise",
+                "Description": "Magento Enterprise Edition is a eCommerce platform that can scale to support the largest of online stores. Owned by Adobe.",
+                "Link": "http://www.magentocommerce.com/product/enterprise-edition",
+                "Tag": "shop",
+                "FirstDetected": 1386204565274,
+                "LastDetected": 1405638000000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.5.2",
+                "Description": "jQuery version 1.5.2",
+                "Link": "http://blog.jquery.com/2011/03/31/jquery-152-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1386204565274,
+                "LastDetected": 1405638000000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1381705200000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery NoConflict",
+                "Description": "Return control of $ back to the other libraries with a call to $.noConflict().",
+                "Link": "http://api.jquery.com/jQuery.noConflict/",
+                "Tag": "javascript",
+                "FirstDetected": 1380236400000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "HP",
+                "Description": "HP provides enterprise services.",
+                "Link": "http://hp.com",
+                "Tag": "hosting",
+                "FirstDetected": 1373929200000,
+                "LastDetected": 1387148400000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Dedicated Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Rackspace",
+                "Description": "Fanatical Support web hosting from global hosting provider Rackspace, encompassing SliceHost.",
+                "Link": "http://www.rackspace.com",
+                "Tag": "hosting",
+                "FirstDetected": 1364302800000,
+                "LastDetected": 1371942000000
+              },
+              {
+                "Categories": [
+                  "Hosted Solution"
+                ],
+                "IsPremium": "yes",
+                "Name": "Magento Go",
+                "Description": "Magento Go is an online service that helps small business merchants build a store to sell products and services online.",
+                "Link": "http://go.magento.com/",
+                "Tag": "shop",
+                "FirstDetected": 1348668000000,
+                "LastDetected": 1405638000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CPanel",
+                "Description": "cPanel is the industry leader for turning standalone servers into a fully automated point-and-click hosting platform.",
+                "Link": "http://www.cpanel.net/",
+                "Tag": "cms",
+                "FirstDetected": 1458601200000,
+                "LastDetected": 1496530800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "MSN/Bing Webmaster",
+                "Description": "Site registered at MSN/Bing Webmaster.",
+                "Link": "http://webmaster.live.com",
+                "Tag": "Web Master",
+                "FirstDetected": 1515625200000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Marchex",
+                "Description": "Domains and advertising solutions provider.",
+                "Link": "http://www.marchex.com",
+                "Tag": "ads",
+                "FirstDetected": 1515625200000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "BBC Glow",
+                "Description": "Glow is a JavaScript library which aims to make working with JavaScript and the DOM easier. It tries to do this by abstracting common tasks, hiding cross-browser issues, and providing a set of user interface widgets.",
+                "Link": "http://www.bbc.co.uk/glow/",
+                "Tag": "javascript",
+                "FirstDetected": 1515625200000,
+                "LastDetected": 1515625200000
+              }
+            ],
+            "FirstIndexed": 1348668000000,
+            "LastIndexed": 1515625200000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": "shop"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Thickbox",
+                "Description": "ThickBox is a webpage UI dialog widget written in JavaScript on top of the jQuery library. Its function is to show a single image, multiple images, inline content, iframed content, or content served through AJAX in a hybrid modal.",
+                "Link": "http://jquery.com/demo/thickbox/",
+                "Tag": "widgets",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1343570400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IIS",
+                "Description": "This website is running on a Microsoft IIS Server solution.",
+                "Link": "http://www.microsoft.com/servers/home.mspx",
+                "Tag": "Web Server",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1343570400000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 7",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1343570400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET",
+                "Description": "ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",
+                "Link": "http://www.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1324213200000,
+                "LastDetected": 1343570400000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1454972400000,
+                "LastDetected": 1454972400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1454972400000,
+                "LastDetected": 1454972400000
+              }
+            ],
+            "FirstIndexed": 1324213200000,
+            "LastIndexed": 1454972400000,
+            "Domain": "nativeshoes.com",
+            "Url": "dd",
+            "SubDomain": "shop"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Sendgrid",
+                "Description": "SendGrid's cloud-based email infrastructure provides businesses with email delivery management.",
+                "Link": "http://sendgrid.com/",
+                "Tag": "mx",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon",
+                "Description": "This site is hosted on Amazon AWS EC2 Infrastructure.",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Amazon",
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Virginia Region",
+                "Description": "Amazon Hosted EC2 Instances in Virginia",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Envoy",
+                "Description": "Open source edge and service proxy.",
+                "Link": "https://www.envoyproxy.io",
+                "Tag": "Server",
+                "FirstDetected": 1608364800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rack Cache",
+                "Description": "Rack::Cache is a component to enable HTTP caching for Rack-based applications such as Rails.",
+                "Link": "http://rtomayko.github.com/rack-cache/",
+                "Tag": "Web Server",
+                "FirstDetected": 1608364800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Amazon SSL",
+                "Description": "Amazon supplied SSL certificate",
+                "Link": "https://amazon.com",
+                "Tag": "ssl",
+                "FirstDetected": 1608364800000,
+                "LastDetected": 1635058800000
+              }
+            ],
+            "FirstIndexed": 1555023600000,
+            "LastIndexed": 1635058800000,
+            "Domain": "nativeshoes.com",
+            "Url": "",
+            "SubDomain": "support"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Schedule Management"
+                ],
+                "IsPremium": "no",
+                "Name": "ON24",
+                "Description": "ON24 webinars, webcasting and virtual event services.",
+                "Link": "http://on24.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1603494000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Personal Web Server",
+                "Description": "Microsoft Personal Web Server (PWS) was personal web server software offered by Microsoft for the Windows operating system.\n\nLarge sites reporting using PWS may be purposely misleading.",
+                "Link": "http://en.wikipedia.org/wiki/Windows_Personal_Web_Server",
+                "Tag": "Web Server",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1603494000000
+              }
+            ],
+            "FirstIndexed": 1603177200000,
+            "LastIndexed": 1603494000000,
+            "Domain": "nativeshoes.com",
+            "Url": "dd",
+            "SubDomain": "testlink"
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 146164,
+        "Umbrella": 0,
+        "Vertical": "Style And Fashion",
+        "Social": [
+          "http://twitter.com/nativeshoes",
+          "http://facebook.com/nativeshoes",
+          "http://instagram.com/nativeshoes",
+          "http://pinterest.com/nativeshoes"
+        ],
+        "CompanyName": "Native Shoes",
+        "Telephones": [
+          "+1-855-712-9400"
+        ],
+        "Emails": [
+          "international@nativeshoes.com",
+          "press@nativeshoes.com",
+          "sales@nativeshoes.com",
+          "customercare@nativeshoes.com",
+          "privacy@nativeshoes.com"
+        ],
+        "City": "Vancouver",
+        "State": "BC",
+        "Postcode": "V6J",
+        "Country": "CA",
+        "Names": [
+          {
+            "Name": "Michael Belgue",
+            "Type": 3,
+            "Email": "michael.belgue@nativeshoes.com"
+          },
+          {
+            "Name": "Emily Irwin",
+            "Type": 7,
+            "Email": "emily.irwin@nativeshoes.com"
+          },
+          {
+            "Name": "Dominique Morisset",
+            "Type": 7,
+            "Email": "dominique.morisset@nativeshoes.com"
+          },
+          {
+            "Name": "Cindy Lee",
+            "Type": 8,
+            "Email": "cindy.lee@nativeshoes.com"
+          },
+          {
+            "Name": "Kristian Hay",
+            "Type": 8,
+            "Email": "kristian.hay@nativeshoes.com"
+          },
+          {
+            "Name": "Justin Rellinger",
+            "Type": 8,
+            "Email": "justin.rellinger@nativeshoes.com"
+          }
+        ],
+        "ARank": 852601,
+        "QRank": 69322
+      },
+      "Attributes": {
+        "MJRank": 147060,
+        "MJTLDRank": 76118,
+        "RefSN": 1107,
+        "RefIP": 1468,
+        "Followers": 5000,
+        "Sitemap": 0,
+        "GTMTags": 14,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 4,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1252879200000,
+      "LastIndexed": 1635145200000,
+      "Lookup": "nativeshoes.com",
+      "SalesRevenue": 17276963
+    }
+  ],
+  "Errors": []
+}

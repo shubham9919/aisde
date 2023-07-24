@@ -1,0 +1,18 @@
+{
+  "Domain": "triumvirate.com",
+  "DBRecord": {
+    "EarliestRecord": 1294059600,
+    "LatestUpdate": 1635058800,
+    "PremiumTechs": 14,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 8488,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

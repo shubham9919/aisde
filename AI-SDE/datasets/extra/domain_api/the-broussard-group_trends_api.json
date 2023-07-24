@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://d2uu9ep1796sii.cloudfront.net/thumb/c0-e6-2d-48-3z-ed/n",
+    "Categories": [
+      "jQuery Plugin"
+    ],
+    "Tag": "javascript",
+    "IsPremium": "No",
+    "Name": "jQuery NoConflict",
+    "Description": "Return control of $ back to the other libraries with a call to $.noConflict().",
+    "Link": "http://api.jquery.com/jQuery.noConflict/",
+    "TrendsLink": "https://trends.builtwith.com/javascript/jQuery-NoConflict",
+    "Coverage": {
+      "TenK": 1258,
+      "HundredK": 8661,
+      "Mil": 53091,
+      "Live": 2502667,
+      "Historical": 7172129
+    }
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "Relationships": [
+    {
+      "Domain": "teladoc.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "107.21.218.191",
+          "First": 1345212000000,
+          "Last": 1351170000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.243.39.41",
+          "First": 1351774800000,
+          "Last": 1454504400000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "7131854",
+          "First": 1294059600000,
+          "Last": 1631672244212,
+          "Matches": [
+            {
+              "Domain": "meddoctor247.com",
+              "First": 1464157486590,
+              "Last": 1476603005625,
+              "Overlap": true
+            },
+            {
+              "Domain": "ameridoc.com",
+              "First": 1481838561519,
+              "Last": 1528281153058,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.com",
+              "First": 1511973427563,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.org",
+              "First": 1511973427563,
+              "Last": 1529290121840,
+              "Overlap": true
+            },
+            {
+              "Domain": "teledoc.com",
+              "First": 1511971184997,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladoc.ca",
+              "First": 1511971184997,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.com",
+              "First": 1514165287996,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.org",
+              "First": 1514165287996,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "statdoctors.com",
+              "First": 1514151409216,
+              "Last": 1529234594739,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladocconnect.com",
+              "First": 1514150765905,
+              "Last": 1517508820598,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.net",
+              "First": 1517515438171,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.net",
+              "First": 1517515438171,
+              "Last": 1520589380353,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "174.129.159.6",
+          "First": 1455109200000,
+          "Last": 1458738000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.32.18",
+          "First": 1459342800000,
+          "Last": 1605080947937,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.33.18",
+          "First": 1459342800000,
+          "Last": 1595048580446,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "twlh86",
+          "First": 1446642000000,
+          "Last": 1454418000000,
+          "Matches": []
+        },
+        {
+          "Type": "marketo",
+          "Value": "944-CCV-654",
+          "First": 1464159330581,
+          "Last": 1535646183727,
+          "Matches": [
+            {
+              "Domain": "meddoctor247.com",
+              "First": 1464157486590,
+              "Last": 1476603005625,
+              "Overlap": true
+            },
+            {
+              "Domain": "ameridoc.com",
+              "First": 1481838561519,
+              "Last": 1528281153058,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.org",
+              "First": 1511973427563,
+              "Last": 1517515438171,
+              "Overlap": true
+            },
+            {
+              "Domain": "teledoc.com",
+              "First": 1511971184997,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladoc.ca",
+              "First": 1511971184997,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.com",
+              "First": 1514165287996,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "statdoctors.com",
+              "First": 1514151409216,
+              "Last": 1529234594739,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladocconnect.com",
+              "First": 1514150765905,
+              "Last": 1517508820598,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.net",
+              "First": 1517515438171,
+              "Last": 1517515438171,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.net",
+              "First": 1520589380353,
+              "Last": 1520589380353,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.org",
+              "First": 1520589380353,
+              "Last": 1524484193591,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "MQ375N",
+          "First": 1464159330581,
+          "Last": 1500977082555,
+          "Matches": [
+            {
+              "Domain": "meddoctor247.com",
+              "First": 1464157486590,
+              "Last": 1476603005625,
+              "Overlap": true
+            },
+            {
+              "Domain": "ameridoc.com",
+              "First": 1481838561519,
+              "Last": 1481838561519,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "UA-7131854-1",
+          "First": 1509845262122,
+          "Last": 1524478226216,
+          "Matches": [
+            {
+              "Domain": "doctorwithme.com",
+              "First": 1511973427563,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.net",
+              "First": 1511973427563,
+              "Last": 1520589380353,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.org",
+              "First": 1511973427563,
+              "Last": 1517515438171,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.net",
+              "First": 1511973427563,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "ameridoc.com",
+              "First": 1511972852373,
+              "Last": 1520587010101,
+              "Overlap": true
+            },
+            {
+              "Domain": "teledoc.com",
+              "First": 1511971184997,
+              "Last": 1524478226216,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladoc.ca",
+              "First": 1511971184997,
+              "Last": 1520587778162,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.com",
+              "First": 1514165287996,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.org",
+              "First": 1514165287996,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladocconnect.com",
+              "First": 1514150765905,
+              "Last": 1524478226216,
+              "Overlap": true
+            },
+            {
+              "Domain": "statdoctors.com",
+              "First": 1520597925737,
+              "Last": 1524483180383,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "hotjar",
+          "Value": "811564",
+          "First": 1524472318420,
+          "Last": 1586517653270,
+          "Matches": [
+            {
+              "Domain": "doctorwithme.com",
+              "First": 1524484193591,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.com",
+              "First": 1524484193591,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.net",
+              "First": 1524484193591,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "docwithme.org",
+              "First": 1524484193591,
+              "Last": 1524484193591,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladocconnect.com",
+              "First": 1524478226216,
+              "Last": 1524478226216,
+              "Overlap": true
+            },
+            {
+              "Domain": "teledoc.com",
+              "First": 1524478226216,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "ameridoc.com",
+              "First": 1528281153058,
+              "Last": 1528281153058,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladoc.ca",
+              "First": 1529284900786,
+              "Last": 1586128380186,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.org",
+              "First": 1529290121840,
+              "Last": 1529290121840,
+              "Overlap": true
+            },
+            {
+              "Domain": "statdoctors.com",
+              "First": 1529234594739,
+              "Last": 1529234594739,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "36808732",
+          "First": 1527720690756,
+          "Last": 1586517653270,
+          "Matches": [
+            {
+              "Domain": "member2.teladoc.com",
+              "First": 1462834800000,
+              "Last": 1475535600000,
+              "Overlap": false
+            },
+            {
+              "Domain": "member.teladoc.com",
+              "First": 1462834800000,
+              "Last": 1528264565123,
+              "Overlap": true
+            },
+            {
+              "Domain": "pilot-member.teladoc.com",
+              "First": 1472487004748,
+              "Last": 1507244400000,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "41307991",
+          "First": 1527720690756,
+          "Last": 1533823009809,
+          "Matches": [
+            {
+              "Domain": "client.teladoc.com",
+              "First": 1458565200000,
+              "Last": 1528269125845,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "64608680",
+          "First": 1527720690756,
+          "Last": 1545953884705,
+          "Matches": [
+            {
+              "Domain": "ir.teladoc.com",
+              "First": 1458565200000,
+              "Last": 1507244400000,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "P5C9H5S",
+          "First": 1527720690756,
+          "Last": 1634470935148,
+          "Matches": [
+            {
+              "Domain": "ameridoc.com",
+              "First": 1528281153058,
+              "Last": 1528281153058,
+              "Overlap": true
+            },
+            {
+              "Domain": "teladoc.ca",
+              "First": 1529284900786,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "teledoc.com",
+              "First": 1529284900786,
+              "Last": 1529284900786,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorwithme.org",
+              "First": 1529290121840,
+              "Last": 1529290121840,
+              "Overlap": true
+            },
+            {
+              "Domain": "statdoctors.com",
+              "First": 1529234594739,
+              "Last": 1529234594739,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "newrelic",
+          "Value": "4b6f7f959c",
+          "First": 1527720690756,
+          "Last": 1545953884705,
+          "Matches": []
+        },
+        {
+          "Type": "newrelic",
+          "Value": "ca2540c8ec",
+          "First": 1527720690756,
+          "Last": 1586517653270,
+          "Matches": [
+            {
+              "Domain": "member.teladoc.com",
+              "First": 1484723902075,
+              "Last": 1514155019004,
+              "Overlap": false
+            },
+            {
+              "Domain": "client.teladoc.com",
+              "First": 1500977082555,
+              "Last": 1514165506067,
+              "Overlap": false
+            },
+            {
+              "Domain": "healthiestyou.com",
+              "First": 1559502858103,
+              "Last": 1583590785491,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.27",
+          "First": 1532863834183,
+          "Last": 1532863834183,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.18",
+          "First": 1532863933555,
+          "Last": 1532863933555,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.16",
+          "First": 1532863933555,
+          "Last": 1532863933555,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "69.172.200.241",
+          "First": 1533108331067,
+          "Last": 1535646183727,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.22",
+          "First": 1539526572254,
+          "Last": 1539526572254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1544651875589,
+          "Last": 1587953041928,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.21",
+          "First": 1549682368543,
+          "Last": 1581700493717,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "206.213.211.95",
+          "First": 1551858621753,
+          "Last": 1585455912696,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "206.213.253.95",
+          "First": 1551858621753,
+          "Last": 1582419769248,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "AW-978930244",
+          "First": 1554986175631,
+          "Last": 1631672244212,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.2",
+          "First": 1556849538295,
+          "Last": 1556849538295,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "146.203.139.18",
+          "First": 1560287774894,
+          "Last": 1564522747775,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.19",
+          "First": 1561029101435,
+          "Last": 1561029101435,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.4",
+          "First": 1565319800687,
+          "Last": 1565319800687,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.30",
+          "First": 1570500180516,
+          "Last": 1570500180516,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.23",
+          "First": 1584706590338,
+          "Last": 1584706590338,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "74.116.10.63",
+          "First": 1588372970065,
+          "Last": 1588372970065,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.20.84",
+          "First": 1608431995614,
+          "Last": 1623511931711,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.21.84",
+          "First": 1611043200000,
+          "Last": 1628122345725,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

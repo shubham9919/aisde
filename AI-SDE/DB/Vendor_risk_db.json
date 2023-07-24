@@ -1,0 +1,869 @@
+[{
+  "ID": 0,
+  "Company": "abbott",
+  "Domain": "abbott.com",
+  "Industry": "Services",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 2,
+  "Company": "advanced auto parts",
+  "Domain": "advancedautoparts.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 3,
+  "Company": "albertsons",
+  "Domain": "albertsons.com",
+  "Industry": "Retail Trade",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 4,
+  "Company": "amazon",
+  "Domain": "amazon.com",
+  "Industry": "Retail Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 5,
+  "Company": "american electric power",
+  "Domain": "aep.com",
+  "Industry": "Transportation",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 6,
+  "Company": "american international group",
+  "Domain": "aig.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 7,
+  "Company": "aol time warner",
+  "Domain": "aoltimewarner.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 8,
+  "Company": "aquila",
+  "Domain": "aquilaboats.com",
+  "Industry": "Unknown",
+  "Status": "Low",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 9,
+  "Company": "arkose labs",
+  "Domain": "arkoselabs.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 10,
+  "Company": "armo",
+  "Domain": "im.it",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 11,
+  "Company": "at&t",
+  "Domain": "att.com",
+  "Industry": "Communications",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 12,
+  "Company": "attackiq",
+  "Domain": "attackiq.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 13,
+  "Company": "aura",
+  "Domain": "aura.com",
+  "Industry": "Services",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 14,
+  "Company": "avalere health",
+  "Domain": "avalere.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 15,
+  "Company": "bank of america corp.",
+  "Domain": "bankofamerica.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 16,
+  "Company": "berkshire hathaway",
+  "Domain": "berkshirehathaway.com",
+  "Industry": "Unknown",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 17,
+  "Company": "bluevoyant",
+  "Domain": "bluevoyant.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 18,
+  "Company": "bmo",
+  "Domain": "bmo.com",
+  "Industry": "Finance",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 19,
+  "Company": "boeing",
+  "Domain": "boeing.com",
+  "Industry": "Manufacturing",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 20,
+  "Company": "branch banking and trust company",
+  "Domain": "truist.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 21,
+  "Company": "broward college",
+  "Domain": "broward.edu",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 22,
+  "Company": "cardinal health",
+  "Domain": "cardinalhealth.ca",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 23,
+  "Company": "casa",
+  "Domain": "casashops.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 24,
+  "Company": "centers for medicare",
+  "Domain": "cms.gov",
+  "Industry": "Public Administration",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 25,
+  "Company": "chevrontexaco",
+  "Domain": "chevrontexaco.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 26,
+  "Company": "citigroup",
+  "Domain": "citigroup.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 27,
+  "Company": "claroty",
+  "Domain": "claroty.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 28,
+  "Company": "cobalt",
+  "Domain": "cobalt.io",
+  "Industry": "Services",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 29,
+  "Company": "corelight",
+  "Domain": "corelight.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 30,
+  "Company": "corsha",
+  "Domain": "corsha.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 31,
+  "Company": "cyera",
+  "Domain": "cyera.io",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 32,
+  "Company": "cyware",
+  "Domain": "cyware.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 33,
+  "Company": "dashlane",
+  "Domain": "dashlane.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 34,
+  "Company": "datagrail",
+  "Domain": "datagrail.io",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 35,
+  "Company": "deep instinct",
+  "Domain": "deepinstinct.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 36,
+  "Company": "drata",
+  "Domain": "drata.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 37,
+  "Company": "duke energy",
+  "Domain": "duke-energy.com",
+  "Industry": "Unknown",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 38,
+  "Company": "dynegy",
+  "Domain": "dynegy.com",
+  "Industry": "Transportation",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 39,
+  "Company": "eddie bauer llc",
+  "Domain": "eddiebauer.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 40,
+  "Company": "edge",
+  "Domain": "microsoft.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 41,
+  "Company": "el paso",
+  "Domain": "elpasotexas.gov",
+  "Industry": "Public Administration",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 42,
+  "Company": "enron",
+  "Domain": "enron.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 43,
+  "Company": "enveil",
+  "Domain": "enveil.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 44,
+  "Company": "esper",
+  "Domain": "esper.io",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 45,
+  "Company": "exxon mobil",
+  "Domain": "exxonmobil.com",
+  "Industry": "Services",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 46,
+  "Company": "fannie mae",
+  "Domain": "fanniemae.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 47,
+  "Company": "flad architects",
+  "Domain": "flad.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 48,
+  "Company": "flexa",
+  "Domain": "flexa.nl",
+  "Industry": "Retail Trade",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 49,
+  "Company": "flock safety",
+  "Domain": "flocksafety.com",
+  "Industry": "Unknown",
+  "Status": "Low",
+  "Alert_Type": "Sentiment"
+},{
+  "ID": 50,
+  "Company": "forallsecure",
+  "Domain": "forallsecure.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 51,
+  "Company": "ford motor",
+  "Domain": "ford.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 52,
+  "Company": "freddie mac",
+  "Domain": "freddiemac.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 53,
+  "Company": "general electric",
+  "Domain": "ge.com",
+  "Industry": "Manufacturing",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 54,
+  "Company": "general motors",
+  "Domain": "gm.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 55,
+  "Company": "google",
+  "Domain": "google.com",
+  "Industry": "Services",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 56,
+  "Company": "hewlett-packard",
+  "Domain": "hewlett-packard.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 57,
+  "Company": "home box office inc",
+  "Domain": "hbo.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 58,
+  "Company": "home depot",
+  "Domain": "homedepot.com",
+  "Industry": "Unknown",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 59,
+  "Company": "illumio",
+  "Domain": "illumio.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 60,
+  "Company": "innovage",
+  "Domain": "innovage.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 61,
+  "Company": "inovalon inc",
+  "Domain": "inovalon.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 62,
+  "Company": "instagram",
+  "Domain": "instagram.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 63,
+  "Company": "intigriti",
+  "Domain": "intigriti.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 64,
+  "Company": "intl. business machines",
+  "Domain": "ibm.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 65,
+  "Company": "intuit",
+  "Domain": "intuit.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 66,
+  "Company": "j.p. morgan chase & co.",
+  "Domain": "jpmorganchase.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 67,
+  "Company": "jumpcloud",
+  "Domain": "jumpcloud.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 68,
+  "Company": "kmart",
+  "Domain": "kmart.com",
+  "Industry": "Retail Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 69,
+  "Company": "kroger",
+  "Domain": "kroger.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 70,
+  "Company": "laboratory corp",
+  "Domain": "labcorp.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 71,
+  "Company": "lifequote",
+  "Domain": "lifequote.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 72,
+  "Company": "malwarebytes",
+  "Domain": "malwarebytes.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 73,
+  "Company": "mckesson",
+  "Domain": "mckesson.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 74,
+  "Company": "menlo security",
+  "Domain": "menlosecurity.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 75,
+  "Company": "merck",
+  "Domain": "merck.com",
+  "Industry": "Manufacturing",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 76,
+  "Company": "merrill lynch",
+  "Domain": "ml.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 79,
+  "Company": "minut",
+  "Domain": "minut.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 80,
+  "Company": "morgan stanley dean witter",
+  "Domain": "morganstanley.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 81,
+  "Company": "native shoes",
+  "Domain": "nativeshoes.com",
+  "Industry": "Wholesale Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 82,
+  "Company": "network perception",
+  "Domain": "network-perception.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 83,
+  "Company": "nike",
+  "Domain": "nike.com",
+  "Industry": "Unknown",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 84,
+  "Company": "nym technologies",
+  "Domain": "nymtech.net",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 85,
+  "Company": "perception point",
+  "Domain": "perception-point.io",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 86,
+  "Company": "philip morris",
+  "Domain": "pmi.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 87,
+  "Company": "polysign",
+  "Domain": "polysign.io",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 88,
+  "Company": "procter & gamble",
+  "Domain": "pg.com",
+  "Industry": "Manufacturing",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 89,
+  "Company": "protonmail",
+  "Domain": "proton.me",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 90,
+  "Company": "protransport",
+  "Domain": "protransport.info",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 91,
+  "Company": "reliant energy",
+  "Domain": "reliant.com",
+  "Industry": "Electric, Gas",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 92,
+  "Company": "response teck",
+  "Domain": "responsetek.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 93,
+  "Company": "royal bank of canada",
+  "Domain": "rbcroyalbank.com",
+  "Industry": "Finance",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 94,
+  "Company": "safebreach",
+  "Domain": "safebreach.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 96,
+  "Company": "sbc communications",
+  "Domain": "sbccommunications.co.uk",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 97,
+  "Company": "sears roebuck",
+  "Domain": "searsroebuck.org",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 98,
+  "Company": "secureframe",
+  "Domain": "secureframe.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 99,
+  "Company": "securityscorecard",
+  "Domain": "securityscorecard.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 100,
+  "Company": "shiftleft",
+  "Domain": "shiftleft.io",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 101,
+  "Company": "southwest airlines",
+  "Domain": "southwest.com",
+  "Industry": "Transportation",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 102,
+  "Company": "stackoverflow",
+  "Domain": "stackoverflow.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 103,
+  "Company": "state farm insurance cos.",
+  "Domain": "statefarm.com",
+  "Industry": "Real Estate",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 104,
+  "Company": "stellar cyber",
+  "Domain": "stellarcyber.ai",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 105,
+  "Company": "strongdm",
+  "Domain": "strongdm.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 106,
+  "Company": "synapse",
+  "Domain": "synapse.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 107,
+  "Company": "target",
+  "Domain": "target.com",
+  "Industry": "Retail Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 108,
+  "Company": "teladoc",
+  "Domain": "teladochealth.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 109,
+  "Company": "tesla",
+  "Domain": "tesla.com",
+  "Industry": "Wholesale Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 110,
+  "Company": "the broussard group llc",
+  "Domain": "thebroussardgroup.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 111,
+  "Company": "tokenex",
+  "Domain": "tokenex.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 112,
+  "Company": "transmit security",
+  "Domain": "transmitsecurity.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 113,
+  "Company": "triumvirate environmental inc",
+  "Domain": "triumvirate.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 114,
+  "Company": "trulioo",
+  "Domain": "trulioo.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 115,
+  "Company": "truora",
+  "Domain": "truora.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 116,
+  "Company": "trustap",
+  "Domain": "trustap.com",
+  "Industry": "Services",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 117,
+  "Company": "twitch",
+  "Domain": "twitch.tv",
+  "Industry": "Unknown",
+  "Status": "Low",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 118,
+  "Company": "verizon communications",
+  "Domain": "verizon.com",
+  "Industry": "Retail Trade",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 119,
+  "Company": "very good security",
+  "Domain": "verygoodsecurity.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 120,
+  "Company": "vida",
+  "Domain": "vida.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 121,
+  "Company": "virgin enterprises limited",
+  "Domain": "virgin.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 122,
+  "Company": "walmart",
+  "Domain": "walmart.com",
+  "Industry": "Retail Trade",
+  "Status": "High",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 123,
+  "Company": "wiz",
+  "Domain": "wizconnected.com",
+  "Industry": "Manufacturing",
+  "Status": "Low",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 124,
+  "Company": "yahoo",
+  "Domain": "yahoo.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 125,
+  "Company": "zignal labs",
+  "Domain": "zignallabs.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Dark Web"
+},{
+  "ID": 126,
+  "Company": "zillow group",
+  "Domain": "zillowgroup.com",
+  "Industry": "Services",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+},{
+  "ID": 127,
+  "Company": "zocdoc",
+  "Domain": "zocdoc.com",
+  "Industry": "Unknown",
+  "Status": "Medium",
+  "Alert_Type": "Breach Risk"
+}]

@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://d1nywwyphm5jsu.cloudfront.net/thumb/35-4d-4e-6e-cj-0z/n",
+    "Categories": [
+      "Root Authority"
+    ],
+    "Tag": "ssl",
+    "IsPremium": "No",
+    "Name": "Comodo SSL",
+    "Description": "Certificate provided by Comodo.",
+    "Link": "http://comodo.com",
+    "TrendsLink": "https://trends.builtwith.com/ssl/Comodo-SSL",
+    "Coverage": {
+      "TenK": 236,
+      "HundredK": 1215,
+      "Mil": 5651,
+      "Live": 398378,
+      "Historical": 24437014
+    }
+  }
+}

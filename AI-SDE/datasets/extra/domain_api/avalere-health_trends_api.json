@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://dbuflkpcdpfh3.cloudfront.net/thumb/d0-2c-j0-q0-6z-52/n",
+    "Categories": [
+      "Secure Email"
+    ],
+    "Tag": "mx",
+    "IsPremium": "Yes",
+    "Name": "McAfee SaaS Email",
+    "Description": "McAfee SaaS Web and Email Protection Suite combines McAfee SaaS Web Protection and McAfee SaaS Email Protection and Continuity. Formally mxLogic.",
+    "Link": "http://www.mcafee.com/us/products/saas-email-and-web-protection-suite.aspx",
+    "TrendsLink": "https://trends.builtwith.com/mx/McAfee-SaaS-Email",
+    "Coverage": {
+      "TenK": 9,
+      "HundredK": 85,
+      "Mil": 523,
+      "Live": 15926,
+      "Historical": 180429
+    }
+  }
+}

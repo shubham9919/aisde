@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://dbuflkpcdpfh3.cloudfront.net/thumb/5z-6j-53-j0-c4-77/n",
+    "Categories": [
+      "Fonts"
+    ],
+    "Tag": "widgets",
+    "IsPremium": "No",
+    "Name": "Google Font API",
+    "Description": "The Google Font API helps you add web fonts to any web page.",
+    "Link": "https://fonts.google.com",
+    "TrendsLink": "https://trends.builtwith.com/widgets/Google-Font-API",
+    "Coverage": {
+      "TenK": 6117,
+      "HundredK": 58384,
+      "Mil": 517824,
+      "Live": 42781913,
+      "Historical": -1
+    }
+  }
+}

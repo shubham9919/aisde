@@ -1,0 +1,18 @@
+{
+  "Domain": "browardcollege.net",
+  "DBRecord": {
+    "EarliestRecord": 1275116400,
+    "LatestUpdate": 1633244400,
+    "PremiumTechs": 1,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 6,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

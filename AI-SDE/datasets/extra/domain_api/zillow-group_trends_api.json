@@ -1,0 +1,24 @@
+{
+  "Tech": {
+    "Icon": "https://d1nywwyphm5jsu.cloudfront.net/thumb/jz-q3-e5-0z-29-44/n",
+    "Categories": [
+      "Dedicated Hosting",
+      "Shared Hosting",
+      "US hosting",
+      "VPS Hosting"
+    ],
+    "Tag": "hosting",
+    "IsPremium": "No",
+    "Name": "GoDaddy",
+    "Description": "Global hosting and domain registration provider led by Bob Parsons.",
+    "Link": "http://www.godaddy.com",
+    "TrendsLink": "https://trends.builtwith.com/hosting/GoDaddy",
+    "Coverage": {
+      "TenK": 296,
+      "HundredK": 3106,
+      "Mil": 44608,
+      "Live": 17298071,
+      "Historical": -1
+    }
+  }
+}

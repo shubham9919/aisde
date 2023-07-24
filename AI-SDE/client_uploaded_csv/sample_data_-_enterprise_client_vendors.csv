@@ -1,0 +1,8 @@
+enterprise,enterprise_domain,vendor,vendor_domain,technologies
+amazon,amazon.com,flipkart,flipkart.com,"python, js, java, java"
+amazon,amazon.com,google,google.com,"native, react, java, python"
+amazon,amazon.com,spoons,spoons.com,"php, web"
+netflix,netflix.com,netflix,netflix.com,
+hawaii,hawaii.com,hawaii,hawaii.com,"python, java, python"
+game,game.com,nothawaii,ahawaii.com,"python, java, python"
+game2,game.com,nothawaii2,a2hawaii.com,"python, java, python"

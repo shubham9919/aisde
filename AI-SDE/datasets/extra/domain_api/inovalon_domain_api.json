@@ -1,0 +1,3650 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 12279,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Parent": "ASP.NET",
+                "IsPremium": "no",
+                "Name": "ASP.NET 2.0",
+                "Description": "ASP.NET version 2.0.*",
+                "Link": "http://www.microsoft.com/net",
+                "Tag": "framework",
+                "FirstDetected": 1385679600000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cookie",
+                "Description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+                "Link": "https://github.com/carhartl/jquery-cookie",
+                "Tag": "javascript",
+                "FirstDetected": 1372806000000,
+                "LastDetected": 1400540400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "UltraDNS neustar",
+                "Description": "DNS services provided by UltraDNS neustar.",
+                "Link": "http://neustar.com",
+                "Tag": "ns",
+                "FirstDetected": 1346972400000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "eCommerce Enabled"
+                ],
+                "IsPremium": "yes",
+                "Name": "iAPPS",
+                "Description": "Integrated CMS, Analytics and eCommerce solution.",
+                "Link": "http://iapps.com",
+                "Tag": "cms",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1400540400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET Ajax",
+                "Description": "ASP.NET AJAX is a free framework for quickly creating a new generation of more efficient, more interactive and highly-personalized Web experiences that work across all the most popular browsers.",
+                "Link": "http://ajax.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1400454000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "Microsoft Office SharePoint",
+                "Description": "Microsoft's Portal/Collaboration/Intranetworking solution.",
+                "Link": "http://www.microsoft.com/sharepoint/default.mspx",
+                "Tag": "framework",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1400454000000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Act-On",
+                "Description": "Marketing automation software.",
+                "Link": "http://www.actonsoftware.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1438214400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IIS",
+                "Description": "This website is running on a Microsoft IIS Server solution.",
+                "Link": "http://www.microsoft.com/servers/home.mspx",
+                "Tag": "Web Server",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1622617200000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 7",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET",
+                "Description": "ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",
+                "Link": "http://www.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1341496800000,
+                "LastDetected": 1622617200000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Verizon",
+                "Description": "Hosting solutions from Verizon.",
+                "Link": "http://verizon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1345730400000,
+                "LastDetected": 1587078000000
+              },
+              {
+                "Categories": [
+                  "Open Source"
+                ],
+                "IsPremium": "no",
+                "Name": "Drupal",
+                "Description": "An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.",
+                "Link": "http://www.drupal.org",
+                "Tag": "cms",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Red Hat Enterprise Linux",
+                "Description": "Red Hat Enterprise Linux (often abbreviated to RHEL) is a Linux distribution produced by Red Hat and targeted toward the commercial market, including mainframes.",
+                "Link": "http://www.redhat.com",
+                "Tag": "Server",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Parent": "Apache",
+                "IsPremium": "no",
+                "Name": "Apache 2.2",
+                "Description": "Apache version 2.2.*",
+                "Link": "http://httpd.apache.org/docs/2.2",
+                "Tag": "Web Server",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Modernizr",
+                "Description": "Modernizr allows you to target specific browser functionality in your stylesheet.",
+                "Link": "http://www.modernizr.com",
+                "Tag": "javascript",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "yepnope",
+                "Description": "yepnope is an asynchronous conditional resource loader that allows you to load only the scripts that your users need.",
+                "Link": "http://yepnopejs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "Social Sharing"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Like",
+                "Description": "Allows users to Like items they find on the web, similar to how you Like items within Facebook.",
+                "Link": "http://developers.facebook.com/docs/reference/plugins/like",
+                "Tag": "widgets",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1427760000000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "html5shiv",
+                "Description": "HTML5 IE enabling script shim.",
+                "Link": "https://github.com/afarkas/html5shiv",
+                "Tag": "javascript",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Respond",
+                "Description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+                "Link": "https://github.com/scottjehl/Respond",
+                "Tag": "javascript",
+                "FirstDetected": 1402873200000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization",
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Conversion Tracking",
+                "Description": "This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app).",
+                "Link": "https://support.google.com/adwords/answer/1722054",
+                "Tag": "analytics",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1406678400000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Remarketing",
+                "Description": "Google code specifically for remarketing/retargeting based advertising.",
+                "Link": "http://www.google.com.au/ads/innovations/remarketing.html",
+                "Tag": "ads",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Contextual Advertising"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Adsense",
+                "Description": "A contextual advertising solution for delivering Google AdWords ads that are relevant to site content pages.",
+                "Link": "http://google.com/adsense",
+                "Tag": "ads",
+                "FirstDetected": 1406678400000,
+                "LastDetected": 1406678400000
+              },
+              {
+                "Parent": "Drupal",
+                "IsPremium": "no",
+                "Name": "Drupal 7",
+                "Description": "Version 7 of Drupal.",
+                "Link": "http://www.drupal.org/drupal-7.0",
+                "Tag": "cms",
+                "FirstDetected": 1406761200000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Content Delivery Network",
+                "Description": "This page contains links that give the impression that some of the site contents are stored on a content delivery network.",
+                "Link": "http://en.wikipedia.org/wiki/Content_Delivery_Network",
+                "Tag": "CDN",
+                "FirstDetected": 1410994800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Live Chat"
+                ],
+                "IsPremium": "maybe",
+                "Name": "SnapEngage",
+                "Description": "SnapEngage automatically engages with your website visitors on your behalf. Created by TimZon. Encompasses SnapABug.",
+                "Link": "http://www.snapengage.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1410994800000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apple Mobile Web Clips Icon",
+                "Description": "This page contains an icon for iPhone, iPad and iTouch devices.",
+                "Link": "http://developer.apple.com/library/iOS/#documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1413331200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Optimized",
+                "Description": "Microsoft invented the MobileOptimized META tag to control the layout width for mobile markup rendered in Internet Explorer Mobile.",
+                "Link": "http://msdn.microsoft.com/en-us/library/bb159711.aspx",
+                "Tag": "mobile",
+                "FirstDetected": 1417042800000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Bizible",
+                "Description": "Multi-channel ROI marketing analytics tool.",
+                "Link": "http://www.bizible.com",
+                "Tag": "analytics",
+                "FirstDetected": 1421020800000,
+                "LastDetected": 1540767600000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1427068800000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Once",
+                "Description": "Filters out all elements that had the same filter applied on them before. ",
+                "Link": "http://plugins.jquery.com/once/",
+                "Tag": "javascript",
+                "FirstDetected": 1430265600000,
+                "LastDetected": 1430265600000
+              },
+              {
+                "Parent": "Drupal",
+                "IsPremium": "no",
+                "Name": "Drupal Version 7.3x",
+                "Description": "Version 7.3x of Drupal",
+                "Link": "http://drupal.org",
+                "Tag": "cms",
+                "FirstDetected": 1433977200000,
+                "LastDetected": 1447282800000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1438140069223,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Dynamic Tag Management",
+                "Description": "Satellite puts an end to tag and technology management, letting marketers and analysts manage their tools. Previously known as Search Discovery Satellite now Adobe DTM.",
+                "Link": "http://www.searchdiscovery.com/satellite/",
+                "Tag": "analytics",
+                "FirstDetected": 1438383600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Omniture SiteCatalyst",
+                "Description": "Omniture SiteCatalyst provides your website with actionable, real-time intelligence regarding online strategies and marketing initiatives.",
+                "Link": "http://www.omniture.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1438815600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Lead Generation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Lead Forensics",
+                "Description": "Visibility of which companies have visited your site, when they visited, what they searched on and the pages they viewed.",
+                "Link": "http://www.leadforensics.com",
+                "Tag": "analytics",
+                "FirstDetected": 1441407600000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Eloqua",
+                "Description": "Marketing automation provider.",
+                "Link": "http://www.eloqua.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1441407600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "eXelate",
+                "Description": "The first and largest open marketplace for behavioral targeting data.",
+                "Link": "http://www.exelate.com",
+                "Tag": "ads",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Datonics",
+                "Description": "Datonics AlmondNet partners with data-owners and media-owners to provide consumers with relevant, privacy-sensitive ads.",
+                "Link": "http://www.almondnet.com/",
+                "Tag": "ads",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Simpli.fi",
+                "Description": "Search retargeting solution.",
+                "Link": "http://www.simpli.fi/",
+                "Tag": "ads",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Ad Exchange",
+                  "Ad Network"
+                ],
+                "IsPremium": "no",
+                "Name": "Advertising.com",
+                "Description": "Ad.com network reaches nearly 85% of all Internet users in the U.S., making us the biggest ad network in town - from Verizon Media.",
+                "Link": "http://advertising.com",
+                "Tag": "ads",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1524610800000
+              },
+              {
+                "Parent": "Drupal",
+                "IsPremium": "no",
+                "Name": "Drupal Version 7.4x",
+                "Description": "Version 7.4x of Drupal",
+                "Link": "http://drupal.org",
+                "Tag": "cms",
+                "FirstDetected": 1447887600000,
+                "LastDetected": 1469055600000
+              },
+              {
+                "Categories": [
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "LiveRail",
+                "Description": "Online video advertising",
+                "Link": "http://liverail.com/",
+                "Tag": "ads",
+                "FirstDetected": 1448409600000,
+                "LastDetected": 1453852800000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Audience Targeting",
+                  "Data Management Platform",
+                  "Demand-side Platform",
+                  "Multi-Channel",
+                  "Ad Network",
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "Turn",
+                "Description": "Provides performance-based CPA, CPC, and CPM pricing, automatic and blended targeting, plus market quality control through Smart Marketing technology. Now known as Amobee.",
+                "Link": "http://turn.com",
+                "Tag": "ads",
+                "FirstDetected": 1451088000000,
+                "LastDetected": 1517526000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rubicon Project",
+                "Description": "Advertising optimization service.",
+                "Link": "http://rubiconproject.com",
+                "Tag": "ads",
+                "FirstDetected": 1451088000000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Site Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Matomo",
+                "Description": "Matomo is an open source web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak and so much more. Previously known as Piwik Web Analytics.",
+                "Link": "http://matomo.org",
+                "Tag": "analytics",
+                "FirstDetected": 1451516400000,
+                "LastDetected": 1471215600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Lotame Crowd Control",
+                "Description": "Data driven marketing advertising program provides social media sites with advance targeting",
+                "Link": "http://lotame.com",
+                "Tag": "analytics",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Parent": "BlueKai",
+                "Categories": [
+                  "Data Management Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "BlueKai DMP",
+                "Description": "BlueKai sites that specifically call a tags script.",
+                "Link": "http://bluekai.com",
+                "Tag": "ads",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "BlueKai",
+                "Description": "The BlueKai Data Exchange enables partners to buy and own data to boost ad targeting across any media.",
+                "Link": "http://bluekai.com",
+                "Tag": "ads",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Azure DNS",
+                "Description": "This domain is verified with Microsoft Azure.",
+                "Link": "http://windowsazure.com",
+                "Tag": "mx",
+                "FirstDetected": 1461193200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Yahoo Small Business",
+                "Description": "Yahoo advertising network and search engine marketing solutions.",
+                "Link": "http://sem.smallbusiness.yahoo.com/searchenginemarketing/",
+                "Tag": "ads",
+                "FirstDetected": 1462143600000,
+                "LastDetected": 1526252400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Lijit Widget",
+                "Description": "Contains widgets by lijit providing revolutionary search tools and stats for your blog.",
+                "Link": "http://lijit.com",
+                "Tag": "widgets",
+                "FirstDetected": 1464217200000,
+                "LastDetected": 1517526000000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Rapleaf",
+                "Description": "Marketing automation tools with the necessary data to help brands keep their customers engaged. Now TowerData.",
+                "Link": "http://www.rapleaf.com",
+                "Tag": "analytics",
+                "FirstDetected": 1469055600000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Exchange FBX",
+                "Description": "Facebook Exchange (FBX) is a real-time bidded ad serving protocol.",
+                "Link": "https://developers.facebook.com/docs/reference/ads-api/rtb/",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1476140400000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Ad Network"
+                ],
+                "IsPremium": "no",
+                "Name": "ContextWeb",
+                "Description": "ContextWeb, Inc. provides high-precision, real-time contextual advertising solutions guaranteed to maximize the results and impact of online advertising. Now known as PulsePoint.",
+                "Link": "http://contextweb.com",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "AppNexus",
+                "Description": "Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",
+                "Link": "http://www.appnexus.com/",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Neustar AdAdvisor",
+                "Description": "Neustar AdAdvisor provides data to online marketers and websites to help them improve their ability to deliver content and advertising to consumers.",
+                "Link": "http://www.adadvisor.net/",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1476140400000
+              },
+              {
+                "Categories": [
+                  "Ad Server"
+                ],
+                "IsPremium": "no",
+                "Name": "Openads/OpenX",
+                "Description": "Openads offer ad serving software that is simple, reliable and totally independent. Best of all, it's free!",
+                "Link": "http://openads.org",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "Categories": [
+                  "Dynamic Creative Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Pubmatic",
+                "Description": "PubMatic Enables Ad Optimization Across Every Ad Network",
+                "Link": "http://pubmatic.com",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1532386800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Aggregate Knowledge",
+                "Description": "Data management solution that combines both media and audience data.",
+                "Link": "http://www.aggregateknowledge.com",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SpotXchange",
+                "Description": "Video ad inventory advertising network.",
+                "Link": "http://www.spotxchange.com/",
+                "Tag": "ads",
+                "FirstDetected": 1476140400000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "WebEx Panel",
+                "Description": "WebEx system.",
+                "Link": "http://webex.com",
+                "Tag": "widgets",
+                "FirstDetected": 1487199600000,
+                "LastDetected": 1592002800000
+              },
+              {
+                "Categories": [
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "The Trade Desk",
+                "Description": "Data-driven marketing suite that offers marketers a single place to buy all forms of online media.",
+                "Link": "http://www.thetradedesk.com",
+                "Tag": "ads",
+                "FirstDetected": 1493074800000,
+                "LastDetected": 1503356400000
+              },
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Mailgun",
+                "Description": "Mailgun is a set of APIs that allow you to send, receive, track and store email effortlessly.",
+                "Link": "http://www.mailgun.com/",
+                "Tag": "mx",
+                "FirstDetected": 1494025200000,
+                "LastDetected": 1531436400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1494025200000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Lead Generation",
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "LiveRamp",
+                "Description": "CRM Retargeting & Data Onboarding app.",
+                "Link": "http://liveramp.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1494975600000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Ad Tech Japan AOL",
+                "Description": "Ad server from AOL - also known as Ad Tech Japan.",
+                "Link": "http://oneadserver.aol.com/",
+                "Tag": "ads",
+                "FirstDetected": 1494975600000,
+                "LastDetected": 1506380400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2017",
+                "Description": "Webpage has a copyright year of 2017 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1519167600000,
+                "LastDetected": 1525129200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Responsive Nav",
+                "Description": "Responsive Nav JS plugin",
+                "Link": "http://responsive-nav.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "FitVids.JS",
+                "Description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+                "Link": "http://fitvidsjs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1599634800000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin",
+                  "Slider",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "bxSlider",
+                "Description": "Response jQuery Content Slider",
+                "Link": "http://bxslider.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1519858800000,
+                "LastDetected": 1541286000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1526598000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Transactional Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Mandrill",
+                "Description": "Mandrill is an email infrastructure service. Detailed analytics offer insight to measure email performance.",
+                "Link": "http://mandrill.com/",
+                "Tag": "mx",
+                "FirstDetected": 1534806000000,
+                "LastDetected": 1578351600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Careers",
+                "Description": "The website contains a link to a careers / job opportunities / work with us style page.",
+                "Link": "https://kb.builtwith.com/special-reports/link-tracking/",
+                "Tag": "link",
+                "FirstDetected": 1537138800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon Elastic Load Balancing",
+                "Description": "Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances in the cloud.",
+                "Link": "http://aws.amazon.com/elasticloadbalancing/",
+                "Tag": "hosting",
+                "FirstDetected": 1542063600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon",
+                "Description": "This site is hosted on Amazon AWS EC2 Infrastructure.",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1542063600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "Amazon",
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Virginia Region",
+                "Description": "Amazon Hosted EC2 Instances in Virginia",
+                "Link": "http://aws.amazon.com",
+                "Tag": "hosting",
+                "FirstDetected": 1542063600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1542063600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CDN JS",
+                "Description": "CloudFlare's CDN with popular javascript frameworks available.",
+                "Link": "http://cdnjs.com",
+                "Tag": "cdn",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jsDelivr",
+                "Description": "A free CDN where Javascript developers can host their files. Encompasses MaxCDN, and BootstrapCDN.",
+                "Link": "http://www.jsdelivr.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "no",
+                "Name": "Yoast Plugins",
+                "Description": "SEO based plugins from Yoast.",
+                "Link": "http://yoast.com/wordpress/seo/",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "Yoast WordPress SEO Plugin",
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "yes",
+                "Name": "Yoast SEO Premium",
+                "Description": "Premium version of the Yoast WordPress Plugin.",
+                "Link": "https://yoast.com/wordpress/plugins/seo-premium/",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "Yoast Plugins",
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "no",
+                "Name": "Yoast WordPress SEO Plugin",
+                "Description": "Functionality that helps you optimize your pages content, images titles, meta descriptions and more.",
+                "Link": "https://yoast.com/wordpress/plugins/seo/",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Site Search"
+                ],
+                "IsPremium": "no",
+                "Name": "Sitelinks Search Box",
+                "Description": "With Google sitelinks search box, people can reach your content more quickly from search results.",
+                "Link": "https://developers.google.com/webmasters/richsnippets/sitelinkssearch?utm_source=wmc-blog&utm_medium=direct-referral&utm_campaign=sitelinks-searchbox",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Wordpress Plugins",
+                "Description": "Plugins are tools to extend the functionality of WordPress. The website uses various plugins from WordPress to provide additional functionality. Some of them may be listed here.",
+                "Link": "http://codex.wordpress.org/Plugins",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Open Source",
+                  "Blog"
+                ],
+                "IsPremium": "no",
+                "Name": "WordPress",
+                "Description": "WordPress is a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability.",
+                "Link": "http://wordpress.org",
+                "Tag": "cms",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "no",
+                "Name": "Wordfence",
+                "Description": "Wordfence Security is a free enterprise class security and performance plugin for WordPress.",
+                "Link": "https://wordfence.com",
+                "Tag": "widgets",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Animation"
+                ],
+                "IsPremium": "no",
+                "Name": "Slick JS",
+                "Description": "Fully responsive carousel library.",
+                "Link": "http://kenwheeler.github.io/slick",
+                "Tag": "javascript",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Magnific Popup",
+                "Description": "Magnific Popup is a responsive lightbox & dialog script.",
+                "Link": "http://dimsemenov.com/plugins/magnific-popup/",
+                "Tag": "javascript",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "GStatic Google Static Content",
+                "Description": "Google has off-loaded static content (Javascript/Images/CSS) to a different domain name in an effort to reduce bandwidth usage and increase network performance for the end user.",
+                "Link": "https://google.com",
+                "Tag": "cdn",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1623135600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1548198000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.3.1",
+                "Description": "jQuery version 3.3.1",
+                "Link": "https://blog.jquery.com/2018/01/20/jquery-3-3-1-fixed-dependencies-in-release-tag/",
+                "Tag": "javascript",
+                "FirstDetected": 1552431600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Ajax Search Pro for Wordpress",
+                "Description": "Live WordPress search engine plugin",
+                "Link": "https://ajaxsearchpro.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1552604400000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Global Site Tag",
+                "Description": "Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick.",
+                "Link": "https://support.google.com/adwords/answer/7548399",
+                "Tag": "analytics",
+                "FirstDetected": 1552863600000,
+                "LastDetected": 1616972400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Amazon S3 CDN",
+                "Description": "Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.",
+                "Link": "http://aws.amazon.com/s3/",
+                "Tag": "cdns",
+                "FirstDetected": 1552863600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Browse Happy",
+                "Description": "Tells the user to use a newer browser.",
+                "Link": "https://browsehappy.com",
+                "Tag": "widgets",
+                "FirstDetected": 1575586800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "AppNexus",
+                "IsPremium": "no",
+                "Name": "AppNexus Segment Pixel",
+                "Description": "An AppNexus Segment Pixel.",
+                "Link": "http://appnexus.com",
+                "Tag": "ads",
+                "FirstDetected": 1580166000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Cisco Ironport Cloud",
+                "Description": "Email security system from Cisco.",
+                "Link": "https://www.cisco.com/",
+                "Tag": "mx",
+                "FirstDetected": 1582671600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "COVID-19",
+                "Description": "This website mentions COVID-19 / Novel Coronavirus.",
+                "Link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "Tag": "widgets",
+                "FirstDetected": 1585263600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Pound Sterling",
+                "Description": "The website uses the \u00a3 symbol on its website - meaning it may accept payment in this British currency.",
+                "Link": "https://en.wikipedia.org/wiki/Pound_sign",
+                "Tag": "payment",
+                "FirstDetected": 1585609200000,
+                "LastDetected": 1602457200000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Japanese Yen",
+                "Description": "The website uses the \u00a5 symbol on its website - meaning it may accept payment in this Japanese currency.",
+                "Link": "https://en.wikipedia.org/wiki/Japanese_yen",
+                "Tag": "payment",
+                "FirstDetected": 1585609200000,
+                "LastDetected": 1602457200000
+              },
+              {
+                "Categories": [
+                  "DMARC"
+                ],
+                "IsPremium": "no",
+                "Name": "DMARC",
+                "Description": "A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse",
+                "Link": "http://www.dmarc.org",
+                "Tag": "mx",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "lodash",
+                "Description": "Lo-dash is an alternative and a drop-in replacement for Underscore.js.",
+                "Link": "http://lodash.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1633071600000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "React",
+                "Description": "A JavaScript library for building user interfaces from Facebook.",
+                "Link": "https://reactjs.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1633071600000
+              },
+              {
+                "Categories": [
+                  "Image Provider"
+                ],
+                "IsPremium": "no",
+                "Name": "Getty Images",
+                "Description": "This website has images that may have been sourced from Getty Images.",
+                "Link": "http://gettyimages.com",
+                "Tag": "widgets",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1603090800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "FedEx",
+                "Description": "US based global courier services.",
+                "Link": "http://fedex.com",
+                "Tag": "shipping",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1589842800000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "Babel",
+                "Description": "Babel is a JavaScript compiler.",
+                "Link": "https://babeljs.io/",
+                "Tag": "javascript",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1623135600000
+              },
+              {
+                "Categories": [
+                  "Framework"
+                ],
+                "IsPremium": "no",
+                "Name": "core-js",
+                "Description": "Modular standard library for JavaScript.",
+                "Link": "https://github.com/zloirock/core-js",
+                "Tag": "javascript",
+                "FirstDetected": 1589410800000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Plans and Pricing",
+                "Description": "The website contains a link to a \"Plans\" or \"Pricing\" page - useful for finding SaaS tools.",
+                "Link": "https://kb.builtwith.com/special-reports/link-tracking/",
+                "Tag": "link",
+                "FirstDetected": 1592866800000,
+                "LastDetected": 1601276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "PHP",
+                "Description": "PHP is a widely used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.",
+                "Link": "http://www.php.net",
+                "Tag": "framework",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Slick",
+                "Description": "Standalone CSS Selector Parser and Engine from MooTools.",
+                "Link": "https://github.com/mootools/slick",
+                "Tag": "javascript",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Migrate",
+                "Description": "APIs and features removed from jQuery core",
+                "Link": "https://github.com/jquery/jquery-migrate",
+                "Tag": "javascript",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare",
+                "Description": "Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.",
+                "Link": "http://www.cloudflare.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1598482800000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Cloudflare JS",
+                "Description": "Loads content from Cloudflare CDN.",
+                "Link": "https://cloudflare.com",
+                "Tag": "cdn",
+                "FirstDetected": 1599087600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "Mousetrap",
+                "Description": "A simple library for handling keyboard shortcuts in Javascript.",
+                "Link": "http://craig.is/killing/mice",
+                "Tag": "javascript",
+                "FirstDetected": 1600671600000,
+                "LastDetected": 1623135600000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "ContactPoint Schema",
+                "Description": "A contact point for a department.",
+                "Link": "https://schema.org/ContactPoint",
+                "Tag": "framework",
+                "FirstDetected": 1605394800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "Corporation Schema",
+                "Description": "A company generally with a ticker symbol.",
+                "Link": "https://schema.org/Corporation",
+                "Tag": "framework",
+                "FirstDetected": 1605394800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "Person Schema",
+                "Description": "A human being.",
+                "Link": "https://schema.org/Person",
+                "Tag": "framework",
+                "FirstDetected": 1605394800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "PostalAddress Schema",
+                "Description": "A mailing address.",
+                "Link": "https://schema.org/PostalAddress",
+                "Tag": "framework",
+                "FirstDetected": 1605394800000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Parent": "Amazon Elastic Load Balancing",
+                "IsPremium": "no",
+                "Name": "Amazon ELB North Virginia",
+                "Description": "Amazon Elastic Load Balancing setup in North Virginia region.",
+                "Link": "https://aws.amazon.com/elasticloadbalancing/",
+                "Tag": "hosting",
+                "FirstDetected": 1607846400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Schema"
+                ],
+                "IsPremium": "no",
+                "Name": "Organization Schema",
+                "Description": "Organization i.e. school, NGO, Corporation.",
+                "Link": "https://schema.org/Organization",
+                "Tag": "framework",
+                "FirstDetected": 1611648000000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Events Page",
+                "Description": "The website contains a link to an \"Events\" or \"Calendar\" page.",
+                "Link": "https://kb.builtwith.com/special-reports/link-tracking/",
+                "Tag": "link",
+                "FirstDetected": 1615071600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Clipboard.js",
+                "Description": "Copy text to clipboard framework.",
+                "Link": "https://clipboardjs.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1615536000000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Classnames",
+                "Description": "Javascript utility for conditionally joining classNames together.",
+                "Link": "http://jedwatson.github.io/classnames/",
+                "Tag": "javascript",
+                "FirstDetected": 1615536000000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "LinkedIn Ads",
+                "Description": "LinkedIn advertising solutions.",
+                "Link": "http://linkedin.com/ads",
+                "Tag": "ads",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Conversion Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "LinkedIn Insights",
+                "Description": "The LinkedIn Insight Tag is a piece of lightweight JavaScript code that you can add to your website to enable in-depth campaign reporting and unlock valuable insights about your website visitors and for conversion optimization of ads.",
+                "Link": "https://business.linkedin.com/marketing-solutions",
+                "Tag": "analytics",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1634799600000
+              },
+              {
+                "Categories": [
+                  "Login"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Okta",
+                "Description": "Identity management system.",
+                "Link": "https://okta.com",
+                "Tag": "widgets",
+                "FirstDetected": 1628060400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "My Salesforce",
+                "Description": "This business has a Salesforce login page.",
+                "Link": "https://salesforce.com",
+                "Tag": "cms",
+                "FirstDetected": 1628060400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "WordPress Plugins"
+                ],
+                "IsPremium": "maybe",
+                "Name": "WP Rocket",
+                "Description": "Cache plugin for WordPress from France.",
+                "Link": "http://wp-rocket.me",
+                "Tag": "widgets",
+                "FirstDetected": 1633417200000,
+                "LastDetected": 1633417200000
+              }
+            ],
+            "FirstIndexed": 1341496800000,
+            "LastIndexed": 1634799600000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "LinkedIn Follow Company Plugin",
+                "Description": "When a user clicks on the Follow Company button, they will automatically begin following the company.",
+                "Link": "http://developer.linkedin.com/plugins",
+                "Tag": "widgets",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai",
+                "Description": "Akamai provides a distributed computing platform for global Internet content and application delivery.",
+                "Link": "http://akamai.com",
+                "Tag": "cdn",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1448409600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "LinkedIn Platform API",
+                "Description": "Let your users bring LinkedIn profiles and networks with them to your site or application.",
+                "Link": "http://developer.linkedin.com/index.jspa",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Twitter Follow Button",
+                "Description": "Follow Button to your website to increase engagement and create a lasting connection with your audience.",
+                "Link": "https://twitter.com/about/resources/buttons#follow",
+                "Tag": "widgets",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "easyXDM",
+                "Description": "easyXDM is a Javascript library that enables a work around for the limitation set in place by the Same Origin Policy.",
+                "Link": "http://easyxdm.net",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1485990000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Twitter Platform",
+                "Description": "The page embeds the Twitter platform in one method or another.",
+                "Link": "http://twitter.com/about/resources",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook SDK",
+                "Description": " JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",
+                "Link": "http://developers.facebook.com/docs/reference/javascript/",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google API",
+                "Description": "The website uses some form of Google APIs to provide interaction with the many API's Google Providers.",
+                "Link": "http://code.google.com",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook for Websites",
+                "Description": "Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.",
+                "Link": "http://developers.facebook.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "iCIMS",
+                "Description": "Web based employment management software. Including JibeApply.",
+                "Link": "http://www.icims.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Like Button",
+                "Description": "The code to implement a Facebook Like Button on the page.",
+                "Link": "http://developers.facebook.com/docs/reference/plugins/like/",
+                "Tag": "widgets",
+                "FirstDetected": 1434672000000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook CDN",
+                "Description": "This page has content that links to the Facebook content delivery network.",
+                "Link": "http://www.facebook.com",
+                "Tag": "cdn",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IntentIQ",
+                "Description": "Aadvertising solutions that uses online behavior, demographic and geographic profile data to deliver relevant and timely advertising",
+                "Link": "http://www.intentiq.com/",
+                "Tag": "ads",
+                "FirstDetected": 1448409600000,
+                "LastDetected": 1448409600000
+              },
+              {
+                "Categories": [
+                  "Live Stream / Webcast",
+                  "Online Video Platform",
+                  "Social Video Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "YouTube",
+                "Description": "Embedded videos from YouTube.",
+                "Link": "http://youtube.com",
+                "Tag": "media",
+                "FirstDetected": 1453766400000,
+                "LastDetected": 1498604400000
+              },
+              {
+                "Categories": [
+                  "Bookings"
+                ],
+                "IsPremium": "no",
+                "Name": "Cvent",
+                "Description": "Event organisation software.",
+                "Link": "http://www.cvent.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1468450800000,
+                "LastDetected": 1470870000000
+              },
+              {
+                "Categories": [
+                  "Login"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Identity Platform",
+                "Description": "Google Sign-In is a secure authentication system that enables users to sign in with their Google account.",
+                "Link": "https://developers.google.com/identity/",
+                "Tag": "widgets",
+                "FirstDetected": 1494025200000,
+                "LastDetected": 1537138800000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.11.2",
+                "Description": "jQuery version 1.11.2",
+                "Link": "https://blog.jquery.com/.../jquery-1-11-2-and-2-1-3-released-safari-fail-safe-edition/",
+                "Tag": "javascript",
+                "FirstDetected": 1528498800000,
+                "LastDetected": 1528498800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Isotope",
+                "Description": "A jQuery plugin for magical layouts",
+                "Link": "http://isotope.metafizzy.co",
+                "Tag": "javascript",
+                "FirstDetected": 1549148400000,
+                "LastDetected": 1601334000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Maps API",
+                "Description": "Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.",
+                "Link": "https://developers.google.com/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1551481200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1551481200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "Google Maps",
+                "IsPremium": "no",
+                "Name": "Google Maps for Work",
+                "Description": "Google Maps for work.",
+                "Link": "https://www.google.com/work/mapsearth/",
+                "Tag": "mapping",
+                "FirstDetected": 1551481200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "CloudFront",
+                "Description": "Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments.",
+                "Link": "http://aws.amazon.com/cloudfront/",
+                "Tag": "cdn",
+                "FirstDetected": 1587078000000,
+                "LastDetected": 1592262000000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "no",
+                "Name": "LiveValidation",
+                "Description": "LiveValidation is a small open source javascript library for making client-side validation quick, easy, and powerful.",
+                "Link": "http://livevalidation.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1603090800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "WebFont Loader",
+                "Description": "WebFont Loader gives you added control when using linked fonts via @font-face, from Typekit.",
+                "Link": "https://github.com/typekit/webfontloader",
+                "Tag": "javascript",
+                "FirstDetected": 1590015600000,
+                "LastDetected": 1593903600000
+              },
+              {
+                "Categories": [
+                  "Animation"
+                ],
+                "IsPremium": "no",
+                "Name": "GSAP",
+                "Description": "GSAP is a suite of tools for scripted, high-performance HTML5 animations that work in all major browsers from GreenSock.",
+                "Link": "http://greensock.com/gsap/",
+                "Tag": "javascript",
+                "FirstDetected": 1590015600000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1595113200000,
+                "LastDetected": 1601334000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "imagesLoaded",
+                "Description": "jQuery plugin for seeing if the images are loaded.",
+                "Link": "https://github.com/desandro/imagesloaded",
+                "Tag": "javascript",
+                "FirstDetected": 1595113200000,
+                "LastDetected": 1601334000000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin",
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "FlexSlider",
+                "Description": "jQuery Slider toolkit from Woothemes.",
+                "Link": "http://www.woothemes.com/flexslider",
+                "Tag": "javascript",
+                "FirstDetected": 1595113200000,
+                "LastDetected": 1601334000000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "OWL Carousel",
+                "Description": "Touch enabled jQuery plugin that lets you create a carousel slider.",
+                "Link": "http://owlgraphic.com/owlcarousel/",
+                "Tag": "javascript",
+                "FirstDetected": 1595113200000,
+                "LastDetected": 1601334000000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Masonry",
+                "Description": "Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.",
+                "Link": "http://desandro.com/resources/jquery-masonry/",
+                "Tag": "javascript",
+                "FirstDetected": 1595113200000,
+                "LastDetected": 1598857200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RSS",
+                "Description": "A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.",
+                "Link": "http://en.wikipedia.org/wiki/RSS_(file_format)",
+                "Tag": "feeds",
+                "FirstDetected": 1595660400000,
+                "LastDetected": 1600498800000
+              },
+              {
+                "Categories": [
+                  "Currency"
+                ],
+                "IsPremium": "no",
+                "Name": "Euro",
+                "Description": "The website uses the \u20ac symbol on its website - meaning it may accept payment in Euros.",
+                "Link": "https://en.wikipedia.org/wiki/Euro",
+                "Tag": "payment",
+                "FirstDetected": 1621062000000,
+                "LastDetected": 1631689200000
+              }
+            ],
+            "FirstIndexed": 1434672000000,
+            "LastIndexed": 1631689200000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "yes",
+                "Name": "Zendesk",
+                "Description": "Organize, prioritize and engage with others on support requests.",
+                "Link": "http://www.zendesk.com/",
+                "Tag": "mx",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Cloudflare Hosting",
+                "Description": "Supercharged web hosting service.",
+                "Link": "http://cloudflare.com",
+                "Tag": "hosting",
+                "FirstDetected": 1612857600000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1603177200000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "betasupport"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails Token",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1618902000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1618902000000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1603177200000,
+                "LastDetected": 1618902000000
+              }
+            ],
+            "FirstIndexed": 1603177200000,
+            "LastIndexed": 1618902000000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "betasupport"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Popper.js",
+                "Description": "A library to manage your pop ups.",
+                "Link": "https://popper.js.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "W3.CSS",
+                "Description": "W3 Schools CSS framework.",
+                "Link": "https://www.w3schools.com/w3css/",
+                "Tag": "framework",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Social Sharing",
+                  "Bookmarking"
+                ],
+                "IsPremium": "no",
+                "Name": "AddThis",
+                "Description": "Widgets that allow visitors to save and promote the site.",
+                "Link": "http://addthis.com",
+                "Tag": "widgets",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jQuery CDN",
+                "Description": "The jQuery Amazon S3 Content Delivery Network",
+                "Link": "http://blog.jquery.com/2008/11/19/cloudfront-cdn-for-jquery/",
+                "Tag": "cdn",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "imagesLoaded",
+                "Description": "jQuery plugin for seeing if the images are loaded.",
+                "Link": "https://github.com/desandro/imagesloaded",
+                "Tag": "javascript",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 2.1.4",
+                "Description": "jQuery version 2.1.4",
+                "Link": "https://blog.jquery.com/2015/04/28/jquery-1-11-3-and-2-1-4-released-ios-fail-safe-edition/",
+                "Tag": "javascript",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin",
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "FlexSlider",
+                "Description": "jQuery Slider toolkit from Woothemes.",
+                "Link": "http://www.woothemes.com/flexslider",
+                "Tag": "javascript",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "no",
+                "Name": "LiveValidation",
+                "Description": "LiveValidation is a small open source javascript library for making client-side validation quick, easy, and powerful.",
+                "Link": "http://livevalidation.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "OWL Carousel",
+                "Description": "Touch enabled jQuery plugin that lets you create a carousel slider.",
+                "Link": "http://owlgraphic.com/owlcarousel/",
+                "Tag": "javascript",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1592434800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Isotope",
+                "Description": "A jQuery plugin for magical layouts",
+                "Link": "http://isotope.metafizzy.co",
+                "Tag": "javascript",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Masonry",
+                "Description": "Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.",
+                "Link": "http://desandro.com/resources/jquery-masonry/",
+                "Tag": "javascript",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fizzy UI Utils",
+                "Description": "UI utilities & helpers",
+                "Link": "https://github.com/metafizzy/fizzy-ui-utils",
+                "Tag": "javascript",
+                "FirstDetected": 1604041200000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2020",
+                "Description": "Webpage has a copyright year of 2020 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1617174000000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1592434800000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "clientcongress"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.9.1",
+                "Description": "jQuery version 1.9.1",
+                "Link": "http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1588374000000,
+                "LastDetected": 1619218800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cycle",
+                "Description": "A slideshow plugin for JQuery that supports many different types of transition effects.",
+                "Link": "http://jquery.malsup.com/cycle/",
+                "Tag": "javascript",
+                "FirstDetected": 1588374000000,
+                "LastDetected": 1619218800000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Validate",
+                "Description": "JQuery Form Validation Plugin.",
+                "Link": "http://jqueryvalidation.org",
+                "Tag": "javascript",
+                "FirstDetected": 1588374000000,
+                "LastDetected": 1619218800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET MVC",
+                "Description": "Model View Controller Framework for ASP.NET",
+                "Link": "http://www.asp.net/mvc",
+                "Tag": "framework",
+                "FirstDetected": 1588374000000,
+                "LastDetected": 1598137200000
+              },
+              {
+                "Parent": "ASP.NET",
+                "IsPremium": "no",
+                "Name": "ASP.NET 4.0",
+                "Description": "ASP.NET version 4.0.*",
+                "Link": "http://www.microsoft.com/net",
+                "Tag": "framework",
+                "FirstDetected": 1588374000000,
+                "LastDetected": 1598137200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jsTimezoneDetect",
+                "Description": "Automatic Timezone Detection Using JavaScript.",
+                "Link": "http://pellepim.bitbucket.org/jstz/",
+                "Tag": "javascript",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1594335600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.5.2",
+                "Description": "jQuery version 1.5.2",
+                "Link": "http://blog.jquery.com/2011/03/31/jquery-152-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1595631600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery Tmpl",
+                "Description": "A template engine for jQuery",
+                "Link": "https://github.com/jquery/jquery-tmpl",
+                "Tag": "javascript",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1595631600000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "Telerik Controls",
+                "Description": "Telerik controls for ASP.NET websites.",
+                "Link": "http://telerik.com",
+                "Tag": "framework",
+                "FirstDetected": 1594335600000,
+                "LastDetected": 1595631600000
+              }
+            ],
+            "FirstIndexed": 1588374000000,
+            "LastIndexed": 1619218800000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "epass"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Validate",
+                "Description": "JQuery Form Validation Plugin.",
+                "Link": "http://jqueryvalidation.org",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1618527600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.9.1",
+                "Description": "jQuery version 1.9.1",
+                "Link": "http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1618527600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cycle",
+                "Description": "A slideshow plugin for JQuery that supports many different types of transition effects.",
+                "Link": "http://jquery.malsup.com/cycle/",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1618527600000
+              }
+            ],
+            "FirstIndexed": 1610751600000,
+            "LastIndexed": 1618527600000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "epassdemo"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Validate",
+                "Description": "JQuery Form Validation Plugin.",
+                "Link": "http://jqueryvalidation.org",
+                "Tag": "javascript",
+                "FirstDetected": 1609455600000,
+                "LastDetected": 1612220400000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 1.9.1",
+                "Description": "jQuery version 1.9.1",
+                "Link": "http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1609455600000,
+                "LastDetected": 1612220400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Cycle",
+                "Description": "A slideshow plugin for JQuery that supports many different types of transition effects.",
+                "Link": "http://jquery.malsup.com/cycle/",
+                "Tag": "javascript",
+                "FirstDetected": 1609455600000,
+                "LastDetected": 1612220400000
+              }
+            ],
+            "FirstIndexed": 1609455600000,
+            "LastIndexed": 1612220400000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "epassuat"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jQuery CDN",
+                "Description": "The jQuery Amazon S3 Content Delivery Network",
+                "Link": "http://blog.jquery.com/2008/11/19/cloudfront-cdn-for-jquery/",
+                "Tag": "cdn",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Popper.js",
+                "Description": "A library to manage your pop ups.",
+                "Link": "https://popper.js.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Maps API",
+                "Description": "Google Maps has a wide array of APIs that let you embed the functionality of Google Maps.",
+                "Link": "https://developers.google.com/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Categories": [
+                  "Maps"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Maps",
+                "Description": "Google maps embedded into the webpage.",
+                "Link": "http://www.google.com/apis/maps/",
+                "Tag": "mapping",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "Google Maps",
+                "IsPremium": "no",
+                "Name": "Google Maps for Work",
+                "Description": "Google Maps for work.",
+                "Link": "https://www.google.com/work/mapsearth/",
+                "Tag": "mapping",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1555023600000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Moment JS",
+                "Description": "moment.js is a date library for parsing, validating, manipulating, and formatting dates.",
+                "Link": "http://momentjs.com",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1628060400000
+              }
+            ],
+            "FirstIndexed": 1533510000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "ihaapp"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Adobe TagManager",
+                "Description": "Adobe now offers dynamic tag management a solution that reduces the need for IT resources and allows you to manage tags and distribute data. ",
+                "Link": "http://www.adobe.com/solutions/digital-marketing/dynamic-tag-management.html",
+                "Tag": "widgets",
+                "FirstDetected": 1424044800000,
+                "LastDetected": 1588287600000
+              },
+              {
+                "Categories": [
+                  "Financial"
+                ],
+                "IsPremium": "no",
+                "Name": "Thomson Reuters Corporate Solutions",
+                "Description": "Comply with regulations and increase your communications with key stakeholders using the industry's highest quality webcasts and IR websites. Now owned by West.",
+                "Link": "http://corporatesolutions.thomsonreuters.com",
+                "Tag": "cms",
+                "FirstDetected": 1424044800000,
+                "LastDetected": 1540767600000
+              },
+              {
+                "Categories": [
+                  "A/B Testing",
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Marketing Automation",
+                  "Personalization",
+                  "Product Recommendations"
+                ],
+                "IsPremium": "yes",
+                "Name": "Omniture Adobe Test and Target",
+                "Description": "Test&Target - Adobe Target Advanced, gives marketers the necessary capabilities to continually make their online content and offers more relevant to their customers-yielding greater conversion.",
+                "Link": "http://www.omniture.com/en/products/conversion/testandtarget",
+                "Tag": "analytics",
+                "FirstDetected": 1424044800000,
+                "LastDetected": 1588287600000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Akamai Hosted",
+                "Description": "Data network CDN provider.",
+                "Link": "http://akamai.com",
+                "Tag": "hosting",
+                "FirstDetected": 1424905200000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai SSL",
+                "Description": "Akamai CDN SSL certificate.",
+                "Link": "http://akamai.com",
+                "Tag": "ssl",
+                "FirstDetected": 1424905200000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Live Stream / Webcast",
+                  "Online Video Platform",
+                  "Social Video Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "YouTube",
+                "Description": "Embedded videos from YouTube.",
+                "Link": "http://youtube.com",
+                "Tag": "media",
+                "FirstDetected": 1488582000000,
+                "LastDetected": 1540767600000
+              },
+              {
+                "Categories": [
+                  "Live Stream / Webcast"
+                ],
+                "IsPremium": "yes",
+                "Name": "Thomson Reuters Multimedia Center",
+                "Description": "OVP and Webcasting solution.",
+                "Link": "http://www.media-server.com",
+                "Tag": "media",
+                "FirstDetected": 1507244400000,
+                "LastDetected": 1515625200000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "no",
+                "Name": "New Relic",
+                "Description": "New Relic is a dashboard used to keep an eye on application health and availability while monitoring real user experience.",
+                "Link": "http://newrelic.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1543791600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "English HREF LANG",
+                "Description": "This webpage has alternate versions available in English via the use of the hreflang tag.",
+                "Link": "https://support.google.com/webmasters/answer/189077?hl=en",
+                "Tag": "language",
+                "FirstDetected": 1543791600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "nginx",
+                "Description": "nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.",
+                "Link": "http://nginx.net/",
+                "Tag": "Web Server",
+                "FirstDetected": 1543791600000,
+                "LastDetected": 1597734000000
+              },
+              {
+                "Parent": "Drupal",
+                "IsPremium": "no",
+                "Name": "Drupal 8",
+                "Description": "Version 8 of the popular CMS Drupal.",
+                "Link": "https://www.drupal.org/drupal-8.0",
+                "Tag": "cms",
+                "FirstDetected": 1543791600000,
+                "LastDetected": 1597734000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai EdgeConnect",
+                "Description": "Akamai EdgeConnect service enhances the system's visibility into the performance of accelerated content.",
+                "Link": "https://akamai.com",
+                "Tag": "cdns",
+                "FirstDetected": 1543791600000,
+                "LastDetected": 1592866800000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "TalkPoint",
+                "Description": "Webcast software.",
+                "Link": "https://talkpoint.com",
+                "Tag": "media",
+                "FirstDetected": 1551567600000,
+                "LastDetected": 1599375600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "sidr",
+                "Description": "Sidr is a jQuery plugin for creating side menus.",
+                "Link": "https://github.com/artberri/sidr",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Chosen",
+                "Description": "A library for making long, unwieldy select boxes more friendly.",
+                "Link": "https://github.com/harvesthq/chosen",
+                "Tag": "javascript",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Marketing Cloud",
+                "Description": "A complete set of marketing solutions from Adobe.",
+                "Link": "http://www.adobe.com/marketing-cloud.html",
+                "Tag": "analytics",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1588287600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2018",
+                "Description": "Webpage has a copyright year of 2018 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1574031600000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1583535600000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "matchMedia",
+                "Description": "matchMedia polyfill for testing media queries in JS.",
+                "Link": "http://github.com/paulirish/matchMedia.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1588287600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai",
+                "Description": "Akamai provides a distributed computing platform for global Internet content and application delivery.",
+                "Link": "http://akamai.com",
+                "Tag": "cdn",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Backbone.js",
+                "Description": "Backbone supplies structure to JavaScript-heavy applications.",
+                "Link": "http://backbonejs.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1591052400000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "Data Management Platform"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Audience Manager",
+                "Description": "Data management platform for ads from Adobe.",
+                "Link": "https://www.adobe.com/au/analytics/audience-manager.html",
+                "Tag": "ads",
+                "FirstDetected": 1607846400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI Mouse",
+                "Description": "jQuery mouse interaction library.",
+                "Link": "http://api.jqueryui.com/mouse/",
+                "Tag": "javascript",
+                "FirstDetected": 1626159600000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "DataTables",
+                "Description": "jQuery plugin to extend tables.",
+                "Link": "http://datatables.net/",
+                "Tag": "javascript",
+                "FirstDetected": 1630566000000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Parent": "FLoC",
+                "IsPremium": "no",
+                "Name": "FLoC Opt-Out",
+                "Description": "The website has opted-out of FLoC to declare that it does not want to be included in the user's list of sites for cohort calculation.",
+                "Link": "https://github.com/WICG/floc/blob/main/README.md",
+                "Tag": "ads",
+                "FirstDetected": 1633244400000,
+                "LastDetected": 1633935600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "FLoC",
+                "Description": "FLoC - Federated Learning of Cohorts provides a privacy-preserving mechanism for interest-based ad selection.",
+                "Link": "https://github.com/WICG/floc",
+                "Tag": "ads",
+                "FirstDetected": 1633244400000,
+                "LastDetected": 1633935600000
+              }
+            ],
+            "FirstIndexed": 1424044800000,
+            "LastIndexed": 1633935600000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "investors"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "yes",
+                "Name": "Level3",
+                "Description": "Level 3's CDN combines the advantages of an industry-leading Internet backbone with a content delivery platform.",
+                "Link": "http://www.level3.com/en/Solutions/business-need/content-delivery.aspx",
+                "Tag": "cdn",
+                "FirstDetected": 1612220400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Level 3 Communications",
+                "Description": "CDN and data delivery network",
+                "Link": "http://level3.com",
+                "Tag": "hosting",
+                "FirstDetected": 1615935600000,
+                "LastDetected": 1623222000000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft",
+                "Description": "This site is hosted on Microsoft infrastructure",
+                "Link": "http://www.microsoft.com",
+                "Tag": "hosting",
+                "FirstDetected": 1623826800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1623826800000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1612220400000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "mail"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 8",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1533510000000,
+                "LastDetected": 1577142000000
+              }
+            ],
+            "FirstIndexed": 1533510000000,
+            "LastIndexed": 1577142000000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "pacoca"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 6",
+                "Description": "Internet-based service for servers using Microsoft Windows. It is the world's second most popular web server in terms of overall websites.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1384297200000,
+                "LastDetected": 1491692400000
+              }
+            ],
+            "FirstIndexed": 1384297200000,
+            "LastIndexed": 1491692400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "portal"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "no",
+                "Name": "LiveValidation",
+                "Description": "LiveValidation is a small open source javascript library for making client-side validation quick, easy, and powerful.",
+                "Link": "http://livevalidation.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1618902000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "productinfo"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Amazon S3",
+                "Description": "Amazon Simple Storage provides unlimited storage to developers and online businesses - saving costs and increase storage reliability.",
+                "Link": "http://aws.amazon.com/s3",
+                "Tag": "cdn",
+                "FirstDetected": 1530572400000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Categories": [
+                  "Edge Delivery Network"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon CloudFront",
+                "Description": "Amazon CloudFront delivers your static and streaming content using a global network of edge locations.",
+                "Link": "http://aws.amazon.com/cloudfront/",
+                "Tag": "cdns",
+                "FirstDetected": 1538694000000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Amazon SSL",
+                "Description": "Amazon supplied SSL certificate",
+                "Link": "https://amazon.com",
+                "Tag": "ssl",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Enterprise DNS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Route 53",
+                "Description": "Amazon's scalable DNS web service system.",
+                "Link": "http://aws.amazon.com/route53/",
+                "Tag": "ns",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1530572400000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "providersurvey"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.1.0",
+                "Description": "jQuery version 3.1.0",
+                "Link": "https://blog.jquery.com/2016/07/07/jquery-3-1-0-released-no-more-silent-errors/",
+                "Tag": "javascript",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "crypto browserify",
+                "Description": "A port of node's crypto module to the browser.",
+                "Link": "https://github.com/crypto-browserify/crypto-browserify",
+                "Tag": "javascript",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1628060400000
+              }
+            ],
+            "FirstIndexed": 1588287600000,
+            "LastIndexed": 1628060400000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "providersurvey"
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "Canadian hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Beanfield Technologies",
+                "Description": "Network infrastructure from Beanfield Technologies based in Canada.",
+                "Link": "http://beanfield.com",
+                "Tag": "hosting",
+                "FirstDetected": 1440370800000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Masonry",
+                "Description": "Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.",
+                "Link": "http://desandro.com/resources/jquery-masonry/",
+                "Tag": "javascript",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "HTML5 Mobile Boilerplate",
+                "Description": "Mobile Boilerplate helps you create rich, performant, and modern mobile web apps.",
+                "Link": "http://html5boilerplate.com/mobile/",
+                "Tag": "javascript",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Sharer",
+                "Description": "Share this page on Facebook using a deprecated sharing syntax.",
+                "Link": "http://www.facebook.com/facebook-widgets/share.php",
+                "Tag": "widgets",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "History JS",
+                "Description": "History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers.",
+                "Link": "https://github.com/browserstate/history.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1485385200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Uberflip",
+                "Description": "Content marketing software.",
+                "Link": "http://uberflip.com",
+                "Tag": "ads",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1528930800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Pinterest",
+                "Description": "Content from the social image sharing website Pinterest.",
+                "Link": "http://pinterest.com",
+                "Tag": "widgets",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "Categories": [
+                  "Social Sharing",
+                  "Bookmarking"
+                ],
+                "IsPremium": "no",
+                "Name": "AddThis",
+                "Description": "Widgets that allow visitors to save and promote the site.",
+                "Link": "http://addthis.com",
+                "Tag": "widgets",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Webmaster",
+                "Description": "Webmaster tools provide you with a free and easy way to make your site more Google-friendly.",
+                "Link": "http://www.google.com/webmasters/",
+                "Tag": "Web Master",
+                "FirstDetected": 1476572400000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2016",
+                "Description": "Webpage has a copyright year of 2016 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1488582000000,
+                "LastDetected": 1488582000000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Bombora",
+                "Description": "Advertising Analytics and Tracking service.",
+                "Link": "http://bombora.com",
+                "Tag": "analytics",
+                "FirstDetected": 1510095600000,
+                "LastDetected": 1543791600000
+              },
+              {
+                "Categories": [
+                  "Advertiser Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "MediaMath",
+                "Description": "Tools that enable and empower marketing professionals.",
+                "Link": "http://mediamath.com",
+                "Tag": "analytics",
+                "FirstDetected": 1525561200000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange"
+                ],
+                "IsPremium": "no",
+                "Name": "Eyeota",
+                "Description": "Real time access to global advertising publishing partners.",
+                "Link": "http://www.eyeota.com/",
+                "Tag": "ads",
+                "FirstDetected": 1525561200000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "GoDaddy SSL",
+                "Description": "Certificate provided by GoDaddy.",
+                "Link": "http://godaddy.com",
+                "Tag": "ssl",
+                "FirstDetected": 1525561200000,
+                "LastDetected": 1539471600000
+              },
+              {
+                "Categories": [
+                  "Edge Delivery Network"
+                ],
+                "IsPremium": "yes",
+                "Name": "Amazon CloudFront",
+                "Description": "Amazon CloudFront delivers your static and streaming content using a global network of edge locations.",
+                "Link": "http://aws.amazon.com/cloudfront/",
+                "Tag": "cdns",
+                "FirstDetected": 1549148400000,
+                "LastDetected": 1634540400000
+              },
+              {
+                "Categories": [
+                  "Enterprise DNS"
+                ],
+                "IsPremium": "no",
+                "Name": "Amazon Route 53",
+                "Description": "Amazon's scalable DNS web service system.",
+                "Link": "http://aws.amazon.com/route53/",
+                "Tag": "ns",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1634540400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1555023600000,
+                "LastDetected": 1634540400000
+              }
+            ],
+            "FirstIndexed": 1440370800000,
+            "LastIndexed": 1634540400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "resources"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "yes",
+                "Name": "Level3",
+                "Description": "Level 3's CDN combines the advantages of an industry-leading Internet backbone with a content delivery platform.",
+                "Link": "http://www.level3.com/en/Solutions/business-need/content-delivery.aspx",
+                "Tag": "cdn",
+                "FirstDetected": 1612220400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Level 3 Communications",
+                "Description": "CDN and data delivery network",
+                "Link": "http://level3.com",
+                "Tag": "hosting",
+                "FirstDetected": 1615935600000,
+                "LastDetected": 1634540400000
+              }
+            ],
+            "FirstIndexed": 1612220400000,
+            "LastIndexed": 1634540400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "rs.pasfed.apps"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Popper.js",
+                "Description": "A library to manage your pop ups.",
+                "Link": "https://popper.js.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "W3.CSS",
+                "Description": "W3 Schools CSS framework.",
+                "Link": "https://www.w3schools.com/w3css/",
+                "Tag": "framework",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Social Sharing",
+                  "Bookmarking"
+                ],
+                "IsPremium": "no",
+                "Name": "AddThis",
+                "Description": "Widgets that allow visitors to save and promote the site.",
+                "Link": "http://addthis.com",
+                "Tag": "widgets",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jQuery CDN",
+                "Description": "The jQuery Amazon S3 Content Delivery Network",
+                "Link": "http://blog.jquery.com/2008/11/19/cloudfront-cdn-for-jquery/",
+                "Tag": "cdn",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "imagesLoaded",
+                "Description": "jQuery plugin for seeing if the images are loaded.",
+                "Link": "https://github.com/desandro/imagesloaded",
+                "Tag": "javascript",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 2.1.4",
+                "Description": "jQuery version 2.1.4",
+                "Link": "https://blog.jquery.com/2015/04/28/jquery-1-11-3-and-2-1-4-released-ios-fail-safe-edition/",
+                "Tag": "javascript",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "jQuery Plugin",
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "FlexSlider",
+                "Description": "jQuery Slider toolkit from Woothemes.",
+                "Link": "http://www.woothemes.com/flexslider",
+                "Tag": "javascript",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "no",
+                "Name": "LiveValidation",
+                "Description": "LiveValidation is a small open source javascript library for making client-side validation quick, easy, and powerful.",
+                "Link": "http://livevalidation.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "OWL Carousel",
+                "Description": "Touch enabled jQuery plugin that lets you create a carousel slider.",
+                "Link": "http://owlgraphic.com/owlcarousel/",
+                "Tag": "javascript",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1610956800000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Copyright Year 2020",
+                "Description": "Webpage has a copyright year of 2020 with no detectable mention of the current year.",
+                "Link": "https://en.wikipedia.org/wiki/Copyright",
+                "Tag": "copyright",
+                "FirstDetected": 1617174000000,
+                "LastDetected": 1618210800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Isotope",
+                "Description": "A jQuery plugin for magical layouts",
+                "Link": "http://isotope.metafizzy.co",
+                "Tag": "javascript",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Masonry",
+                "Description": "Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats.",
+                "Link": "http://desandro.com/resources/jquery-masonry/",
+                "Tag": "javascript",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1628060400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fizzy UI Utils",
+                "Description": "UI utilities & helpers",
+                "Link": "https://github.com/metafizzy/fizzy-ui-utils",
+                "Tag": "javascript",
+                "FirstDetected": 1618210800000,
+                "LastDetected": 1628060400000
+              }
+            ],
+            "FirstIndexed": 1610956800000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "scriptmedconference"
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1396919406415,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "Symantec VeriSign",
+                "Description": "VeriSign/Symantec SSL Certificates.",
+                "Link": "http://verisign.com",
+                "Tag": "ssl",
+                "FirstDetected": 1397862000000,
+                "LastDetected": 1397862000000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "Zendesk",
+                "Description": "Organize, prioritize and engage with others on support requests.",
+                "Link": "http://www.zendesk.com/",
+                "Tag": "mx",
+                "FirstDetected": 1588460400000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "US hosting",
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Cloudflare Hosting",
+                "Description": "Supercharged web hosting service.",
+                "Link": "http://cloudflare.com",
+                "Tag": "hosting",
+                "FirstDetected": 1612857600000,
+                "LastDetected": 1633244400000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Font Awesome",
+                "Description": "Iconic font and CSS toolkit.",
+                "Link": "http://fontawesome.io",
+                "Tag": "widgets",
+                "FirstDetected": 1622617200000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Webpack",
+                "Description": "webpack takes modules with dependencies and generates static assets representing those modules.",
+                "Link": "http://webpack.github.io/",
+                "Tag": "javascript",
+                "FirstDetected": 1625209200000,
+                "LastDetected": 1632553200000
+              }
+            ],
+            "FirstIndexed": 1396919406415,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "support"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Ruby on Rails Token",
+                "Description": "Ruby on Rails is an open-source web framework that is optimized for programmer happiness and sustainable productivity. Note that Ruby on Rails has two detection techniques and this is one of them.",
+                "Link": "http://www.rubyonrails.org/",
+                "Tag": "framework",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1593903600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.4.1",
+                "Description": "jQuery version 3.4.1",
+                "Link": "https://blog.jquery.com/2019/05/01/jquery-3-4-1-triggering-focus-events-in-ie-and-finding-root-elements-in-ios-10/",
+                "Tag": "javascript",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1613721600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Zendesk Dropbox",
+                "Description": "Widget for submitting Zendesk support tickets.",
+                "Link": "http://zendesk.com",
+                "Tag": "widgets",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "English HREF LANG",
+                "Description": "This webpage has alternate versions available in English via the use of the hreflang tag.",
+                "Link": "https://support.google.com/webmasters/answer/189077?hl=en",
+                "Tag": "language",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "BootstrapCDN",
+                "Description": "Bootstrap CDN system - encompasses MaxCDN, NetDNA and Stackpath - donated to jsDelivr.",
+                "Link": "http://www.bootstrapcdn.com/",
+                "Tag": "cdn",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Categories": [
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "yes",
+                "Name": "Zendesk Embeddables",
+                "Description": "Embeddables seamlessly integrate Zendesk functionality into any native environment.",
+                "Link": "https://www.zendesk.com/embeddables/",
+                "Tag": "widgets",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Moment JS",
+                "Description": "moment.js is a date library for parsing, validating, manipulating, and formatting dates.",
+                "Link": "http://momentjs.com",
+                "Tag": "javascript",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Categories": [
+                  "CAPTCHA"
+                ],
+                "IsPremium": "no",
+                "Name": "reCAPTCHA",
+                "Description": "Anti-bot CAPTCHA widget from Google.",
+                "Link": "https://www.google.com/recaptcha/intro/index.html",
+                "Tag": "widgets",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1588287600000,
+                "LastDetected": 1629183600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "jQuery CDN",
+                "Description": "The jQuery Amazon S3 Content Delivery Network",
+                "Link": "http://blog.jquery.com/2008/11/19/cloudfront-cdn-for-jquery/",
+                "Tag": "cdn",
+                "FirstDetected": 1593903600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "es6 promise",
+                "Description": "A polyfill for ES6-style Promises.",
+                "Link": "https://github.com/stefanpenner/es6-promise",
+                "Tag": "javascript",
+                "FirstDetected": 1604041200000,
+                "LastDetected": 1629183600000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.5.1",
+                "Description": "jQuery version 3.5.1",
+                "Link": "https://blog.jquery.com/2020/05/04/jquery-3-5-1-released-fixing-a-regression/",
+                "Tag": "javascript",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AJAX Libraries API",
+                "Description": "The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",
+                "Link": "http://code.google.com/apis/ajaxlibs/documentation/",
+                "Tag": "cdn",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Hosted Libraries",
+                "Description": "Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1632553200000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted jQuery",
+                "Description": "jQuery hoted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1620975600000,
+                "LastDetected": 1632553200000
+              }
+            ],
+            "FirstIndexed": 1588287600000,
+            "LastIndexed": 1632553200000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "support"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "yes",
+                "Name": "Level3",
+                "Description": "Level 3's CDN combines the advantages of an industry-leading Internet backbone with a content delivery platform.",
+                "Link": "http://www.level3.com/en/Solutions/business-need/content-delivery.aspx",
+                "Tag": "cdn",
+                "FirstDetected": 1612220400000,
+                "LastDetected": 1615071600000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Level 3 Communications",
+                "Description": "CDN and data delivery network",
+                "Link": "http://level3.com",
+                "Tag": "hosting",
+                "FirstDetected": 1615935600000,
+                "LastDetected": 1634540400000
+              }
+            ],
+            "FirstIndexed": 1612220400000,
+            "LastIndexed": 1634540400000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "va"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1605600000000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1605600000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "webdev"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1605600000000,
+                "LastDetected": 1633244400000
+              }
+            ],
+            "FirstIndexed": 1605600000000,
+            "LastIndexed": 1633244400000,
+            "Domain": "inovalon.com",
+            "Url": "dd",
+            "SubDomain": "webuat"
+          },
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "Java EE",
+                "Description": "Java Platform, Enterprise Edition (Java EE) is the industry standard for developing portable, robust, scalable and secure server-side Java applications.",
+                "Link": "http://java.sun.com/javaee/",
+                "Tag": "framework",
+                "FirstDetected": 1522710000000,
+                "LastDetected": 1527894000000
+              }
+            ],
+            "FirstIndexed": 1522710000000,
+            "LastIndexed": 1527894000000,
+            "Domain": "inovalon.com",
+            "Url": "",
+            "SubDomain": "wim"
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 390936,
+        "Umbrella": 117774,
+        "Vertical": "Science",
+        "Social": [
+          "http://facebook.com/inovalon",
+          "http://linkedin.com/company/inovalon",
+          "http://youtube.com/user/inovaloninc",
+          "http://twitter.com/InovalonInc"
+        ],
+        "CompanyName": "Inovalon Inc",
+        "Telephones": [
+          "+1-301-809-4000",
+          "+1-617-275-6526",
+          "+1-877-831-8171"
+        ],
+        "Emails": [
+          "info@inovalon.com",
+          "privacy@inovalon.com",
+          "media@inovalon.com"
+        ],
+        "City": "Bowie",
+        "State": "MD",
+        "Postcode": "20716",
+        "Country": "US",
+        "Names": [
+          {
+            "Name": "Jeffrey Kang",
+            "Type": 2,
+            "Email": "jkang@inovalon.com"
+          },
+          {
+            "Name": "Keith Dunleavy",
+            "Type": 1,
+            "Email": "kdunleavy@inovalon.com"
+          },
+          {
+            "Name": "Sean Creehan",
+            "Type": 1,
+            "Email": "screehan@inovalon.com"
+          },
+          {
+            "Name": "Reid Mclaughlin",
+            "Type": 10,
+            "Email": "rmclaughlin@inovalon.com"
+          }
+        ],
+        "ARank": 988035,
+        "QRank": 112825
+      },
+      "Attributes": {
+        "MJRank": 387149,
+        "MJTLDRank": 194738,
+        "RefSN": 566,
+        "RefIP": 724,
+        "Followers": 1000,
+        "Sitemap": 0,
+        "GTMTags": 7,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1341496800000,
+      "LastIndexed": 1634799600000,
+      "Lookup": "inovalon.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "Domain": "fladarchitects.com",
+  "DBRecord": {
+    "EarliestRecord": 1362056400,
+    "LatestUpdate": 1630998000,
+    "PremiumTechs": 0,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": false,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 0,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

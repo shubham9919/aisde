@@ -1,0 +1,18 @@
+{
+  "Domain": "suntrust.com",
+  "DBRecord": {
+    "EarliestRecord": 1044140400,
+    "LatestUpdate": 1635145200,
+    "PremiumTechs": 44,
+    "LiveTechs": true,
+    "AffiliateLinks": false,
+    "PaymentOptions": true,
+    "Ecommerce": false,
+    "Parked": false,
+    "Spend": 33413,
+    "Established": true,
+    "DBIndexed": true
+  },
+  "LiveRecord": null,
+  "Status": 0
+}

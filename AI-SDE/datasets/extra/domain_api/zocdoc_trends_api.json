@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://dbuflkpcdpfh3.cloudfront.net/thumb/56-93-5j-cd-9j-d1/n",
+    "Categories": [
+      "Conversion Optimization"
+    ],
+    "Tag": "analytics",
+    "IsPremium": "No",
+    "Name": "Twitter Analytics",
+    "Description": "A tool that helps website owners understand how much traffic they receive from Twitter and the effectiveness of Twitter integrations on their sites. Includes Twitter Conversion Tracking.",
+    "Link": "https://dev.twitter.com/blog/introducing-twitter-web-analytics",
+    "TrendsLink": "https://trends.builtwith.com/analytics/Twitter-Analytics",
+    "Coverage": {
+      "TenK": 590,
+      "HundredK": 3173,
+      "Mil": 11874,
+      "Live": 61061,
+      "Historical": 877217
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://dbsikz63q4tyx.cloudfront.net/thumb/c0-e6-2d-48-3z-ed/n",
+    "Categories": [
+      "JavaScript Library"
+    ],
+    "Tag": "javascript",
+    "IsPremium": "No",
+    "Name": "jQuery",
+    "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+    "Link": "http://jquery.com",
+    "TrendsLink": "https://trends.builtwith.com/javascript/jQuery",
+    "Coverage": {
+      "TenK": 8392,
+      "HundredK": 82879,
+      "Mil": 776602,
+      "Live": 71803422,
+      "Historical": -1
+    }
+  }
+}

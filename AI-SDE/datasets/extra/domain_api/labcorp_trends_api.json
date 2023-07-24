@@ -1,0 +1,21 @@
+{
+  "Tech": {
+    "Icon": "https://d3c1mi4ekssrlm.cloudfront.net/thumb/d7-8z-71-3j-08-2e/n",
+    "Categories": [
+      "Root Authority"
+    ],
+    "Tag": "ssl",
+    "IsPremium": "No",
+    "Name": "Symantec VeriSign",
+    "Description": "VeriSign/Symantec SSL Certificates.",
+    "Link": "http://verisign.com",
+    "TrendsLink": "https://trends.builtwith.com/ssl/Symantec-VeriSign",
+    "Coverage": {
+      "TenK": 52,
+      "HundredK": 225,
+      "Mil": 695,
+      "Live": 63565,
+      "Historical": 1806892
+    }
+  }
+}

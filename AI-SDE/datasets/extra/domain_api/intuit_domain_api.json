@@ -1,0 +1,137 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 0,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Register.com Hosting",
+                "Description": "Domain name registration and web hosting solution.",
+                "Link": "http://register.com",
+                "Tag": "hosting",
+                "FirstDetected": 1434841200000,
+                "LastDetected": 1527894000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Register.com DNS",
+                "Description": "DNS services provided by Register.com.",
+                "Link": "http://register.com",
+                "Tag": "ns",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Commtouch",
+                "Description": "Blocks spam, phishing and malware email security solution.",
+                "Link": "http://www.commtouch.com/",
+                "Tag": "mx",
+                "FirstDetected": 1458601200000,
+                "LastDetected": 1568156400000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Network Solutions",
+                "Description": "Domain names, web hosting and managed services.",
+                "Link": "http://networksolutions.com",
+                "Tag": "hosting",
+                "FirstDetected": 1527807600000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Defense Net",
+                "Description": "F5 DDos Protection service.",
+                "Link": "http://defense.net",
+                "Tag": "hosting",
+                "FirstDetected": 1582671600000,
+                "LastDetected": 1583276400000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sun ONE Web Server",
+                "Description": "Sun Java System Web Server is a web server designed for medium and large business applications. Sun Java System Web Server builds on the earlier Sun ONE Web Server, iPlanet Web Server, and Netscape Enterprise Server products.",
+                "Link": "http://www.sun.com/software/products/web_srvr/index.xml",
+                "Tag": "Web Server",
+                "FirstDetected": 1589151600000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "Sun ONE Web Server",
+                "IsPremium": "no",
+                "Name": "Sun ONE Web Server v6.1",
+                "Description": "v6.1 of Sun ONE Web Server",
+                "Link": "http://www.sun.com/software/products/web_srvr/index.xml",
+                "Tag": "Web Server",
+                "FirstDetected": 1589151600000,
+                "LastDetected": 1631689200000
+              }
+            ],
+            "FirstIndexed": 1434841200000,
+            "LastIndexed": 1631689200000,
+            "Domain": "intuit.org",
+            "Url": "",
+            "SubDomain": ""
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 0,
+        "Umbrella": 0,
+        "Vertical": "",
+        "Social": null,
+        "CompanyName": "",
+        "Telephones": null,
+        "Emails": [],
+        "City": "Ft Lauderdale",
+        "State": "FL",
+        "Postcode": "33339",
+        "Country": "US",
+        "Names": [
+          {
+            "Name": "Jeffrey Kaplan",
+            "Type": 10,
+            "Email": ""
+          }
+        ],
+        "ARank": 49251285,
+        "QRank": -1
+      },
+      "Attributes": {
+        "MJRank": 0,
+        "MJTLDRank": 0,
+        "RefSN": 0,
+        "RefIP": 0,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 0,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1434841200000,
+      "LastIndexed": 1631689200000,
+      "Lookup": "intuit.org",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

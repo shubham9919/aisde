@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d2p0do391m6o41.cloudfront.net/thumb/00-8j-10-j2-dj-06/n",
+    "Categories": [],
+    "Tag": "Web Server",
+    "IsPremium": "No",
+    "Name": "Apache 2.2",
+    "Description": "Apache version 2.2.*",
+    "Link": "http://httpd.apache.org/docs/2.2",
+    "TrendsLink": "https://trends.builtwith.com/Web-Server/Apache-2.2",
+    "Coverage": {
+      "TenK": 749,
+      "HundredK": 5186,
+      "Mil": 29380,
+      "Live": 2088998,
+      "Historical": 17666028
+    }
+  }
+}

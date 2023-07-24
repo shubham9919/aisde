@@ -1,0 +1,4332 @@
+{
+  "Relationships": [
+    {
+      "Domain": "zocdoc.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "98.129.100.83",
+          "First": 1345212000000,
+          "Last": 1436364000000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "2809147",
+          "First": 1294059600000,
+          "Last": 1588135207444,
+          "Matches": [
+            {
+              "Domain": "espanol.zocdoc.com",
+              "First": 1364302800000,
+              "Last": 1519810173780,
+              "Overlap": true
+            },
+            {
+              "Domain": "blog.zocdoc.com",
+              "First": 1364302800000,
+              "Last": 1488411751079,
+              "Overlap": true
+            },
+            {
+              "Domain": "healthmarketplace.zocdoc.com",
+              "First": 1381669200000,
+              "Last": 1381669200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "thedoctorblog.com",
+              "First": 1375365600000,
+              "Last": 1529244005075,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.co",
+              "First": 1381669200000,
+              "Last": 1381669200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.de",
+              "First": 1381669200000,
+              "Last": 1381669200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "blog.zocdoc.mx",
+              "First": 1458565200000,
+              "Last": 1502242713564,
+              "Overlap": true
+            },
+            {
+              "Domain": "blog.zocdoc.co",
+              "First": 1458565200000,
+              "Last": 1502242713564,
+              "Overlap": true
+            },
+            {
+              "Domain": "engineering.zocdoc.com",
+              "First": 1458565200000,
+              "Last": 1479855600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "losangelesgastro.com",
+              "First": 1333634400000,
+              "Last": 1336744800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "zdstatic.com",
+              "First": 1356958800000,
+              "Last": 1388667600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "du20holistic.com",
+              "First": 1378389600000,
+              "Last": 1378389600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "ftlauderdaleent.com",
+              "First": 1407333600000,
+              "Last": 1415278800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "drgolder.com",
+              "First": 1467277917322,
+              "Last": 1467277917322,
+              "Overlap": true
+            },
+            {
+              "Domain": "donaldchatmanmd.com",
+              "First": 1467277487814,
+              "Last": 1467277487814,
+              "Overlap": true
+            },
+            {
+              "Domain": "johnljosephmd.com",
+              "First": 1467279309859,
+              "Last": 1469774762418,
+              "Overlap": true
+            },
+            {
+              "Domain": "kirkyoungmd.com",
+              "First": 1467279083426,
+              "Last": 1469774539755,
+              "Overlap": true
+            },
+            {
+              "Domain": "pardot.zocdoc.com",
+              "First": 1467282621158,
+              "Last": 1484016095312,
+              "Overlap": true
+            },
+            {
+              "Domain": "orlandogonzalezmd.org",
+              "First": 1467325489551,
+              "Last": 1469761350636,
+              "Overlap": true
+            },
+            {
+              "Domain": "dondeprezmd.com",
+              "First": 1467308782606,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunsetcliniclv.com",
+              "First": 1467359052967,
+              "Last": 1469778992349,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.com",
+              "First": 1467348611146,
+              "Last": 1500993372060,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdanwaddell.com",
+              "First": 1467301955672,
+              "Last": 1469773339032,
+              "Overlap": true
+            },
+            {
+              "Domain": "harveybraunfeldmd.com",
+              "First": 1467299253006,
+              "Last": 1467299253006,
+              "Overlap": true
+            },
+            {
+              "Domain": "hossainawinimd.com",
+              "First": 1467307440317,
+              "Last": 1469773408716,
+              "Overlap": true
+            },
+            {
+              "Domain": "advcareforwomen.com",
+              "First": 1467288029387,
+              "Last": 1469758189452,
+              "Overlap": true
+            },
+            {
+              "Domain": "gramercydoctor.com",
+              "First": 1467310331949,
+              "Last": 1467310331949,
+              "Overlap": true
+            },
+            {
+              "Domain": "accesshealthmedicalpc.com",
+              "First": 1467286907229,
+              "Last": 1469759350242,
+              "Overlap": true
+            },
+            {
+              "Domain": "louispopieldds.com",
+              "First": 1467282405924,
+              "Last": 1467282405924,
+              "Overlap": true
+            },
+            {
+              "Domain": "brooklyngastromd.com",
+              "First": 1467285580955,
+              "Last": 1467285580955,
+              "Overlap": true
+            },
+            {
+              "Domain": "tribecadoctor.com",
+              "First": 1467353920037,
+              "Last": 1467353920037,
+              "Overlap": true
+            },
+            {
+              "Domain": "lionelwilliamsandassociates.com",
+              "First": 1467303621651,
+              "Last": 1469752857774,
+              "Overlap": true
+            },
+            {
+              "Domain": "navintparekhmdpa.com",
+              "First": 1467341519438,
+              "Last": 1469766608097,
+              "Overlap": true
+            },
+            {
+              "Domain": "geraldfarbymd.com",
+              "First": 1467302640811,
+              "Last": 1469770100009,
+              "Overlap": true
+            },
+            {
+              "Domain": "nandigastro.com",
+              "First": 1467342585688,
+              "Last": 1467342585688,
+              "Overlap": true
+            },
+            {
+              "Domain": "forresteyecenter.com",
+              "First": 1467293667695,
+              "Last": 1469765439639,
+              "Overlap": true
+            },
+            {
+              "Domain": "villagefootcare.net",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "villalbamd.com",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "bigcitysmiles.com",
+              "First": 1467282872656,
+              "Last": 1519809842447,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseynguyenmd.com",
+              "First": 1467283514370,
+              "Last": 1469757051064,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielmaloneypt.com",
+              "First": 1467291592827,
+              "Last": 1469763759622,
+              "Overlap": true
+            },
+            {
+              "Domain": "speroderm.com",
+              "First": 1467343997187,
+              "Last": 1467343997187,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielsnowmd.com",
+              "First": 1467306341016,
+              "Last": 1467306341016,
+              "Overlap": true
+            },
+            {
+              "Domain": "padentalarts.com",
+              "First": 1468389023399,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "tabadds.com",
+              "First": 1468389023399,
+              "Last": 1470815710727,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.net",
+              "First": 1468389023399,
+              "Last": 1498449639707,
+              "Overlap": true
+            },
+            {
+              "Domain": "gomezod.com",
+              "First": 1468398409272,
+              "Last": 1468398409272,
+              "Overlap": true
+            },
+            {
+              "Domain": "allisonleemd.com",
+              "First": 1469755001097,
+              "Last": 1469755001097,
+              "Overlap": true
+            },
+            {
+              "Domain": "greenwichsmilesdental.com",
+              "First": 1469771709790,
+              "Last": 1469771709790,
+              "Overlap": true
+            },
+            {
+              "Domain": "hartmanmartinmd.com",
+              "First": 1469768345471,
+              "Last": 1469768345471,
+              "Overlap": true
+            },
+            {
+              "Domain": "w.drnephew.com",
+              "First": 1469780584568,
+              "Last": 1469780584568,
+              "Overlap": true
+            },
+            {
+              "Domain": "rajeshmehtamd.com",
+              "First": 1469772682715,
+              "Last": 1469772682715,
+              "Overlap": true
+            },
+            {
+              "Domain": "drnancyyoussefi.com",
+              "First": 1469764653217,
+              "Last": 1469764653217,
+              "Overlap": true
+            },
+            {
+              "Domain": "drcanadas.com",
+              "First": 1469773762301,
+              "Last": 1469773762301,
+              "Overlap": true
+            },
+            {
+              "Domain": "dperrosmd.com",
+              "First": 1469775965635,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertfreilichmd.com",
+              "First": 1469762176378,
+              "Last": 1469762176378,
+              "Overlap": true
+            },
+            {
+              "Domain": "davidfelixmd.com",
+              "First": 1469766305716,
+              "Last": 1469766305716,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkarichase.com",
+              "First": 1470821166091,
+              "Last": 1470821166091,
+              "Overlap": true
+            },
+            {
+              "Domain": "tomhaddadmd.com",
+              "First": 1484606254874,
+              "Last": 1484606254874,
+              "Overlap": true
+            },
+            {
+              "Domain": "deborshiroymd.com",
+              "First": 1484610046788,
+              "Last": 1484610046788,
+              "Overlap": true
+            },
+            {
+              "Domain": "alanfriedmandds.com",
+              "First": 1484603341397,
+              "Last": 1484603341397,
+              "Overlap": true
+            },
+            {
+              "Domain": "samweissmanmd.com",
+              "First": 1484603184523,
+              "Last": 1484603184523,
+              "Overlap": true
+            },
+            {
+              "Domain": "marilynmlangemd.com",
+              "First": 1484603192775,
+              "Last": 1484603192775,
+              "Overlap": true
+            },
+            {
+              "Domain": "premiereyecaredocs.com",
+              "First": 1485334323800,
+              "Last": 1485334323800,
+              "Overlap": true
+            },
+            {
+              "Domain": "offsiteschedule.vipdentalny.co",
+              "First": 1488539572650,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.vipdentalny.co",
+              "First": 1488582000000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "providers.geisinger.org",
+              "First": 1491692400000,
+              "Last": 1499301061522,
+              "Overlap": true
+            },
+            {
+              "Domain": "oakparkpodiatry.com",
+              "First": 1494031128985,
+              "Last": 1498490445522,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgynecology.com",
+              "First": 1500993376365,
+              "Last": 1511950234460,
+              "Overlap": true
+            },
+            {
+              "Domain": "drflintdermatology.net",
+              "First": 1500993376365,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "sfldentistry.com",
+              "First": 1500993372060,
+              "Last": 1511949582761,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.net",
+              "First": 1500992825296,
+              "Last": 1511950160021,
+              "Overlap": true
+            },
+            {
+              "Domain": "essexdentalarts.com",
+              "First": 1504185761918,
+              "Last": 1504185761918,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.com",
+              "First": 1504230162076,
+              "Last": 1514146729241,
+              "Overlap": true
+            },
+            {
+              "Domain": "woodlandseyepro.com",
+              "First": 1512019609859,
+              "Last": 1512019609859,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgyn.com",
+              "First": 1514146646168,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "indadentist.com",
+              "First": 1517520974027,
+              "Last": 1529271483652,
+              "Overlap": true
+            },
+            {
+              "Domain": "ugardian.com",
+              "First": 1517480543080,
+              "Last": 1520589915132,
+              "Overlap": true
+            },
+            {
+              "Domain": "uardian.com",
+              "First": 1517480543080,
+              "Last": 1529228638051,
+              "Overlap": true
+            },
+            {
+              "Domain": "edntal.com",
+              "First": 1517497132812,
+              "Last": 1529249656135,
+              "Overlap": true
+            },
+            {
+              "Domain": "wcmgappointments.com",
+              "First": 1517529715502,
+              "Last": 1517529715502,
+              "Overlap": true
+            },
+            {
+              "Domain": "ivtaldent.com",
+              "First": 1517517216712,
+              "Last": 1529270379347,
+              "Overlap": true
+            },
+            {
+              "Domain": "myicgna.com",
+              "First": 1517480148859,
+              "Last": 1529253374312,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.com",
+              "First": 1517500853497,
+              "Last": 1529238449324,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.net",
+              "First": 1517500853497,
+              "Last": 1529237426026,
+              "Overlap": true
+            },
+            {
+              "Domain": "viatldent.com",
+              "First": 1517481391846,
+              "Last": 1529277504997,
+              "Overlap": true
+            },
+            {
+              "Domain": "annejorgensenmft.com",
+              "First": 1517504562986,
+              "Last": 1524479806251,
+              "Overlap": true
+            },
+            {
+              "Domain": "herniacenternj.com",
+              "First": 1517514091025,
+              "Last": 1524486692627,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtialdent.com",
+              "First": 1517486494620,
+              "Last": 1529277013333,
+              "Overlap": true
+            },
+            {
+              "Domain": "aryehphysicaltherapy.com",
+              "First": 1517500255425,
+              "Last": 1529231840993,
+              "Overlap": true
+            },
+            {
+              "Domain": "deltdaental.com",
+              "First": 1517523169989,
+              "Last": 1524490183299,
+              "Overlap": true
+            },
+            {
+              "Domain": "inovadocs.org",
+              "First": 1517520163106,
+              "Last": 1524472929647,
+              "Overlap": true
+            },
+            {
+              "Domain": "entandallergydocs.com",
+              "First": 1517495680088,
+              "Last": 1529244913122,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitadlent.com",
+              "First": 1517479811952,
+              "Last": 1524468412759,
+              "Overlap": true
+            },
+            {
+              "Domain": "dfwprimarycare.com",
+              "First": 1517532168448,
+              "Last": 1529287122922,
+              "Overlap": true
+            },
+            {
+              "Domain": "baycaredoctorsonline.com",
+              "First": 1517505646864,
+              "Last": 1517505646864,
+              "Overlap": true
+            },
+            {
+              "Domain": "racheldds.com",
+              "First": 1517532533261,
+              "Last": 1524468462473,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtaldent.com",
+              "First": 1517486410070,
+              "Last": 1529274628946,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnet.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnt.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "mpireblue.com",
+              "First": 1517480785798,
+              "Last": 1520593976054,
+              "Overlap": true
+            },
+            {
+              "Domain": "mycignas.com",
+              "First": 1517480317971,
+              "Last": 1529251239737,
+              "Overlap": true
+            },
+            {
+              "Domain": "vialdent.com",
+              "First": 1517484380183,
+              "Last": 1529274231633,
+              "Overlap": true
+            },
+            {
+              "Domain": "entnallergy.com",
+              "First": 1517493546117,
+              "Last": 1524487305806,
+              "Overlap": true
+            },
+            {
+              "Domain": "wwwmidtownfoothealthcenters.com",
+              "First": 1517529654897,
+              "Last": 1529279171553,
+              "Overlap": true
+            },
+            {
+              "Domain": "kevinwongpt.com",
+              "First": 1517487497766,
+              "Last": 1520619900481,
+              "Overlap": true
+            },
+            {
+              "Domain": "dermedicadermatology.com",
+              "First": 1517519780991,
+              "Last": 1529264380369,
+              "Overlap": true
+            },
+            {
+              "Domain": "yungchenmd.com",
+              "First": 1517513067342,
+              "Last": 1529253116088,
+              "Overlap": true
+            },
+            {
+              "Domain": "nvisalign.com",
+              "First": 1517502562137,
+              "Last": 1524468294076,
+              "Overlap": true
+            },
+            {
+              "Domain": "spencercoldenmd.com",
+              "First": 1517494012519,
+              "Last": 1524509502065,
+              "Overlap": true
+            },
+            {
+              "Domain": "birtesmile.com",
+              "First": 1517510520759,
+              "Last": 1517510520759,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitalednt.com",
+              "First": 1517486572396,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitldent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitladent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "bjcmedicalgroupdocs.org",
+              "First": 1517507911837,
+              "Last": 1524523082058,
+              "Overlap": true
+            },
+            {
+              "Domain": "lucyroth.com",
+              "First": 1517509552471,
+              "Last": 1520614655771,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanda.com",
+              "First": 1520598162510,
+              "Last": 1529252171787,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanallergy.com",
+              "First": 1520598162510,
+              "Last": 1524484208224,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandsliveoakmedicalgroup.com",
+              "First": 1520613350931,
+              "Last": 1520613350931,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.org",
+              "First": 1520603659643,
+              "Last": 1520603659643,
+              "Overlap": true
+            },
+            {
+              "Domain": "montebellodoctor.com",
+              "First": 1520592315048,
+              "Last": 1524477154500,
+              "Overlap": true
+            },
+            {
+              "Domain": "stcloudphysiciansgroup.com",
+              "First": 1520618610276,
+              "Last": 1529222078660,
+              "Overlap": true
+            },
+            {
+              "Domain": "daugustine.com",
+              "First": 1520596878100,
+              "Last": 1520596878100,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldetn.com",
+              "First": 1520581459281,
+              "Last": 1529280356197,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.com",
+              "First": 1520624857792,
+              "Last": 1529245824051,
+              "Overlap": true
+            },
+            {
+              "Domain": "mybiloxipcponline.com",
+              "First": 1520593268892,
+              "Last": 1520593268892,
+              "Overlap": true
+            },
+            {
+              "Domain": "mylancasterpediatricians.com",
+              "First": 1520594136207,
+              "Last": 1520594136207,
+              "Overlap": true
+            },
+            {
+              "Domain": "edltadental.com",
+              "First": 1520591939566,
+              "Last": 1529255103921,
+              "Overlap": true
+            },
+            {
+              "Domain": "ymcigna.com",
+              "First": 1520622104907,
+              "Last": 1529253756944,
+              "Overlap": true
+            },
+            {
+              "Domain": "drormani.com",
+              "First": 1524495975276,
+              "Last": 1529260995035,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandslakeshorecare.com",
+              "First": 1524503520512,
+              "Last": 1524503520512,
+              "Overlap": true
+            },
+            {
+              "Domain": "einstein.edu",
+              "First": 1530526475914,
+              "Last": 1546069881798,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticare.org",
+              "First": 1528845902337,
+              "Last": 1535760069204,
+              "Overlap": true
+            },
+            {
+              "Domain": "azsnipsnip.com",
+              "First": 1529239000730,
+              "Last": 1529239000730,
+              "Overlap": true
+            },
+            {
+              "Domain": "chmgbookonlinenow.com",
+              "First": 1529225287641,
+              "Last": 1529225287641,
+              "Overlap": true
+            },
+            {
+              "Domain": "homewooddocs.com",
+              "First": 1529269631391,
+              "Last": 1529269631391,
+              "Overlap": true
+            },
+            {
+              "Domain": "guadrian.com",
+              "First": 1529224811753,
+              "Last": 1529224811753,
+              "Overlap": true
+            },
+            {
+              "Domain": "azurologygroup.com",
+              "First": 1529236403944,
+              "Last": 1529236403944,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.org",
+              "First": 1529246749665,
+              "Last": 1529246749665,
+              "Overlap": true
+            },
+            {
+              "Domain": "baumnutrition.com",
+              "First": 1529239133791,
+              "Last": 1529239133791,
+              "Overlap": true
+            },
+            {
+              "Domain": "azvasectomy.com",
+              "First": 1529239501266,
+              "Last": 1529239501266,
+              "Overlap": true
+            },
+            {
+              "Domain": "mynatchezpcponline.com",
+              "First": 1529249078321,
+              "Last": 1529249078321,
+              "Overlap": true
+            },
+            {
+              "Domain": "khandermatology.com",
+              "First": 1529292477198,
+              "Last": 1529292477198,
+              "Overlap": true
+            },
+            {
+              "Domain": "goodedentist.com",
+              "First": 1529223640070,
+              "Last": 1529223640070,
+              "Overlap": true
+            },
+            {
+              "Domain": "scheduleahp.com",
+              "First": 1529222653385,
+              "Last": 1529222653385,
+              "Overlap": true
+            },
+            {
+              "Domain": "nexhealth-dev.com",
+              "First": 1558087572379,
+              "Last": 1566557342389,
+              "Overlap": true
+            },
+            {
+              "Domain": "vipdentalny.co",
+              "First": 1567989461519,
+              "Last": 1567989461519,
+              "Overlap": true
+            },
+            {
+              "Domain": "smilequeens.com",
+              "First": 1583004148518,
+              "Last": 1583004148518,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdocapp.com",
+              "First": 1586489639232,
+              "Last": 1607771138503,
+              "Overlap": true
+            },
+            {
+              "Domain": "thepapergown.zocdoc.com",
+              "First": 1623054424434,
+              "Last": 1634569341580,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google",
+          "Value": "104979133689507882900",
+          "First": 1362056400000,
+          "Last": 1510668021556,
+          "Matches": []
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "217497571754373",
+          "First": 1387976400000,
+          "Last": 1404223200000,
+          "Matches": [
+            {
+              "Domain": "mazennatourdmd.com",
+              "First": 1387198800000,
+              "Last": 1401804000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "barrymarfleetmd.com",
+              "First": 1387198800000,
+              "Last": 1387198800000,
+              "Overlap": false
+            },
+            {
+              "Domain": "zdstatic.com",
+              "First": 1387976400000,
+              "Last": 1388581200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bhimed.com",
+              "First": 1387976400000,
+              "Last": 1389790800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "veronikaromashovamd.com",
+              "First": 1388581200000,
+              "Last": 1409666400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertwilsonmdgroup.com",
+              "First": 1389790800000,
+              "Last": 1389790800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "annearundelobgyn.com",
+              "First": 1393938000000,
+              "Last": 1393938000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "ftlauderdaleent.com",
+              "First": 1404223200000,
+              "Last": 1404223200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunilaphilipsmd.com",
+              "First": 1412085600000,
+              "Last": 1415106000000,
+              "Overlap": false
+            },
+            {
+              "Domain": "igorkhelemskymd.com",
+              "First": 1415106000000,
+              "Last": 1415106000000,
+              "Overlap": false
+            },
+            {
+              "Domain": "amymednickmd.com",
+              "First": 1415106000000,
+              "Last": 1415106000000,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "192.230.74.40",
+          "First": 1436968800000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "192.230.66.40",
+          "First": 1436968800000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "nf4mwm",
+          "First": 1382274000000,
+          "Last": 1428066000000,
+          "Matches": [
+            {
+              "Domain": "zdstatic.com",
+              "First": 1382274000000,
+              "Last": 1389013200000,
+              "Overlap": true
+            },
+            {
+              "Domain": "mazennatourdmd.com",
+              "First": 1382274000000,
+              "Last": 1401804000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "veronikaromashovamd.com",
+              "First": 1382274000000,
+              "Last": 1409666400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "gastrocareny.com",
+              "First": 1382274000000,
+              "Last": 1384174800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "barrymarfleetmd.com",
+              "First": 1382274000000,
+              "Last": 1387198800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bhimed.com",
+              "First": 1383483600000,
+              "Last": 1399384800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "zviosterweilmd.com",
+              "First": 1384779600000,
+              "Last": 1387198800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertwilsonmdgroup.com",
+              "First": 1389790800000,
+              "Last": 1392123600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "annearundelobgyn.com",
+              "First": 1392814800000,
+              "Last": 1394456400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdavidhendler.com",
+              "First": 1392814800000,
+              "Last": 1396530000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "ftlauderdaleent.com",
+              "First": 1404223200000,
+              "Last": 1415106000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunilaphilipsmd.com",
+              "First": 1412085600000,
+              "Last": 1428066000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "igorkhelemskymd.com",
+              "First": 1415106000000,
+              "Last": 1428066000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "amymednickmd.com",
+              "First": 1415106000000,
+              "Last": 1415106000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "drshawnklein.com",
+              "First": 1422968400000,
+              "Last": 1428066000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "drandrewmillermd.com",
+              "First": 1428066000000,
+              "Last": 1428066000000,
+              "Overlap": true
+            },
+            {
+              "Domain": "newbritainskinsmartderm.com",
+              "First": 1433340000000,
+              "Last": 1433340000000,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "NF4MWM",
+          "First": 1464156999154,
+          "Last": 1635263318540,
+          "Matches": [
+            {
+              "Domain": "drgolder.com",
+              "First": 1467277917322,
+              "Last": 1467277917322,
+              "Overlap": true
+            },
+            {
+              "Domain": "donaldchatmanmd.com",
+              "First": 1467277487814,
+              "Last": 1467277487814,
+              "Overlap": true
+            },
+            {
+              "Domain": "johnljosephmd.com",
+              "First": 1467279309859,
+              "Last": 1469774762418,
+              "Overlap": true
+            },
+            {
+              "Domain": "kirkyoungmd.com",
+              "First": 1467279083426,
+              "Last": 1469774539755,
+              "Overlap": true
+            },
+            {
+              "Domain": "pardot.zocdoc.com",
+              "First": 1467282621158,
+              "Last": 1484016095312,
+              "Overlap": true
+            },
+            {
+              "Domain": "orlandogonzalezmd.org",
+              "First": 1467325489551,
+              "Last": 1469761350636,
+              "Overlap": true
+            },
+            {
+              "Domain": "dondeprezmd.com",
+              "First": 1467308782606,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunsetcliniclv.com",
+              "First": 1467359052967,
+              "Last": 1469778992349,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.com",
+              "First": 1467348611146,
+              "Last": 1500993372060,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdanwaddell.com",
+              "First": 1467301955672,
+              "Last": 1469773339032,
+              "Overlap": true
+            },
+            {
+              "Domain": "harveybraunfeldmd.com",
+              "First": 1467299253006,
+              "Last": 1467299253006,
+              "Overlap": true
+            },
+            {
+              "Domain": "hossainawinimd.com",
+              "First": 1467307440317,
+              "Last": 1469773408716,
+              "Overlap": true
+            },
+            {
+              "Domain": "advcareforwomen.com",
+              "First": 1467288029387,
+              "Last": 1469758189452,
+              "Overlap": true
+            },
+            {
+              "Domain": "gramercydoctor.com",
+              "First": 1467310331949,
+              "Last": 1467310331949,
+              "Overlap": true
+            },
+            {
+              "Domain": "accesshealthmedicalpc.com",
+              "First": 1467286907229,
+              "Last": 1469759350242,
+              "Overlap": true
+            },
+            {
+              "Domain": "louispopieldds.com",
+              "First": 1467282405924,
+              "Last": 1467282405924,
+              "Overlap": true
+            },
+            {
+              "Domain": "brooklyngastromd.com",
+              "First": 1467285580955,
+              "Last": 1467285580955,
+              "Overlap": true
+            },
+            {
+              "Domain": "tribecadoctor.com",
+              "First": 1467353920037,
+              "Last": 1467353920037,
+              "Overlap": true
+            },
+            {
+              "Domain": "lionelwilliamsandassociates.com",
+              "First": 1467303621651,
+              "Last": 1469752857774,
+              "Overlap": true
+            },
+            {
+              "Domain": "navintparekhmdpa.com",
+              "First": 1467341519438,
+              "Last": 1469766608097,
+              "Overlap": true
+            },
+            {
+              "Domain": "geraldfarbymd.com",
+              "First": 1467302640811,
+              "Last": 1469770100009,
+              "Overlap": true
+            },
+            {
+              "Domain": "nandigastro.com",
+              "First": 1467342585688,
+              "Last": 1467342585688,
+              "Overlap": true
+            },
+            {
+              "Domain": "forresteyecenter.com",
+              "First": 1467293667695,
+              "Last": 1469765439639,
+              "Overlap": true
+            },
+            {
+              "Domain": "villagefootcare.net",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "villalbamd.com",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "bigcitysmiles.com",
+              "First": 1467282872656,
+              "Last": 1519809842447,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseynguyenmd.com",
+              "First": 1467283514370,
+              "Last": 1529234044614,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielmaloneypt.com",
+              "First": 1467291592827,
+              "Last": 1469763759622,
+              "Overlap": true
+            },
+            {
+              "Domain": "speroderm.com",
+              "First": 1467343997187,
+              "Last": 1467343997187,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielsnowmd.com",
+              "First": 1467306341016,
+              "Last": 1467306341016,
+              "Overlap": true
+            },
+            {
+              "Domain": "padentalarts.com",
+              "First": 1468389023399,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "tabadds.com",
+              "First": 1468389023399,
+              "Last": 1470815710727,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.net",
+              "First": 1468389023399,
+              "Last": 1498449639707,
+              "Overlap": true
+            },
+            {
+              "Domain": "gomezod.com",
+              "First": 1468398409272,
+              "Last": 1468398409272,
+              "Overlap": true
+            },
+            {
+              "Domain": "allisonleemd.com",
+              "First": 1469755001097,
+              "Last": 1469755001097,
+              "Overlap": true
+            },
+            {
+              "Domain": "greenwichsmilesdental.com",
+              "First": 1469771709790,
+              "Last": 1469771709790,
+              "Overlap": true
+            },
+            {
+              "Domain": "hartmanmartinmd.com",
+              "First": 1469768345471,
+              "Last": 1469768345471,
+              "Overlap": true
+            },
+            {
+              "Domain": "w.drnephew.com",
+              "First": 1469780584568,
+              "Last": 1469780584568,
+              "Overlap": true
+            },
+            {
+              "Domain": "rajeshmehtamd.com",
+              "First": 1469772682715,
+              "Last": 1469772682715,
+              "Overlap": true
+            },
+            {
+              "Domain": "drnancyyoussefi.com",
+              "First": 1469764653217,
+              "Last": 1469764653217,
+              "Overlap": true
+            },
+            {
+              "Domain": "drcanadas.com",
+              "First": 1469773762301,
+              "Last": 1469773762301,
+              "Overlap": true
+            },
+            {
+              "Domain": "dperrosmd.com",
+              "First": 1469775965635,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertfreilichmd.com",
+              "First": 1469762176378,
+              "Last": 1469762176378,
+              "Overlap": true
+            },
+            {
+              "Domain": "davidfelixmd.com",
+              "First": 1469766305716,
+              "Last": 1469766305716,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkarichase.com",
+              "First": 1470821166091,
+              "Last": 1470821166091,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorfinder.ae",
+              "First": 1473566921904,
+              "Last": 1473566921904,
+              "Overlap": true
+            },
+            {
+              "Domain": "espanol.zocdoc.com",
+              "First": 1481877784356,
+              "Last": 1519810173780,
+              "Overlap": true
+            },
+            {
+              "Domain": "tomhaddadmd.com",
+              "First": 1484606254874,
+              "Last": 1484606254874,
+              "Overlap": true
+            },
+            {
+              "Domain": "herniacenternj.com",
+              "First": 1484610659807,
+              "Last": 1524486692627,
+              "Overlap": true
+            },
+            {
+              "Domain": "deborshiroymd.com",
+              "First": 1484610046788,
+              "Last": 1484610046788,
+              "Overlap": true
+            },
+            {
+              "Domain": "alanfriedmandds.com",
+              "First": 1484603341397,
+              "Last": 1484603341397,
+              "Overlap": true
+            },
+            {
+              "Domain": "samweissmanmd.com",
+              "First": 1484603184523,
+              "Last": 1484603184523,
+              "Overlap": true
+            },
+            {
+              "Domain": "marilynmlangemd.com",
+              "First": 1484603192775,
+              "Last": 1484603192775,
+              "Overlap": true
+            },
+            {
+              "Domain": "premiereyecaredocs.com",
+              "First": 1485334323800,
+              "Last": 1485334323800,
+              "Overlap": true
+            },
+            {
+              "Domain": "offsiteschedule.vipdentalny.co",
+              "First": 1488539572650,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "oakparkpodiatry.com",
+              "First": 1494031128985,
+              "Last": 1498490445522,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgynecology.com",
+              "First": 1500993376365,
+              "Last": 1511950234460,
+              "Overlap": true
+            },
+            {
+              "Domain": "drflintdermatology.net",
+              "First": 1500993376365,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "sfldentistry.com",
+              "First": 1500993372060,
+              "Last": 1511949582761,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.net",
+              "First": 1500992825296,
+              "Last": 1511950160021,
+              "Overlap": true
+            },
+            {
+              "Domain": "essexdentalarts.com",
+              "First": 1504185761918,
+              "Last": 1504185761918,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.com",
+              "First": 1504230162076,
+              "Last": 1514146729241,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.vipdentalny.co",
+              "First": 1504226098005,
+              "Last": 1504226098005,
+              "Overlap": true
+            },
+            {
+              "Domain": "woodlandseyepro.com",
+              "First": 1512019609859,
+              "Last": 1512019609859,
+              "Overlap": true
+            },
+            {
+              "Domain": "thedoctorblog.com",
+              "First": 1514168013836,
+              "Last": 1529244005075,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgyn.com",
+              "First": 1514146646168,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "indadentist.com",
+              "First": 1517520974027,
+              "Last": 1529271483652,
+              "Overlap": true
+            },
+            {
+              "Domain": "ugardian.com",
+              "First": 1517480543080,
+              "Last": 1520589915132,
+              "Overlap": true
+            },
+            {
+              "Domain": "uardian.com",
+              "First": 1517480543080,
+              "Last": 1529228638051,
+              "Overlap": true
+            },
+            {
+              "Domain": "edntal.com",
+              "First": 1517497132812,
+              "Last": 1529249656135,
+              "Overlap": true
+            },
+            {
+              "Domain": "wcmgappointments.com",
+              "First": 1517529715502,
+              "Last": 1517529715502,
+              "Overlap": true
+            },
+            {
+              "Domain": "ivtaldent.com",
+              "First": 1517517216712,
+              "Last": 1529270379347,
+              "Overlap": true
+            },
+            {
+              "Domain": "myicgna.com",
+              "First": 1517480148859,
+              "Last": 1529253374312,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.com",
+              "First": 1517500853497,
+              "Last": 1529238449324,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.net",
+              "First": 1517500853497,
+              "Last": 1529237426026,
+              "Overlap": true
+            },
+            {
+              "Domain": "viatldent.com",
+              "First": 1517481391846,
+              "Last": 1529277504997,
+              "Overlap": true
+            },
+            {
+              "Domain": "annejorgensenmft.com",
+              "First": 1517504562986,
+              "Last": 1524479806251,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtialdent.com",
+              "First": 1517486494620,
+              "Last": 1529277013333,
+              "Overlap": true
+            },
+            {
+              "Domain": "aryehphysicaltherapy.com",
+              "First": 1517500255425,
+              "Last": 1529231840993,
+              "Overlap": true
+            },
+            {
+              "Domain": "deltdaental.com",
+              "First": 1517523169989,
+              "Last": 1524490183299,
+              "Overlap": true
+            },
+            {
+              "Domain": "inovadocs.org",
+              "First": 1517520163106,
+              "Last": 1524472929647,
+              "Overlap": true
+            },
+            {
+              "Domain": "entandallergydocs.com",
+              "First": 1517495680088,
+              "Last": 1529244913122,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandslakeshorecare.com",
+              "First": 1517496802748,
+              "Last": 1524503520512,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitadlent.com",
+              "First": 1517479811952,
+              "Last": 1524468412759,
+              "Overlap": true
+            },
+            {
+              "Domain": "dfwprimarycare.com",
+              "First": 1517532168448,
+              "Last": 1529287122922,
+              "Overlap": true
+            },
+            {
+              "Domain": "baycaredoctorsonline.com",
+              "First": 1517505646864,
+              "Last": 1517505646864,
+              "Overlap": true
+            },
+            {
+              "Domain": "racheldds.com",
+              "First": 1517532533261,
+              "Last": 1524468462473,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtaldent.com",
+              "First": 1517486410070,
+              "Last": 1529274628946,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnet.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnt.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "mpireblue.com",
+              "First": 1517480785798,
+              "Last": 1520593976054,
+              "Overlap": true
+            },
+            {
+              "Domain": "mycignas.com",
+              "First": 1517480317971,
+              "Last": 1529251239737,
+              "Overlap": true
+            },
+            {
+              "Domain": "vialdent.com",
+              "First": 1517484380183,
+              "Last": 1529274231633,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.com",
+              "First": 1517510954450,
+              "Last": 1529245824051,
+              "Overlap": true
+            },
+            {
+              "Domain": "entnallergy.com",
+              "First": 1517493546117,
+              "Last": 1524487305806,
+              "Overlap": true
+            },
+            {
+              "Domain": "wwwmidtownfoothealthcenters.com",
+              "First": 1517529654897,
+              "Last": 1529279171553,
+              "Overlap": true
+            },
+            {
+              "Domain": "kevinwongpt.com",
+              "First": 1517487497766,
+              "Last": 1520619900481,
+              "Overlap": true
+            },
+            {
+              "Domain": "dermedicadermatology.com",
+              "First": 1517519780991,
+              "Last": 1529264380369,
+              "Overlap": true
+            },
+            {
+              "Domain": "yungchenmd.com",
+              "First": 1517513067342,
+              "Last": 1529253116088,
+              "Overlap": true
+            },
+            {
+              "Domain": "nvisalign.com",
+              "First": 1517502562137,
+              "Last": 1524468294076,
+              "Overlap": true
+            },
+            {
+              "Domain": "spencercoldenmd.com",
+              "First": 1517494012519,
+              "Last": 1524509502065,
+              "Overlap": true
+            },
+            {
+              "Domain": "birtesmile.com",
+              "First": 1517510520759,
+              "Last": 1517510520759,
+              "Overlap": true
+            },
+            {
+              "Domain": "stcloudphysiciansgroup.com",
+              "First": 1517492123604,
+              "Last": 1529222078660,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitalednt.com",
+              "First": 1517486572396,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitldent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitladent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "bjcmedicalgroupdocs.org",
+              "First": 1517507911837,
+              "Last": 1529241231667,
+              "Overlap": true
+            },
+            {
+              "Domain": "lucyroth.com",
+              "First": 1517509552471,
+              "Last": 1520614655771,
+              "Overlap": true
+            },
+            {
+              "Domain": "daugustine.com",
+              "First": 1517521098783,
+              "Last": 1520596878100,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanda.com",
+              "First": 1520598162510,
+              "Last": 1529252171787,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanallergy.com",
+              "First": 1520598162510,
+              "Last": 1524484208224,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandsliveoakmedicalgroup.com",
+              "First": 1520613350931,
+              "Last": 1520613350931,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.org",
+              "First": 1520603659643,
+              "Last": 1529242979964,
+              "Overlap": true
+            },
+            {
+              "Domain": "guadrian.com",
+              "First": 1520612837408,
+              "Last": 1529224811753,
+              "Overlap": true
+            },
+            {
+              "Domain": "montebellodoctor.com",
+              "First": 1520592315048,
+              "Last": 1524477154500,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldetn.com",
+              "First": 1520581459281,
+              "Last": 1529280356197,
+              "Overlap": true
+            },
+            {
+              "Domain": "mybiloxipcponline.com",
+              "First": 1520593268892,
+              "Last": 1520593268892,
+              "Overlap": true
+            },
+            {
+              "Domain": "mylancasterpediatricians.com",
+              "First": 1520594136207,
+              "Last": 1524479499957,
+              "Overlap": true
+            },
+            {
+              "Domain": "edltadental.com",
+              "First": 1520591939566,
+              "Last": 1529255103921,
+              "Overlap": true
+            },
+            {
+              "Domain": "ymcigna.com",
+              "First": 1520622104907,
+              "Last": 1529253756944,
+              "Overlap": true
+            },
+            {
+              "Domain": "drormani.com",
+              "First": 1524495975276,
+              "Last": 1529260995035,
+              "Overlap": true
+            },
+            {
+              "Domain": "einstein.edu",
+              "First": 1525678744695,
+              "Last": 1546069881798,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticare.org",
+              "First": 1528845902337,
+              "Last": 1535760069204,
+              "Overlap": true
+            },
+            {
+              "Domain": "nanobiocare.com",
+              "First": 1529253229120,
+              "Last": 1529253229120,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.be",
+              "First": 1529287639684,
+              "Last": 1529287639684,
+              "Overlap": true
+            },
+            {
+              "Domain": "tauqeerahmadmd.com",
+              "First": 1529239999496,
+              "Last": 1529239999496,
+              "Overlap": true
+            },
+            {
+              "Domain": "draudreybruellmd.com",
+              "First": 1529260995035,
+              "Last": 1529260995035,
+              "Overlap": true
+            },
+            {
+              "Domain": "azsnipsnip.com",
+              "First": 1529239000730,
+              "Last": 1529239000730,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.ae",
+              "First": 1529258214462,
+              "Last": 1529258214462,
+              "Overlap": true
+            },
+            {
+              "Domain": "chmgbookonlinenow.com",
+              "First": 1529225287641,
+              "Last": 1529225287641,
+              "Overlap": true
+            },
+            {
+              "Domain": "weihsiulomd.com",
+              "First": 1529278622387,
+              "Last": 1529278622387,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctormarindpm.com",
+              "First": 1529290121840,
+              "Last": 1529290121840,
+              "Overlap": true
+            },
+            {
+              "Domain": "massouddds.com",
+              "First": 1529256554170,
+              "Last": 1529256554170,
+              "Overlap": true
+            },
+            {
+              "Domain": "homewooddocs.com",
+              "First": 1529269631391,
+              "Last": 1529269631391,
+              "Overlap": true
+            },
+            {
+              "Domain": "geisingerproviders.com",
+              "First": 1529290209864,
+              "Last": 1529290209864,
+              "Overlap": true
+            },
+            {
+              "Domain": "citydermandskin.com",
+              "First": 1529233199162,
+              "Last": 1529233199162,
+              "Overlap": true
+            },
+            {
+              "Domain": "azurologygroup.com",
+              "First": 1529236403944,
+              "Last": 1529236403944,
+              "Overlap": true
+            },
+            {
+              "Domain": "nydnrehabappts.com",
+              "First": 1529253786492,
+              "Last": 1529253786492,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.org",
+              "First": 1529246749665,
+              "Last": 1529246749665,
+              "Overlap": true
+            },
+            {
+              "Domain": "veronicabellodds.com",
+              "First": 1529278198202,
+              "Last": 1529278198202,
+              "Overlap": true
+            },
+            {
+              "Domain": "drsamuelbada.com",
+              "First": 1529263992234,
+              "Last": 1529263992234,
+              "Overlap": true
+            },
+            {
+              "Domain": "aafwh.com",
+              "First": 1529238754253,
+              "Last": 1529238754253,
+              "Overlap": true
+            },
+            {
+              "Domain": "bhatiaderm.com",
+              "First": 1529240230591,
+              "Last": 1529240230591,
+              "Overlap": true
+            },
+            {
+              "Domain": "hshdocs.net",
+              "First": 1529276630091,
+              "Last": 1529276630091,
+              "Overlap": true
+            },
+            {
+              "Domain": "northcarolinadentalgroup.com",
+              "First": 1529254009657,
+              "Last": 1529254009657,
+              "Overlap": true
+            },
+            {
+              "Domain": "holyspiritdoctors.org",
+              "First": 1529264280395,
+              "Last": 1529264280395,
+              "Overlap": true
+            },
+            {
+              "Domain": "holyspiritdoctors.com",
+              "First": 1529264280395,
+              "Last": 1529264280395,
+              "Overlap": true
+            },
+            {
+              "Domain": "lauracozzarellimd.com",
+              "First": 1529225552067,
+              "Last": 1529225552067,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertlosierdpm.com",
+              "First": 1529250653141,
+              "Last": 1529250653141,
+              "Overlap": true
+            },
+            {
+              "Domain": "baumnutrition.com",
+              "First": 1529239133791,
+              "Last": 1529239133791,
+              "Overlap": true
+            },
+            {
+              "Domain": "azvasectomy.com",
+              "First": 1529239501266,
+              "Last": 1529239501266,
+              "Overlap": true
+            },
+            {
+              "Domain": "susanodohertyphd.com",
+              "First": 1529222215988,
+              "Last": 1529222215988,
+              "Overlap": true
+            },
+            {
+              "Domain": "mynatchezpcponline.com",
+              "First": 1529249078321,
+              "Last": 1529249078321,
+              "Overlap": true
+            },
+            {
+              "Domain": "alinatyndallmd.com",
+              "First": 1529244834198,
+              "Last": 1529244834198,
+              "Overlap": true
+            },
+            {
+              "Domain": "khandermatology.com",
+              "First": 1529292477198,
+              "Last": 1529292477198,
+              "Overlap": true
+            },
+            {
+              "Domain": "orthopedicsurgeonhumbletx.com",
+              "First": 1529248187378,
+              "Last": 1529248187378,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.dk",
+              "First": 1529258794399,
+              "Last": 1529258794399,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.gy",
+              "First": 1529258794399,
+              "Last": 1529258794399,
+              "Overlap": true
+            },
+            {
+              "Domain": "goodedentist.com",
+              "First": 1529223640070,
+              "Last": 1529223640070,
+              "Overlap": true
+            },
+            {
+              "Domain": "scheduleahp.com",
+              "First": 1529222653385,
+              "Last": 1529222653385,
+              "Overlap": true
+            },
+            {
+              "Domain": "advancedorthopedicsplano.com",
+              "First": 1529239794664,
+              "Last": 1529239794664,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdonate33647.com",
+              "First": 1529262056000,
+              "Last": 1529262056000,
+              "Overlap": true
+            },
+            {
+              "Domain": "lydigdental.com",
+              "First": 1529223294473,
+              "Last": 1529223294473,
+              "Overlap": true
+            },
+            {
+              "Domain": "kazigastro.com",
+              "First": 1529291436719,
+              "Last": 1529291436719,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkennethpiering.com",
+              "First": 1529264780332,
+              "Last": 1529264780332,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkavehkohanof.com",
+              "First": 1529264780332,
+              "Last": 1529264780332,
+              "Overlap": true
+            },
+            {
+              "Domain": "vipdentalny.co",
+              "First": 1545236905434,
+              "Last": 1567989461519,
+              "Overlap": true
+            },
+            {
+              "Domain": "smilequeens.com",
+              "First": 1578572974759,
+              "Last": 1586009702316,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdocapp.com",
+              "First": 1586489639232,
+              "Last": 1607771138503,
+              "Overlap": true
+            },
+            {
+              "Domain": "thescript.zocdoc.com",
+              "First": 1599648852743,
+              "Last": 1628120633041,
+              "Overlap": true
+            },
+            {
+              "Domain": "try-zocdoc-com.thesistestingapps.com",
+              "First": 1623041214072,
+              "Last": 1623041214072,
+              "Overlap": true
+            },
+            {
+              "Domain": "answers.zocdoc.com",
+              "First": 1623457403564,
+              "Last": 1635087305253,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "crazyegg",
+          "Value": "426894",
+          "First": 1464156999154,
+          "Last": 1554973774462,
+          "Matches": [
+            {
+              "Domain": "drgolder.com",
+              "First": 1467277917322,
+              "Last": 1467277917322,
+              "Overlap": true
+            },
+            {
+              "Domain": "johnljosephmd.com",
+              "First": 1467279309859,
+              "Last": 1469774762418,
+              "Overlap": true
+            },
+            {
+              "Domain": "kirkyoungmd.com",
+              "First": 1467279083426,
+              "Last": 1469774539755,
+              "Overlap": true
+            },
+            {
+              "Domain": "pardot.zocdoc.com",
+              "First": 1467282621158,
+              "Last": 1484016095312,
+              "Overlap": true
+            },
+            {
+              "Domain": "orlandogonzalezmd.org",
+              "First": 1467325489551,
+              "Last": 1469761350636,
+              "Overlap": true
+            },
+            {
+              "Domain": "dondeprezmd.com",
+              "First": 1467308782606,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunsetcliniclv.com",
+              "First": 1467359052967,
+              "Last": 1469778992349,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.com",
+              "First": 1467348611146,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdanwaddell.com",
+              "First": 1467301955672,
+              "Last": 1469773339032,
+              "Overlap": true
+            },
+            {
+              "Domain": "harveybraunfeldmd.com",
+              "First": 1467299253006,
+              "Last": 1467299253006,
+              "Overlap": true
+            },
+            {
+              "Domain": "hossainawinimd.com",
+              "First": 1467307440317,
+              "Last": 1469773408716,
+              "Overlap": true
+            },
+            {
+              "Domain": "advcareforwomen.com",
+              "First": 1467288029387,
+              "Last": 1469758189452,
+              "Overlap": true
+            },
+            {
+              "Domain": "gramercydoctor.com",
+              "First": 1467310331949,
+              "Last": 1467310331949,
+              "Overlap": true
+            },
+            {
+              "Domain": "accesshealthmedicalpc.com",
+              "First": 1467286907229,
+              "Last": 1469759350242,
+              "Overlap": true
+            },
+            {
+              "Domain": "louispopieldds.com",
+              "First": 1467282405924,
+              "Last": 1467282405924,
+              "Overlap": true
+            },
+            {
+              "Domain": "brooklyngastromd.com",
+              "First": 1467285580955,
+              "Last": 1467285580955,
+              "Overlap": true
+            },
+            {
+              "Domain": "tribecadoctor.com",
+              "First": 1467353920037,
+              "Last": 1467353920037,
+              "Overlap": true
+            },
+            {
+              "Domain": "lionelwilliamsandassociates.com",
+              "First": 1467303621651,
+              "Last": 1469752857774,
+              "Overlap": true
+            },
+            {
+              "Domain": "navintparekhmdpa.com",
+              "First": 1467341519438,
+              "Last": 1469766608097,
+              "Overlap": true
+            },
+            {
+              "Domain": "geraldfarbymd.com",
+              "First": 1467302640811,
+              "Last": 1469770100009,
+              "Overlap": true
+            },
+            {
+              "Domain": "nandigastro.com",
+              "First": 1467342585688,
+              "Last": 1467342585688,
+              "Overlap": true
+            },
+            {
+              "Domain": "forresteyecenter.com",
+              "First": 1467293667695,
+              "Last": 1469765439639,
+              "Overlap": true
+            },
+            {
+              "Domain": "villagefootcare.net",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "villalbamd.com",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "bigcitysmiles.com",
+              "First": 1467282872656,
+              "Last": 1519809842447,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseynguyenmd.com",
+              "First": 1467283514370,
+              "Last": 1469757051064,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielmaloneypt.com",
+              "First": 1467291592827,
+              "Last": 1469763759622,
+              "Overlap": true
+            },
+            {
+              "Domain": "speroderm.com",
+              "First": 1467343997187,
+              "Last": 1467343997187,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielsnowmd.com",
+              "First": 1467306341016,
+              "Last": 1467306341016,
+              "Overlap": true
+            },
+            {
+              "Domain": "padentalarts.com",
+              "First": 1468389023399,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "tabadds.com",
+              "First": 1468389023399,
+              "Last": 1470815710727,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.net",
+              "First": 1468389023399,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "gomezod.com",
+              "First": 1468398409272,
+              "Last": 1468398409272,
+              "Overlap": true
+            },
+            {
+              "Domain": "allisonleemd.com",
+              "First": 1469755001097,
+              "Last": 1469755001097,
+              "Overlap": true
+            },
+            {
+              "Domain": "greenwichsmilesdental.com",
+              "First": 1469771709790,
+              "Last": 1469771709790,
+              "Overlap": true
+            },
+            {
+              "Domain": "hartmanmartinmd.com",
+              "First": 1469768345471,
+              "Last": 1469768345471,
+              "Overlap": true
+            },
+            {
+              "Domain": "w.drnephew.com",
+              "First": 1469780584568,
+              "Last": 1469780584568,
+              "Overlap": true
+            },
+            {
+              "Domain": "rajeshmehtamd.com",
+              "First": 1469772682715,
+              "Last": 1469772682715,
+              "Overlap": true
+            },
+            {
+              "Domain": "drnancyyoussefi.com",
+              "First": 1469764653217,
+              "Last": 1469764653217,
+              "Overlap": true
+            },
+            {
+              "Domain": "drcanadas.com",
+              "First": 1469773762301,
+              "Last": 1469773762301,
+              "Overlap": true
+            },
+            {
+              "Domain": "dperrosmd.com",
+              "First": 1469775965635,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertfreilichmd.com",
+              "First": 1469762176378,
+              "Last": 1469762176378,
+              "Overlap": true
+            },
+            {
+              "Domain": "davidfelixmd.com",
+              "First": 1469766305716,
+              "Last": 1469766305716,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkarichase.com",
+              "First": 1470821166091,
+              "Last": 1470821166091,
+              "Overlap": true
+            },
+            {
+              "Domain": "doctorfinder.ae",
+              "First": 1473566921904,
+              "Last": 1473566921904,
+              "Overlap": true
+            },
+            {
+              "Domain": "espanol.zocdoc.com",
+              "First": 1481877784356,
+              "Last": 1519810173780,
+              "Overlap": true
+            },
+            {
+              "Domain": "tomhaddadmd.com",
+              "First": 1484606254874,
+              "Last": 1484606254874,
+              "Overlap": true
+            },
+            {
+              "Domain": "deborshiroymd.com",
+              "First": 1484610046788,
+              "Last": 1484610046788,
+              "Overlap": true
+            },
+            {
+              "Domain": "alanfriedmandds.com",
+              "First": 1484603341397,
+              "Last": 1484603341397,
+              "Overlap": true
+            },
+            {
+              "Domain": "samweissmanmd.com",
+              "First": 1484603184523,
+              "Last": 1484603184523,
+              "Overlap": true
+            },
+            {
+              "Domain": "marilynmlangemd.com",
+              "First": 1484603192775,
+              "Last": 1484603192775,
+              "Overlap": true
+            },
+            {
+              "Domain": "premiereyecaredocs.com",
+              "First": 1485334323800,
+              "Last": 1485334323800,
+              "Overlap": true
+            },
+            {
+              "Domain": "offsiteschedule.vipdentalny.co",
+              "First": 1488539572650,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "fighthack.com",
+              "First": 1494674803258,
+              "Last": 1529232022812,
+              "Overlap": true
+            },
+            {
+              "Domain": "sfldentistry.com",
+              "First": 1509903110625,
+              "Last": 1511949582761,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.com",
+              "First": 1509903166151,
+              "Last": 1514146729241,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.net",
+              "First": 1509903176431,
+              "Last": 1511950160021,
+              "Overlap": true
+            },
+            {
+              "Domain": "drflintdermatology.net",
+              "First": 1509903176431,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgynecology.com",
+              "First": 1511950234460,
+              "Last": 1511950234460,
+              "Overlap": true
+            },
+            {
+              "Domain": "woodlandseyepro.com",
+              "First": 1512019609859,
+              "Last": 1512019609859,
+              "Overlap": true
+            },
+            {
+              "Domain": "thedoctorblog.com",
+              "First": 1514168013836,
+              "Last": 1529244005075,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgyn.com",
+              "First": 1514146646168,
+              "Last": 1514146646168,
+              "Overlap": true
+            },
+            {
+              "Domain": "indadentist.com",
+              "First": 1517520974027,
+              "Last": 1529271483652,
+              "Overlap": true
+            },
+            {
+              "Domain": "ugardian.com",
+              "First": 1517480543080,
+              "Last": 1520589915132,
+              "Overlap": true
+            },
+            {
+              "Domain": "uardian.com",
+              "First": 1517480543080,
+              "Last": 1529228638051,
+              "Overlap": true
+            },
+            {
+              "Domain": "edntal.com",
+              "First": 1517497132812,
+              "Last": 1529249656135,
+              "Overlap": true
+            },
+            {
+              "Domain": "wcmgappointments.com",
+              "First": 1517529715502,
+              "Last": 1517529715502,
+              "Overlap": true
+            },
+            {
+              "Domain": "ivtaldent.com",
+              "First": 1517517216712,
+              "Last": 1529270379347,
+              "Overlap": true
+            },
+            {
+              "Domain": "myicgna.com",
+              "First": 1517480148859,
+              "Last": 1529253374312,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.com",
+              "First": 1517500853497,
+              "Last": 1529238449324,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.net",
+              "First": 1517500853497,
+              "Last": 1529237426026,
+              "Overlap": true
+            },
+            {
+              "Domain": "viatldent.com",
+              "First": 1517481391846,
+              "Last": 1529277504997,
+              "Overlap": true
+            },
+            {
+              "Domain": "annejorgensenmft.com",
+              "First": 1517504562986,
+              "Last": 1524479806251,
+              "Overlap": true
+            },
+            {
+              "Domain": "herniacenternj.com",
+              "First": 1517514091025,
+              "Last": 1524486692627,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtialdent.com",
+              "First": 1517486494620,
+              "Last": 1529277013333,
+              "Overlap": true
+            },
+            {
+              "Domain": "aryehphysicaltherapy.com",
+              "First": 1517500255425,
+              "Last": 1529231840993,
+              "Overlap": true
+            },
+            {
+              "Domain": "deltdaental.com",
+              "First": 1517523169989,
+              "Last": 1524490183299,
+              "Overlap": true
+            },
+            {
+              "Domain": "inovadocs.org",
+              "First": 1517520163106,
+              "Last": 1524472929647,
+              "Overlap": true
+            },
+            {
+              "Domain": "entandallergydocs.com",
+              "First": 1517495680088,
+              "Last": 1529244913122,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitadlent.com",
+              "First": 1517479811952,
+              "Last": 1524468412759,
+              "Overlap": true
+            },
+            {
+              "Domain": "dfwprimarycare.com",
+              "First": 1517532168448,
+              "Last": 1529287122922,
+              "Overlap": true
+            },
+            {
+              "Domain": "baycaredoctorsonline.com",
+              "First": 1517505646864,
+              "Last": 1517505646864,
+              "Overlap": true
+            },
+            {
+              "Domain": "racheldds.com",
+              "First": 1517532533261,
+              "Last": 1524468462473,
+              "Overlap": true
+            },
+            {
+              "Domain": "vtaldent.com",
+              "First": 1517486410070,
+              "Last": 1529274628946,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnet.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldnt.com",
+              "First": 1517485325394,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "mpireblue.com",
+              "First": 1517480785798,
+              "Last": 1520593976054,
+              "Overlap": true
+            },
+            {
+              "Domain": "mycignas.com",
+              "First": 1517480317971,
+              "Last": 1529251239737,
+              "Overlap": true
+            },
+            {
+              "Domain": "vialdent.com",
+              "First": 1517484380183,
+              "Last": 1529274231633,
+              "Overlap": true
+            },
+            {
+              "Domain": "entnallergy.com",
+              "First": 1517493546117,
+              "Last": 1524487305806,
+              "Overlap": true
+            },
+            {
+              "Domain": "wwwmidtownfoothealthcenters.com",
+              "First": 1517529654897,
+              "Last": 1529279171553,
+              "Overlap": true
+            },
+            {
+              "Domain": "kevinwongpt.com",
+              "First": 1517487497766,
+              "Last": 1520619900481,
+              "Overlap": true
+            },
+            {
+              "Domain": "dermedicadermatology.com",
+              "First": 1517519780991,
+              "Last": 1529264380369,
+              "Overlap": true
+            },
+            {
+              "Domain": "yungchenmd.com",
+              "First": 1517513067342,
+              "Last": 1529253116088,
+              "Overlap": true
+            },
+            {
+              "Domain": "nvisalign.com",
+              "First": 1517502562137,
+              "Last": 1524468294076,
+              "Overlap": true
+            },
+            {
+              "Domain": "spencercoldenmd.com",
+              "First": 1517494012519,
+              "Last": 1524509502065,
+              "Overlap": true
+            },
+            {
+              "Domain": "birtesmile.com",
+              "First": 1517510520759,
+              "Last": 1517510520759,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitalednt.com",
+              "First": 1517486572396,
+              "Last": 1529275004830,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitldent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitladent.com",
+              "First": 1517480153230,
+              "Last": 1529276130552,
+              "Overlap": true
+            },
+            {
+              "Domain": "bjcmedicalgroupdocs.org",
+              "First": 1517507911837,
+              "Last": 1524523082058,
+              "Overlap": true
+            },
+            {
+              "Domain": "lucyroth.com",
+              "First": 1517509552471,
+              "Last": 1520614655771,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanda.com",
+              "First": 1520598162510,
+              "Last": 1529252171787,
+              "Overlap": true
+            },
+            {
+              "Domain": "entanallergy.com",
+              "First": 1520598162510,
+              "Last": 1524484208224,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandsliveoakmedicalgroup.com",
+              "First": 1520613350931,
+              "Last": 1520613350931,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticaredoctors.org",
+              "First": 1520603659643,
+              "Last": 1520603659643,
+              "Overlap": true
+            },
+            {
+              "Domain": "montebellodoctor.com",
+              "First": 1520592315048,
+              "Last": 1524477154500,
+              "Overlap": true
+            },
+            {
+              "Domain": "stcloudphysiciansgroup.com",
+              "First": 1520618610276,
+              "Last": 1529222078660,
+              "Overlap": true
+            },
+            {
+              "Domain": "daugustine.com",
+              "First": 1520596878100,
+              "Last": 1520596878100,
+              "Overlap": true
+            },
+            {
+              "Domain": "vitaldetn.com",
+              "First": 1520581459281,
+              "Last": 1529280356197,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.com",
+              "First": 1520624857792,
+              "Last": 1529245824051,
+              "Overlap": true
+            },
+            {
+              "Domain": "mybiloxipcponline.com",
+              "First": 1520593268892,
+              "Last": 1520593268892,
+              "Overlap": true
+            },
+            {
+              "Domain": "mylancasterpediatricians.com",
+              "First": 1520594136207,
+              "Last": 1520594136207,
+              "Overlap": true
+            },
+            {
+              "Domain": "edltadental.com",
+              "First": 1520591939566,
+              "Last": 1529255103921,
+              "Overlap": true
+            },
+            {
+              "Domain": "ymcigna.com",
+              "First": 1520622104907,
+              "Last": 1529253756944,
+              "Overlap": true
+            },
+            {
+              "Domain": "drormani.com",
+              "First": 1524495975276,
+              "Last": 1529260995035,
+              "Overlap": true
+            },
+            {
+              "Domain": "shandslakeshorecare.com",
+              "First": 1524503520512,
+              "Last": 1524503520512,
+              "Overlap": true
+            },
+            {
+              "Domain": "einstein.edu",
+              "First": 1525678744695,
+              "Last": 1555037640933,
+              "Overlap": true
+            },
+            {
+              "Domain": "atlanticare.org",
+              "First": 1528845902337,
+              "Last": 1535760069204,
+              "Overlap": true
+            },
+            {
+              "Domain": "azsnipsnip.com",
+              "First": 1529239000730,
+              "Last": 1529239000730,
+              "Overlap": true
+            },
+            {
+              "Domain": "chmgbookonlinenow.com",
+              "First": 1529225287641,
+              "Last": 1529225287641,
+              "Overlap": true
+            },
+            {
+              "Domain": "homewooddocs.com",
+              "First": 1529269631391,
+              "Last": 1529269631391,
+              "Overlap": true
+            },
+            {
+              "Domain": "guadrian.com",
+              "First": 1529224811753,
+              "Last": 1529224811753,
+              "Overlap": true
+            },
+            {
+              "Domain": "azurologygroup.com",
+              "First": 1529236403944,
+              "Last": 1529236403944,
+              "Overlap": true
+            },
+            {
+              "Domain": "bookmymedstarappointment.org",
+              "First": 1529246749665,
+              "Last": 1529246749665,
+              "Overlap": true
+            },
+            {
+              "Domain": "baumnutrition.com",
+              "First": 1529239133791,
+              "Last": 1529239133791,
+              "Overlap": true
+            },
+            {
+              "Domain": "azvasectomy.com",
+              "First": 1529239501266,
+              "Last": 1529239501266,
+              "Overlap": true
+            },
+            {
+              "Domain": "mynatchezpcponline.com",
+              "First": 1529249078321,
+              "Last": 1529249078321,
+              "Overlap": true
+            },
+            {
+              "Domain": "khandermatology.com",
+              "First": 1529292477198,
+              "Last": 1529292477198,
+              "Overlap": true
+            },
+            {
+              "Domain": "goodedentist.com",
+              "First": 1529223640070,
+              "Last": 1529223640070,
+              "Overlap": true
+            },
+            {
+              "Domain": "scheduleahp.com",
+              "First": 1529222653385,
+              "Last": 1529222653385,
+              "Overlap": true
+            },
+            {
+              "Domain": "vipdentalny.co",
+              "First": 1545236905434,
+              "Last": 1545236905434,
+              "Overlap": true
+            },
+            {
+              "Domain": "mountsinai.org",
+              "First": 1545923090880,
+              "Last": 1554972386997,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "adroll",
+          "Value": "O72RUSMZVVDNVEI2ILJBVE",
+          "First": 1464156999154,
+          "Last": 1477543693912,
+          "Matches": [
+            {
+              "Domain": "drgolder.com",
+              "First": 1467277917322,
+              "Last": 1467277917322,
+              "Overlap": true
+            },
+            {
+              "Domain": "donaldchatmanmd.com",
+              "First": 1467277487814,
+              "Last": 1467277487814,
+              "Overlap": true
+            },
+            {
+              "Domain": "johnljosephmd.com",
+              "First": 1467279309859,
+              "Last": 1469774762418,
+              "Overlap": true
+            },
+            {
+              "Domain": "kirkyoungmd.com",
+              "First": 1467279083426,
+              "Last": 1469774539755,
+              "Overlap": true
+            },
+            {
+              "Domain": "pardot.zocdoc.com",
+              "First": 1467282621158,
+              "Last": 1477543693912,
+              "Overlap": true
+            },
+            {
+              "Domain": "orlandogonzalezmd.org",
+              "First": 1467325489551,
+              "Last": 1469761350636,
+              "Overlap": true
+            },
+            {
+              "Domain": "dondeprezmd.com",
+              "First": 1467308782606,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunsetcliniclv.com",
+              "First": 1467359052967,
+              "Last": 1469778992349,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.com",
+              "First": 1467348611146,
+              "Last": 1469770369759,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdanwaddell.com",
+              "First": 1467301955672,
+              "Last": 1469773339032,
+              "Overlap": true
+            },
+            {
+              "Domain": "harveybraunfeldmd.com",
+              "First": 1467299253006,
+              "Last": 1467299253006,
+              "Overlap": true
+            },
+            {
+              "Domain": "hossainawinimd.com",
+              "First": 1467307440317,
+              "Last": 1469773408716,
+              "Overlap": true
+            },
+            {
+              "Domain": "advcareforwomen.com",
+              "First": 1467288029387,
+              "Last": 1469758189452,
+              "Overlap": true
+            },
+            {
+              "Domain": "gramercydoctor.com",
+              "First": 1467310331949,
+              "Last": 1467310331949,
+              "Overlap": true
+            },
+            {
+              "Domain": "accesshealthmedicalpc.com",
+              "First": 1467286907229,
+              "Last": 1469759350242,
+              "Overlap": true
+            },
+            {
+              "Domain": "louispopieldds.com",
+              "First": 1467282405924,
+              "Last": 1467282405924,
+              "Overlap": true
+            },
+            {
+              "Domain": "brooklyngastromd.com",
+              "First": 1467285580955,
+              "Last": 1467285580955,
+              "Overlap": true
+            },
+            {
+              "Domain": "tribecadoctor.com",
+              "First": 1467353920037,
+              "Last": 1467353920037,
+              "Overlap": true
+            },
+            {
+              "Domain": "lionelwilliamsandassociates.com",
+              "First": 1467303621651,
+              "Last": 1469752857774,
+              "Overlap": true
+            },
+            {
+              "Domain": "navintparekhmdpa.com",
+              "First": 1467341519438,
+              "Last": 1469766608097,
+              "Overlap": true
+            },
+            {
+              "Domain": "geraldfarbymd.com",
+              "First": 1467302640811,
+              "Last": 1469770100009,
+              "Overlap": true
+            },
+            {
+              "Domain": "nandigastro.com",
+              "First": 1467342585688,
+              "Last": 1467342585688,
+              "Overlap": true
+            },
+            {
+              "Domain": "forresteyecenter.com",
+              "First": 1467293667695,
+              "Last": 1469765439639,
+              "Overlap": true
+            },
+            {
+              "Domain": "villagefootcare.net",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "villalbamd.com",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "bigcitysmiles.com",
+              "First": 1467282872656,
+              "Last": 1469755232951,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseynguyenmd.com",
+              "First": 1467283514370,
+              "Last": 1469757051064,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielmaloneypt.com",
+              "First": 1467291592827,
+              "Last": 1469763759622,
+              "Overlap": true
+            },
+            {
+              "Domain": "speroderm.com",
+              "First": 1467343997187,
+              "Last": 1467343997187,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielsnowmd.com",
+              "First": 1467306341016,
+              "Last": 1467306341016,
+              "Overlap": true
+            },
+            {
+              "Domain": "padentalarts.com",
+              "First": 1468389023399,
+              "Last": 1468389023399,
+              "Overlap": true
+            },
+            {
+              "Domain": "tabadds.com",
+              "First": 1468389023399,
+              "Last": 1470815710727,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.net",
+              "First": 1468389023399,
+              "Last": 1470816048535,
+              "Overlap": true
+            },
+            {
+              "Domain": "gomezod.com",
+              "First": 1468398409272,
+              "Last": 1468398409272,
+              "Overlap": true
+            },
+            {
+              "Domain": "allisonleemd.com",
+              "First": 1469755001097,
+              "Last": 1469755001097,
+              "Overlap": true
+            },
+            {
+              "Domain": "greenwichsmilesdental.com",
+              "First": 1469771709790,
+              "Last": 1469771709790,
+              "Overlap": true
+            },
+            {
+              "Domain": "hartmanmartinmd.com",
+              "First": 1469768345471,
+              "Last": 1469768345471,
+              "Overlap": true
+            },
+            {
+              "Domain": "w.drnephew.com",
+              "First": 1469780584568,
+              "Last": 1469780584568,
+              "Overlap": true
+            },
+            {
+              "Domain": "rajeshmehtamd.com",
+              "First": 1469772682715,
+              "Last": 1469772682715,
+              "Overlap": true
+            },
+            {
+              "Domain": "drnancyyoussefi.com",
+              "First": 1469764653217,
+              "Last": 1469764653217,
+              "Overlap": true
+            },
+            {
+              "Domain": "drcanadas.com",
+              "First": 1469773762301,
+              "Last": 1469773762301,
+              "Overlap": true
+            },
+            {
+              "Domain": "dperrosmd.com",
+              "First": 1469775965635,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertfreilichmd.com",
+              "First": 1469762176378,
+              "Last": 1469762176378,
+              "Overlap": true
+            },
+            {
+              "Domain": "davidfelixmd.com",
+              "First": 1469766305716,
+              "Last": 1469766305716,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkarichase.com",
+              "First": 1470821166091,
+              "Last": 1470821166091,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "pardot",
+          "Value": "46052",
+          "First": 1464156999154,
+          "Last": 1504244217751,
+          "Matches": [
+            {
+              "Domain": "drgolder.com",
+              "First": 1467277917322,
+              "Last": 1467277917322,
+              "Overlap": true
+            },
+            {
+              "Domain": "donaldchatmanmd.com",
+              "First": 1467277487814,
+              "Last": 1467277487814,
+              "Overlap": true
+            },
+            {
+              "Domain": "johnljosephmd.com",
+              "First": 1467279309859,
+              "Last": 1469774762418,
+              "Overlap": true
+            },
+            {
+              "Domain": "kirkyoungmd.com",
+              "First": 1467279083426,
+              "Last": 1469774539755,
+              "Overlap": true
+            },
+            {
+              "Domain": "pardot.zocdoc.com",
+              "First": 1467282621158,
+              "Last": 1484016095312,
+              "Overlap": true
+            },
+            {
+              "Domain": "orlandogonzalezmd.org",
+              "First": 1467325489551,
+              "Last": 1469761350636,
+              "Overlap": true
+            },
+            {
+              "Domain": "dondeprezmd.com",
+              "First": 1467308782606,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "sunsetcliniclv.com",
+              "First": 1467359052967,
+              "Last": 1469778992349,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.com",
+              "First": 1467348611146,
+              "Last": 1500993372060,
+              "Overlap": true
+            },
+            {
+              "Domain": "drdanwaddell.com",
+              "First": 1467301955672,
+              "Last": 1469773339032,
+              "Overlap": true
+            },
+            {
+              "Domain": "harveybraunfeldmd.com",
+              "First": 1467299253006,
+              "Last": 1467299253006,
+              "Overlap": true
+            },
+            {
+              "Domain": "hossainawinimd.com",
+              "First": 1467307440317,
+              "Last": 1469773408716,
+              "Overlap": true
+            },
+            {
+              "Domain": "advcareforwomen.com",
+              "First": 1467288029387,
+              "Last": 1469758189452,
+              "Overlap": true
+            },
+            {
+              "Domain": "gramercydoctor.com",
+              "First": 1467310331949,
+              "Last": 1467310331949,
+              "Overlap": true
+            },
+            {
+              "Domain": "accesshealthmedicalpc.com",
+              "First": 1467286907229,
+              "Last": 1469759350242,
+              "Overlap": true
+            },
+            {
+              "Domain": "louispopieldds.com",
+              "First": 1467282405924,
+              "Last": 1467282405924,
+              "Overlap": true
+            },
+            {
+              "Domain": "brooklyngastromd.com",
+              "First": 1467285580955,
+              "Last": 1467285580955,
+              "Overlap": true
+            },
+            {
+              "Domain": "tribecadoctor.com",
+              "First": 1467353920037,
+              "Last": 1467353920037,
+              "Overlap": true
+            },
+            {
+              "Domain": "lionelwilliamsandassociates.com",
+              "First": 1467303621651,
+              "Last": 1469752857774,
+              "Overlap": true
+            },
+            {
+              "Domain": "navintparekhmdpa.com",
+              "First": 1467341519438,
+              "Last": 1469766608097,
+              "Overlap": true
+            },
+            {
+              "Domain": "geraldfarbymd.com",
+              "First": 1467302640811,
+              "Last": 1469770100009,
+              "Overlap": true
+            },
+            {
+              "Domain": "nandigastro.com",
+              "First": 1467342585688,
+              "Last": 1467342585688,
+              "Overlap": true
+            },
+            {
+              "Domain": "forresteyecenter.com",
+              "First": 1467293667695,
+              "Last": 1469765439639,
+              "Overlap": true
+            },
+            {
+              "Domain": "villagefootcare.net",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "villalbamd.com",
+              "First": 1467358821126,
+              "Last": 1467358821126,
+              "Overlap": true
+            },
+            {
+              "Domain": "bigcitysmiles.com",
+              "First": 1467282872656,
+              "Last": 1469755232951,
+              "Overlap": true
+            },
+            {
+              "Domain": "caseynguyenmd.com",
+              "First": 1467283514370,
+              "Last": 1469757051064,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielmaloneypt.com",
+              "First": 1467291592827,
+              "Last": 1469763759622,
+              "Overlap": true
+            },
+            {
+              "Domain": "speroderm.com",
+              "First": 1467343997187,
+              "Last": 1467343997187,
+              "Overlap": true
+            },
+            {
+              "Domain": "danielsnowmd.com",
+              "First": 1467306341016,
+              "Last": 1467306341016,
+              "Overlap": true
+            },
+            {
+              "Domain": "padentalarts.com",
+              "First": 1468389023399,
+              "Last": 1488554843240,
+              "Overlap": true
+            },
+            {
+              "Domain": "tabadds.com",
+              "First": 1468389023399,
+              "Last": 1470815710727,
+              "Overlap": true
+            },
+            {
+              "Domain": "nyfootdoc.net",
+              "First": 1468389023399,
+              "Last": 1498449639707,
+              "Overlap": true
+            },
+            {
+              "Domain": "gomezod.com",
+              "First": 1468398409272,
+              "Last": 1468398409272,
+              "Overlap": true
+            },
+            {
+              "Domain": "allisonleemd.com",
+              "First": 1469755001097,
+              "Last": 1469755001097,
+              "Overlap": true
+            },
+            {
+              "Domain": "greenwichsmilesdental.com",
+              "First": 1469771709790,
+              "Last": 1469771709790,
+              "Overlap": true
+            },
+            {
+              "Domain": "hartmanmartinmd.com",
+              "First": 1469768345471,
+              "Last": 1469768345471,
+              "Overlap": true
+            },
+            {
+              "Domain": "w.drnephew.com",
+              "First": 1469780584568,
+              "Last": 1469780584568,
+              "Overlap": true
+            },
+            {
+              "Domain": "rajeshmehtamd.com",
+              "First": 1469772682715,
+              "Last": 1469772682715,
+              "Overlap": true
+            },
+            {
+              "Domain": "drnancyyoussefi.com",
+              "First": 1469764653217,
+              "Last": 1469764653217,
+              "Overlap": true
+            },
+            {
+              "Domain": "drcanadas.com",
+              "First": 1469773762301,
+              "Last": 1469773762301,
+              "Overlap": true
+            },
+            {
+              "Domain": "dperrosmd.com",
+              "First": 1469775965635,
+              "Last": 1469775965635,
+              "Overlap": true
+            },
+            {
+              "Domain": "robertfreilichmd.com",
+              "First": 1469762176378,
+              "Last": 1469762176378,
+              "Overlap": true
+            },
+            {
+              "Domain": "davidfelixmd.com",
+              "First": 1469766305716,
+              "Last": 1469766305716,
+              "Overlap": true
+            },
+            {
+              "Domain": "drkarichase.com",
+              "First": 1470821166091,
+              "Last": 1470821166091,
+              "Overlap": true
+            },
+            {
+              "Domain": "mercedes-benz.inchcape.co.uk",
+              "First": 1481850987627,
+              "Last": 1517526921670,
+              "Overlap": true
+            },
+            {
+              "Domain": "espanol.zocdoc.com",
+              "First": 1481877784356,
+              "Last": 1504244143465,
+              "Overlap": true
+            },
+            {
+              "Domain": "tomhaddadmd.com",
+              "First": 1484606254874,
+              "Last": 1484606254874,
+              "Overlap": true
+            },
+            {
+              "Domain": "herniacenternj.com",
+              "First": 1484610659807,
+              "Last": 1484610659807,
+              "Overlap": true
+            },
+            {
+              "Domain": "deborshiroymd.com",
+              "First": 1484610046788,
+              "Last": 1484610046788,
+              "Overlap": true
+            },
+            {
+              "Domain": "alanfriedmandds.com",
+              "First": 1484603341397,
+              "Last": 1484603341397,
+              "Overlap": true
+            },
+            {
+              "Domain": "samweissmanmd.com",
+              "First": 1484603184523,
+              "Last": 1484603184523,
+              "Overlap": true
+            },
+            {
+              "Domain": "marilynmlangemd.com",
+              "First": 1484603192775,
+              "Last": 1484603192775,
+              "Overlap": true
+            },
+            {
+              "Domain": "premiereyecaredocs.com",
+              "First": 1485334323800,
+              "Last": 1485334323800,
+              "Overlap": true
+            },
+            {
+              "Domain": "offsiteschedule.vipdentalny.co",
+              "First": 1488539572650,
+              "Last": 1504226447045,
+              "Overlap": true
+            },
+            {
+              "Domain": "oakparkpodiatry.com",
+              "First": 1494031128985,
+              "Last": 1498490445522,
+              "Overlap": true
+            },
+            {
+              "Domain": "kennesawgynecology.com",
+              "First": 1500993376365,
+              "Last": 1500993376365,
+              "Overlap": true
+            },
+            {
+              "Domain": "drflintdermatology.net",
+              "First": 1500993376365,
+              "Last": 1500993376365,
+              "Overlap": true
+            },
+            {
+              "Domain": "sfldentistry.com",
+              "First": 1500993372060,
+              "Last": 1500993372060,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.net",
+              "First": 1500992825296,
+              "Last": 1500992825296,
+              "Overlap": true
+            },
+            {
+              "Domain": "essexdentalarts.com",
+              "First": 1504185761918,
+              "Last": 1504185761918,
+              "Overlap": true
+            },
+            {
+              "Domain": "fairfieldfamilydentalcare.com",
+              "First": 1504230162076,
+              "Last": 1504230162076,
+              "Overlap": true
+            },
+            {
+              "Domain": "zocdoc.vipdentalny.co",
+              "First": 1504226098005,
+              "Last": 1504226098005,
+              "Overlap": true
+            },
+            {
+              "Domain": "mercedes-benz-parts.co.uk",
+              "First": 1511961140858,
+              "Last": 1517522569455,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "199.83.132.40",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "ux639.x.incapdns.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "192.230.67.40",
+          "First": 1510614000000,
+          "Last": 1519686000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "149.126.74.40",
+          "First": 1513033200000,
+          "Last": 1517266800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "103.28.249.40",
+          "First": 1516057200000,
+          "Last": 1516057200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "45.60.62.232",
+          "First": 1532940536169,
+          "Last": 1583583965772,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.109.151.195",
+          "First": 1532940536169,
+          "Last": 1563646849008,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "45.60.107.232",
+          "First": 1532940536169,
+          "Last": 1554973774462,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.109.135.182",
+          "First": 1533233516970,
+          "Last": 1533233516970,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.12",
+          "First": 1533406005805,
+          "Last": 1533406005805,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.88.86.160",
+          "First": 1533436989084,
+          "Last": 1534385233472,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "107.23.164.237",
+          "First": 1533436989084,
+          "Last": 1533590953192,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.209.13.142",
+          "First": 1533436989084,
+          "Last": 1534385233472,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "107.180.26.68",
+          "First": 1533487725870,
+          "Last": 1533487725870,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "72.52.10.14",
+          "First": 1533559014891,
+          "Last": 1586490912965,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.16",
+          "First": 1533565904994,
+          "Last": 1540735662319,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.28",
+          "First": 1533679937765,
+          "Last": 1533679937765,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "45.60.66.232",
+          "First": 1533803545189,
+          "Last": 1533803545189,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "101.53.189.162",
+          "First": 1533803545189,
+          "Last": 1533803545189,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.2.58.142",
+          "First": 1534368505983,
+          "Last": 1538149554305,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.44.43.180",
+          "First": 1534775014154,
+          "Last": 1537941116950,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "205.178.189.131",
+          "First": 1535205664592,
+          "Last": 1585936370432,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.21.224.199",
+          "First": 1535219231277,
+          "Last": 1584366238188,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.88.101.213",
+          "First": 1535581957409,
+          "Last": 1538149554305,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "18.215.90.212",
+          "First": 1538401059360,
+          "Last": 1541702467119,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.88.40.236",
+          "First": 1538401059360,
+          "Last": 1581681609794,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.72.169.234",
+          "First": 1538401059360,
+          "Last": 1541332268890,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.237.205.232",
+          "First": 1538403291587,
+          "Last": 1556992134466,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.0.88.242",
+          "First": 1538403291587,
+          "Last": 1544111257137,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.196.199.6",
+          "First": 1538403291587,
+          "Last": 1564985880058,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.146.46.10",
+          "First": 1539443754746,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.131.241",
+          "First": 1540061039305,
+          "Last": 1586949908437,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.29",
+          "First": 1540751540817,
+          "Last": 1540751540817,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "18.213.10.74",
+          "First": 1542415435092,
+          "Last": 1564985880058,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.84.168.149",
+          "First": 1542439372034,
+          "Last": 1565740364490,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.255.119.70",
+          "First": 1543126840801,
+          "Last": 1585562244241,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.200.158.15",
+          "First": 1543474299264,
+          "Last": 1543474299264,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.72.173.84",
+          "First": 1543474299264,
+          "Last": 1543474299264,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "35.172.73.229",
+          "First": 1543474299264,
+          "Last": 1543474299264,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.239.23.81",
+          "First": 1545483863265,
+          "Last": 1552835350371,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "UA-2809147-1",
+          "First": 1545918998490,
+          "Last": 1588135207444,
+          "Matches": [
+            {
+              "Domain": "thepapergown.zocdoc.com",
+              "First": 1599648852743,
+              "Last": 1623586392243,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "130.211.196.28",
+          "First": 1545918998490,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.255.119.185",
+          "First": 1552384270395,
+          "Last": 1585635095244,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.19",
+          "First": 1553307307066,
+          "Last": 1553307307066,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.102.229",
+          "First": 1553477171737,
+          "Last": 1553477171737,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.196.91.99",
+          "First": 1553744841636,
+          "Last": 1568961346944,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.255.119.48",
+          "First": 1554381032614,
+          "Last": 1586264355826,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.255.119.209",
+          "First": 1554476912930,
+          "Last": 1586298356383,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.146.46.11",
+          "First": 1554949717295,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "69.195.124.100",
+          "First": 1555627815806,
+          "Last": 1564200670353,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "107.180.44.168",
+          "First": 1555982590497,
+          "Last": 1560284628372,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.230.166.236",
+          "First": 1557438718521,
+          "Last": 1576813811850,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "50.63.202.3",
+          "First": 1558665202306,
+          "Last": 1558665202306,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.102.238",
+          "First": 1558736733350,
+          "Last": 1586983863571,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.102.249",
+          "First": 1559467624733,
+          "Last": 1586489716169,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "45.60.31.63",
+          "First": 1559487848115,
+          "Last": 1628120633041,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "45.60.103.63",
+          "First": 1559487848115,
+          "Last": 1615190400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.104.248",
+          "First": 1560081393740,
+          "Last": 1560081393740,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "67.195.197.75",
+          "First": 1561826482635,
+          "Last": 1561826482635,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.102.251",
+          "First": 1563623586770,
+          "Last": 1586489716169,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.27.158.207",
+          "First": 1564838892152,
+          "Last": 1564838892152,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.27.159.207",
+          "First": 1564838892152,
+          "Last": 1564838892152,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.55.45.51",
+          "First": 1565089173180,
+          "Last": 1594180080602,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "159.240.48.59",
+          "First": 1565271975269,
+          "Last": 1584675835024,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.202.26.234",
+          "First": 1566103300371,
+          "Last": 1576813811850,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.226.56.32",
+          "First": 1566103300371,
+          "Last": 1566106023319,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.82.168.17",
+          "First": 1566391250817,
+          "Last": 1594180080602,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "206.189.226.35",
+          "First": 1566537662400,
+          "Last": 1585497246915,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.241.219.164",
+          "First": 1569125842842,
+          "Last": 1587485988320,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.197.63.185",
+          "First": 1569925570220,
+          "Last": 1594180080602,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "162.255.119.39",
+          "First": 1570122609187,
+          "Last": 1581438237527,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.102.237",
+          "First": 1571745461381,
+          "Last": 1585388151485,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.101.252",
+          "First": 1575495045487,
+          "Last": 1584397176434,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "74.208.236.170",
+          "First": 1575501788168,
+          "Last": 1584400313731,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.192.129.49",
+          "First": 1576970814840,
+          "Last": 1594008965224,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.232.213.131",
+          "First": 1576970814840,
+          "Last": 1594180080602,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "54.208.41.230",
+          "First": 1581696236321,
+          "Last": 1590181330857,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "13.109.201.236",
+          "First": 1583583965772,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "75.126.100.17",
+          "First": 1584391017006,
+          "Last": 1584391017006,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.18",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.26",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "99.84.181.14",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "136.147.129.27",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "172.217.8.19",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "35.171.144.182",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.202.14.95",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.231.129.73",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.73.195.55",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "3.214.203.143",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.54.171.88",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.54.211.101",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.199.63.90",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "52.20.185.228",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "34.230.223.131",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.199.63.82",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "172.217.13.83",
+          "First": 1588135207444,
+          "Last": 1588135207444,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "107.20.227.67",
+          "First": 1592059039763,
+          "Last": 1594180080602,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

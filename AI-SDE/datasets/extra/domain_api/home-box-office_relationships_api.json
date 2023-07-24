@@ -1,0 +1,269 @@
+{
+  "Relationships": [
+    {
+      "Domain": "homeboxoffice.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "206.208.179.51",
+          "First": 1347544800000,
+          "Last": 1357822800000,
+          "Matches": [
+            {
+              "Domain": "hbopunchzone.com",
+              "First": 1356008400000,
+              "Last": 1357822800000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "206.208.181.179",
+          "First": 1358427600000,
+          "Last": 1426683600000,
+          "Matches": [
+            {
+              "Domain": "hbopunchzone.com",
+              "First": 1358427600000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "hbostudios.com",
+              "First": 1367676000000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "hboworldboxing.com",
+              "First": 1364302800000,
+              "Last": 1403013600000,
+              "Overlap": true
+            },
+            {
+              "Domain": "hbostudio.com",
+              "First": 1369922400000,
+              "Last": 1422622800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "hboeworldboxing.com",
+              "First": 1369922400000,
+              "Last": 1403013600000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "168.161.22.78",
+          "First": 1427202000000,
+          "Last": 1519945200000,
+          "Matches": [
+            {
+              "Domain": "hbopunchzone.com",
+              "First": 1427202000000,
+              "Last": 1454936400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "hbostudios.com",
+              "First": 1427202000000,
+              "Last": 1631437133555,
+              "Overlap": true
+            },
+            {
+              "Domain": "hbostudio.com",
+              "First": 1427202000000,
+              "Last": 1631437163627,
+              "Overlap": true
+            },
+            {
+              "Domain": "marchoftime.biz",
+              "First": 1537532941925,
+              "Last": 1537532941925,
+              "Overlap": false
+            },
+            {
+              "Domain": "marchoftime.us",
+              "First": 1537532941925,
+              "Last": 1537532941925,
+              "Overlap": false
+            },
+            {
+              "Domain": "marchoftime.org",
+              "First": 1537532941925,
+              "Last": 1537532941925,
+              "Overlap": false
+            },
+            {
+              "Domain": "marchoftime.info",
+              "First": 1537532941925,
+              "Last": 1537532941925,
+              "Overlap": false
+            },
+            {
+              "Domain": "hbomax.com",
+              "First": 1541531487130,
+              "Last": 1561139610230,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.212.173",
+          "First": 1505170800000,
+          "Last": 1546022411268,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.213.173",
+          "First": 1505170800000,
+          "Last": 1546022411268,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.214.173",
+          "First": 1505170800000,
+          "Last": 1546022411268,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.210.173",
+          "First": 1505170800000,
+          "Last": 1546022411268,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.16.211.173",
+          "First": 1505170800000,
+          "Last": 1546022411268,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "206.208.181.228",
+          "First": 1478696400000,
+          "Last": 1478696400000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "118292253",
+          "First": 1525697080028,
+          "Last": 1568471792341,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "UA-118292253-1",
+          "First": 1525697080028,
+          "Last": 1568471792341,
+          "Matches": [
+            {
+              "Domain": "hbomax.com",
+              "First": 1541531487130,
+              "Last": 1561139610230,
+              "Overlap": true
+            },
+            {
+              "Domain": "hboinflight.com",
+              "First": 1541532048851,
+              "Last": 1565443073872,
+              "Overlap": true
+            },
+            {
+              "Domain": "hboenterprises.com",
+              "First": 1541532109311,
+              "Last": 1565443573964,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "104.18.84.87",
+          "First": 1555013593322,
+          "Last": 1635157905294,
+          "Matches": [
+            {
+              "Domain": "warnermediagroup.com",
+              "First": 1574097382171,
+              "Last": 1586544583053,
+              "Overlap": true
+            },
+            {
+              "Domain": "rmkngjft.icu",
+              "First": 1578257336076,
+              "Last": 1585869012508,
+              "Overlap": true
+            },
+            {
+              "Domain": "yoquxbms.icu",
+              "First": 1579551485508,
+              "Last": 1586445571609,
+              "Overlap": true
+            },
+            {
+              "Domain": "agqybsit.icu",
+              "First": 1580126335784,
+              "Last": 1587450155117,
+              "Overlap": true
+            },
+            {
+              "Domain": "zfacrrjo.icu",
+              "First": 1583548365779,
+              "Last": 1586477675758,
+              "Overlap": true
+            },
+            {
+              "Domain": "umjlflyr.icu",
+              "First": 1586230277248,
+              "Last": 1586230277248,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "104.18.83.87",
+          "First": 1555013593322,
+          "Last": 1635157905294,
+          "Matches": [
+            {
+              "Domain": "warnermediagroup.com",
+              "First": 1574097382171,
+              "Last": 1586544583053,
+              "Overlap": true
+            },
+            {
+              "Domain": "dghsimjm.icu",
+              "First": 1581131986662,
+              "Last": 1584337719617,
+              "Overlap": true
+            },
+            {
+              "Domain": "iqvtfcyo.icu",
+              "First": 1581941855869,
+              "Last": 1584946547993,
+              "Overlap": true
+            },
+            {
+              "Domain": "avxlulmu.icu",
+              "First": 1586920029299,
+              "Last": 1586920029299,
+              "Overlap": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

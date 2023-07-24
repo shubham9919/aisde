@@ -1,0 +1,672 @@
+{
+  "Relationships": [
+    {
+      "Domain": "rbcroyalbank.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "142.245.1.15",
+          "First": 1345212000000,
+          "Last": 1353589200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "142.245.97.15",
+          "First": 1354194000000,
+          "Last": 1392901200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "72.13.32.114",
+          "First": 1393160400000,
+          "Last": 1393419600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "69.58.186.114",
+          "First": 1394024400000,
+          "Last": 1478696400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "216.87.148.114",
+          "First": 1502751600000,
+          "Last": 1563648197579,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "e8400.x.akamaiedge.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.40.212.129",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "www.rbcroyalbank.com.georbc.akadns.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "www.rbcroyalbank.com.edgekey.net.",
+          "First": 1507590000000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.13.171.209",
+          "First": 1508281200000,
+          "Last": 1514847600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.96.243.162",
+          "First": 1508799600000,
+          "Last": 1512601200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.0.62.62",
+          "First": 1509490800000,
+          "Last": 1509490800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.50.87.80",
+          "First": 1510614000000,
+          "Last": 1510614000000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "K5TWTL",
+          "First": 1514106748733,
+          "Last": 1583583494028,
+          "Matches": [
+            {
+              "Domain": "rbcfinancialplanning.com",
+              "First": 1500968496476,
+              "Last": 1572510143815,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcbanqueroyale.com",
+              "First": 1514106815949,
+              "Last": 1539531544899,
+              "Overlap": true
+            },
+            {
+              "Domain": "ownr.co",
+              "First": 1517532383523,
+              "Last": 1608090570831,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbc.com",
+              "First": 1519858800000,
+              "Last": 1583580558370,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcbank.com",
+              "First": 1519843899487,
+              "Last": 1519843899487,
+              "Overlap": true
+            },
+            {
+              "Domain": "arrivein.ca",
+              "First": 1520605312510,
+              "Last": 1559930805536,
+              "Overlap": true
+            },
+            {
+              "Domain": "getdigs.io",
+              "First": 1529290963048,
+              "Last": 1549633867044,
+              "Overlap": true
+            },
+            {
+              "Domain": "teamrbcgolf.com",
+              "First": 1529234061179,
+              "Last": 1544627614731,
+              "Overlap": true
+            },
+            {
+              "Domain": "garbageday.co",
+              "First": 1532386800000,
+              "Last": 1533635674822,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcinvestease.com",
+              "First": 1538158066301,
+              "Last": 1633575941259,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcrecompenses.com",
+              "First": 1538156328577,
+              "Last": 1633576284836,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcrewards.com",
+              "First": 1539483579795,
+              "Last": 1628091887116,
+              "Overlap": true
+            },
+            {
+              "Domain": "hopcarriererbc.ca",
+              "First": 1541678558613,
+              "Last": 1550061074344,
+              "Overlap": true
+            },
+            {
+              "Domain": "ownrblog.com",
+              "First": 1558256692101,
+              "Last": 1629769203947,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcautovantage.com",
+              "First": 1582786154424,
+              "Last": 1633576164749,
+              "Overlap": true
+            },
+            {
+              "Domain": "mcgillpersonalfinance.com",
+              "First": 1585339665052,
+              "Last": 1628169149016,
+              "Overlap": false
+            },
+            {
+              "Domain": "mydoh.ca",
+              "First": 1585456094378,
+              "Last": 1628161208254,
+              "Overlap": false
+            },
+            {
+              "Domain": "arriveconnections.com",
+              "First": 1588662186958,
+              "Last": 1624039940254,
+              "Overlap": false
+            },
+            {
+              "Domain": "connections.arrivein.com",
+              "First": 1596520198904,
+              "Last": 1628685315306,
+              "Overlap": false
+            },
+            {
+              "Domain": "dev.arrivedev.ca",
+              "First": 1596521533610,
+              "Last": 1618607401761,
+              "Overlap": false
+            },
+            {
+              "Domain": "locator.rbcfinancialplanning.com",
+              "First": 1598741792321,
+              "Last": 1633576800130,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcupskill.ca",
+              "First": 1598744994903,
+              "Last": 1598744994903,
+              "Overlap": false
+            },
+            {
+              "Domain": "caribbean.sterbcroyalbank.com",
+              "First": 1599025998371,
+              "Last": 1634284908882,
+              "Overlap": false
+            },
+            {
+              "Domain": "carribean.sterbcroyalbank.com",
+              "First": 1599025998371,
+              "Last": 1634285354815,
+              "Overlap": false
+            },
+            {
+              "Domain": "decouverte.rbcbanqueroyale.com",
+              "First": 1599655716172,
+              "Last": 1629403927806,
+              "Overlap": false
+            },
+            {
+              "Domain": "diversite.rbc.com",
+              "First": 1599665762497,
+              "Last": 1628083635315,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcdirectinvesting.com",
+              "First": 1599668385580,
+              "Last": 1628457910209,
+              "Overlap": false
+            },
+            {
+              "Domain": "stage.ownr.co",
+              "First": 1599680893932,
+              "Last": 1605146928797,
+              "Overlap": false
+            },
+            {
+              "Domain": "mcgillfinancespersonnelles.com",
+              "First": 1602032229198,
+              "Last": 1632814908604,
+              "Overlap": false
+            },
+            {
+              "Domain": "caribbean.rbcroyalbank.com",
+              "First": 1605089918630,
+              "Last": 1628121367640,
+              "Overlap": false
+            },
+            {
+              "Domain": "discover.rbcroyalbank.com",
+              "First": 1605089918630,
+              "Last": 1633576047661,
+              "Overlap": false
+            },
+            {
+              "Domain": "caribbean-scc.rbcroyalbank.com",
+              "First": 1605089918630,
+              "Last": 1628093338473,
+              "Overlap": false
+            },
+            {
+              "Domain": "stg.arrivedev.ca",
+              "First": 1605584195295,
+              "Last": 1618607401761,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbctrainingground.ca",
+              "First": 1606025617627,
+              "Last": 1633575975550,
+              "Overlap": false
+            },
+            {
+              "Domain": "caribbean-gcc.rbcroyalbank.com",
+              "First": 1608419395140,
+              "Last": 1628093338473,
+              "Overlap": false
+            },
+            {
+              "Domain": "app.arrivein.com",
+              "First": 1608739031318,
+              "Last": 1628685315306,
+              "Overlap": false
+            },
+            {
+              "Domain": "rcapleasing.com",
+              "First": 1611955549373,
+              "Last": 1633577082250,
+              "Overlap": false
+            },
+            {
+              "Domain": "timevirtualday.club",
+              "First": 1612348638946,
+              "Last": 1613134378298,
+              "Overlap": false
+            },
+            {
+              "Domain": "referralawards.rbc.com",
+              "First": 1618236888701,
+              "Last": 1633575996733,
+              "Overlap": false
+            },
+            {
+              "Domain": "get.ownr.co",
+              "First": 1618279005538,
+              "Last": 1623536335736,
+              "Overlap": false
+            },
+            {
+              "Domain": "arrivedev.ca",
+              "First": 1618607401761,
+              "Last": 1618607401761,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbc.design",
+              "First": 1620636916798,
+              "Last": 1633576660578,
+              "Overlap": false
+            },
+            {
+              "Domain": "staging.rbcdigitaldesign.com",
+              "First": 1622485436916,
+              "Last": 1633576164749,
+              "Overlap": false
+            },
+            {
+              "Domain": "diversity.rbc.com",
+              "First": 1623488810620,
+              "Last": 1628083635315,
+              "Overlap": false
+            },
+            {
+              "Domain": "thoughtleadership.rbc.com",
+              "First": 1623488810620,
+              "Last": 1628083635315,
+              "Overlap": false
+            },
+            {
+              "Domain": "onboarding.rbc.com",
+              "First": 1623488810620,
+              "Last": 1628083635315,
+              "Overlap": false
+            },
+            {
+              "Domain": "stage.arrivedev.ca",
+              "First": 1623775032631,
+              "Last": 1628686076728,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbc2020.hatcherydev.com",
+              "First": 1625063737586,
+              "Last": 1631419794802,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbc2020fr.hatcherydev.com",
+              "First": 1625063737586,
+              "Last": 1631419794802,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcx.com",
+              "First": 1626313163307,
+              "Last": 1633572109201,
+              "Overlap": false
+            },
+            {
+              "Domain": "pointsdevuebr.interadcorp.com",
+              "First": 1631768969619,
+              "Last": 1631768969619,
+              "Overlap": false
+            },
+            {
+              "Domain": "thoughtleadershiprb.interadcorp.com",
+              "First": 1631768969619,
+              "Last": 1631768969619,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "23.43.26.193",
+          "First": 1516057200000,
+          "Last": 1516057200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.0.56.172",
+          "First": 1516662000000,
+          "Last": 1516662000000,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "33431609",
+          "First": 1517531538247,
+          "Last": 1583583494028,
+          "Matches": [
+            {
+              "Domain": "maps.rbc.com",
+              "First": 1464151617153,
+              "Last": 1485388559261,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcbanqueroyale.com",
+              "First": 1514106815949,
+              "Last": 1539531544899,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbc.com",
+              "First": 1519858800000,
+              "Last": 1583580558370,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcrewards.com",
+              "First": 1519858800000,
+              "Last": 1623180348555,
+              "Overlap": true
+            },
+            {
+              "Domain": "drive.ca",
+              "First": 1520599328764,
+              "Last": 1533566722882,
+              "Overlap": true
+            },
+            {
+              "Domain": "arrivein.ca",
+              "First": 1520605312510,
+              "Last": 1559930805536,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcbank.com",
+              "First": 1530181468317,
+              "Last": 1613946454523,
+              "Overlap": true
+            },
+            {
+              "Domain": "getdigs.io",
+              "First": 1531276466955,
+              "Last": 1549633867044,
+              "Overlap": true
+            },
+            {
+              "Domain": "teamrbcgolf.com",
+              "First": 1532386800000,
+              "Last": 1544627614731,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcfinancialplanning.com",
+              "First": 1532776426396,
+              "Last": 1630392868912,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcrecompenses.com",
+              "First": 1532776423748,
+              "Last": 1606025526307,
+              "Overlap": true
+            },
+            {
+              "Domain": "roybac.com",
+              "First": 1567156666997,
+              "Last": 1582858435526,
+              "Overlap": true
+            },
+            {
+              "Domain": "tomarfinancial.com",
+              "First": 1573276261122,
+              "Last": 1573276261122,
+              "Overlap": true
+            },
+            {
+              "Domain": "rbcautovantage.com",
+              "First": 1582786154424,
+              "Last": 1582786154424,
+              "Overlap": true
+            },
+            {
+              "Domain": "mcgillpersonalfinance.com",
+              "First": 1585339665052,
+              "Last": 1623353696915,
+              "Overlap": false
+            },
+            {
+              "Domain": "arriveconnections.com",
+              "First": 1588662186958,
+              "Last": 1595138470070,
+              "Overlap": false
+            },
+            {
+              "Domain": "decouverte.rbcbanqueroyale.com",
+              "First": 1599655716172,
+              "Last": 1605100694398,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcdirectinvesting.com",
+              "First": 1599668385580,
+              "Last": 1599668385580,
+              "Overlap": false
+            },
+            {
+              "Domain": "arrivein.com",
+              "First": 1601379184236,
+              "Last": 1624039353143,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcinvestease.com",
+              "First": 1602001309656,
+              "Last": 1633575941259,
+              "Overlap": false
+            },
+            {
+              "Domain": "mcgillfinancespersonnelles.com",
+              "First": 1604967912755,
+              "Last": 1628828036832,
+              "Overlap": false
+            },
+            {
+              "Domain": "discover.rbcroyalbank.com",
+              "First": 1605089918630,
+              "Last": 1612893491967,
+              "Overlap": false
+            },
+            {
+              "Domain": "rbcx.com",
+              "First": 1626313163307,
+              "Last": 1633572109201,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "23.6.107.209",
+          "First": 1517871600000,
+          "Last": 1519686000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "165.160.13.20",
+          "First": 1543624295896,
+          "Last": 1572511147219,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "165.160.15.20",
+          "First": 1543624295896,
+          "Last": 1572510593008,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "69.46.106.223",
+          "First": 1552869521771,
+          "Last": 1585817507052,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "204.74.99.100",
+          "First": 1562565193202,
+          "Last": 1628093338473,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "72.52.10.14",
+          "First": 1565254888101,
+          "Last": 1584664938339,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "18.217.251.129",
+          "First": 1578158591343,
+          "Last": 1585817507052,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "192.64.119.190",
+          "First": 1578158747085,
+          "Last": 1578158747085,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.82.18.144",
+          "First": 1614585600000,
+          "Last": 1615276800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.67.89.90",
+          "First": 1614585600000,
+          "Last": 1615017600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.47.20.192",
+          "First": 1614585600000,
+          "Last": 1618815600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "23.218.56.78",
+          "First": 1614931200000,
+          "Last": 1614931200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.102.221.93",
+          "First": 1615017600000,
+          "Last": 1615017600000,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

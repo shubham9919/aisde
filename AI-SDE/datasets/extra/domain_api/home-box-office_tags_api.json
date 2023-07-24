@@ -1,0 +1,40 @@
+{
+  "Identifers": [
+    {
+      "Value": "IP-199.232.193.119",
+      "Matches": [
+        {
+          "Domain": "cilock.play.hbonow.com",
+          "First": 1628104172456,
+          "Last": 1628104172456
+        },
+        {
+          "Domain": "staging.subscribe.hbonow.com",
+          "First": 1628104172456,
+          "Last": 1628104172456
+        },
+        {
+          "Domain": "activate.hbogo.com",
+          "First": 1628111245288,
+          "Last": 1628111245288
+        },
+        {
+          "Domain": "chromecast.fly.cdn.hbogo.com",
+          "First": 1628112029130,
+          "Last": 1628112029130
+        },
+        {
+          "Domain": "prod.v4.cinemax.com",
+          "First": 1635103635584,
+          "Last": 1635103635584
+        },
+        {
+          "Domain": "play.maxgo.com",
+          "First": 1635110331077,
+          "Last": 1635110331077
+        }
+      ]
+    }
+  ],
+  "Errors": null
+}

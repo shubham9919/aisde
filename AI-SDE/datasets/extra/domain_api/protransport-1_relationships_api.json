@@ -1,0 +1,560 @@
+{
+  "Relationships": [
+    {
+      "Domain": "protransport1.com",
+      "Identifiers": [
+        {
+          "Type": "google-analytics",
+          "Value": "99835184",
+          "First": 1496530800000,
+          "Last": 1507244400000,
+          "Matches": [
+            {
+              "Domain": "ambulance-abbaye.com",
+              "First": 1496530800000,
+              "Last": 1555438863586,
+              "Overlap": true
+            },
+            {
+              "Domain": "adsexcavation.com",
+              "First": 1496530800000,
+              "Last": 1496530800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "ashwoodblinds.com.au",
+              "First": 1496530800000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "beaute2000.fr",
+              "First": 1496530800000,
+              "Last": 1631751237350,
+              "Overlap": true
+            },
+            {
+              "Domain": "makeoverbypooja.com.au",
+              "First": 1496530800000,
+              "Last": 1571613703879,
+              "Overlap": true
+            },
+            {
+              "Domain": "a2tppaysage.fr",
+              "First": 1496530800000,
+              "Last": 1580020637514,
+              "Overlap": true
+            },
+            {
+              "Domain": "bambooblinds1.com",
+              "First": 1496530800000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "plandetravailguadeloupe.fr",
+              "First": 1496530800000,
+              "Last": 1633358657240,
+              "Overlap": true
+            },
+            {
+              "Domain": "ablepergolas.com.au",
+              "First": 1496530800000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "entreprise-pires.fr",
+              "First": 1496530800000,
+              "Last": 1630544420352,
+              "Overlap": true
+            },
+            {
+              "Domain": "fissures-quebec.ca",
+              "First": 1496530800000,
+              "Last": 1630813241582,
+              "Overlap": true
+            },
+            {
+              "Domain": "fourrures-grama-bordeaux.com",
+              "First": 1496530800000,
+              "Last": 1549444257172,
+              "Overlap": true
+            },
+            {
+              "Domain": "fondatech-paca.fr",
+              "First": 1496530800000,
+              "Last": 1632884026107,
+              "Overlap": true
+            },
+            {
+              "Domain": "puisatierscaron.com",
+              "First": 1496530800000,
+              "Last": 1572414479695,
+              "Overlap": true
+            },
+            {
+              "Domain": "garage-carrosserie-saint-florent.fr",
+              "First": 1496530800000,
+              "Last": 1624927807133,
+              "Overlap": true
+            },
+            {
+              "Domain": "institutmatiscarolemarcotte.com",
+              "First": 1496530800000,
+              "Last": 1505084400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "malouinierevillegilles.fr",
+              "First": 1496530800000,
+              "Last": 1496530800000,
+              "Overlap": true
+            },
+            {
+              "Domain": "luckycurtains.com.au",
+              "First": 1496530800000,
+              "Last": 1632522462942,
+              "Overlap": true
+            },
+            {
+              "Domain": "martinescargot.fr",
+              "First": 1496530800000,
+              "Last": 1632753308083,
+              "Overlap": true
+            },
+            {
+              "Domain": "plomberie-martin-benouville.com",
+              "First": 1496530800000,
+              "Last": 1633364473443,
+              "Overlap": true
+            },
+            {
+              "Domain": "maconnerie-couverture-gros-oeuvre24.fr",
+              "First": 1496530800000,
+              "Last": 1542518127892,
+              "Overlap": true
+            },
+            {
+              "Domain": "sarl-rappasse.com",
+              "First": 1496530800000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "saintgregoire-menuiserie.fr",
+              "First": 1496530800000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "sip-depannage-la-rochelle.com",
+              "First": 1496530800000,
+              "Last": 1634024098839,
+              "Overlap": true
+            },
+            {
+              "Domain": "tardivon-andase.com",
+              "First": 1496530800000,
+              "Last": 1578801125139,
+              "Overlap": true
+            },
+            {
+              "Domain": "tech-chape.com",
+              "First": 1496530800000,
+              "Last": 1554004085921,
+              "Overlap": true
+            },
+            {
+              "Domain": "susantremblaynotaire.ca",
+              "First": 1496530800000,
+              "Last": 1544475042430,
+              "Overlap": true
+            },
+            {
+              "Domain": "renaux-freres-terrassement.fr",
+              "First": 1498503234510,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "adsexcavation.qc.ca",
+              "First": 1499301061522,
+              "Last": 1628476110661,
+              "Overlap": true
+            },
+            {
+              "Domain": "assainissementmeaux.com",
+              "First": 1499301061522,
+              "Last": 1574660677982,
+              "Overlap": true
+            },
+            {
+              "Domain": "brindherbe.com",
+              "First": 1502242713564,
+              "Last": 1629119388214,
+              "Overlap": true
+            },
+            {
+              "Domain": "toujoursouvert.ca",
+              "First": 1502233200000,
+              "Last": 1507244400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "wholesaleskitchencabinet.com",
+              "First": 1502233200000,
+              "Last": 1524468233477,
+              "Overlap": true
+            },
+            {
+              "Domain": "se7en-traiteur.fr",
+              "First": 1505084400000,
+              "Last": 1505084400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "lapassiondecreer.fr",
+              "First": 1505084400000,
+              "Last": 1632285913393,
+              "Overlap": true
+            },
+            {
+              "Domain": "tcl-loc.com",
+              "First": 1505084400000,
+              "Last": 1505084400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "johannramonageweiss.fr",
+              "First": 1505084400000,
+              "Last": 1576683761694,
+              "Overlap": true
+            },
+            {
+              "Domain": "queenshousesalon.ae",
+              "First": 1505084400000,
+              "Last": 1505084400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "breathbetter.ca",
+              "First": 1505084400000,
+              "Last": 1505084400000,
+              "Overlap": true
+            },
+            {
+              "Domain": "bowling93.fr",
+              "First": 1505084400000,
+              "Last": 1574943093820,
+              "Overlap": true
+            },
+            {
+              "Domain": "mosaic-scenic.fr",
+              "First": 1505084400000,
+              "Last": 1632945179374,
+              "Overlap": true
+            },
+            {
+              "Domain": "zte-aluminium.fr",
+              "First": 1505084400000,
+              "Last": 1635091264112,
+              "Overlap": true
+            },
+            {
+              "Domain": "espwindowsinc.com",
+              "First": 1505084400000,
+              "Last": 1549126006283,
+              "Overlap": true
+            },
+            {
+              "Domain": "vjycuisine.fr",
+              "First": 1505084400000,
+              "Last": 1634886591864,
+              "Overlap": true
+            },
+            {
+              "Domain": "larche-paris.fr",
+              "First": 1505084400000,
+              "Last": 1566065734502,
+              "Overlap": true
+            },
+            {
+              "Domain": "bambooblinds.com.au",
+              "First": 1528468722921,
+              "Last": 1547204164833,
+              "Overlap": false
+            },
+            {
+              "Domain": "tcl-loc.fr",
+              "First": 1544614174402,
+              "Last": 1558930154779,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "45.116.166.207",
+          "First": 1607577010856,
+          "Last": 1611918232679,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "103.113.11.195",
+          "First": 1616821738043,
+          "Last": 1616821738043,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "119.160.233.139",
+          "First": 1622416842277,
+          "Last": 1622416842277,
+          "Matches": [
+            {
+              "Domain": "megafancon.com",
+              "First": 1621879536529,
+              "Last": 1621879536529,
+              "Overlap": false
+            },
+            {
+              "Domain": "megaboxdownloads.com",
+              "First": 1621879723104,
+              "Last": 1621879748130,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww12.megaboxdownloads.com",
+              "First": 1621879723104,
+              "Last": 1621879748130,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww7.megaboxdownloads.com",
+              "First": 1621879723104,
+              "Last": 1621879748130,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww11.megaboxdownloads.com",
+              "First": 1621879723104,
+              "Last": 1621879748130,
+              "Overlap": false
+            },
+            {
+              "Domain": "meihansenpaku.com",
+              "First": 1621880939786,
+              "Last": 1621880939786,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww25.memberamoorea.com",
+              "First": 1621884141331,
+              "Last": 1621885818740,
+              "Overlap": false
+            },
+            {
+              "Domain": "memberamoorea.com",
+              "First": 1621884141331,
+              "Last": 1621885818740,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww17.memberamoorea.com",
+              "First": 1621884141331,
+              "Last": 1621885818740,
+              "Overlap": false
+            },
+            {
+              "Domain": "ww11.memberamoorea.com",
+              "First": 1621884141331,
+              "Last": 1621885818740,
+              "Overlap": false
+            },
+            {
+              "Domain": "melontaste.com",
+              "First": 1621884421045,
+              "Last": 1621884421045,
+              "Overlap": false
+            },
+            {
+              "Domain": "mersinlifenerbahceliler.com",
+              "First": 1621889014568,
+              "Last": 1621889014568,
+              "Overlap": false
+            },
+            {
+              "Domain": "metropolitancorporatecounsel.com",
+              "First": 1621892975568,
+              "Last": 1621892975568,
+              "Overlap": false
+            },
+            {
+              "Domain": "metalturkiye.com",
+              "First": 1621894918926,
+              "Last": 1621894918926,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "103.113.11.193",
+          "First": 1626267033429,
+          "Last": 1626267033429,
+          "Matches": [
+            {
+              "Domain": "doufanghua.com",
+              "First": 1624555841992,
+              "Last": 1624556199941,
+              "Overlap": false
+            },
+            {
+              "Domain": "downtownhills.com",
+              "First": 1624557108273,
+              "Last": 1624557108273,
+              "Overlap": false
+            },
+            {
+              "Domain": "downtownfrontroyal.com",
+              "First": 1624557802442,
+              "Last": 1630351626494,
+              "Overlap": true
+            },
+            {
+              "Domain": "doyoulovedogs.com",
+              "First": 1624557858182,
+              "Last": 1630356080499,
+              "Overlap": true
+            },
+            {
+              "Domain": "dragonslayerstudio.com",
+              "First": 1624563086933,
+              "Last": 1624563086933,
+              "Overlap": false
+            },
+            {
+              "Domain": "dreamsconsultancies.com",
+              "First": 1624563345370,
+              "Last": 1624563345370,
+              "Overlap": false
+            },
+            {
+              "Domain": "dream-paint.com",
+              "First": 1624564406673,
+              "Last": 1624564406673,
+              "Overlap": false
+            },
+            {
+              "Domain": "dress-bags.com",
+              "First": 1624565434686,
+              "Last": 1630378954183,
+              "Overlap": true
+            },
+            {
+              "Domain": "dreamlogicgames.com",
+              "First": 1624565876745,
+              "Last": 1624565876745,
+              "Overlap": false
+            },
+            {
+              "Domain": "dreamshakevideo.com",
+              "First": 1624566880950,
+              "Last": 1630380862457,
+              "Overlap": true
+            },
+            {
+              "Domain": "dripdrhealth.com",
+              "First": 1624568183803,
+              "Last": 1630388462491,
+              "Overlap": true
+            },
+            {
+              "Domain": "droughtoftheheart.com",
+              "First": 1624569850213,
+              "Last": 1630390434659,
+              "Overlap": true
+            },
+            {
+              "Domain": "drmalboubi.com",
+              "First": 1624569952569,
+              "Last": 1624569952569,
+              "Overlap": false
+            },
+            {
+              "Domain": "droidsgame.com",
+              "First": 1624570076390,
+              "Last": 1624570076390,
+              "Overlap": false
+            },
+            {
+              "Domain": "droidsland.com",
+              "First": 1624570103026,
+              "Last": 1630390507661,
+              "Overlap": true
+            },
+            {
+              "Domain": "dropoff-bali.com",
+              "First": 1624571022996,
+              "Last": 1624571022996,
+              "Overlap": false
+            },
+            {
+              "Domain": "drsabritabriz.com",
+              "First": 1624571997253,
+              "Last": 1630391958424,
+              "Overlap": true
+            },
+            {
+              "Domain": "dscraniosacral.com",
+              "First": 1624574079306,
+              "Last": 1630399194913,
+              "Overlap": true
+            },
+            {
+              "Domain": "dubrmx.com",
+              "First": 1624576746047,
+              "Last": 1624576746047,
+              "Overlap": false
+            },
+            {
+              "Domain": "dualittoaster.com",
+              "First": 1624577046023,
+              "Last": 1630404613599,
+              "Overlap": true
+            },
+            {
+              "Domain": "ducatitaiwan.com",
+              "First": 1624577162798,
+              "Last": 1624577162798,
+              "Overlap": false
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "142.4.109.161",
+          "First": 1633449009835,
+          "Last": 1633449009835,
+          "Matches": [
+            {
+              "Domain": "riversiderestaurantatbrownwood.com",
+              "First": 1633721000088,
+              "Last": 1633721000088,
+              "Overlap": false
+            },
+            {
+              "Domain": "riverfallswigraphicwebdesign.com",
+              "First": 1633721336823,
+              "Last": 1633721529975,
+              "Overlap": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

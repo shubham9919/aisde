@@ -1,0 +1,30 @@
+{
+  "Identifers": [
+    {
+      "Value": "IP-23.9.107.209",
+      "Matches": [
+        {
+          "Domain": "rbcinsightbeta.rbc.com",
+          "First": 1628082667088,
+          "Last": 1628082667088
+        },
+        {
+          "Domain": "i1.rbcinsightbeta.rbc.com",
+          "First": 1628083635315,
+          "Last": 1628083635315
+        },
+        {
+          "Domain": "i2.rbcinsightbeta.rbc.com",
+          "First": 1628083635315,
+          "Last": 1628083635315
+        },
+        {
+          "Domain": "cpa.rbc.com",
+          "First": 1628083635315,
+          "Last": 1628083635315
+        }
+      ]
+    }
+  ],
+  "Errors": null
+}

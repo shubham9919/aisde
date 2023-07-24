@@ -1,0 +1,1342 @@
+{
+  "Results": [
+    {
+      "Result": {
+        "IsDB": "True",
+        "Spend": 21124,
+        "Paths": [
+          {
+            "Technologies": [
+              {
+                "IsPremium": "no",
+                "Name": "1and1 DNS",
+                "Description": "DNS services provided by 1&1.",
+                "Link": "http://1and1.com",
+                "Tag": "ns",
+                "FirstDetected": 1359673200000,
+                "LastDetected": 1512342000000
+              },
+              {
+                "Categories": [
+                  "UK hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "1and1",
+                "Description": "1&1 internet packaged hosting, mail and eCommerce solutions owned by United Internet and incorporating Schlund and Partners.",
+                "Link": "http://1and1.com",
+                "Tag": "hosting",
+                "FirstDetected": 1359032400000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Apache",
+                "Description": "Apache has been the most popular web server on the Internet since April 1996.",
+                "Link": "http://httpd.apache.org/",
+                "Tag": "Web Server",
+                "FirstDetected": 1301839200000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "Categories": [
+                  "Web Hosting Provider Email"
+                ],
+                "IsPremium": "no",
+                "Name": "1and1 Email Solutions",
+                "Description": "Professional email hosting solutions for individuals and businesses from 1&1.",
+                "Link": "http://order.1and1.com/xml/order/Mail",
+                "Tag": "mx",
+                "FirstDetected": 1323608400000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery",
+                "Description": "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.",
+                "Link": "http://jquery.com",
+                "Tag": "javascript",
+                "FirstDetected": 1435622400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET",
+                "Description": "ASP.NET is a web application framework marketed by Microsoft that programmers can use to build dynamic web sites, web applications and XML web services. It is part of Microsoft's .NET platform and is the successor to Microsoft's Active Server Pages (ASP) technology.",
+                "Link": "http://www.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Content Delivery Network",
+                "Description": "This page contains links that give the impression that some of the site contents are stored on a content delivery network.",
+                "Link": "http://en.wikipedia.org/wiki/Content_Delivery_Network",
+                "Tag": "CDN",
+                "FirstDetected": 1435622400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft DNS",
+                "Description": "DNS services provided by Microsoft.",
+                "Link": "http://microsoft.com",
+                "Tag": "ns",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1470870000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "ASP.NET Ajax",
+                "Description": "ASP.NET AJAX is a free framework for quickly creating a new generation of more efficient, more interactive and highly-personalized Web experiences that work across all the most popular browsers.",
+                "Link": "http://ajax.asp.net",
+                "Tag": "framework",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Parent": "ASP.NET",
+                "IsPremium": "no",
+                "Name": "ASP.NET 4.0",
+                "Description": "ASP.NET version 4.0.*",
+                "Link": "http://www.microsoft.com/net",
+                "Tag": "framework",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SPF",
+                "Description": "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.",
+                "Link": "http://www.openspf.org/",
+                "Tag": "mx",
+                "FirstDetected": 1435622400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "maybe",
+                "Name": "Microsoft Office SharePoint",
+                "Description": "Microsoft's Portal/Collaboration/Intranetworking solution.",
+                "Link": "http://www.microsoft.com/sharepoint/default.mspx",
+                "Tag": "framework",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1472425200000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 8",
+                "Description": "Internet-based services for servers using Microsoft Windows.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1472425200000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft Exchange Online",
+                "Description": "A rich hosted Exchange environment for every user without having to manage a server.",
+                "Link": "http://www.microsoft.com/exchange/en-us/exchange-online-hosted-email.aspx",
+                "Tag": "mx",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft SharePoint Server 2013",
+                "Description": "Microsoft SharePoint Server 2013 is a business collaboration platform for the Enterprise and the Web.",
+                "Link": "http://sharepoint.microsoft.com",
+                "Tag": "cms",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1472425200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IIS",
+                "Description": "This website is running on a Microsoft IIS Server solution.",
+                "Link": "http://www.microsoft.com/servers/home.mspx",
+                "Tag": "Web Server",
+                "FirstDetected": 1434927600000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "eCommerce Enabled"
+                ],
+                "IsPremium": "yes",
+                "Name": "iAPPS",
+                "Description": "Integrated CMS, Analytics and eCommerce solution.",
+                "Link": "http://iapps.com",
+                "Tag": "cms",
+                "FirstDetected": 1436918400000,
+                "LastDetected": 1437436800000
+              },
+              {
+                "Categories": [
+                  "Business Email Hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Office 365 Mail",
+                "Description": "Email sent from this domain has records showing Office 365 usage.",
+                "Link": "https://products.office.com/en-us/business/office",
+                "Tag": "mx",
+                "FirstDetected": 1442188800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft",
+                "Description": "This site is hosted on Microsoft infrastructure",
+                "Link": "http://www.microsoft.com",
+                "Tag": "hosting",
+                "FirstDetected": 1467241200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "RequireJS",
+                "Description": "RequireJS is a JavaScript file and module loader.",
+                "Link": "http://requirejs.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1468450800000,
+                "LastDetected": 1470870000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPv6",
+                "Description": "The website has an IPv6 record.",
+                "Link": "http://en.wikipedia.org/wiki/IPv6",
+                "Tag": "Server",
+                "FirstDetected": 1473721200000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SSL by Default",
+                "Description": "The website redirects traffic to an HTTPS/SSL version by default.",
+                "Link": "http://trends.builtwith.com/ssl",
+                "Tag": "ssl",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Parent": "jQuery",
+                "IsPremium": "no",
+                "Name": "jQuery 3.1.1",
+                "Description": "jQuery version 3.1.1",
+                "Link": "https://blog.jquery.com/2016/09/22/jquery-3-1-1-released/",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "Modernizr",
+                "Description": "Modernizr allows you to target specific browser functionality in your stylesheet.",
+                "Link": "http://www.modernizr.com",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "AJAX Libraries API",
+                "Description": "The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries.",
+                "Link": "http://code.google.com/apis/ajaxlibs/documentation/",
+                "Tag": "cdn",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1611043200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "COVID-19",
+                "Description": "This website mentions COVID-19 / Novel Coronavirus.",
+                "Link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "Tag": "widgets",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Fonts"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Font API",
+                "Description": "The Google Font API helps you add web fonts to any web page.",
+                "Link": "https://fonts.google.com",
+                "Tag": "widgets",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Hosted Libraries",
+                "Description": "Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1611043200000
+              },
+              {
+                "Parent": "Google Hosted Libraries",
+                "IsPremium": "no",
+                "Name": "Google Hosted jQuery",
+                "Description": "jQuery hoted at Google.",
+                "Link": "https://developers.google.com/speed/libraries/",
+                "Tag": "javascript",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1611043200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Viewport Meta",
+                "Description": "This page uses the viewport meta tag which means the content may be optimized for mobile content.",
+                "Link": "https://developers.google.com/speed/docs/insights/ConfigureViewport",
+                "Tag": "mobile",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "IPhone / Mobile Compatible",
+                "Description": "The website contains code that allows the page to support IPhone / Mobile Content.",
+                "Link": "http://apple.com",
+                "Tag": "mobile",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Parent": "IIS",
+                "IsPremium": "no",
+                "Name": "IIS 10",
+                "Description": "Internet-based services for servers using Microsoft Windows v10.",
+                "Link": "http://www.iis.net",
+                "Tag": "Web Server",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "DigiCert SSL",
+                "Description": "Certificate provided by DigiCert.",
+                "Link": "http://www.digicert.com/",
+                "Tag": "ssl",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1611043200000
+              },
+              {
+                "Categories": [
+                  "Cloud Hosting",
+                  "Cloud PaaS"
+                ],
+                "IsPremium": "no",
+                "Name": "Microsoft Azure",
+                "Description": "Hosted on Microsoft Azure.",
+                "Link": "http://azure.microsoft.com",
+                "Tag": "hosting",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Microsoft Azure",
+                "IsPremium": "no",
+                "Name": "Microsoft Azure US West Region",
+                "Description": "Microsoft Azure US West Region Hosted Instances",
+                "Link": "http://azure.microsoft.com",
+                "Tag": "hosting",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Parent": "Microsoft Azure",
+                "IsPremium": "no",
+                "Name": "Microsoft Azure US West Central Region",
+                "Description": "Microsoft Azure hosted US West Central Region.",
+                "Link": "https://azure.microsoft.com",
+                "Tag": "hosting",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Azure DNS",
+                "Description": "This domain is verified with Microsoft Azure.",
+                "Link": "http://windowsazure.com",
+                "Tag": "mx",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Network Solutions DNS",
+                "Description": "DNS services provided by Network Solutions.",
+                "Link": "http://networksolutions.com",
+                "Tag": "ns",
+                "FirstDetected": 1610751600000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Domain Verification",
+                "Description": "Domain Verification provides a way for you to claim ownership of your domain in Facebook Business Manager.",
+                "Link": "https://developers.facebook.com/docs/sharing/domain-verification/",
+                "Tag": "framework",
+                "FirstDetected": 1613430000000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Ad Network",
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "AdRoll",
+                "Description": "AdRoll is a retargeting platform with a mission to make display advertising simple for business of all sizes.",
+                "Link": "http://adroll.com",
+                "Tag": "ads",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Application Performance",
+                  "Audience Measurement",
+                  "Visitor Count Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Analytics",
+                "Description": "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.",
+                "Link": "http://google.com/analytics",
+                "Tag": "analytics",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Conversion Optimization",
+                  "Feedback Forms and Surveys"
+                ],
+                "IsPremium": "yes",
+                "Name": "Hotjar",
+                "Description": "A heatmap, survey, feedback and funnel application.",
+                "Link": "http://hotjar.com",
+                "Tag": "analytics",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Enterprise"
+                ],
+                "IsPremium": "yes",
+                "Name": "Kentico Xperience",
+                "Description": "Kentico CMS for ASP.NET gives marketers and developers the ability to create websites. A solution for website, store, community and on-line marketing initiatives.",
+                "Link": "https://xperience.io",
+                "Tag": "cms",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "no",
+                "Name": "Google Tag Manager",
+                "Description": "Tag management that lets you add and update website tags without changes to underlying website code.",
+                "Link": "http://google.com/tagmanager",
+                "Tag": "widgets",
+                "FirstDetected": 1614672000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Categories": [
+                  "Call Tracking"
+                ],
+                "IsPremium": "maybe",
+                "Name": "CallRail",
+                "Description": "Phone call tracking, recording and analytics.",
+                "Link": "http://www.callrail.com/",
+                "Tag": "widgets",
+                "FirstDetected": 1614931200000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Microsoft Application Insights",
+                "Description": "Gain insights through application performance management and instant analytics.",
+                "Link": "https://azure.microsoft.com/en-us/services/application-insights/",
+                "Tag": "analytics",
+                "FirstDetected": 1614931200000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Webmaster",
+                "Description": "Webmaster tools provide you with a free and easy way to make your site more Google-friendly.",
+                "Link": "http://www.google.com/webmasters/",
+                "Tag": "Web Master",
+                "FirstDetected": 1614931200000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Microsoft Azure CDN",
+                "Description": "Content delivery network services from Microsoft Azure.",
+                "Link": "http://www.windowsazure.com/en-us/develop/net/data/",
+                "Tag": "cdn",
+                "FirstDetected": 1614931200000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Secure Email"
+                ],
+                "IsPremium": "yes",
+                "Name": "Cisco Ironport Cloud",
+                "Description": "Email security system from Cisco.",
+                "Link": "https://www.cisco.com/",
+                "Tag": "mx",
+                "FirstDetected": 1619218800000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Floodlight Counter",
+                "Description": "The Floodlight Counter tag allows you to count the number of times someone visits your site after clicking on an advertisement for it.",
+                "Link": "https://support.google.com/tagmanager/answer/6107168?hl=en",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "A/B Testing",
+                  "Personalization"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Google Optimize 360",
+                "Description": "Test different variations of a website and then tailor it to deliver a personalized experience that works best for each customer and for your business.",
+                "Link": "https://www.google.com/analytics/optimize/",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick.Net",
+                "Description": "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments.",
+                "Link": "http://www.doubleclick.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "Google Conversion Tracking",
+                "Categories": [
+                  "Advertiser Tracking",
+                  "Conversion Tracking"
+                ],
+                "IsPremium": "no",
+                "Name": "Google AdWords Conversion",
+                "Description": "Adwords conversion tracking code.",
+                "Link": "https://support.google.com/adwords/answer/6095821#get_tag",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Fancybox",
+                "Description": "FancyBox is a tool for displaying images, html content and multi-media in a Mac-style \"lightbox\" that floats overtop of web page. ",
+                "Link": "http://fancybox.net/",
+                "Tag": "javascript",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "Parent": "GDPR Consent Management Platform",
+                "Categories": [
+                  "Privacy Compliance"
+                ],
+                "IsPremium": "no",
+                "Name": "AdRoll CMP System",
+                "Description": "IAB digital advertising consent integration by AdRoll CMP System.",
+                "Link": "http://adroll.com",
+                "Tag": "widgets",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "DoubleClick Floodlight",
+                "Description": "Floodlight is feature of DoubleClick ads that allows advertisers to capture and report on the actions of users who visit their website after viewing or clicking on one of the advertiser's ads.",
+                "Link": "http://www.google.com/support/dfa/partner/bin/static.py?page=guide.cs&guide=28818",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Privacy Compliance"
+                ],
+                "IsPremium": "no",
+                "Name": "GDPR Consent Management Platform",
+                "Description": "Consumer-facing consent management solution for GDPR compliance based on the IAB Europe's Transparency & Consent framework.",
+                "Link": "https://iabeurope.eu/tcf-for-cmps/",
+                "Tag": "widgets",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Parent": "Google Analytics",
+                "IsPremium": "no",
+                "Name": "Google Universal Analytics",
+                "Description": "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations.",
+                "Link": "https://developers.google.com/analytics/devguides/collection/analyticsjs/",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Storygize",
+                "Description": "Native ads platform.",
+                "Link": "https://storygize.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Ad Exchange",
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "AppNexus",
+                "Description": "Provides access to the major exchanges and aggregators, as well as cloud infrastructure scalable to billions of ad impressions a day with a layer of real-time decisioning on top.",
+                "Link": "http://www.appnexus.com/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Index Exchange",
+                "Description": "Index Exchange is the world's fastest growing provider of online media solutions. With a network reach of over half the US digital audience. Previously known as Casale Media.",
+                "Link": "http://casalemedia.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Signal",
+                "Description": "Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting.",
+                "Link": "https://www.facebook.com/facebookmedia/get-started/signal",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Rapleaf",
+                "Description": "Marketing automation tools with the necessary data to help brands keep their customers engaged. Now TowerData.",
+                "Link": "http://www.rapleaf.com",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Teads",
+                "Description": "Video advertising serving technology.",
+                "Link": "http://teads.tv/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook SDK",
+                "Description": " JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect.",
+                "Link": "http://developers.facebook.com/docs/reference/javascript/",
+                "Tag": "javascript",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Neustar AdAdvisor",
+                "Description": "Neustar AdAdvisor provides data to online marketers and websites to help them improve their ability to deliver content and advertising to consumers.",
+                "Link": "http://www.adadvisor.net/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Nativo",
+                "Description": "PostRelease is a new way to advertise in online forums and influence word-of-mouth.",
+                "Link": "http://postrelease.com/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Visual Studio Tracking",
+                "Description": "Microsoft Visual Studio based tracking services.",
+                "Link": "http://visualstudio.com",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook for Websites",
+                "Description": "Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.",
+                "Link": "http://developers.facebook.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "no",
+                "Name": "Azure Monitor",
+                "Description": "Azure Monitor helps you maximize the availability and performance of your applications and services.",
+                "Link": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Audience Targeting",
+                  "Multi-Channel"
+                ],
+                "IsPremium": "no",
+                "Name": "DemDex",
+                "Description": "Demdex's turn-key audience management solutions make implementing a dynamic, multi-channel data strategy cost-effective and easy. Now known as Adobe Audience Manager.",
+                "Link": "http://www.demdex.com/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Adobe Audience Manager Sync",
+                "Description": "DMP Platform from Adobe Cookie Sync.",
+                "Link": "http://www.adobe.com/au/marketing-cloud/data-management-platform.html",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "TripleLift",
+                "Description": "Native advertising system for the visual web.",
+                "Link": "http://triplelift.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Rubicon Project",
+                "Description": "Advertising optimization service.",
+                "Link": "http://rubiconproject.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1619420400000
+              },
+              {
+                "Categories": [
+                  "Demand-side Platform"
+                ],
+                "IsPremium": "no",
+                "Name": "The Trade Desk",
+                "Description": "Data-driven marketing suite that offers marketers a single place to buy all forms of online media.",
+                "Link": "http://www.thetradedesk.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Sharethrough",
+                "Description": "Native video advertising platform.",
+                "Link": "http://www.sharethrough.com/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "OwnerIQ",
+                "Description": "Enables advertisers, manufacturers and retailers to more precisely target their online message based on what consumers own.",
+                "Link": "http://www.owneriq.com",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Ad Analytics",
+                  "Audience Targeting",
+                  "Data Management Platform",
+                  "Demand-side Platform",
+                  "Multi-Channel",
+                  "Ad Network",
+                  "Digital Video Ads"
+                ],
+                "IsPremium": "no",
+                "Name": "Turn",
+                "Description": "Provides performance-based CPA, CPC, and CPM pricing, automatic and blended targeting, plus market quality control through Smart Marketing technology. Now known as Amobee.",
+                "Link": "http://turn.com",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Lead Generation",
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "LiveRamp",
+                "Description": "CRM Retargeting & Data Onboarding app.",
+                "Link": "http://liveramp.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Tapad",
+                "Description": "Allows advertisers to engage the same consumer with consistent ads across multiple platforms.",
+                "Link": "http://www.tapad.com/",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Ad Server"
+                ],
+                "IsPremium": "no",
+                "Name": "Openads/OpenX",
+                "Description": "Openads offer ad serving software that is simple, reliable and totally independent. Best of all, it's free!",
+                "Link": "http://openads.org",
+                "Tag": "ads",
+                "FirstDetected": 1619420400000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Hammer JS",
+                "Description": "A javascript library for multi-touch gestures from mobile devices.",
+                "Link": "http://eightmedia.github.com/hammer.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1622617200000,
+                "LastDetected": 1630566000000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "HubSpot Tether",
+                "Description": "A client-side library to make absolutely positioned elements attach to elements in the page efficiently.",
+                "Link": "http://tether.io/",
+                "Tag": "javascript",
+                "FirstDetected": 1627455600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Dynamic Creative Optimization"
+                ],
+                "IsPremium": "no",
+                "Name": "Pubmatic",
+                "Description": "PubMatic Enables Ad Optimization Across Every Ad Network",
+                "Link": "http://pubmatic.com",
+                "Tag": "ads",
+                "FirstDetected": 1627455600000,
+                "LastDetected": 1627455600000
+              },
+              {
+                "Categories": [
+                  "Login"
+                ],
+                "IsPremium": "maybe",
+                "Name": "Okta",
+                "Description": "Identity management system.",
+                "Link": "https://okta.com",
+                "Tag": "widgets",
+                "FirstDetected": 1631257200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "yes",
+                "Name": "My Salesforce",
+                "Description": "This business has a Salesforce login page.",
+                "Link": "https://salesforce.com",
+                "Tag": "cms",
+                "FirstDetected": 1631257200000,
+                "LastDetected": 1631689200000
+              }
+            ],
+            "FirstIndexed": 1301839200000,
+            "LastIndexed": 1635058800000,
+            "Domain": "innovage.com",
+            "Url": "",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "Animation",
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery Easing",
+                "Description": "A jQuery extension that provides functionality to \"ease\" things onto or off of the screen.",
+                "Link": "http://gsgd.co.uk/sandbox/jquery/easing/",
+                "Tag": "javascript",
+                "FirstDetected": 1435622400000,
+                "LastDetected": 1453852800000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Non Scaleable Content",
+                "Description": "This content is formatted for mobile devices, it does not allow the content to be scaled.",
+                "Link": "http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html",
+                "Tag": "mobile",
+                "FirstDetected": 1597647600000,
+                "LastDetected": 1606809600000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "SEDO Parking",
+                "Description": "Advertisements from SEDO parking, typically found on a parked domain.",
+                "Link": "http://sedoparking.com",
+                "Tag": "parked",
+                "FirstDetected": 1597647600000,
+                "LastDetected": 1606809600000
+              }
+            ],
+            "FirstIndexed": 1435622400000,
+            "LastIndexed": 1606809600000,
+            "Domain": "innovage.com",
+            "Url": "dd",
+            "SubDomain": ""
+          },
+          {
+            "Technologies": [
+              {
+                "Categories": [
+                  "US hosting"
+                ],
+                "IsPremium": "no",
+                "Name": "Akamai Hosted",
+                "Description": "Data network CDN provider.",
+                "Link": "http://akamai.com",
+                "Tag": "hosting",
+                "FirstDetected": 1613462400000,
+                "LastDetected": 1635058800000
+              },
+              {
+                "Categories": [
+                  "Financial"
+                ],
+                "IsPremium": "maybe",
+                "Name": "IHS Markit",
+                "Description": "Delivery and presentation of financial data.",
+                "Link": "https://ihsmarkit.com/products/digital.html",
+                "Tag": "widgets",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Categories": [
+                  "Application Performance"
+                ],
+                "IsPremium": "no",
+                "Name": "New Relic",
+                "Description": "New Relic is a dashboard used to keep an eye on application health and availability while monitoring real user experience.",
+                "Link": "http://newrelic.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Dynamic Tag Management",
+                "Description": "Satellite puts an end to tag and technology management, letting marketers and analysts manage their tools. Previously known as Search Discovery Satellite now Adobe DTM.",
+                "Link": "http://www.searchdiscovery.com/satellite/",
+                "Tag": "analytics",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Categories": [
+                  "Open Source"
+                ],
+                "IsPremium": "no",
+                "Name": "Drupal",
+                "Description": "An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.",
+                "Link": "http://www.drupal.org",
+                "Tag": "cms",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "English HREF LANG",
+                "Description": "This webpage has alternate versions available in English via the use of the hreflang tag.",
+                "Link": "https://support.google.com/webmasters/answer/189077?hl=en",
+                "Tag": "language",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Mobile Optimized",
+                "Description": "Microsoft invented the MobileOptimized META tag to control the layout width for mobile markup rendered in Internet Explorer Mobile.",
+                "Link": "http://msdn.microsoft.com/en-us/library/bb159711.aspx",
+                "Tag": "mobile",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Google Conversion Linker",
+                "Description": "Detects the ad click information in your conversion page URLs and stores this information to associate an ad click with a conversion.",
+                "Link": "https://support.google.com/tagmanager/answer/7549390?hl=en",
+                "Tag": "analytics",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Akamai EdgeConnect",
+                "Description": "Akamai EdgeConnect service enhances the system's visibility into the performance of accelerated content.",
+                "Link": "https://akamai.com",
+                "Tag": "cdns",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "Categories": [
+                  "Root Authority"
+                ],
+                "IsPremium": "no",
+                "Name": "LetsEncrypt",
+                "Description": "Let\u2019s Encrypt is a free open Certificate Authority.",
+                "Link": "https://letsencrypt.org",
+                "Tag": "ssl",
+                "FirstDetected": 1618902000000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Chosen",
+                "Description": "A library for making long, unwieldy select boxes more friendly.",
+                "Link": "https://github.com/harvesthq/chosen",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin",
+                  "UI"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI",
+                "Description": "jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications.",
+                "Link": "http://jqueryui.com/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "jQuery",
+                "Categories": [
+                  "jQuery Plugin"
+                ],
+                "IsPremium": "no",
+                "Name": "jQuery UI Mouse",
+                "Description": "jQuery mouse interaction library.",
+                "Link": "http://api.jqueryui.com/mouse/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "sidr",
+                "Description": "Sidr is a jQuery plugin for creating side menus.",
+                "Link": "https://github.com/artberri/sidr",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Underscore.js",
+                "Description": "Underscore is a utility-belt library for JavaScript that provides functional programming support.",
+                "Link": "http://documentcloud.github.com/underscore/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Slider"
+                ],
+                "IsPremium": "no",
+                "Name": "OWL Carousel",
+                "Description": "Touch enabled jQuery plugin that lets you create a carousel slider.",
+                "Link": "http://owlgraphic.com/owlcarousel/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Omniture SiteCatalyst",
+                "Description": "Omniture SiteCatalyst provides your website with actionable, real-time intelligence regarding online strategies and marketing initiatives.",
+                "Link": "http://www.omniture.com/",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Data Management Platform"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Audience Manager",
+                "Description": "Data management platform for ads from Adobe.",
+                "Link": "https://www.adobe.com/au/analytics/audience-manager.html",
+                "Tag": "ads",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Intersection Observer",
+                "Description": "API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport.",
+                "Link": "https://www.w3.org/TR/intersection-observer/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Experience Platform Identity Service",
+                "Description": "Connects devices to people.",
+                "Link": "https://www.adobe.com/au/experience-platform/identity-service.html",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Analytics",
+                "Description": "Marketing analytics platform from Adobe.",
+                "Link": "https://www.adobe.com/analytics/adobe-analytics.html",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Facebook Pixel",
+                "Description": "Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.",
+                "Link": "https://www.facebook.com/business/help/952192354843755",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Retargeting / Remarketing"
+                ],
+                "IsPremium": "no",
+                "Name": "Facebook Custom Audiences",
+                "Description": "Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.",
+                "Link": "https://developers.facebook.com/docs/reference/ads-api/custom-audience-website",
+                "Tag": "ads",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "JavaScript Library"
+                ],
+                "IsPremium": "no",
+                "Name": "Backbone.js",
+                "Description": "Backbone supplies structure to JavaScript-heavy applications.",
+                "Link": "http://backbonejs.org/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Tag Management"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Launch",
+                "Description": "Adobe Experience platform tag management system.",
+                "Link": "https://www.adobe.com/experience-platform/launch.html",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "Foundation",
+                "Description": "A responsive front-end framework.",
+                "Link": "http://foundation.zurb.com/",
+                "Tag": "framework",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Compatibility"
+                ],
+                "IsPremium": "no",
+                "Name": "matchMedia",
+                "Description": "matchMedia polyfill for testing media queries in JS.",
+                "Link": "http://github.com/paulirish/matchMedia.js/",
+                "Tag": "javascript",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Categories": [
+                  "Audience Measurement",
+                  "Marketing Automation"
+                ],
+                "IsPremium": "yes",
+                "Name": "Adobe Marketing Cloud",
+                "Description": "A complete set of marketing solutions from Adobe.",
+                "Link": "http://www.adobe.com/marketing-cloud.html",
+                "Tag": "analytics",
+                "FirstDetected": 1631689200000,
+                "LastDetected": 1631689200000
+              },
+              {
+                "Parent": "FLoC",
+                "IsPremium": "no",
+                "Name": "FLoC Opt-Out",
+                "Description": "The website has opted-out of FLoC to declare that it does not want to be included in the user's list of sites for cohort calculation.",
+                "Link": "https://github.com/WICG/floc/blob/main/README.md",
+                "Tag": "ads",
+                "FirstDetected": 1633244400000,
+                "LastDetected": 1633417200000
+              },
+              {
+                "IsPremium": "no",
+                "Name": "FLoC",
+                "Description": "FLoC - Federated Learning of Cohorts provides a privacy-preserving mechanism for interest-based ad selection.",
+                "Link": "https://github.com/WICG/floc",
+                "Tag": "ads",
+                "FirstDetected": 1633244400000,
+                "LastDetected": 1633417200000
+              }
+            ],
+            "FirstIndexed": 1613462400000,
+            "LastIndexed": 1635058800000,
+            "Domain": "innovage.com",
+            "Url": "",
+            "SubDomain": "investor"
+          }
+        ]
+      },
+      "Meta": {
+        "Majestic": 854436,
+        "Umbrella": 0,
+        "Vertical": "",
+        "Social": null,
+        "CompanyName": "",
+        "Telephones": null,
+        "Emails": [],
+        "City": null,
+        "State": null,
+        "Postcode": null,
+        "Country": "",
+        "Names": null,
+        "ARank": 100000001,
+        "QRank": 0
+      },
+      "Attributes": {
+        "MJRank": 856353,
+        "MJTLDRank": 431863,
+        "RefSN": 312,
+        "RefIP": 348,
+        "Followers": 0,
+        "Sitemap": 0,
+        "GTMTags": 13,
+        "QubitTags": 0,
+        "TealiumTags": 0,
+        "AdobeTags": 0,
+        "CDimensions": 0,
+        "CGoals": 0,
+        "CMetrics": 0,
+        "ProductCount": 0
+      },
+      "FirstIndexed": 1301839200000,
+      "LastIndexed": 1635058800000,
+      "Lookup": "innovage.com",
+      "SalesRevenue": 0
+    }
+  ],
+  "Errors": []
+}

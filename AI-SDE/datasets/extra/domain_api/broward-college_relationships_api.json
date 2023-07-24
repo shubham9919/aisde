@@ -1,0 +1,87 @@
+{
+  "Relationships": [
+    {
+      "Domain": "browardcollege.net",
+      "Identifiers": [
+        {
+          "Type": "google-analytics",
+          "Value": "35107609",
+          "First": 1381669200000,
+          "Last": 1381669200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "173.254.97.246",
+          "First": 1379253600000,
+          "Last": 1393160400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "208.48.81.133",
+          "First": 1395320400000,
+          "Last": 1395320400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "64.15.205.100",
+          "First": 1395320400000,
+          "Last": 1395320400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "208.48.81.134",
+          "First": 1395320400000,
+          "Last": 1395320400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "64.15.205.101",
+          "First": 1395320400000,
+          "Last": 1395320400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "184.168.221.50",
+          "First": 1422622800000,
+          "Last": 1454936400000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "209.87.192.35",
+          "First": 1559489680400,
+          "Last": 1559489680400,
+          "Matches": [
+            {
+              "Domain": "broward.edu",
+              "First": 1345212000000,
+              "Last": 1588369190896,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "ip",
+          "Value": "107.180.48.95",
+          "First": 1588762471616,
+          "Last": 1624108404084,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "2249740",
+          "First": 1275116400000,
+          "Last": 1294214400000,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

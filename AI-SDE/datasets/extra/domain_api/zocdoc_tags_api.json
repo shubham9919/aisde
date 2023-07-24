@@ -1,0 +1,35 @@
+{
+  "Identifers": [
+    {
+      "Value": "IP-45.60.31.63",
+      "Matches": [
+        {
+          "Domain": "zocdoc.com",
+          "First": 1559487848115,
+          "Last": 1628120633041
+        },
+        {
+          "Domain": "verify.zocdoc.com",
+          "First": 1599648852743,
+          "Last": 1623586392243
+        },
+        {
+          "Domain": "espanol.zocdoc.com",
+          "First": 1614326400000,
+          "Last": 1623586392243
+        },
+        {
+          "Domain": "answers.zocdoc.com",
+          "First": 1611043200000,
+          "Last": 1614585600000
+        },
+        {
+          "Domain": "healthmarketplace.zocdoc.com",
+          "First": 1611475200000,
+          "Last": 1623586392243
+        }
+      ]
+    }
+  ],
+  "Errors": null
+}

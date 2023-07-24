@@ -1,0 +1,10 @@
+Execution Time for each XXX.csv:
+
+1 Record - 0.34 s
+10 Records - 0.34 s
+100 Records - 0.34 s
+1000 Records - 0.55 s
+10000 Records - 2.47 s
+100000 Records - 21.10 s
+1000000 Records - 250 s
+

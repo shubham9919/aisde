@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href={{url_for("index") }}>VisionBox</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+                <a class="nav-link" href={{url_for("index") }}>Home <span class="sr-only">(current)</span></a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<br>
+<div class="container">
+    <div class="row justify-content-md-center">
+
+        <div class="card">
+            <h5 class="card-header alert alert-primary">Fill Details to Find Probability of being Breached!</h5>
+            <div class="card-body">
+
+
+                {% if data and not data['success'] and data['status'] == 401 %}
+
+                <div class="alert alert-danger" role="alert">
+                    <h5>Hostname '{{data['hostname']}}' not found! </h5>
+                </div>
+
+                {% endif %}
+
+                {% if data and not data['success'] and data['status'] == 403 %}
+
+                <div class="alert alert-danger" role="alert">
+                    <h5>API Limit Reached! </h5>
+                </div>
+
+                {% endif %}
+
+
+                <div class="container">
+                    <form action="/" method="POST">
+                        <div class="form-group">
+                            <label for="company"><b>Company Name</b></label>
+                            <input type="text" id="company" class="form-control" name="company"
+                                   placeholder="Ex: Google.com" required>
+
+                            <label for="hostname"><b>Hostname</b></label>
+                            <input type="text" id="hostname" class="form-control" name="hostname"
+                                   placeholder="Ex: google.com" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">New Predict!</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="container">
+    <div class="row justify-content-md-center">
+        {% if data and 'predictions' in data %}
+        <div class="card">
+            {% if data and data['predictions']['class'] == 1 %}
+            <div class="card-header alert-danger">
+                <h4>Predictions</h4>
+            </div>
+            {% else %}
+            <div class="card-header alert-warning">
+                <h4>Predictions</h4>
+            </div>
+            {% endif %}
+
+
+            <div class="card-body">
+                <table class="table text-center">
+                    <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Company Name</th>
+                        <th scope="col">Hostname</th>
+                        <th scope="col">Is Prone to Threat?</th>
+                        <th scope="col">Probability</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>{{data['features']['company_name']}}</td>
+                        <td>{{data['features']['hostname']}}</td>
+                        <td>{{'Yes' if data['predictions']['class'] == 1 else 'No'}}</td>
+                        <td>{{data['predictions']['probability']}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<br>
+
+{% if data and data['success'] %}
+
+<div class="container">
+    <div class="row justify-content-md-center">
+        <table class="table text-center">
+            <thead class="thead-dark">
+            <tr>
+                <th scope="col">Company Name</th>
+                <th scope="col">Hostname</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>{{data['features']['company_name']}}</td>
+                <td>{{data['features']['hostname']}}</td>
+            </tr>
+            </tbody>
+        </table>
+        <br>
+        <table class="table text-center">
+            <thead class="thead-light">
+            <tr>
+                <th scope="col">Features Used for Predictions</th>
+                <th scope="col">Value</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            {% for key, val in data['features'].items() %}
+
+            <tr>
+                <td>{{key}}</td>
+                <td>{{val}}</td>
+            </tr>
+
+            {%endfor%}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
+</body>
+</html>

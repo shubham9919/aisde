@@ -1,0 +1,255 @@
+{
+  "Relationships": [
+    {
+      "Domain": "triumvirate.com",
+      "Identifiers": [
+        {
+          "Type": "ip",
+          "Value": "67.192.198.89",
+          "First": 1345212000000,
+          "Last": 1413982800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "96.45.83.161",
+          "First": 1414587600000,
+          "Last": 1628103631306,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "96.45.83.55",
+          "First": 1414587600000,
+          "Last": 1623502513439,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "96.45.82.91",
+          "First": 1414587600000,
+          "Last": 1608423529848,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "96.45.82.200",
+          "First": 1414587600000,
+          "Last": 1628103631306,
+          "Matches": []
+        },
+        {
+          "Type": "google-analytics",
+          "Value": "1028515",
+          "First": 1294059600000,
+          "Last": 1607958778856,
+          "Matches": [
+            {
+              "Domain": "chemtechenvironnement.com",
+              "First": 1505084400000,
+              "Last": 1505084400000,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "facebook-pixel",
+          "Value": "1447161455558612",
+          "First": 1409752800000,
+          "Last": 1412172000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.112.235.104",
+          "First": 1508281200000,
+          "Last": 1510614000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.112.235.89",
+          "First": 1508281200000,
+          "Last": 1510614000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "40014g14.secure0053.hubspot.net.",
+          "First": 1508281200000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "san.secure0053.hubspot.com.edgekey.net.",
+          "First": 1508281200000,
+          "Last": 1511823600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "e12225.a.akamaiedge.net.",
+          "First": 1508281200000,
+          "Last": 1511823600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "88.221.222.69",
+          "First": 1508799600000,
+          "Last": 1511218800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "88.221.222.47",
+          "First": 1508799600000,
+          "Last": 1511218800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "92.122.154.110",
+          "First": 1509490800000,
+          "Last": 1509490800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "92.122.154.72",
+          "First": 1509490800000,
+          "Last": 1509490800000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "124.155.222.3",
+          "First": 1510009200000,
+          "Last": 1510009200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "124.155.222.38",
+          "First": 1510009200000,
+          "Last": 1510009200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.120.139.187",
+          "First": 1511823600000,
+          "Last": 1511823600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "173.222.148.82",
+          "First": 1511823600000,
+          "Last": 1511823600000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "group14.sites.hscoscdn10.net.",
+          "First": 1512601200000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.127.180",
+          "First": 1512601200000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.131.180",
+          "First": 1512601200000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.130.180",
+          "First": 1512601200000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.129.180",
+          "First": 1512601200000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "104.17.128.180",
+          "First": 1512601200000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "40014.group14.sites.hubspot.net.",
+          "First": 1512601200000,
+          "Last": 1519945200000,
+          "Matches": []
+        },
+        {
+          "Type": "google-tag-manager",
+          "Value": "W77D7L",
+          "First": 1514234897443,
+          "Last": 1634692707703,
+          "Matches": [
+            {
+              "Domain": "chemtechenvironnement.com",
+              "First": 1595269049872,
+              "Last": 1629485800021,
+              "Overlap": true
+            }
+          ]
+        },
+        {
+          "Type": "wistia",
+          "Value": "rodbchroz9",
+          "First": 1519858800000,
+          "Last": 1533862117254,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "172.85.51.172",
+          "First": 1533862117254,
+          "Last": 1586548881430,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "172.85.51.173",
+          "First": 1533862117254,
+          "Last": 1586548881430,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "199.60.103.31",
+          "First": 1611043200000,
+          "Last": 1615104000000,
+          "Matches": []
+        },
+        {
+          "Type": "ip",
+          "Value": "199.60.103.225",
+          "First": 1614240000000,
+          "Last": 1618556400000,
+          "Matches": []
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

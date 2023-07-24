@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d2p0do391m6o41.cloudfront.net/thumb/qq-q7-14-91-9d-2j/n",
+    "Categories": [],
+    "Tag": "ns",
+    "IsPremium": "No",
+    "Name": "MediaTemple DNS",
+    "Description": "DNS services provided by MediaTemple.",
+    "Link": "http://mediatemplate.net",
+    "TrendsLink": "https://trends.builtwith.com/ns/MediaTemple-DNS",
+    "Coverage": {
+      "TenK": 11,
+      "HundredK": 151,
+      "Mil": 2474,
+      "Live": 233579,
+      "Historical": 489259
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Tech": {
+    "Icon": "https://d363qos3mhnap4.cloudfront.net/thumb/e6-59-87-q5-e8-94/n",
+    "Categories": [],
+    "Tag": "cdns",
+    "IsPremium": "No",
+    "Name": "Amazon S3 CDN",
+    "Description": "Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.",
+    "Link": "http://aws.amazon.com/s3/",
+    "TrendsLink": "https://trends.builtwith.com/cdns/Amazon-S3-CDN",
+    "Coverage": {
+      "TenK": 3160,
+      "HundredK": 21636,
+      "Mil": 117241,
+      "Live": 3265988,
+      "Historical": 11130060
+    }
+  }
+}
