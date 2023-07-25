@@ -5,7 +5,7 @@ branch-defaults:
 global:
   application_name: cyber_sec
   branch: null
-  default_ec2_keyname: ec2-connect
+  default_ec2_keyname: ec2ssh
   default_platform: Python 3.7
   default_region: us-east-1
   include_git_submodules: true
